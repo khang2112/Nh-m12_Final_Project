@@ -1,0 +1,685 @@
+country,continent,year,population,gdp_per_capita,life_expectancy,iso_alpha,iso_num,data_feed
+Albania,Europe,1952,1282697.0,1601.056136,55.23,ALB,8,Feed_B_Other_Regions
+Albania,Europe,1957,1476505.0,1942.284244,59.28,ALB,8,Feed_B_Other_Regions
+Albania,Europe,1962,1728137.0,2312.888958,64.82,ALB,8,Feed_B_Other_Regions
+Albania,Europe,1967,1984060.0,2760.196931,66.22,ALB,8,Feed_B_Other_Regions
+Albania,Europe,1972,2263554.0,3313.422188,67.69,ALB,8,Feed_B_Other_Regions
+Albania,Europe,1977,2509048.0,3533.003910000001,68.93,ALB,8,Feed_B_Other_Regions
+Albania,Europe,1982,2780097.0,3630.880722,70.42,ALB,8,Feed_B_Other_Regions
+Albania,Europe,1987,3075321.0,3738.932735,72.0,ALB,8,Feed_B_Other_Regions
+Albania,Europe,1992,3326498.0,2497.437901,71.581,ALB,8,Feed_B_Other_Regions
+Albania,Europe,1997,3428038.0,3193.054604,72.95,ALB,8,Feed_B_Other_Regions
+Albania,Europe,2002,3508512.0,4604.211737,75.65100000000002,ALB,8,Feed_B_Other_Regions
+Albania,Europe,2007,3600523.0,5937.029525999998,76.423,ALB,8,Feed_B_Other_Regions
+Argentina,Americas,1952,17876956.0,5911.315053,62.485,ARG,32,Feed_B_Other_Regions
+Argentina,Americas,1957,19610538.0,6856.8562120000015,64.399,ARG,32,Feed_B_Other_Regions
+Argentina,Americas,1962,21283783.0,7133.166023000002,65.142,ARG,32,Feed_B_Other_Regions
+Argentina,Americas,1967,22934225.0,8052.953020999998,65.634,ARG,32,Feed_B_Other_Regions
+Argentina,Americas,1972,24779799.0,9443.038526,67.065,ARG,32,Feed_B_Other_Regions
+Argentina,Americas,1977,26983828.0,10079.02674,68.48100000000001,ARG,32,Feed_B_Other_Regions
+Argentina,Americas,1982,29341374.0,8997.897412,69.942,ARG,32,Feed_B_Other_Regions
+Argentina,Americas,1987,31620918.0,9139.671389,70.774,ARG,32,Feed_B_Other_Regions
+Argentina,Americas,1992,33958947.0,9308.41871,71.868,ARG,32,Feed_B_Other_Regions
+Argentina,Americas,1997,36203463.0,10967.28195,73.275,ARG,32,Feed_B_Other_Regions
+Argentina,Americas,2002,38331121.0,8797.640716,74.34,ARG,32,Feed_B_Other_Regions
+Argentina,Americas,2007,40301927.0,12779.37964,75.32,ARG,32,Feed_B_Other_Regions
+Australia,Oceania,1952,8691212.0,10039.59564,69.12,AUS,36,Feed_B_Other_Regions
+Australia,Oceania,1957,9712569.0,10949.64959,70.33,AUS,36,Feed_B_Other_Regions
+Australia,Oceania,1962,10794968.0,12217.22686,70.93,AUS,36,Feed_B_Other_Regions
+Australia,Oceania,1967,11872264.0,14526.12465,71.1,AUS,36,Feed_B_Other_Regions
+Australia,Oceania,1972,13177000.0,16788.62948,71.93,AUS,36,Feed_B_Other_Regions
+Australia,Oceania,1977,14074100.0,18334.19751,73.49,AUS,36,Feed_B_Other_Regions
+Australia,Oceania,1982,15184200.0,19477.00928,74.74,AUS,36,Feed_B_Other_Regions
+Australia,Oceania,1987,16257249.0,21888.88903,76.32,AUS,36,Feed_B_Other_Regions
+Australia,Oceania,1992,17481977.0,23424.76683,77.56,AUS,36,Feed_B_Other_Regions
+Australia,Oceania,1997,18565243.0,26997.93657,78.83,AUS,36,Feed_B_Other_Regions
+Australia,Oceania,2002,19546792.0,30687.75473,80.37,AUS,36,Feed_B_Other_Regions
+Australia,Oceania,2007,20434176.0,34435.367439999995,81.235,AUS,36,Feed_B_Other_Regions
+Austria,Europe,1952,6927772.0,6137.076492,66.8,AUT,40,Feed_B_Other_Regions
+Austria,Europe,1957,6965860.0,8842.59803,67.48,AUT,40,Feed_B_Other_Regions
+Austria,Europe,1962,7129864.0,10750.72111,69.54,AUT,40,Feed_B_Other_Regions
+Austria,Europe,1967,7376998.0,12834.6024,70.14,AUT,40,Feed_B_Other_Regions
+Austria,Europe,1972,7544201.0,16661.6256,70.63,AUT,40,Feed_B_Other_Regions
+Austria,Europe,1977,7568430.0,19749.4223,72.17,AUT,40,Feed_B_Other_Regions
+Austria,Europe,1982,7574613.0,21597.08362,73.18,AUT,40,Feed_B_Other_Regions
+Austria,Europe,1987,7578903.0,23687.82607,74.94,AUT,40,Feed_B_Other_Regions
+Austria,Europe,1992,7914969.0,27042.01868,76.04,AUT,40,Feed_B_Other_Regions
+Austria,Europe,1997,8069876.0,29095.920660000003,77.51,AUT,40,Feed_B_Other_Regions
+Austria,Europe,2002,8148312.0,32417.60769,78.98,AUT,40,Feed_B_Other_Regions
+Austria,Europe,2007,8199783.0,36126.4927,79.829,AUT,40,Feed_B_Other_Regions
+Belgium,Europe,1952,8730405.0,8343.105126999999,68.0,BEL,56,Feed_B_Other_Regions
+Belgium,Europe,1957,8989111.0,9714.960623,69.24,BEL,56,Feed_B_Other_Regions
+Belgium,Europe,1962,9218400.0,10991.20676,70.25,BEL,56,Feed_B_Other_Regions
+Belgium,Europe,1967,9556500.0,13149.04119,70.94,BEL,56,Feed_B_Other_Regions
+Belgium,Europe,1972,9709100.0,16672.14356,71.44,BEL,56,Feed_B_Other_Regions
+Belgium,Europe,1977,9821800.0,19117.97448,72.8,BEL,56,Feed_B_Other_Regions
+Belgium,Europe,1982,9856303.0,20979.84589,73.93,BEL,56,Feed_B_Other_Regions
+Belgium,Europe,1987,9870200.0,22525.56308,75.35,BEL,56,Feed_B_Other_Regions
+Belgium,Europe,1992,10045622.0,25575.57069,76.46,BEL,56,Feed_B_Other_Regions
+Belgium,Europe,1997,10199787.0,27561.19663,77.53,BEL,56,Feed_B_Other_Regions
+Belgium,Europe,2002,10311970.0,30485.88375,78.32,BEL,56,Feed_B_Other_Regions
+Belgium,Europe,2007,10392226.0,33692.60508,79.441,BEL,56,Feed_B_Other_Regions
+Bolivia,Americas,1952,2883315.0,2677.326347,40.414,BOL,68,Feed_B_Other_Regions
+Bolivia,Americas,1957,3211738.0,2127.686326,41.89,BOL,68,Feed_B_Other_Regions
+Bolivia,Americas,1962,3593918.0,2180.972546,43.428,BOL,68,Feed_B_Other_Regions
+Bolivia,Americas,1967,4040665.0,2586.886053,45.032,BOL,68,Feed_B_Other_Regions
+Bolivia,Americas,1972,4565872.0,2980.331339,46.714,BOL,68,Feed_B_Other_Regions
+Bolivia,Americas,1977,5079716.0,3548.097832,50.023,BOL,68,Feed_B_Other_Regions
+Bolivia,Americas,1982,5642224.0,3156.510452,53.859,BOL,68,Feed_B_Other_Regions
+Bolivia,Americas,1987,6156369.0,2753.69149,57.25100000000001,BOL,68,Feed_B_Other_Regions
+Bolivia,Americas,1992,6893451.0,2961.699694,59.957,BOL,68,Feed_B_Other_Regions
+Bolivia,Americas,1997,7693188.0,3326.143191,62.05,BOL,68,Feed_B_Other_Regions
+Bolivia,Americas,2002,8445134.0,3413.26269,63.883,BOL,68,Feed_B_Other_Regions
+Bolivia,Americas,2007,9119152.0,3822.137084,65.554,BOL,68,Feed_B_Other_Regions
+Bosnia and Herzegovina,Europe,1952,2791000.0,973.5331948,53.82,BIH,70,Feed_B_Other_Regions
+Bosnia and Herzegovina,Europe,1957,3076000.0,1353.989176,58.45,BIH,70,Feed_B_Other_Regions
+Bosnia and Herzegovina,Europe,1962,3349000.0,1709.683679,61.93,BIH,70,Feed_B_Other_Regions
+Bosnia and Herzegovina,Europe,1967,3585000.0,2172.3524230000007,64.79,BIH,70,Feed_B_Other_Regions
+Bosnia and Herzegovina,Europe,1972,3819000.0,2860.16975,67.45,BIH,70,Feed_B_Other_Regions
+Bosnia and Herzegovina,Europe,1977,4086000.0,3528.481305,69.86,BIH,70,Feed_B_Other_Regions
+Bosnia and Herzegovina,Europe,1982,4172693.0,4126.613157,70.69,BIH,70,Feed_B_Other_Regions
+Bosnia and Herzegovina,Europe,1987,4338977.0,4314.114757,71.14,BIH,70,Feed_B_Other_Regions
+Bosnia and Herzegovina,Europe,1992,4256013.0,2546.781445,72.178,BIH,70,Feed_B_Other_Regions
+Bosnia and Herzegovina,Europe,1997,3607000.0,4766.355904,73.244,BIH,70,Feed_B_Other_Regions
+Bosnia and Herzegovina,Europe,2002,4165416.0,6018.975239,74.09,BIH,70,Feed_B_Other_Regions
+Bosnia and Herzegovina,Europe,2007,4552198.0,7446.298803,74.852,BIH,70,Feed_B_Other_Regions
+Brazil,Americas,1952,56602560.0,2108.944355,50.917,BRA,76,Feed_B_Other_Regions
+Brazil,Americas,1957,65551171.0,2487.365989,53.285,BRA,76,Feed_B_Other_Regions
+Brazil,Americas,1962,76039390.0,3336.585802,55.665,BRA,76,Feed_B_Other_Regions
+Brazil,Americas,1967,88049823.0,3429.864357,57.632,BRA,76,Feed_B_Other_Regions
+Brazil,Americas,1972,100840058.0,4985.711467,59.504,BRA,76,Feed_B_Other_Regions
+Brazil,Americas,1977,114313951.0,6660.118654,61.489,BRA,76,Feed_B_Other_Regions
+Brazil,Americas,1982,128962939.0,7030.835878,63.33600000000001,BRA,76,Feed_B_Other_Regions
+Brazil,Americas,1987,142938076.0,7807.095818000002,65.205,BRA,76,Feed_B_Other_Regions
+Brazil,Americas,1992,155975974.0,6950.283020999998,67.057,BRA,76,Feed_B_Other_Regions
+Brazil,Americas,1997,168546719.0,7957.980823999998,69.388,BRA,76,Feed_B_Other_Regions
+Brazil,Americas,2002,179914212.0,8131.212843000001,71.006,BRA,76,Feed_B_Other_Regions
+Brazil,Americas,2007,190010647.0,9065.800825,72.39,BRA,76,Feed_B_Other_Regions
+Bulgaria,Europe,1952,7274900.0,2444.286648,59.6,BGR,100,Feed_B_Other_Regions
+Bulgaria,Europe,1957,7651254.0,3008.670727,66.61,BGR,100,Feed_B_Other_Regions
+Bulgaria,Europe,1962,8012946.0,4254.337839,69.51,BGR,100,Feed_B_Other_Regions
+Bulgaria,Europe,1967,8310226.0,5577.0028,70.42,BGR,100,Feed_B_Other_Regions
+Bulgaria,Europe,1972,8576200.0,6597.494398,70.9,BGR,100,Feed_B_Other_Regions
+Bulgaria,Europe,1977,8797022.0,7612.240438,70.81,BGR,100,Feed_B_Other_Regions
+Bulgaria,Europe,1982,8892098.0,8224.191647,71.08,BGR,100,Feed_B_Other_Regions
+Bulgaria,Europe,1987,8971958.0,8239.854824,71.34,BGR,100,Feed_B_Other_Regions
+Bulgaria,Europe,1992,8658506.0,6302.623438000001,71.19,BGR,100,Feed_B_Other_Regions
+Bulgaria,Europe,1997,8066057.0,5970.38876,70.32,BGR,100,Feed_B_Other_Regions
+Bulgaria,Europe,2002,7661799.0,7696.777725,72.14,BGR,100,Feed_B_Other_Regions
+Bulgaria,Europe,2007,7322858.0,10680.79282,73.005,BGR,100,Feed_B_Other_Regions
+Canada,Americas,1952,14785584.0,11367.16112,68.75,CAN,124,Feed_B_Other_Regions
+Canada,Americas,1957,17010154.0,12489.95006,69.96,CAN,124,Feed_B_Other_Regions
+Canada,Americas,1962,18985849.0,13462.48555,71.3,CAN,124,Feed_B_Other_Regions
+Canada,Americas,1967,20819767.0,16076.58803,72.13,CAN,124,Feed_B_Other_Regions
+Canada,Americas,1972,22284500.0,18970.57086,72.88,CAN,124,Feed_B_Other_Regions
+Canada,Americas,1977,23796400.0,22090.88306,74.21,CAN,124,Feed_B_Other_Regions
+Canada,Americas,1982,25201900.0,22898.79214,75.76,CAN,124,Feed_B_Other_Regions
+Canada,Americas,1987,26549700.0,26626.51503,76.86,CAN,124,Feed_B_Other_Regions
+Canada,Americas,1992,28523502.0,26342.88426,77.95,CAN,124,Feed_B_Other_Regions
+Canada,Americas,1997,30305843.0,28954.92589,78.61,CAN,124,Feed_B_Other_Regions
+Canada,Americas,2002,31902268.0,33328.96507,79.77,CAN,124,Feed_B_Other_Regions
+Canada,Americas,2007,33390141.0,36319.23501,80.653,CAN,124,Feed_B_Other_Regions
+Chile,Americas,1952,6377619.0,3939.978789,54.745,CHL,152,Feed_B_Other_Regions
+Chile,Americas,1957,7048426.0,4315.622723,56.074,CHL,152,Feed_B_Other_Regions
+Chile,Americas,1962,7961258.0,4519.094331,57.924,CHL,152,Feed_B_Other_Regions
+Chile,Americas,1967,8858908.0,5106.654313,60.523,CHL,152,Feed_B_Other_Regions
+Chile,Americas,1972,9717524.0,5494.024437,63.441,CHL,152,Feed_B_Other_Regions
+Chile,Americas,1977,10599793.0,4756.763836,67.05199999999999,CHL,152,Feed_B_Other_Regions
+Chile,Americas,1982,11487112.0,5095.6657380000015,70.565,CHL,152,Feed_B_Other_Regions
+Chile,Americas,1987,12463354.0,5547.063754,72.492,CHL,152,Feed_B_Other_Regions
+Chile,Americas,1992,13572994.0,7596.125964,74.126,CHL,152,Feed_B_Other_Regions
+Chile,Americas,1997,14599929.0,10118.05318,75.816,CHL,152,Feed_B_Other_Regions
+Chile,Americas,2002,15497046.0,10778.78385,77.86,CHL,152,Feed_B_Other_Regions
+Chile,Americas,2007,16284741.0,13171.63885,78.553,CHL,152,Feed_B_Other_Regions
+Colombia,Americas,1952,12350771.0,2144.115096,50.643,COL,170,Feed_B_Other_Regions
+Colombia,Americas,1957,14485993.0,2323.805581,55.118,COL,170,Feed_B_Other_Regions
+Colombia,Americas,1962,17009885.0,2492.351109,57.863,COL,170,Feed_B_Other_Regions
+Colombia,Americas,1967,19764027.0,2678.729839,59.963,COL,170,Feed_B_Other_Regions
+Colombia,Americas,1972,22542890.0,3264.660041,61.62300000000001,COL,170,Feed_B_Other_Regions
+Colombia,Americas,1977,25094412.0,3815.80787,63.837,COL,170,Feed_B_Other_Regions
+Colombia,Americas,1982,27764644.0,4397.575659,66.653,COL,170,Feed_B_Other_Regions
+Colombia,Americas,1987,30964245.0,4903.2191,67.768,COL,170,Feed_B_Other_Regions
+Colombia,Americas,1992,34202721.0,5444.648617,68.421,COL,170,Feed_B_Other_Regions
+Colombia,Americas,1997,37657830.0,6117.361746000001,70.313,COL,170,Feed_B_Other_Regions
+Colombia,Americas,2002,41008227.0,5755.259962,71.682,COL,170,Feed_B_Other_Regions
+Colombia,Americas,2007,44227550.0,7006.580419,72.889,COL,170,Feed_B_Other_Regions
+Costa Rica,Americas,1952,926317.0,2627.0094710000008,57.206,CRI,188,Feed_B_Other_Regions
+Costa Rica,Americas,1957,1112300.0,2990.010802,60.026,CRI,188,Feed_B_Other_Regions
+Costa Rica,Americas,1962,1345187.0,3460.937025,62.842,CRI,188,Feed_B_Other_Regions
+Costa Rica,Americas,1967,1588717.0,4161.727834,65.42399999999999,CRI,188,Feed_B_Other_Regions
+Costa Rica,Americas,1972,1834796.0,5118.146939,67.84899999999999,CRI,188,Feed_B_Other_Regions
+Costa Rica,Americas,1977,2108457.0,5926.876967,70.75,CRI,188,Feed_B_Other_Regions
+Costa Rica,Americas,1982,2424367.0,5262.734751,73.45,CRI,188,Feed_B_Other_Regions
+Costa Rica,Americas,1987,2799811.0,5629.915318,74.752,CRI,188,Feed_B_Other_Regions
+Costa Rica,Americas,1992,3173216.0,6160.416317,75.71300000000002,CRI,188,Feed_B_Other_Regions
+Costa Rica,Americas,1997,3518107.0,6677.045314,77.26,CRI,188,Feed_B_Other_Regions
+Costa Rica,Americas,2002,3834934.0,7723.447195000002,78.123,CRI,188,Feed_B_Other_Regions
+Costa Rica,Americas,2007,4133884.0,9645.06142,78.782,CRI,188,Feed_B_Other_Regions
+Croatia,Europe,1952,3882229.0,3119.23652,61.21,HRV,191,Feed_B_Other_Regions
+Croatia,Europe,1957,3991242.0,4338.231617,64.77,HRV,191,Feed_B_Other_Regions
+Croatia,Europe,1962,4076557.0,5477.890018,67.13,HRV,191,Feed_B_Other_Regions
+Croatia,Europe,1967,4174366.0,6960.297861,68.5,HRV,191,Feed_B_Other_Regions
+Croatia,Europe,1972,4225310.0,9164.090127,69.61,HRV,191,Feed_B_Other_Regions
+Croatia,Europe,1977,4318673.0,11305.38517,70.64,HRV,191,Feed_B_Other_Regions
+Croatia,Europe,1982,4413368.0,13221.82184,70.46,HRV,191,Feed_B_Other_Regions
+Croatia,Europe,1987,4484310.0,13822.58394,71.52,HRV,191,Feed_B_Other_Regions
+Croatia,Europe,1992,4494013.0,8447.794873,72.527,HRV,191,Feed_B_Other_Regions
+Croatia,Europe,1997,4444595.0,9875.604515,73.68,HRV,191,Feed_B_Other_Regions
+Croatia,Europe,2002,4481020.0,11628.38895,74.876,HRV,191,Feed_B_Other_Regions
+Croatia,Europe,2007,4493312.0,14619.222719999998,75.748,HRV,191,Feed_B_Other_Regions
+Cuba,Americas,1952,6007797.0,5586.53878,59.42100000000001,CUB,192,Feed_B_Other_Regions
+Cuba,Americas,1957,6640752.0,6092.1743590000015,62.325,CUB,192,Feed_B_Other_Regions
+Cuba,Americas,1962,7254373.0,5180.75591,65.24600000000001,CUB,192,Feed_B_Other_Regions
+Cuba,Americas,1967,8139332.0,5690.268015,68.29,CUB,192,Feed_B_Other_Regions
+Cuba,Americas,1972,8831348.0,5305.445256,70.723,CUB,192,Feed_B_Other_Regions
+Cuba,Americas,1977,9537988.0,6380.494965999998,72.649,CUB,192,Feed_B_Other_Regions
+Cuba,Americas,1982,9789224.0,7316.918106999998,73.717,CUB,192,Feed_B_Other_Regions
+Cuba,Americas,1987,10239839.0,7532.924762999999,74.17399999999998,CUB,192,Feed_B_Other_Regions
+Cuba,Americas,1992,10723260.0,5592.843963,74.414,CUB,192,Feed_B_Other_Regions
+Cuba,Americas,1997,10983007.0,5431.990415,76.15100000000002,CUB,192,Feed_B_Other_Regions
+Cuba,Americas,2002,11226999.0,6340.646683,77.158,CUB,192,Feed_B_Other_Regions
+Cuba,Americas,2007,11416987.0,8948.102923,78.273,CUB,192,Feed_B_Other_Regions
+Czech Republic,Europe,1952,9125183.0,6876.14025,66.87,CZE,203,Feed_B_Other_Regions
+Czech Republic,Europe,1957,9513758.0,8256.343918,69.03,CZE,203,Feed_B_Other_Regions
+Czech Republic,Europe,1962,9620282.0,10136.86713,69.9,CZE,203,Feed_B_Other_Regions
+Czech Republic,Europe,1967,9835109.0,11399.44489,70.38,CZE,203,Feed_B_Other_Regions
+Czech Republic,Europe,1972,9862158.0,13108.4536,70.29,CZE,203,Feed_B_Other_Regions
+Czech Republic,Europe,1977,10161915.0,14800.16062,70.71,CZE,203,Feed_B_Other_Regions
+Czech Republic,Europe,1982,10303704.0,15377.22855,70.96,CZE,203,Feed_B_Other_Regions
+Czech Republic,Europe,1987,10311597.0,16310.4434,71.58,CZE,203,Feed_B_Other_Regions
+Czech Republic,Europe,1992,10315702.0,14297.02122,72.4,CZE,203,Feed_B_Other_Regions
+Czech Republic,Europe,1997,10300707.0,16048.51424,74.01,CZE,203,Feed_B_Other_Regions
+Czech Republic,Europe,2002,10256295.0,17596.210219999994,75.51,CZE,203,Feed_B_Other_Regions
+Czech Republic,Europe,2007,10228744.0,22833.30851,76.486,CZE,203,Feed_B_Other_Regions
+Denmark,Europe,1952,4334000.0,9692.385245,70.78,DNK,208,Feed_B_Other_Regions
+Denmark,Europe,1957,4487831.0,11099.65935,71.81,DNK,208,Feed_B_Other_Regions
+Denmark,Europe,1962,4646899.0,13583.31351,72.35,DNK,208,Feed_B_Other_Regions
+Denmark,Europe,1967,4838800.0,15937.21123,72.96,DNK,208,Feed_B_Other_Regions
+Denmark,Europe,1972,4991596.0,18866.20721,73.47,DNK,208,Feed_B_Other_Regions
+Denmark,Europe,1977,5088419.0,20422.9015,74.69,DNK,208,Feed_B_Other_Regions
+Denmark,Europe,1982,5117810.0,21688.04048,74.63,DNK,208,Feed_B_Other_Regions
+Denmark,Europe,1987,5127024.0,25116.17581,74.8,DNK,208,Feed_B_Other_Regions
+Denmark,Europe,1992,5171393.0,26406.73985,75.33,DNK,208,Feed_B_Other_Regions
+Denmark,Europe,1997,5283663.0,29804.34567,76.11,DNK,208,Feed_B_Other_Regions
+Denmark,Europe,2002,5374693.0,32166.50006,77.18,DNK,208,Feed_B_Other_Regions
+Denmark,Europe,2007,5468120.0,35278.41874,78.332,DNK,208,Feed_B_Other_Regions
+Dominican Republic,Americas,1952,2491346.0,1397.717137,45.928,DOM,214,Feed_B_Other_Regions
+Dominican Republic,Americas,1957,2923186.0,1544.402995,49.828,DOM,214,Feed_B_Other_Regions
+Dominican Republic,Americas,1962,3453434.0,1662.137359,53.459,DOM,214,Feed_B_Other_Regions
+Dominican Republic,Americas,1967,4049146.0,1653.7230029999996,56.75100000000001,DOM,214,Feed_B_Other_Regions
+Dominican Republic,Americas,1972,4671329.0,2189.874499,59.631,DOM,214,Feed_B_Other_Regions
+Dominican Republic,Americas,1977,5302800.0,2681.9889,61.788,DOM,214,Feed_B_Other_Regions
+Dominican Republic,Americas,1982,5968349.0,2861.092386,63.727,DOM,214,Feed_B_Other_Regions
+Dominican Republic,Americas,1987,6655297.0,2899.842175,66.046,DOM,214,Feed_B_Other_Regions
+Dominican Republic,Americas,1992,7351181.0,3044.214214,68.457,DOM,214,Feed_B_Other_Regions
+Dominican Republic,Americas,1997,7992357.0,3614.101285,69.957,DOM,214,Feed_B_Other_Regions
+Dominican Republic,Americas,2002,8650322.0,4563.808154,70.847,DOM,214,Feed_B_Other_Regions
+Dominican Republic,Americas,2007,9319622.0,6025.3747520000015,72.235,DOM,214,Feed_B_Other_Regions
+Ecuador,Americas,1952,3548753.0,3522.110717,48.357,ECU,218,Feed_B_Other_Regions
+Ecuador,Americas,1957,4058385.0,3780.546651,51.356,ECU,218,Feed_B_Other_Regions
+Ecuador,Americas,1962,4681707.0,4086.114078,54.64,ECU,218,Feed_B_Other_Regions
+Ecuador,Americas,1967,5432424.0,4579.074215,56.678,ECU,218,Feed_B_Other_Regions
+Ecuador,Americas,1972,6298651.0,5280.99471,58.79600000000001,ECU,218,Feed_B_Other_Regions
+Ecuador,Americas,1977,7278866.0,6679.62326,61.31,ECU,218,Feed_B_Other_Regions
+Ecuador,Americas,1982,8365850.0,7213.791267,64.342,ECU,218,Feed_B_Other_Regions
+Ecuador,Americas,1987,9545158.0,6481.776993,67.23100000000001,ECU,218,Feed_B_Other_Regions
+Ecuador,Americas,1992,10748394.0,7103.702595000002,69.613,ECU,218,Feed_B_Other_Regions
+Ecuador,Americas,1997,11911819.0,7429.4558769999985,72.312,ECU,218,Feed_B_Other_Regions
+Ecuador,Americas,2002,12921234.0,5773.044512,74.173,ECU,218,Feed_B_Other_Regions
+Ecuador,Americas,2007,13755680.0,6873.262326000001,74.994,ECU,218,Feed_B_Other_Regions
+El Salvador,Americas,1952,2042865.0,3048.3029,45.262,SLV,222,Feed_B_Other_Regions
+El Salvador,Americas,1957,2355805.0,3421.523218,48.57,SLV,222,Feed_B_Other_Regions
+El Salvador,Americas,1962,2747687.0,3776.803627,52.307,SLV,222,Feed_B_Other_Regions
+El Salvador,Americas,1967,3232927.0,4358.595393,55.855,SLV,222,Feed_B_Other_Regions
+El Salvador,Americas,1972,3790903.0,4520.246008,58.207,SLV,222,Feed_B_Other_Regions
+El Salvador,Americas,1977,4282586.0,5138.922374,56.69600000000001,SLV,222,Feed_B_Other_Regions
+El Salvador,Americas,1982,4474873.0,4098.344175,56.604,SLV,222,Feed_B_Other_Regions
+El Salvador,Americas,1987,4842194.0,4140.442097,63.154,SLV,222,Feed_B_Other_Regions
+El Salvador,Americas,1992,5274649.0,4444.2317,66.798,SLV,222,Feed_B_Other_Regions
+El Salvador,Americas,1997,5783439.0,5154.825496,69.535,SLV,222,Feed_B_Other_Regions
+El Salvador,Americas,2002,6353681.0,5351.568665999999,70.734,SLV,222,Feed_B_Other_Regions
+El Salvador,Americas,2007,6939688.0,5728.353514,71.878,SLV,222,Feed_B_Other_Regions
+Finland,Europe,1952,4090500.0,6424.519071,66.55,FIN,246,Feed_B_Other_Regions
+Finland,Europe,1957,4324000.0,7545.415386,67.49,FIN,246,Feed_B_Other_Regions
+Finland,Europe,1962,4491443.0,9371.842561,68.75,FIN,246,Feed_B_Other_Regions
+Finland,Europe,1967,4605744.0,10921.63626,69.83,FIN,246,Feed_B_Other_Regions
+Finland,Europe,1972,4639657.0,14358.8759,70.87,FIN,246,Feed_B_Other_Regions
+Finland,Europe,1977,4738902.0,15605.42283,72.52,FIN,246,Feed_B_Other_Regions
+Finland,Europe,1982,4826933.0,18533.15761,74.55,FIN,246,Feed_B_Other_Regions
+Finland,Europe,1987,4931729.0,21141.01223,74.83,FIN,246,Feed_B_Other_Regions
+Finland,Europe,1992,5041039.0,20647.16499,75.7,FIN,246,Feed_B_Other_Regions
+Finland,Europe,1997,5134406.0,23723.9502,77.13,FIN,246,Feed_B_Other_Regions
+Finland,Europe,2002,5193039.0,28204.59057,78.37,FIN,246,Feed_B_Other_Regions
+Finland,Europe,2007,5238460.0,33207.0844,79.313,FIN,246,Feed_B_Other_Regions
+France,Europe,1952,42459667.0,7029.809327,67.41,FRA,250,Feed_B_Other_Regions
+France,Europe,1957,44310863.0,8662.834898000001,68.93,FRA,250,Feed_B_Other_Regions
+France,Europe,1962,47124000.0,10560.48553,70.51,FRA,250,Feed_B_Other_Regions
+France,Europe,1967,49569000.0,12999.91766,71.55,FRA,250,Feed_B_Other_Regions
+France,Europe,1972,51732000.0,16107.19171,72.38,FRA,250,Feed_B_Other_Regions
+France,Europe,1977,53165019.0,18292.63514,73.83,FRA,250,Feed_B_Other_Regions
+France,Europe,1982,54433565.0,20293.89746,74.89,FRA,250,Feed_B_Other_Regions
+France,Europe,1987,55630100.0,22066.44214,76.34,FRA,250,Feed_B_Other_Regions
+France,Europe,1992,57374179.0,24703.79615,77.46,FRA,250,Feed_B_Other_Regions
+France,Europe,1997,58623428.0,25889.78487,78.64,FRA,250,Feed_B_Other_Regions
+France,Europe,2002,59925035.0,28926.03234,79.59,FRA,250,Feed_B_Other_Regions
+France,Europe,2007,61083916.0,30470.0167,80.657,FRA,250,Feed_B_Other_Regions
+Germany,Europe,1952,69145952.0,7144.114393000002,67.5,DEU,276,Feed_B_Other_Regions
+Germany,Europe,1957,71019069.0,10187.82665,69.1,DEU,276,Feed_B_Other_Regions
+Germany,Europe,1962,73739117.0,12902.46291,70.3,DEU,276,Feed_B_Other_Regions
+Germany,Europe,1967,76368453.0,14745.62561,70.8,DEU,276,Feed_B_Other_Regions
+Germany,Europe,1972,78717088.0,18016.18027,71.0,DEU,276,Feed_B_Other_Regions
+Germany,Europe,1977,78160773.0,20512.92123,72.5,DEU,276,Feed_B_Other_Regions
+Germany,Europe,1982,78335266.0,22031.53274,73.8,DEU,276,Feed_B_Other_Regions
+Germany,Europe,1987,77718298.0,24639.18566,74.847,DEU,276,Feed_B_Other_Regions
+Germany,Europe,1992,80597764.0,26505.30317,76.07,DEU,276,Feed_B_Other_Regions
+Germany,Europe,1997,82011073.0,27788.88416,77.34,DEU,276,Feed_B_Other_Regions
+Germany,Europe,2002,82350671.0,30035.80198,78.67,DEU,276,Feed_B_Other_Regions
+Germany,Europe,2007,82400996.0,32170.37442,79.406,DEU,276,Feed_B_Other_Regions
+Greece,Europe,1952,7733250.0,3530.690067,65.86,GRC,300,Feed_B_Other_Regions
+Greece,Europe,1957,8096218.0,4916.299889,67.86,GRC,300,Feed_B_Other_Regions
+Greece,Europe,1962,8448233.0,6017.190732999999,69.51,GRC,300,Feed_B_Other_Regions
+Greece,Europe,1967,8716441.0,8513.097016,71.0,GRC,300,Feed_B_Other_Regions
+Greece,Europe,1972,8888628.0,12724.82957,72.34,GRC,300,Feed_B_Other_Regions
+Greece,Europe,1977,9308479.0,14195.52428,73.68,GRC,300,Feed_B_Other_Regions
+Greece,Europe,1982,9786480.0,15268.42089,75.24,GRC,300,Feed_B_Other_Regions
+Greece,Europe,1987,9974490.0,16120.52839,76.67,GRC,300,Feed_B_Other_Regions
+Greece,Europe,1992,10325429.0,17541.49634,77.03,GRC,300,Feed_B_Other_Regions
+Greece,Europe,1997,10502372.0,18747.69814,77.869,GRC,300,Feed_B_Other_Regions
+Greece,Europe,2002,10603863.0,22514.2548,78.256,GRC,300,Feed_B_Other_Regions
+Greece,Europe,2007,10706290.0,27538.41188,79.483,GRC,300,Feed_B_Other_Regions
+Guatemala,Americas,1952,3146381.0,2428.2377690000008,42.023,GTM,320,Feed_B_Other_Regions
+Guatemala,Americas,1957,3640876.0,2617.155967,44.142,GTM,320,Feed_B_Other_Regions
+Guatemala,Americas,1962,4208858.0,2750.364446,46.95399999999999,GTM,320,Feed_B_Other_Regions
+Guatemala,Americas,1967,4690773.0,3242.531147,50.01600000000001,GTM,320,Feed_B_Other_Regions
+Guatemala,Americas,1972,5149581.0,4031.408271,53.738,GTM,320,Feed_B_Other_Regions
+Guatemala,Americas,1977,5703430.0,4879.992748,56.029,GTM,320,Feed_B_Other_Regions
+Guatemala,Americas,1982,6395630.0,4820.49479,58.137,GTM,320,Feed_B_Other_Regions
+Guatemala,Americas,1987,7326406.0,4246.485974,60.782,GTM,320,Feed_B_Other_Regions
+Guatemala,Americas,1992,8486949.0,4439.45084,63.37300000000001,GTM,320,Feed_B_Other_Regions
+Guatemala,Americas,1997,9803875.0,4684.313807,66.322,GTM,320,Feed_B_Other_Regions
+Guatemala,Americas,2002,11178650.0,4858.347495,68.97800000000001,GTM,320,Feed_B_Other_Regions
+Guatemala,Americas,2007,12572928.0,5186.050003,70.259,GTM,320,Feed_B_Other_Regions
+Haiti,Americas,1952,3201488.0,1840.366939,37.579,HTI,332,Feed_B_Other_Regions
+Haiti,Americas,1957,3507701.0,1726.887882,40.696,HTI,332,Feed_B_Other_Regions
+Haiti,Americas,1962,3880130.0,1796.589032,43.59,HTI,332,Feed_B_Other_Regions
+Haiti,Americas,1967,4318137.0,1452.057666,46.243,HTI,332,Feed_B_Other_Regions
+Haiti,Americas,1972,4698301.0,1654.456946,48.042,HTI,332,Feed_B_Other_Regions
+Haiti,Americas,1977,4908554.0,1874.298931,49.923,HTI,332,Feed_B_Other_Regions
+Haiti,Americas,1982,5198399.0,2011.159549,51.46100000000001,HTI,332,Feed_B_Other_Regions
+Haiti,Americas,1987,5756203.0,1823.015995,53.636,HTI,332,Feed_B_Other_Regions
+Haiti,Americas,1992,6326682.0,1456.309517,55.089,HTI,332,Feed_B_Other_Regions
+Haiti,Americas,1997,6913545.0,1341.726931,56.67100000000001,HTI,332,Feed_B_Other_Regions
+Haiti,Americas,2002,7607651.0,1270.364932,58.137,HTI,332,Feed_B_Other_Regions
+Haiti,Americas,2007,8502814.0,1201.637154,60.916,HTI,332,Feed_B_Other_Regions
+Honduras,Americas,1952,1517453.0,2194.926204,41.912,HND,340,Feed_B_Other_Regions
+Honduras,Americas,1957,1770390.0,2220.487682,44.665,HND,340,Feed_B_Other_Regions
+Honduras,Americas,1962,2090162.0,2291.156835,48.041,HND,340,Feed_B_Other_Regions
+Honduras,Americas,1967,2500689.0,2538.269358,50.924,HND,340,Feed_B_Other_Regions
+Honduras,Americas,1972,2965146.0,2529.842345,53.88399999999999,HND,340,Feed_B_Other_Regions
+Honduras,Americas,1977,3055235.0,3203.208066,57.402,HND,340,Feed_B_Other_Regions
+Honduras,Americas,1982,3669448.0,3121.7607940000007,60.909,HND,340,Feed_B_Other_Regions
+Honduras,Americas,1987,4372203.0,3023.096699,64.492,HND,340,Feed_B_Other_Regions
+Honduras,Americas,1992,5077347.0,3081.694603,66.399,HND,340,Feed_B_Other_Regions
+Honduras,Americas,1997,5867957.0,3160.454906,67.65899999999999,HND,340,Feed_B_Other_Regions
+Honduras,Americas,2002,6677328.0,3099.72866,68.565,HND,340,Feed_B_Other_Regions
+Honduras,Americas,2007,7483763.0,3548.3308460000007,70.19800000000001,HND,340,Feed_B_Other_Regions
+Hungary,Europe,1952,9504000.0,5263.673816,64.03,HUN,348,Feed_B_Other_Regions
+Hungary,Europe,1957,9839000.0,6040.180011,66.41,HUN,348,Feed_B_Other_Regions
+Hungary,Europe,1962,10063000.0,7550.359877,67.96,HUN,348,Feed_B_Other_Regions
+Hungary,Europe,1967,10223422.0,9326.64467,69.5,HUN,348,Feed_B_Other_Regions
+Hungary,Europe,1972,10394091.0,10168.65611,69.76,HUN,348,Feed_B_Other_Regions
+Hungary,Europe,1977,10637171.0,11674.83737,69.95,HUN,348,Feed_B_Other_Regions
+Hungary,Europe,1982,10705535.0,12545.99066,69.39,HUN,348,Feed_B_Other_Regions
+Hungary,Europe,1987,10612740.0,12986.47998,69.58,HUN,348,Feed_B_Other_Regions
+Hungary,Europe,1992,10348684.0,10535.62855,69.17,HUN,348,Feed_B_Other_Regions
+Hungary,Europe,1997,10244684.0,11712.7768,71.04,HUN,348,Feed_B_Other_Regions
+Hungary,Europe,2002,10083313.0,14843.93556,72.59,HUN,348,Feed_B_Other_Regions
+Hungary,Europe,2007,9956108.0,18008.94444,73.33800000000002,HUN,348,Feed_B_Other_Regions
+Iceland,Europe,1952,147962.0,7267.688428,72.49,ISL,352,Feed_B_Other_Regions
+Iceland,Europe,1957,165110.0,9244.001412,73.47,ISL,352,Feed_B_Other_Regions
+Iceland,Europe,1962,182053.0,10350.15906,73.68,ISL,352,Feed_B_Other_Regions
+Iceland,Europe,1967,198676.0,13319.89568,73.73,ISL,352,Feed_B_Other_Regions
+Iceland,Europe,1972,209275.0,15798.06362,74.46,ISL,352,Feed_B_Other_Regions
+Iceland,Europe,1977,221823.0,19654.96247,76.11,ISL,352,Feed_B_Other_Regions
+Iceland,Europe,1982,233997.0,23269.6075,76.99,ISL,352,Feed_B_Other_Regions
+Iceland,Europe,1987,244676.0,26923.20628,77.23,ISL,352,Feed_B_Other_Regions
+Iceland,Europe,1992,259012.0,25144.39201,78.77,ISL,352,Feed_B_Other_Regions
+Iceland,Europe,1997,271192.0,28061.099660000003,78.95,ISL,352,Feed_B_Other_Regions
+Iceland,Europe,2002,288030.0,31163.20196,80.5,ISL,352,Feed_B_Other_Regions
+Iceland,Europe,2007,301931.0,36180.78919,81.757,ISL,352,Feed_B_Other_Regions
+Ireland,Europe,1952,2952156.0,5210.280328,66.91,IRL,372,Feed_B_Other_Regions
+Ireland,Europe,1957,2878220.0,5599.077872,68.9,IRL,372,Feed_B_Other_Regions
+Ireland,Europe,1962,2830000.0,6631.597314,70.29,IRL,372,Feed_B_Other_Regions
+Ireland,Europe,1967,2900100.0,7655.568963,71.08,IRL,372,Feed_B_Other_Regions
+Ireland,Europe,1972,3024400.0,9530.772896,71.28,IRL,372,Feed_B_Other_Regions
+Ireland,Europe,1977,3271900.0,11150.98113,72.03,IRL,372,Feed_B_Other_Regions
+Ireland,Europe,1982,3480000.0,12618.32141,73.1,IRL,372,Feed_B_Other_Regions
+Ireland,Europe,1987,3539900.0,13872.86652,74.36,IRL,372,Feed_B_Other_Regions
+Ireland,Europe,1992,3557761.0,17558.81555,75.467,IRL,372,Feed_B_Other_Regions
+Ireland,Europe,1997,3667233.0,24521.94713,76.122,IRL,372,Feed_B_Other_Regions
+Ireland,Europe,2002,3879155.0,34077.04939,77.783,IRL,372,Feed_B_Other_Regions
+Ireland,Europe,2007,4109086.0,40675.99635,78.885,IRL,372,Feed_B_Other_Regions
+Italy,Europe,1952,47666000.0,4931.404154999998,65.94,ITA,380,Feed_B_Other_Regions
+Italy,Europe,1957,49182000.0,6248.656232,67.81,ITA,380,Feed_B_Other_Regions
+Italy,Europe,1962,50843200.0,8243.58234,69.24,ITA,380,Feed_B_Other_Regions
+Italy,Europe,1967,52667100.0,10022.40131,71.06,ITA,380,Feed_B_Other_Regions
+Italy,Europe,1972,54365564.0,12269.27378,72.19,ITA,380,Feed_B_Other_Regions
+Italy,Europe,1977,56059245.0,14255.98475,73.48,ITA,380,Feed_B_Other_Regions
+Italy,Europe,1982,56535636.0,16537.4835,74.98,ITA,380,Feed_B_Other_Regions
+Italy,Europe,1987,56729703.0,19207.23482,76.42,ITA,380,Feed_B_Other_Regions
+Italy,Europe,1992,56840847.0,22013.64486,77.44,ITA,380,Feed_B_Other_Regions
+Italy,Europe,1997,57479469.0,24675.02446,78.82,ITA,380,Feed_B_Other_Regions
+Italy,Europe,2002,57926999.0,27968.09817,80.24,ITA,380,Feed_B_Other_Regions
+Italy,Europe,2007,58147733.0,28569.7197,80.546,ITA,380,Feed_B_Other_Regions
+Jamaica,Americas,1952,1426095.0,2898.530881,58.53,JAM,388,Feed_B_Other_Regions
+Jamaica,Americas,1957,1535090.0,4756.525781,62.61,JAM,388,Feed_B_Other_Regions
+Jamaica,Americas,1962,1665128.0,5246.107524,65.61,JAM,388,Feed_B_Other_Regions
+Jamaica,Americas,1967,1861096.0,6124.703450999999,67.51,JAM,388,Feed_B_Other_Regions
+Jamaica,Americas,1972,1997616.0,7433.889293000001,69.0,JAM,388,Feed_B_Other_Regions
+Jamaica,Americas,1977,2156814.0,6650.195573,70.11,JAM,388,Feed_B_Other_Regions
+Jamaica,Americas,1982,2298309.0,6068.05135,71.21,JAM,388,Feed_B_Other_Regions
+Jamaica,Americas,1987,2326606.0,6351.237495,71.77,JAM,388,Feed_B_Other_Regions
+Jamaica,Americas,1992,2378618.0,7404.923685,71.766,JAM,388,Feed_B_Other_Regions
+Jamaica,Americas,1997,2531311.0,7121.924704000001,72.262,JAM,388,Feed_B_Other_Regions
+Jamaica,Americas,2002,2664659.0,6994.774861,72.047,JAM,388,Feed_B_Other_Regions
+Jamaica,Americas,2007,2780132.0,7320.8802620000015,72.567,JAM,388,Feed_B_Other_Regions
+Mexico,Americas,1952,30144317.0,3478.125529,50.789,MEX,484,Feed_B_Other_Regions
+Mexico,Americas,1957,35015548.0,4131.546641,55.19,MEX,484,Feed_B_Other_Regions
+Mexico,Americas,1962,41121485.0,4581.609385,58.299,MEX,484,Feed_B_Other_Regions
+Mexico,Americas,1967,47995559.0,5754.733883,60.11,MEX,484,Feed_B_Other_Regions
+Mexico,Americas,1972,55984294.0,6809.406690000002,62.361,MEX,484,Feed_B_Other_Regions
+Mexico,Americas,1977,63759976.0,7674.929108,65.032,MEX,484,Feed_B_Other_Regions
+Mexico,Americas,1982,71640904.0,9611.147541,67.405,MEX,484,Feed_B_Other_Regions
+Mexico,Americas,1987,80122492.0,8688.156003,69.498,MEX,484,Feed_B_Other_Regions
+Mexico,Americas,1992,88111030.0,9472.384295,71.455,MEX,484,Feed_B_Other_Regions
+Mexico,Americas,1997,95895146.0,9767.29753,73.67,MEX,484,Feed_B_Other_Regions
+Mexico,Americas,2002,102479927.0,10742.44053,74.902,MEX,484,Feed_B_Other_Regions
+Mexico,Americas,2007,108700891.0,11977.57496,76.195,MEX,484,Feed_B_Other_Regions
+Montenegro,Europe,1952,413834.0,2647.585601,59.164,MNE,499,Feed_B_Other_Regions
+Montenegro,Europe,1957,442829.0,3682.259903,61.448,MNE,499,Feed_B_Other_Regions
+Montenegro,Europe,1962,474528.0,4649.593785,63.728,MNE,499,Feed_B_Other_Regions
+Montenegro,Europe,1967,501035.0,5907.850937,67.178,MNE,499,Feed_B_Other_Regions
+Montenegro,Europe,1972,527678.0,7778.414017,70.63600000000002,MNE,499,Feed_B_Other_Regions
+Montenegro,Europe,1977,560073.0,9595.929905,73.066,MNE,499,Feed_B_Other_Regions
+Montenegro,Europe,1982,562548.0,11222.58762,74.101,MNE,499,Feed_B_Other_Regions
+Montenegro,Europe,1987,569473.0,11732.51017,74.865,MNE,499,Feed_B_Other_Regions
+Montenegro,Europe,1992,621621.0,7003.339037000002,75.435,MNE,499,Feed_B_Other_Regions
+Montenegro,Europe,1997,692651.0,6465.613349,75.445,MNE,499,Feed_B_Other_Regions
+Montenegro,Europe,2002,720230.0,6557.194282,73.98100000000002,MNE,499,Feed_B_Other_Regions
+Montenegro,Europe,2007,684736.0,9253.896111,74.543,MNE,499,Feed_B_Other_Regions
+Netherlands,Europe,1952,10381988.0,8941.571858,72.13,NLD,528,Feed_B_Other_Regions
+Netherlands,Europe,1957,11026383.0,11276.19344,72.99,NLD,528,Feed_B_Other_Regions
+Netherlands,Europe,1962,11805689.0,12790.84956,73.23,NLD,528,Feed_B_Other_Regions
+Netherlands,Europe,1967,12596822.0,15363.25136,73.82,NLD,528,Feed_B_Other_Regions
+Netherlands,Europe,1972,13329874.0,18794.74567,73.75,NLD,528,Feed_B_Other_Regions
+Netherlands,Europe,1977,13852989.0,21209.0592,75.24,NLD,528,Feed_B_Other_Regions
+Netherlands,Europe,1982,14310401.0,21399.46046,76.05,NLD,528,Feed_B_Other_Regions
+Netherlands,Europe,1987,14665278.0,23651.32361,76.83,NLD,528,Feed_B_Other_Regions
+Netherlands,Europe,1992,15174244.0,26790.94961,77.42,NLD,528,Feed_B_Other_Regions
+Netherlands,Europe,1997,15604464.0,30246.13063,78.03,NLD,528,Feed_B_Other_Regions
+Netherlands,Europe,2002,16122830.0,33724.75778,78.53,NLD,528,Feed_B_Other_Regions
+Netherlands,Europe,2007,16570613.0,36797.93332,79.762,NLD,528,Feed_B_Other_Regions
+New Zealand,Oceania,1952,1994794.0,10556.57566,69.39,NZL,554,Feed_B_Other_Regions
+New Zealand,Oceania,1957,2229407.0,12247.39532,70.26,NZL,554,Feed_B_Other_Regions
+New Zealand,Oceania,1962,2488550.0,13175.678,71.24,NZL,554,Feed_B_Other_Regions
+New Zealand,Oceania,1967,2728150.0,14463.918930000002,71.52,NZL,554,Feed_B_Other_Regions
+New Zealand,Oceania,1972,2929100.0,16046.03728,71.89,NZL,554,Feed_B_Other_Regions
+New Zealand,Oceania,1977,3164900.0,16233.7177,72.22,NZL,554,Feed_B_Other_Regions
+New Zealand,Oceania,1982,3210650.0,17632.4104,73.84,NZL,554,Feed_B_Other_Regions
+New Zealand,Oceania,1987,3317166.0,19007.19129,74.32,NZL,554,Feed_B_Other_Regions
+New Zealand,Oceania,1992,3437674.0,18363.32494,76.33,NZL,554,Feed_B_Other_Regions
+New Zealand,Oceania,1997,3676187.0,21050.41377,77.55,NZL,554,Feed_B_Other_Regions
+New Zealand,Oceania,2002,3908037.0,23189.80135,79.11,NZL,554,Feed_B_Other_Regions
+New Zealand,Oceania,2007,4115771.0,25185.00911,80.204,NZL,554,Feed_B_Other_Regions
+Nicaragua,Americas,1952,1165790.0,3112.363948,42.31399999999999,NIC,558,Feed_B_Other_Regions
+Nicaragua,Americas,1957,1358828.0,3457.415947,45.432,NIC,558,Feed_B_Other_Regions
+Nicaragua,Americas,1962,1590597.0,3634.364406,48.632,NIC,558,Feed_B_Other_Regions
+Nicaragua,Americas,1967,1865490.0,4643.393534000002,51.88399999999999,NIC,558,Feed_B_Other_Regions
+Nicaragua,Americas,1972,2182908.0,4688.593267,55.151,NIC,558,Feed_B_Other_Regions
+Nicaragua,Americas,1977,2554598.0,5486.371089,57.47,NIC,558,Feed_B_Other_Regions
+Nicaragua,Americas,1982,2979423.0,3470.3381560000007,59.298,NIC,558,Feed_B_Other_Regions
+Nicaragua,Americas,1987,3344353.0,2955.984375,62.008,NIC,558,Feed_B_Other_Regions
+Nicaragua,Americas,1992,4017939.0,2170.151724,65.843,NIC,558,Feed_B_Other_Regions
+Nicaragua,Americas,1997,4609572.0,2253.023004,68.426,NIC,558,Feed_B_Other_Regions
+Nicaragua,Americas,2002,5146848.0,2474.548819,70.836,NIC,558,Feed_B_Other_Regions
+Nicaragua,Americas,2007,5675356.0,2749.320965,72.899,NIC,558,Feed_B_Other_Regions
+Norway,Europe,1952,3327728.0,10095.42172,72.67,NOR,578,Feed_B_Other_Regions
+Norway,Europe,1957,3491938.0,11653.97304,73.44,NOR,578,Feed_B_Other_Regions
+Norway,Europe,1962,3638919.0,13450.40151,73.47,NOR,578,Feed_B_Other_Regions
+Norway,Europe,1967,3786019.0,16361.87647,74.08,NOR,578,Feed_B_Other_Regions
+Norway,Europe,1972,3933004.0,18965.05551,74.34,NOR,578,Feed_B_Other_Regions
+Norway,Europe,1977,4043205.0,23311.34939,75.37,NOR,578,Feed_B_Other_Regions
+Norway,Europe,1982,4114787.0,26298.63531,75.97,NOR,578,Feed_B_Other_Regions
+Norway,Europe,1987,4186147.0,31540.9748,75.89,NOR,578,Feed_B_Other_Regions
+Norway,Europe,1992,4286357.0,33965.66115,77.32,NOR,578,Feed_B_Other_Regions
+Norway,Europe,1997,4405672.0,41283.16433,78.32,NOR,578,Feed_B_Other_Regions
+Norway,Europe,2002,4535591.0,44683.97525,79.05,NOR,578,Feed_B_Other_Regions
+Norway,Europe,2007,4627926.0,49357.19017,80.196,NOR,578,Feed_B_Other_Regions
+Panama,Americas,1952,940080.0,2480.380334,55.191,PAN,591,Feed_B_Other_Regions
+Panama,Americas,1957,1063506.0,2961.800905,59.201,PAN,591,Feed_B_Other_Regions
+Panama,Americas,1962,1215725.0,3536.540301,61.817,PAN,591,Feed_B_Other_Regions
+Panama,Americas,1967,1405486.0,4421.009084,64.071,PAN,591,Feed_B_Other_Regions
+Panama,Americas,1972,1616384.0,5364.249663000001,66.21600000000001,PAN,591,Feed_B_Other_Regions
+Panama,Americas,1977,1839782.0,5351.912144,68.681,PAN,591,Feed_B_Other_Regions
+Panama,Americas,1982,2036305.0,7009.601598,70.472,PAN,591,Feed_B_Other_Regions
+Panama,Americas,1987,2253639.0,7034.779161,71.523,PAN,591,Feed_B_Other_Regions
+Panama,Americas,1992,2484997.0,6618.74305,72.462,PAN,591,Feed_B_Other_Regions
+Panama,Americas,1997,2734531.0,7113.692252,73.738,PAN,591,Feed_B_Other_Regions
+Panama,Americas,2002,2990875.0,7356.0319340000015,74.712,PAN,591,Feed_B_Other_Regions
+Panama,Americas,2007,3242173.0,9809.185636,75.53699999999998,PAN,591,Feed_B_Other_Regions
+Paraguay,Americas,1952,1555876.0,1952.308701,62.649,PRY,600,Feed_B_Other_Regions
+Paraguay,Americas,1957,1770902.0,2046.154706,63.19600000000001,PRY,600,Feed_B_Other_Regions
+Paraguay,Americas,1962,2009813.0,2148.027146,64.361,PRY,600,Feed_B_Other_Regions
+Paraguay,Americas,1967,2287985.0,2299.376311,64.95100000000001,PRY,600,Feed_B_Other_Regions
+Paraguay,Americas,1972,2614104.0,2523.337977,65.815,PRY,600,Feed_B_Other_Regions
+Paraguay,Americas,1977,2984494.0,3248.373311,66.35300000000001,PRY,600,Feed_B_Other_Regions
+Paraguay,Americas,1982,3366439.0,4258.503604,66.874,PRY,600,Feed_B_Other_Regions
+Paraguay,Americas,1987,3886512.0,3998.875695,67.378,PRY,600,Feed_B_Other_Regions
+Paraguay,Americas,1992,4483945.0,4196.411078,68.225,PRY,600,Feed_B_Other_Regions
+Paraguay,Americas,1997,5154123.0,4247.400261,69.4,PRY,600,Feed_B_Other_Regions
+Paraguay,Americas,2002,5884491.0,3783.674243,70.755,PRY,600,Feed_B_Other_Regions
+Paraguay,Americas,2007,6667147.0,4172.838464,71.752,PRY,600,Feed_B_Other_Regions
+Peru,Americas,1952,8025700.0,3758.523437,43.902,PER,604,Feed_B_Other_Regions
+Peru,Americas,1957,9146100.0,4245.256697999999,46.26300000000001,PER,604,Feed_B_Other_Regions
+Peru,Americas,1962,10516500.0,4957.037982,49.096,PER,604,Feed_B_Other_Regions
+Peru,Americas,1967,12132200.0,5788.09333,51.445,PER,604,Feed_B_Other_Regions
+Peru,Americas,1972,13954700.0,5937.827283,55.448,PER,604,Feed_B_Other_Regions
+Peru,Americas,1977,15990099.0,6281.290854999998,58.447,PER,604,Feed_B_Other_Regions
+Peru,Americas,1982,18125129.0,6434.501797,61.40600000000001,PER,604,Feed_B_Other_Regions
+Peru,Americas,1987,20195924.0,6360.943444,64.134,PER,604,Feed_B_Other_Regions
+Peru,Americas,1992,22430449.0,4446.380924,66.458,PER,604,Feed_B_Other_Regions
+Peru,Americas,1997,24748122.0,5838.347657,68.38600000000001,PER,604,Feed_B_Other_Regions
+Peru,Americas,2002,26769436.0,5909.020073,69.906,PER,604,Feed_B_Other_Regions
+Peru,Americas,2007,28674757.0,7408.905561,71.421,PER,604,Feed_B_Other_Regions
+Poland,Europe,1952,25730551.0,4029.329699,61.31,POL,616,Feed_B_Other_Regions
+Poland,Europe,1957,28235346.0,4734.253019,65.77,POL,616,Feed_B_Other_Regions
+Poland,Europe,1962,30329617.0,5338.752143,67.64,POL,616,Feed_B_Other_Regions
+Poland,Europe,1967,31785378.0,6557.152776,69.61,POL,616,Feed_B_Other_Regions
+Poland,Europe,1972,33039545.0,8006.506993000001,70.85,POL,616,Feed_B_Other_Regions
+Poland,Europe,1977,34621254.0,9508.141454,70.67,POL,616,Feed_B_Other_Regions
+Poland,Europe,1982,36227381.0,8451.531004,71.32,POL,616,Feed_B_Other_Regions
+Poland,Europe,1987,37740710.0,9082.351172,70.98,POL,616,Feed_B_Other_Regions
+Poland,Europe,1992,38370697.0,7738.881247,70.99,POL,616,Feed_B_Other_Regions
+Poland,Europe,1997,38654957.0,10159.58368,72.75,POL,616,Feed_B_Other_Regions
+Poland,Europe,2002,38625976.0,12002.23908,74.67,POL,616,Feed_B_Other_Regions
+Poland,Europe,2007,38518241.0,15389.924680000002,75.563,POL,616,Feed_B_Other_Regions
+Portugal,Europe,1952,8526050.0,3068.319867,59.82,PRT,620,Feed_B_Other_Regions
+Portugal,Europe,1957,8817650.0,3774.571743,61.51,PRT,620,Feed_B_Other_Regions
+Portugal,Europe,1962,9019800.0,4727.954889,64.39,PRT,620,Feed_B_Other_Regions
+Portugal,Europe,1967,9103000.0,6361.517993,66.6,PRT,620,Feed_B_Other_Regions
+Portugal,Europe,1972,8970450.0,9022.247417,69.26,PRT,620,Feed_B_Other_Regions
+Portugal,Europe,1977,9662600.0,10172.48572,70.41,PRT,620,Feed_B_Other_Regions
+Portugal,Europe,1982,9859650.0,11753.84291,72.77,PRT,620,Feed_B_Other_Regions
+Portugal,Europe,1987,9915289.0,13039.30876,74.06,PRT,620,Feed_B_Other_Regions
+Portugal,Europe,1992,9927680.0,16207.266630000002,74.86,PRT,620,Feed_B_Other_Regions
+Portugal,Europe,1997,10156415.0,17641.03156,75.97,PRT,620,Feed_B_Other_Regions
+Portugal,Europe,2002,10433867.0,19970.90787,77.29,PRT,620,Feed_B_Other_Regions
+Portugal,Europe,2007,10642836.0,20509.64777,78.098,PRT,620,Feed_B_Other_Regions
+Puerto Rico,Americas,1952,2227000.0,3081.959785,64.28,PRI,630,Feed_B_Other_Regions
+Puerto Rico,Americas,1957,2260000.0,3907.156189,68.54,PRI,630,Feed_B_Other_Regions
+Puerto Rico,Americas,1962,2448046.0,5108.34463,69.62,PRI,630,Feed_B_Other_Regions
+Puerto Rico,Americas,1967,2648961.0,6929.277714,71.1,PRI,630,Feed_B_Other_Regions
+Puerto Rico,Americas,1972,2847132.0,9123.041742,72.16,PRI,630,Feed_B_Other_Regions
+Puerto Rico,Americas,1977,3080828.0,9770.524921,73.44,PRI,630,Feed_B_Other_Regions
+Puerto Rico,Americas,1982,3279001.0,10330.98915,73.75,PRI,630,Feed_B_Other_Regions
+Puerto Rico,Americas,1987,3444468.0,12281.34191,74.63,PRI,630,Feed_B_Other_Regions
+Puerto Rico,Americas,1992,3585176.0,14641.58711,73.911,PRI,630,Feed_B_Other_Regions
+Puerto Rico,Americas,1997,3759430.0,16999.4333,74.917,PRI,630,Feed_B_Other_Regions
+Puerto Rico,Americas,2002,3859606.0,18855.60618,77.778,PRI,630,Feed_B_Other_Regions
+Puerto Rico,Americas,2007,3942491.0,19328.70901,78.74600000000002,PRI,630,Feed_B_Other_Regions
+Romania,Europe,1952,16630000.0,3144.613186,61.05,ROU,642,Feed_B_Other_Regions
+Romania,Europe,1957,17829327.0,3943.370225,64.1,ROU,642,Feed_B_Other_Regions
+Romania,Europe,1962,18680721.0,4734.997586,66.8,ROU,642,Feed_B_Other_Regions
+Romania,Europe,1967,19284814.0,6470.866545,66.8,ROU,642,Feed_B_Other_Regions
+Romania,Europe,1972,20662648.0,8011.4144019999985,69.21,ROU,642,Feed_B_Other_Regions
+Romania,Europe,1977,21658597.0,9356.39724,69.46,ROU,642,Feed_B_Other_Regions
+Romania,Europe,1982,22356726.0,9605.314053,69.66,ROU,642,Feed_B_Other_Regions
+Romania,Europe,1987,22686371.0,9696.273295,69.53,ROU,642,Feed_B_Other_Regions
+Romania,Europe,1992,22797027.0,6598.409903,69.36,ROU,642,Feed_B_Other_Regions
+Romania,Europe,1997,22562458.0,7346.547556999999,69.72,ROU,642,Feed_B_Other_Regions
+Romania,Europe,2002,22404337.0,7885.360081,71.322,ROU,642,Feed_B_Other_Regions
+Romania,Europe,2007,22276056.0,10808.47561,72.476,ROU,642,Feed_B_Other_Regions
+Serbia,Europe,1952,6860147.0,3581.459448,57.996,SRB,688,Feed_B_Other_Regions
+Serbia,Europe,1957,7271135.0,4981.090891,61.685,SRB,688,Feed_B_Other_Regions
+Serbia,Europe,1962,7616060.0,6289.629157,64.531,SRB,688,Feed_B_Other_Regions
+Serbia,Europe,1967,7971222.0,7991.707066,66.914,SRB,688,Feed_B_Other_Regions
+Serbia,Europe,1972,8313288.0,10522.06749,68.7,SRB,688,Feed_B_Other_Regions
+Serbia,Europe,1977,8686367.0,12980.66956,70.3,SRB,688,Feed_B_Other_Regions
+Serbia,Europe,1982,9032824.0,15181.0927,70.16199999999999,SRB,688,Feed_B_Other_Regions
+Serbia,Europe,1987,9230783.0,15870.87851,71.218,SRB,688,Feed_B_Other_Regions
+Serbia,Europe,1992,9826397.0,9325.068238,71.65899999999998,SRB,688,Feed_B_Other_Regions
+Serbia,Europe,1997,10336594.0,7914.320304000002,72.232,SRB,688,Feed_B_Other_Regions
+Serbia,Europe,2002,10111559.0,7236.075251,73.21300000000002,SRB,688,Feed_B_Other_Regions
+Serbia,Europe,2007,10150265.0,9786.534714,74.002,SRB,688,Feed_B_Other_Regions
+Slovak Republic,Europe,1952,3558137.0,5074.659104,64.36,SVK,703,Feed_B_Other_Regions
+Slovak Republic,Europe,1957,3844277.0,6093.26298,67.45,SVK,703,Feed_B_Other_Regions
+Slovak Republic,Europe,1962,4237384.0,7481.107598,70.33,SVK,703,Feed_B_Other_Regions
+Slovak Republic,Europe,1967,4442238.0,8412.902397,70.98,SVK,703,Feed_B_Other_Regions
+Slovak Republic,Europe,1972,4593433.0,9674.167626,70.35,SVK,703,Feed_B_Other_Regions
+Slovak Republic,Europe,1977,4827803.0,10922.66404,70.45,SVK,703,Feed_B_Other_Regions
+Slovak Republic,Europe,1982,5048043.0,11348.54585,70.8,SVK,703,Feed_B_Other_Regions
+Slovak Republic,Europe,1987,5199318.0,12037.26758,71.08,SVK,703,Feed_B_Other_Regions
+Slovak Republic,Europe,1992,5302888.0,9498.467723,71.38,SVK,703,Feed_B_Other_Regions
+Slovak Republic,Europe,1997,5383010.0,12126.23065,72.71,SVK,703,Feed_B_Other_Regions
+Slovak Republic,Europe,2002,5410052.0,13638.778369999998,73.8,SVK,703,Feed_B_Other_Regions
+Slovak Republic,Europe,2007,5447502.0,18678.31435,74.663,SVK,703,Feed_B_Other_Regions
+Slovenia,Europe,1952,1489518.0,4215.041741,65.57,SVN,705,Feed_B_Other_Regions
+Slovenia,Europe,1957,1533070.0,5862.276629,67.85,SVN,705,Feed_B_Other_Regions
+Slovenia,Europe,1962,1582962.0,7402.303395,69.15,SVN,705,Feed_B_Other_Regions
+Slovenia,Europe,1967,1646912.0,9405.489397,69.18,SVN,705,Feed_B_Other_Regions
+Slovenia,Europe,1972,1694510.0,12383.4862,69.82,SVN,705,Feed_B_Other_Regions
+Slovenia,Europe,1977,1746919.0,15277.030169999998,70.97,SVN,705,Feed_B_Other_Regions
+Slovenia,Europe,1982,1861252.0,17866.72175,71.063,SVN,705,Feed_B_Other_Regions
+Slovenia,Europe,1987,1945870.0,18678.53492,72.25,SVN,705,Feed_B_Other_Regions
+Slovenia,Europe,1992,1999210.0,14214.71681,73.64,SVN,705,Feed_B_Other_Regions
+Slovenia,Europe,1997,2011612.0,17161.10735,75.13,SVN,705,Feed_B_Other_Regions
+Slovenia,Europe,2002,2011497.0,20660.01936,76.66,SVN,705,Feed_B_Other_Regions
+Slovenia,Europe,2007,2009245.0,25768.25759,77.926,SVN,705,Feed_B_Other_Regions
+Spain,Europe,1952,28549870.0,3834.034742,64.94,ESP,724,Feed_B_Other_Regions
+Spain,Europe,1957,29841614.0,4564.80241,66.66,ESP,724,Feed_B_Other_Regions
+Spain,Europe,1962,31158061.0,5693.843879,69.69,ESP,724,Feed_B_Other_Regions
+Spain,Europe,1967,32850275.0,7993.512294,71.44,ESP,724,Feed_B_Other_Regions
+Spain,Europe,1972,34513161.0,10638.75131,73.06,ESP,724,Feed_B_Other_Regions
+Spain,Europe,1977,36439000.0,13236.92117,74.39,ESP,724,Feed_B_Other_Regions
+Spain,Europe,1982,37983310.0,13926.16997,76.3,ESP,724,Feed_B_Other_Regions
+Spain,Europe,1987,38880702.0,15764.98313,76.9,ESP,724,Feed_B_Other_Regions
+Spain,Europe,1992,39549438.0,18603.06452,77.57,ESP,724,Feed_B_Other_Regions
+Spain,Europe,1997,39855442.0,20445.29896,78.77,ESP,724,Feed_B_Other_Regions
+Spain,Europe,2002,40152517.0,24835.47166,79.78,ESP,724,Feed_B_Other_Regions
+Spain,Europe,2007,40448191.0,28821.0637,80.941,ESP,724,Feed_B_Other_Regions
+Sweden,Europe,1952,7124673.0,8527.844662000001,71.86,SWE,752,Feed_B_Other_Regions
+Sweden,Europe,1957,7363802.0,9911.878226,72.49,SWE,752,Feed_B_Other_Regions
+Sweden,Europe,1962,7561588.0,12329.44192,73.37,SWE,752,Feed_B_Other_Regions
+Sweden,Europe,1967,7867931.0,15258.29697,74.16,SWE,752,Feed_B_Other_Regions
+Sweden,Europe,1972,8122293.0,17832.02464,74.72,SWE,752,Feed_B_Other_Regions
+Sweden,Europe,1977,8251648.0,18855.72521,75.44,SWE,752,Feed_B_Other_Regions
+Sweden,Europe,1982,8325260.0,20667.38125,76.42,SWE,752,Feed_B_Other_Regions
+Sweden,Europe,1987,8421403.0,23586.92927,77.19,SWE,752,Feed_B_Other_Regions
+Sweden,Europe,1992,8718867.0,23880.01683,78.16,SWE,752,Feed_B_Other_Regions
+Sweden,Europe,1997,8897619.0,25266.59499,79.39,SWE,752,Feed_B_Other_Regions
+Sweden,Europe,2002,8954175.0,29341.630930000007,80.04,SWE,752,Feed_B_Other_Regions
+Sweden,Europe,2007,9031088.0,33859.74835,80.884,SWE,752,Feed_B_Other_Regions
+Switzerland,Europe,1952,4815000.0,14734.23275,69.62,CHE,756,Feed_B_Other_Regions
+Switzerland,Europe,1957,5126000.0,17909.48973,70.56,CHE,756,Feed_B_Other_Regions
+Switzerland,Europe,1962,5666000.0,20431.0927,71.32,CHE,756,Feed_B_Other_Regions
+Switzerland,Europe,1967,6063000.0,22966.14432,72.77,CHE,756,Feed_B_Other_Regions
+Switzerland,Europe,1972,6401400.0,27195.11304,73.78,CHE,756,Feed_B_Other_Regions
+Switzerland,Europe,1977,6316424.0,26982.29052,75.39,CHE,756,Feed_B_Other_Regions
+Switzerland,Europe,1982,6468126.0,28397.71512,76.21,CHE,756,Feed_B_Other_Regions
+Switzerland,Europe,1987,6649942.0,30281.70459,77.41,CHE,756,Feed_B_Other_Regions
+Switzerland,Europe,1992,6995447.0,31871.5303,78.03,CHE,756,Feed_B_Other_Regions
+Switzerland,Europe,1997,7193761.0,32135.323010000004,79.37,CHE,756,Feed_B_Other_Regions
+Switzerland,Europe,2002,7361757.0,34480.95771,80.62,CHE,756,Feed_B_Other_Regions
+Switzerland,Europe,2007,7554661.0,37506.41907,81.70100000000002,CHE,756,Feed_B_Other_Regions
+Trinidad and Tobago,Americas,1952,662850.0,3023.271928,59.1,TTO,780,Feed_B_Other_Regions
+Trinidad and Tobago,Americas,1957,764900.0,4100.3934,61.8,TTO,780,Feed_B_Other_Regions
+Trinidad and Tobago,Americas,1962,887498.0,4997.523971000001,64.9,TTO,780,Feed_B_Other_Regions
+Trinidad and Tobago,Americas,1967,960155.0,5621.368472,65.4,TTO,780,Feed_B_Other_Regions
+Trinidad and Tobago,Americas,1972,975199.0,6619.551418999999,65.9,TTO,780,Feed_B_Other_Regions
+Trinidad and Tobago,Americas,1977,1039009.0,7899.554209000001,68.3,TTO,780,Feed_B_Other_Regions
+Trinidad and Tobago,Americas,1982,1116479.0,9119.528607,68.832,TTO,780,Feed_B_Other_Regions
+Trinidad and Tobago,Americas,1987,1191336.0,7388.597823,69.582,TTO,780,Feed_B_Other_Regions
+Trinidad and Tobago,Americas,1992,1183669.0,7370.990932,69.862,TTO,780,Feed_B_Other_Regions
+Trinidad and Tobago,Americas,1997,1138101.0,8792.573126000001,69.465,TTO,780,Feed_B_Other_Regions
+Trinidad and Tobago,Americas,2002,1101832.0,11460.60023,68.976,TTO,780,Feed_B_Other_Regions
+Trinidad and Tobago,Americas,2007,1056608.0,18008.50924,69.819,TTO,780,Feed_B_Other_Regions
+Turkey,Europe,1952,22235677.0,1969.10098,43.585,TUR,792,Feed_B_Other_Regions
+Turkey,Europe,1957,25670939.0,2218.754257,48.07899999999999,TUR,792,Feed_B_Other_Regions
+Turkey,Europe,1962,29788695.0,2322.869908,52.098,TUR,792,Feed_B_Other_Regions
+Turkey,Europe,1967,33411317.0,2826.3563870000007,54.33600000000001,TUR,792,Feed_B_Other_Regions
+Turkey,Europe,1972,37492953.0,3450.69638,57.005,TUR,792,Feed_B_Other_Regions
+Turkey,Europe,1977,42404033.0,4269.122326,59.507,TUR,792,Feed_B_Other_Regions
+Turkey,Europe,1982,47328791.0,4241.356344,61.036,TUR,792,Feed_B_Other_Regions
+Turkey,Europe,1987,52881328.0,5089.043686,63.108,TUR,792,Feed_B_Other_Regions
+Turkey,Europe,1992,58179144.0,5678.348271,66.146,TUR,792,Feed_B_Other_Regions
+Turkey,Europe,1997,63047647.0,6601.429915,68.835,TUR,792,Feed_B_Other_Regions
+Turkey,Europe,2002,67308928.0,6508.085718,70.845,TUR,792,Feed_B_Other_Regions
+Turkey,Europe,2007,71158647.0,8458.276384,71.777,TUR,792,Feed_B_Other_Regions
+United Kingdom,Europe,1952,50430000.0,9979.508487,69.18,GBR,826,Feed_B_Other_Regions
+United Kingdom,Europe,1957,51430000.0,11283.17795,70.42,GBR,826,Feed_B_Other_Regions
+United Kingdom,Europe,1962,53292000.0,12477.17707,70.76,GBR,826,Feed_B_Other_Regions
+United Kingdom,Europe,1967,54959000.0,14142.85089,71.36,GBR,826,Feed_B_Other_Regions
+United Kingdom,Europe,1972,56079000.0,15895.11641,72.01,GBR,826,Feed_B_Other_Regions
+United Kingdom,Europe,1977,56179000.0,17428.74846,72.76,GBR,826,Feed_B_Other_Regions
+United Kingdom,Europe,1982,56339704.0,18232.42452,74.04,GBR,826,Feed_B_Other_Regions
+United Kingdom,Europe,1987,56981620.0,21664.78767,75.007,GBR,826,Feed_B_Other_Regions
+United Kingdom,Europe,1992,57866349.0,22705.09254,76.42,GBR,826,Feed_B_Other_Regions
+United Kingdom,Europe,1997,58808266.0,26074.53136,77.218,GBR,826,Feed_B_Other_Regions
+United Kingdom,Europe,2002,59912431.0,29478.99919,78.471,GBR,826,Feed_B_Other_Regions
+United Kingdom,Europe,2007,60776238.0,33203.26128,79.425,GBR,826,Feed_B_Other_Regions
+United States,Americas,1952,157553000.0,13990.482080000002,68.44,USA,840,Feed_B_Other_Regions
+United States,Americas,1957,171984000.0,14847.12712,69.49,USA,840,Feed_B_Other_Regions
+United States,Americas,1962,186538000.0,16173.14586,70.21,USA,840,Feed_B_Other_Regions
+United States,Americas,1967,198712000.0,19530.36557,70.76,USA,840,Feed_B_Other_Regions
+United States,Americas,1972,209896000.0,21806.03594,71.34,USA,840,Feed_B_Other_Regions
+United States,Americas,1977,220239000.0,24072.63213,73.38,USA,840,Feed_B_Other_Regions
+United States,Americas,1982,232187835.0,25009.55914,74.65,USA,840,Feed_B_Other_Regions
+United States,Americas,1987,242803533.0,29884.350410000006,75.02,USA,840,Feed_B_Other_Regions
+United States,Americas,1992,256894189.0,32003.93224,76.09,USA,840,Feed_B_Other_Regions
+United States,Americas,1997,272911760.0,35767.43303,76.81,USA,840,Feed_B_Other_Regions
+United States,Americas,2002,287675526.0,39097.09955,77.31,USA,840,Feed_B_Other_Regions
+United States,Americas,2007,301139947.0,42951.65309,78.242,USA,840,Feed_B_Other_Regions
+Uruguay,Americas,1952,2252965.0,5716.766744,66.071,URY,858,Feed_B_Other_Regions
+Uruguay,Americas,1957,2424959.0,6150.772969,67.044,URY,858,Feed_B_Other_Regions
+Uruguay,Americas,1962,2598466.0,5603.357717,68.253,URY,858,Feed_B_Other_Regions
+Uruguay,Americas,1967,2748579.0,5444.61962,68.468,URY,858,Feed_B_Other_Regions
+Uruguay,Americas,1972,2829526.0,5703.408898,68.673,URY,858,Feed_B_Other_Regions
+Uruguay,Americas,1977,2873520.0,6504.339663000002,69.48100000000001,URY,858,Feed_B_Other_Regions
+Uruguay,Americas,1982,2953997.0,6920.223051000001,70.805,URY,858,Feed_B_Other_Regions
+Uruguay,Americas,1987,3045153.0,7452.398969,71.918,URY,858,Feed_B_Other_Regions
+Uruguay,Americas,1992,3149262.0,8137.004775,72.752,URY,858,Feed_B_Other_Regions
+Uruguay,Americas,1997,3262838.0,9230.240708,74.223,URY,858,Feed_B_Other_Regions
+Uruguay,Americas,2002,3363085.0,7727.002004000001,75.307,URY,858,Feed_B_Other_Regions
+Uruguay,Americas,2007,3447496.0,10611.46299,76.384,URY,858,Feed_B_Other_Regions
+Venezuela,Americas,1952,5439568.0,7689.799761,55.088,VEN,862,Feed_B_Other_Regions
+Venezuela,Americas,1957,6702668.0,9802.466526,57.907,VEN,862,Feed_B_Other_Regions
+Venezuela,Americas,1962,8143375.0,8422.974165000001,60.77,VEN,862,Feed_B_Other_Regions
+Venezuela,Americas,1967,9709552.0,9541.474188,63.479,VEN,862,Feed_B_Other_Regions
+Venezuela,Americas,1972,11515649.0,10505.25966,65.712,VEN,862,Feed_B_Other_Regions
+Venezuela,Americas,1977,13503563.0,13143.95095,67.456,VEN,862,Feed_B_Other_Regions
+Venezuela,Americas,1982,15620766.0,11152.41011,68.557,VEN,862,Feed_B_Other_Regions
+Venezuela,Americas,1987,17910182.0,9883.584648,70.19,VEN,862,Feed_B_Other_Regions
+Venezuela,Americas,1992,20265563.0,10733.92631,71.15,VEN,862,Feed_B_Other_Regions
+Venezuela,Americas,1997,22374398.0,10165.49518,72.146,VEN,862,Feed_B_Other_Regions
+Venezuela,Americas,2002,24287670.0,8605.047831,72.766,VEN,862,Feed_B_Other_Regions
+Venezuela,Americas,2007,26084662.0,11415.80569,73.747,VEN,862,Feed_B_Other_Regions

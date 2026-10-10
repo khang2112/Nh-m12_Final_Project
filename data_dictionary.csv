@@ -1,0 +1,18 @@
+column,provenance,description
+record_id,Static,Unique slug(country) + year key; not ISO code alone
+country,Real (Gapminder),Country name
+continent,Real (Gapminder),Geographic continent
+year,Real (Gapminder),"Census/observation year, 1952–2007"
+population,Real (Gapminder),"Population, persons"
+gdp_per_capita,Real (Gapminder),"GDP per capita in approximate USD equivalent, historical"
+life_expectancy,Real (Gapminder),"Life expectancy at birth, years, regression target"
+iso_alpha,Real (Plotly packaged ISO),3-letter code; KOR reused for North and South Korea in this copy
+iso_num,Real (Plotly packaged ISO),Numeric ISO code
+data_feed,Derived source extraction,Logical data feed / regional data category
+sim_health_index,SYNTHETIC,"Synthetic health investment illustrative index 0-100, NOT observed"
+sim_education_index,SYNTHETIC,"Synthetic education investment illustrative index 0-100, NOT observed"
+sim_trend_index,SYNTHETIC,"Synthetic time-trend index 0-100, NOT observed"
+sim_policy_group,SYNTHETIC,Synthetic policy group Higher / Moderate / Lower / Unknown
+synthetic_record,SYNTHETIC flag,True for all dynamically generated rows
+target_high_life_expectancy,Derived from real target,One if life_expectancy >=70; excluded from input model features
+Cluster_Label,Derived from K-Means,Unsupervised cluster assignment 0 or 1

@@ -1,0 +1,17 @@
+column,missing_count,missing_percent
+continent,0,0.0
+country,0,0.0
+data_feed,0,0.0
+gdp_per_capita,0,0.0
+iso_alpha,0,0.0
+iso_num,0,0.0
+life_expectancy,0,0.0
+population,0,0.0
+year,0,0.0
+record_id,0,0.0
+sim_health_index,0,0.0
+sim_education_index,0,0.0
+sim_trend_index,0,0.0
+sim_policy_group,0,0.0
+synthetic_record,0,0.0
+target_high_life_expectancy,0,0.0

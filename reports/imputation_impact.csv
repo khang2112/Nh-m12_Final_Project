@@ -1,0 +1,4 @@
+column,n_before,mean_before,mean_after,median_before,median_after,std_before,std_after,mean_change_percent
+sim_health_index,1610,71.9514,71.8875,71.975,71.67,14.2393,13.8906,-0.0888
+sim_education_index,1585,72.5367,72.5025,72.78,72.465,13.6799,13.3037,-0.0472
+sim_trend_index,1627,73.9435,73.8096,73.62,73.515,12.9771,13.0496,-0.181

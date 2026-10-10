@@ -1,0 +1,4 @@
+{
+  "ingested": false,
+  "reason": "ChromaDB CHƯA được nạp: môi trường hiện tại chưa cài chromadb. Chạy pip install -r requirements.txt sau đó python src/04_chromadb_vector.py."
+}

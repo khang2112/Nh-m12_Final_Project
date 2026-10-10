@@ -1,0 +1,1705 @@
+record_id,country,year,sim_health_index,sim_education_index,sim_trend_index,sim_policy_group,synthetic_record
+Afghanistan_1952,Afghanistan,1952,67.49,47.37,27.24,Moderate simulated investment,True
+Afghanistan_1957,Afghanistan,1957,66.0,60.59,60.47,Moderate simulated investment,True
+Afghanistan_1962,Afghanistan,1962,62.15,61.94,60.91,Moderate simulated investment,True
+Afghanistan_1967,Afghanistan,1967,54.96,67.27,54.73,Moderate simulated investment,True
+Afghanistan_1972,Afghanistan,1972,48.58,,51.25,Lower simulated investment,True
+Afghanistan_1977,Afghanistan,1977,,75.45,61.24,Lower simulated investment,True
+Afghanistan_1982,Afghanistan,1982,98.19,67.23,59.9,,True
+Afghanistan_1987,Afghanistan,1987,63.75,76.38,,Moderate simulated investment,True
+Afghanistan_1992,Afghanistan,1992,54.83,63.01,54.39,Moderate simulated investment,True
+Afghanistan_1997,Afghanistan,1997,41.47,64.86,55.18,Lower simulated investment,True
+Afghanistan_2002,Afghanistan,2002,78.54,50.26,81.04,Higher simulated investment,True
+Afghanistan_2007,Afghanistan,2007,59.65,81.64,85.14,Moderate simulated investment,True
+Algeria_1952,Algeria,1952,66.08,73.28,72.68,Moderate simulated investment,True
+Algeria_1957,Algeria,1957,55.26,61.06,62.26,Moderate simulated investment,True
+Algeria_1962,Algeria,1962,72.77,47.93,75.09,Higher simulated investment,True
+Algeria_1967,Algeria,1967,71.4,77.54,65.32,Moderate simulated investment,True
+Algeria_1972,Algeria,1972,76.8,63.29,64.53,Higher simulated investment,True
+Algeria_1977,Algeria,1977,100.0,54.13,72.38,Higher simulated investment,True
+Algeria_1982,Algeria,1982,36.94,74.25,60.71,Lower simulated investment,True
+Algeria_1987,Algeria,1987,81.82,96.45,87.36,Higher simulated investment,True
+Algeria_1992,Algeria,1992,72.0,68.71,75.88,Higher simulated investment,True
+Algeria_1997,Algeria,1997,69.81,85.78,73.08,Moderate simulated investment,True
+Algeria_2002,Algeria,2002,69.41,73.56,67.28,Moderate simulated investment,True
+Algeria_2007,Algeria,2007,75.59,70.95,93.51,Higher simulated investment,True
+Angola_1952,Angola,1952,53.02,53.96,61.34,Moderate simulated investment,True
+Angola_1957,Angola,1957,77.71,70.48,73.86,Higher simulated investment,True
+Angola_1962,Angola,1962,82.69,72.75,61.74,Higher simulated investment,True
+Angola_1967,Angola,1967,71.34,57.19,85.31,Moderate simulated investment,True
+Angola_1972,Angola,1972,,71.67,72.75,Higher simulated investment,True
+Angola_1977,Angola,1977,68.66,76.74,71.04,Moderate simulated investment,True
+Angola_1982,Angola,1982,71.99,55.97,96.47,Moderate simulated investment,True
+Angola_1987,Angola,1987,62.0,62.01,77.35,Moderate simulated investment,True
+Angola_1992,Angola,1992,80.25,,83.32,Higher simulated investment,True
+Angola_1997,Angola,1997,57.57,53.45,64.41,Moderate simulated investment,True
+Angola_2002,Angola,2002,55.23,81.99,74.84,Moderate simulated investment,True
+Angola_2007,Angola,2007,65.93,80.69,84.88,Moderate simulated investment,True
+Bahrain_1952,Bahrain,1952,90.77,82.92,72.07,Higher simulated investment,True
+Bahrain_1957,Bahrain,1957,77.48,,61.79,Higher simulated investment,True
+Bahrain_1962,Bahrain,1962,90.51,72.87,80.4,Higher simulated investment,True
+Bahrain_1967,Bahrain,1967,,69.77,77.8,Higher simulated investment,True
+Bahrain_1972,Bahrain,1972,93.89,94.54,71.34,Higher simulated investment,True
+Bahrain_1977,Bahrain,1977,82.81,84.75,81.79,Higher simulated investment,True
+Bahrain_1982,Bahrain,1982,71.43,87.93,88.33,Moderate simulated investment,True
+Bahrain_1987,Bahrain,1987,,92.18,85.03,Higher simulated investment,True
+Bahrain_1992,Bahrain,1992,86.74,100.0,100.0,Higher simulated investment,True
+Bahrain_1997,Bahrain,1997,94.08,78.3,93.65,Higher simulated investment,True
+Bahrain_2002,Bahrain,2002,100.0,76.45,90.79,Higher simulated investment,True
+Bahrain_2007,Bahrain,2007,100.0,70.99,95.65,Higher simulated investment,True
+Bangladesh_1952,Bangladesh,1952,67.72,55.15,48.65,Moderate simulated investment,True
+Bangladesh_1957,Bangladesh,1957,62.95,69.0,,Moderate simulated investment,True
+Bangladesh_1962,Bangladesh,1962,57.36,61.4,60.95,Moderate simulated investment,True
+Bangladesh_1967,Bangladesh,1967,58.68,52.84,49.86,Moderate simulated investment,True
+Bangladesh_1972,Bangladesh,1972,69.47,48.24,60.39,Moderate simulated investment,True
+Bangladesh_1977,Bangladesh,1977,56.09,64.85,60.85,Moderate simulated investment,True
+Bangladesh_1982,Bangladesh,1982,73.71,59.33,66.07,Higher simulated investment,True
+Bangladesh_1987,Bangladesh,1987,62.88,61.69,60.87,Moderate simulated investment,True
+Bangladesh_1992,Bangladesh,1992,,55.09,68.32,Moderate simulated investment,True
+Bangladesh_1997,Bangladesh,1997,82.59,65.33,69.45,Higher simulated investment,True
+Bangladesh_2002,Bangladesh,2002,85.41,52.84,71.49,Higher simulated investment,True
+Bangladesh_2007,Bangladesh,2007,83.68,63.95,73.1,Higher simulated investment,True
+Benin_1952,Benin,1952,69.37,55.28,53.29,Moderate simulated investment,True
+Benin_1957,Benin,1957,41.98,52.42,,Lower simulated investment,True
+Benin_1962,Benin,1962,61.43,58.85,73.79,Moderate simulated investment,True
+Benin_1967,Benin,1967,47.83,48.12,72.47,Lower simulated investment,True
+Benin_1972,Benin,1972,63.58,66.4,76.22,Moderate simulated investment,True
+Benin_1977,Benin,1977,48.51,,75.15,Lower simulated investment,True
+Benin_1982,Benin,1982,63.13,67.75,84.25,,True
+Benin_1987,Benin,1987,,57.56,74.84,Higher simulated investment,True
+Benin_1992,Benin,1992,66.7,83.61,79.36,Moderate simulated investment,True
+Benin_1997,Benin,1997,76.42,50.46,75.47,Higher simulated investment,True
+Benin_2002,Benin,2002,59.17,66.11,68.82,Moderate simulated investment,True
+Benin_2007,Benin,2007,79.69,75.51,77.61,Higher simulated investment,True
+Botswana_1952,Botswana,1952,57.25,61.32,69.55,Moderate simulated investment,True
+Botswana_1957,Botswana,1957,50.68,47.92,72.42,Lower simulated investment,True
+Botswana_1962,Botswana,1962,58.11,65.21,82.07,Moderate simulated investment,True
+Botswana_1967,Botswana,1967,43.83,66.39,84.09,Lower simulated investment,True
+Botswana_1972,Botswana,1972,75.19,64.49,51.31,Higher simulated investment,True
+Botswana_1977,Botswana,1977,86.36,73.94,80.2,Higher simulated investment,True
+Botswana_1982,Botswana,1982,62.85,87.1,71.34,Moderate simulated investment,True
+Botswana_1987,Botswana,1987,87.19,81.49,74.45,Higher simulated investment,True
+Botswana_1992,Botswana,1992,76.98,81.4,81.6,Higher simulated investment,True
+Botswana_1997,Botswana,1997,66.85,71.35,72.31,Moderate simulated investment,True
+Botswana_2002,Botswana,2002,82.99,,,Higher simulated investment,True
+Botswana_2007,Botswana,2007,70.32,87.38,90.21,Moderate simulated investment,True
+Burkina_Faso_1952,Burkina Faso,1952,62.55,70.51,57.16,Moderate simulated investment,True
+Burkina_Faso_1957,Burkina Faso,1957,83.82,59.91,55.49,Higher simulated investment,True
+Burkina_Faso_1962,Burkina Faso,1962,72.08,74.4,40.76,Higher simulated investment,True
+Burkina_Faso_1967,Burkina Faso,1967,50.36,78.71,47.8,Lower simulated investment,True
+Burkina_Faso_1972,Burkina Faso,1972,51.17,65.34,48.87,Lower simulated investment,True
+Burkina_Faso_1977,Burkina Faso,1977,57.15,54.23,67.31,Moderate simulated investment,True
+Burkina_Faso_1982,Burkina Faso,1982,64.23,43.42,68.89,Moderate simulated investment,True
+Burkina_Faso_1987,Burkina Faso,1987,59.47,69.63,85.66,Moderate simulated investment,True
+Burkina_Faso_1992,Burkina Faso,1992,77.83,75.86,82.2,Higher simulated investment,True
+Burkina_Faso_1997,Burkina Faso,1997,68.76,39.11,84.75,Moderate simulated investment,True
+Burkina_Faso_2002,Burkina Faso,2002,71.28,81.59,98.1,Moderate simulated investment,True
+Burkina_Faso_2007,Burkina Faso,2007,59.12,83.0,53.55,Moderate simulated investment,True
+Burundi_1952,Burundi,1952,65.41,35.23,61.09,Moderate simulated investment,True
+Burundi_1957,Burundi,1957,,58.2,63.41,Moderate simulated investment,True
+Burundi_1962,Burundi,1962,46.39,43.61,55.27,Lower simulated investment,True
+Burundi_1967,Burundi,1967,54.94,62.22,50.16,Moderate simulated investment,True
+Burundi_1972,Burundi,1972,71.07,63.94,45.2,Moderate simulated investment,True
+Burundi_1977,Burundi,1977,56.22,77.99,64.53,Moderate simulated investment,True
+Burundi_1982,Burundi,1982,45.4,59.12,58.31,Lower simulated investment,True
+Burundi_1987,Burundi,1987,76.56,83.31,72.63,Higher simulated investment,True
+Burundi_1992,Burundi,1992,79.5,62.01,75.15,Higher simulated investment,True
+Burundi_1997,Burundi,1997,45.1,,71.33,Lower simulated investment,True
+Burundi_2002,Burundi,2002,37.95,,49.09,Lower simulated investment,True
+Burundi_2007,Burundi,2007,54.34,,65.99,Moderate simulated investment,True
+Cambodia_1952,Cambodia,1952,67.27,54.26,64.93,Moderate simulated investment,True
+Cambodia_1957,Cambodia,1957,60.19,53.5,56.41,Moderate simulated investment,True
+Cambodia_1962,Cambodia,1962,58.65,55.09,76.65,Moderate simulated investment,True
+Cambodia_1967,Cambodia,1967,54.58,66.26,75.05,Moderate simulated investment,True
+Cambodia_1972,Cambodia,1972,58.21,57.61,55.51,Moderate simulated investment,True
+Cambodia_1977,Cambodia,1977,49.07,52.37,73.24,Lower simulated investment,True
+Cambodia_1982,Cambodia,1982,49.21,71.19,69.81,Lower simulated investment,True
+Cambodia_1987,Cambodia,1987,61.39,76.69,69.79,Moderate simulated investment,True
+Cambodia_1992,Cambodia,1992,68.82,64.76,69.01,Moderate simulated investment,True
+Cambodia_1997,Cambodia,1997,59.04,53.71,62.53,Moderate simulated investment,True
+Cambodia_2002,Cambodia,2002,69.03,74.35,58.6,Moderate simulated investment,True
+Cambodia_2007,Cambodia,2007,97.24,81.69,80.88,Higher simulated investment,True
+Cameroon_1952,Cameroon,1952,61.07,,55.33,Moderate simulated investment,True
+Cameroon_1957,Cameroon,1957,52.71,,54.89,Lower simulated investment,True
+Cameroon_1962,Cameroon,1962,67.72,50.44,52.65,Moderate simulated investment,True
+Cameroon_1967,Cameroon,1967,62.96,48.94,56.23,Moderate simulated investment,True
+Cameroon_1972,Cameroon,1972,74.54,66.95,78.33,Higher simulated investment,True
+Cameroon_1977,Cameroon,1977,58.44,65.35,70.3,Moderate simulated investment,True
+Cameroon_1982,Cameroon,1982,65.12,56.35,87.0,Moderate simulated investment,True
+Cameroon_1987,Cameroon,1987,63.8,83.74,62.22,Moderate simulated investment,True
+Cameroon_1992,Cameroon,1992,69.05,73.52,64.35,Moderate simulated investment,True
+Cameroon_1997,Cameroon,1997,79.4,66.75,70.87,Higher simulated investment,True
+Cameroon_2002,Cameroon,2002,66.37,51.37,68.02,Moderate simulated investment,True
+Cameroon_2007,Cameroon,2007,57.88,57.26,83.77,Moderate simulated investment,True
+Central_African_Republic_1952,Central African Republic,1952,43.88,67.29,57.23,Lower simulated investment,True
+Central_African_Republic_1957,Central African Republic,1957,51.23,49.5,37.33,,True
+Central_African_Republic_1962,Central African Republic,1962,61.48,58.65,56.96,Moderate simulated investment,True
+Central_African_Republic_1967,Central African Republic,1967,61.8,74.46,72.45,Moderate simulated investment,True
+Central_African_Republic_1972,Central African Republic,1972,59.15,,59.95,Moderate simulated investment,True
+Central_African_Republic_1977,Central African Republic,1977,64.04,42.46,59.79,Moderate simulated investment,True
+Central_African_Republic_1982,Central African Republic,1982,51.02,67.0,60.31,Lower simulated investment,True
+Central_African_Republic_1987,Central African Republic,1987,75.89,70.93,77.86,Higher simulated investment,True
+Central_African_Republic_1992,Central African Republic,1992,66.27,54.16,61.3,Moderate simulated investment,True
+Central_African_Republic_1997,Central African Republic,1997,71.27,58.26,70.81,Moderate simulated investment,True
+Central_African_Republic_2002,Central African Republic,2002,44.86,69.1,66.78,Lower simulated investment,True
+Central_African_Republic_2007,Central African Republic,2007,70.53,62.3,55.85,Moderate simulated investment,True
+Chad_1952,Chad,1952,63.79,55.07,70.16,Moderate simulated investment,True
+Chad_1957,Chad,1957,51.15,70.08,66.36,Lower simulated investment,True
+Chad_1962,Chad,1962,80.35,45.86,59.55,Higher simulated investment,True
+Chad_1967,Chad,1967,64.23,57.5,71.78,Moderate simulated investment,True
+Chad_1972,Chad,1972,68.87,53.16,65.95,Moderate simulated investment,True
+Chad_1977,Chad,1977,69.24,57.25,65.5,Moderate simulated investment,True
+Chad_1982,Chad,1982,48.07,48.24,60.41,Lower simulated investment,True
+Chad_1987,Chad,1987,58.86,63.83,56.2,Moderate simulated investment,True
+Chad_1992,Chad,1992,74.87,53.51,76.35,Higher simulated investment,True
+Chad_1997,Chad,1997,75.51,70.94,77.7,Higher simulated investment,True
+Chad_2002,Chad,2002,72.17,,62.36,Higher simulated investment,True
+Chad_2007,Chad,2007,72.72,,74.58,Higher simulated investment,True
+China_1952,China,1952,53.17,48.58,52.04,Moderate simulated investment,True
+China_1957,China,1957,57.2,52.93,53.33,Moderate simulated investment,True
+China_1962,China,1962,50.89,47.17,48.63,Lower simulated investment,True
+China_1967,China,1967,63.48,,37.16,Moderate simulated investment,True
+China_1972,China,1972,60.35,62.6,65.99,Moderate simulated investment,True
+China_1977,China,1977,65.44,54.31,41.47,Moderate simulated investment,True
+China_1982,China,1982,70.06,74.27,67.71,Moderate simulated investment,True
+China_1987,China,1987,91.82,,67.89,Higher simulated investment,True
+China_1992,China,1992,60.61,70.97,55.05,Moderate simulated investment,True
+China_1997,China,1997,86.62,65.13,69.6,Higher simulated investment,True
+China_2002,China,2002,84.32,74.89,84.35,Higher simulated investment,True
+China_2007,China,2007,73.85,92.28,82.16,Higher simulated investment,True
+Comoros_1952,Comoros,1952,74.37,62.86,48.15,Higher simulated investment,True
+Comoros_1957,Comoros,1957,78.01,54.84,71.33,Higher simulated investment,True
+Comoros_1962,Comoros,1962,68.63,67.84,53.76,Moderate simulated investment,True
+Comoros_1967,Comoros,1967,61.48,65.24,64.26,Moderate simulated investment,True
+Comoros_1972,Comoros,1972,67.87,,62.21,Moderate simulated investment,True
+Comoros_1977,Comoros,1977,63.77,63.48,62.69,Moderate simulated investment,True
+Comoros_1982,Comoros,1982,68.15,77.28,59.33,Moderate simulated investment,True
+Comoros_1987,Comoros,1987,72.47,62.95,69.15,Higher simulated investment,True
+Comoros_1992,Comoros,1992,70.16,70.02,70.83,Moderate simulated investment,True
+Comoros_1997,Comoros,1997,70.51,,70.11,Moderate simulated investment,True
+Comoros_2002,Comoros,2002,79.97,68.55,65.24,Higher simulated investment,True
+Comoros_2007,Comoros,2007,71.92,56.16,98.88,Moderate simulated investment,True
+Congo_Dem_Rep_1952,"Congo, Dem. Rep.",1952,66.98,56.51,44.13,Moderate simulated investment,True
+Congo_Dem_Rep_1957,"Congo, Dem. Rep.",1957,63.35,62.74,69.32,Moderate simulated investment,True
+Congo_Dem_Rep_1962,"Congo, Dem. Rep.",1962,44.68,78.38,49.22,Lower simulated investment,True
+Congo_Dem_Rep_1967,"Congo, Dem. Rep.",1967,72.02,52.6,66.5,Higher simulated investment,True
+Congo_Dem_Rep_1972,"Congo, Dem. Rep.",1972,65.48,47.4,78.34,Moderate simulated investment,True
+Congo_Dem_Rep_1977,"Congo, Dem. Rep.",1977,57.28,49.98,51.61,Moderate simulated investment,True
+Congo_Dem_Rep_1982,"Congo, Dem. Rep.",1982,60.3,58.74,68.55,Moderate simulated investment,True
+Congo_Dem_Rep_1987,"Congo, Dem. Rep.",1987,84.06,50.26,55.6,Higher simulated investment,True
+Congo_Dem_Rep_1992,"Congo, Dem. Rep.",1992,60.57,63.95,62.78,Moderate simulated investment,True
+Congo_Dem_Rep_1997,"Congo, Dem. Rep.",1997,55.42,61.73,57.11,Moderate simulated investment,True
+Congo_Dem_Rep_2002,"Congo, Dem. Rep.",2002,55.12,,61.38,Moderate simulated investment,True
+Congo_Dem_Rep_2007,"Congo, Dem. Rep.",2007,63.98,72.72,63.93,Moderate simulated investment,True
+Congo_Rep_1952,"Congo, Rep.",1952,,74.77,,Higher simulated investment,True
+Congo_Rep_1957,"Congo, Rep.",1957,61.0,53.3,54.45,Moderate simulated investment,True
+Congo_Rep_1962,"Congo, Rep.",1962,55.57,66.62,67.72,Moderate simulated investment,True
+Congo_Rep_1967,"Congo, Rep.",1967,54.63,60.95,71.29,Moderate simulated investment,True
+Congo_Rep_1972,"Congo, Rep.",1972,73.41,58.01,86.2,Higher simulated investment,True
+Congo_Rep_1977,"Congo, Rep.",1977,40.51,89.55,64.43,Lower simulated investment,True
+Congo_Rep_1982,"Congo, Rep.",1982,,74.13,74.09,Moderate simulated investment,True
+Congo_Rep_1987,"Congo, Rep.",1987,62.87,81.04,77.98,Moderate simulated investment,True
+Congo_Rep_1992,"Congo, Rep.",1992,60.47,79.55,78.47,Moderate simulated investment,True
+Congo_Rep_1997,"Congo, Rep.",1997,75.92,86.8,62.34,Higher simulated investment,True
+Congo_Rep_2002,"Congo, Rep.",2002,68.25,65.3,63.59,Moderate simulated investment,True
+Congo_Rep_2007,"Congo, Rep.",2007,73.23,92.62,,Higher simulated investment,True
+Cote_d_Ivoire_1952,Cote d'Ivoire,1952,56.62,61.83,55.82,Moderate simulated investment,True
+Cote_d_Ivoire_1957,Cote d'Ivoire,1957,66.32,,64.22,Moderate simulated investment,True
+Cote_d_Ivoire_1962,Cote d'Ivoire,1962,52.32,69.25,68.54,Lower simulated investment,True
+Cote_d_Ivoire_1967,Cote d'Ivoire,1967,81.32,66.06,69.55,Higher simulated investment,True
+Cote_d_Ivoire_1972,Cote d'Ivoire,1972,82.07,72.4,81.14,Higher simulated investment,True
+Cote_d_Ivoire_1977,Cote d'Ivoire,1977,43.74,58.14,80.91,Lower simulated investment,True
+Cote_d_Ivoire_1982,Cote d'Ivoire,1982,61.49,60.43,71.05,Moderate simulated investment,True
+Cote_d_Ivoire_1987,Cote d'Ivoire,1987,61.02,78.65,62.44,Moderate simulated investment,True
+Cote_d_Ivoire_1992,Cote d'Ivoire,1992,60.55,73.98,60.71,Moderate simulated investment,True
+Cote_d_Ivoire_1997,Cote d'Ivoire,1997,50.65,65.91,72.64,Lower simulated investment,True
+Cote_d_Ivoire_2002,Cote d'Ivoire,2002,78.75,74.99,64.95,Higher simulated investment,True
+Cote_d_Ivoire_2007,Cote d'Ivoire,2007,66.65,73.79,79.8,Moderate simulated investment,True
+Djibouti_1952,Djibouti,1952,65.59,79.14,68.0,Moderate simulated investment,True
+Djibouti_1957,Djibouti,1957,34.7,64.46,71.78,Lower simulated investment,True
+Djibouti_1962,Djibouti,1962,78.36,,66.84,Higher simulated investment,True
+Djibouti_1967,Djibouti,1967,,71.1,,Moderate simulated investment,True
+Djibouti_1972,Djibouti,1972,85.85,74.46,66.18,Higher simulated investment,True
+Djibouti_1977,Djibouti,1977,65.83,61.22,85.8,Moderate simulated investment,True
+Djibouti_1982,Djibouti,1982,62.31,74.71,87.93,Moderate simulated investment,True
+Djibouti_1987,Djibouti,1987,45.89,74.2,100.0,Lower simulated investment,True
+Djibouti_1992,Djibouti,1992,83.21,67.2,72.62,Higher simulated investment,True
+Djibouti_1997,Djibouti,1997,66.82,52.53,75.23,Moderate simulated investment,True
+Djibouti_2002,Djibouti,2002,59.12,73.83,76.48,Moderate simulated investment,True
+Djibouti_2007,Djibouti,2007,73.51,73.87,69.33,Higher simulated investment,True
+Egypt_1952,Egypt,1952,51.41,59.61,61.84,Lower simulated investment,True
+Egypt_1957,Egypt,1957,52.2,76.87,63.01,,True
+Egypt_1962,Egypt,1962,37.11,74.89,71.44,Lower simulated investment,True
+Egypt_1967,Egypt,1967,54.42,,72.19,Moderate simulated investment,True
+Egypt_1972,Egypt,1972,56.44,59.33,73.99,Moderate simulated investment,True
+Egypt_1977,Egypt,1977,78.16,77.64,75.46,Higher simulated investment,True
+Egypt_1982,Egypt,1982,68.63,70.57,79.34,,True
+Egypt_1987,Egypt,1987,68.75,77.38,84.1,Moderate simulated investment,True
+Egypt_1992,Egypt,1992,64.86,85.45,65.05,Moderate simulated investment,True
+Egypt_1997,Egypt,1997,71.38,,73.7,Moderate simulated investment,True
+Egypt_2002,Egypt,2002,88.6,80.52,90.67,Higher simulated investment,True
+Egypt_2007,Egypt,2007,100.0,94.05,94.6,Higher simulated investment,True
+Equatorial_Guinea_1952,Equatorial Guinea,1952,46.66,50.23,50.11,Lower simulated investment,True
+Equatorial_Guinea_1957,Equatorial Guinea,1957,27.77,60.52,61.99,Lower simulated investment,True
+Equatorial_Guinea_1962,Equatorial Guinea,1962,72.56,43.09,61.43,Higher simulated investment,True
+Equatorial_Guinea_1967,Equatorial Guinea,1967,39.85,59.16,56.31,Lower simulated investment,True
+Equatorial_Guinea_1972,Equatorial Guinea,1972,62.46,60.73,53.3,Moderate simulated investment,True
+Equatorial_Guinea_1977,Equatorial Guinea,1977,49.71,,65.01,Lower simulated investment,True
+Equatorial_Guinea_1982,Equatorial Guinea,1982,69.78,77.38,74.99,Moderate simulated investment,True
+Equatorial_Guinea_1987,Equatorial Guinea,1987,55.67,71.92,65.94,Moderate simulated investment,True
+Equatorial_Guinea_1992,Equatorial Guinea,1992,76.12,52.14,64.01,Higher simulated investment,True
+Equatorial_Guinea_1997,Equatorial Guinea,1997,71.62,,76.56,Moderate simulated investment,True
+Equatorial_Guinea_2002,Equatorial Guinea,2002,67.84,94.23,93.07,Moderate simulated investment,True
+Equatorial_Guinea_2007,Equatorial Guinea,2007,87.98,95.6,92.29,Higher simulated investment,True
+Eritrea_1952,Eritrea,1952,69.18,53.75,38.82,Moderate simulated investment,True
+Eritrea_1957,Eritrea,1957,50.73,51.3,54.45,Lower simulated investment,True
+Eritrea_1962,Eritrea,1962,43.99,51.01,66.11,Lower simulated investment,True
+Eritrea_1967,Eritrea,1967,70.82,71.48,59.48,Moderate simulated investment,True
+Eritrea_1972,Eritrea,1972,69.74,62.04,,Moderate simulated investment,True
+Eritrea_1977,Eritrea,1977,80.83,51.49,62.92,,True
+Eritrea_1982,Eritrea,1982,55.1,64.63,45.37,Moderate simulated investment,True
+Eritrea_1987,Eritrea,1987,61.53,52.59,66.41,Moderate simulated investment,True
+Eritrea_1992,Eritrea,1992,65.13,67.48,66.89,Moderate simulated investment,True
+Eritrea_1997,Eritrea,1997,66.38,58.45,63.27,Moderate simulated investment,True
+Eritrea_2002,Eritrea,2002,62.16,72.78,68.53,Moderate simulated investment,True
+Eritrea_2007,Eritrea,2007,62.64,65.14,53.03,Moderate simulated investment,True
+Ethiopia_1952,Ethiopia,1952,41.69,46.54,54.54,Lower simulated investment,True
+Ethiopia_1957,Ethiopia,1957,48.04,48.22,50.41,Lower simulated investment,True
+Ethiopia_1962,Ethiopia,1962,,39.53,66.03,Lower simulated investment,True
+Ethiopia_1967,Ethiopia,1967,48.48,62.55,51.12,Lower simulated investment,True
+Ethiopia_1972,Ethiopia,1972,67.0,62.41,53.57,Moderate simulated investment,True
+Ethiopia_1977,Ethiopia,1977,64.22,56.82,69.59,Moderate simulated investment,True
+Ethiopia_1982,Ethiopia,1982,74.75,63.81,64.9,Higher simulated investment,True
+Ethiopia_1987,Ethiopia,1987,67.47,61.06,82.05,Moderate simulated investment,True
+Ethiopia_1992,Ethiopia,1992,58.05,64.75,64.95,Moderate simulated investment,True
+Ethiopia_1997,Ethiopia,1997,78.01,69.04,58.87,Higher simulated investment,True
+Ethiopia_2002,Ethiopia,2002,62.74,63.19,69.26,Moderate simulated investment,True
+Ethiopia_2007,Ethiopia,2007,84.9,,71.97,Higher simulated investment,True
+Gabon_1952,Gabon,1952,65.26,55.05,86.23,Moderate simulated investment,True
+Gabon_1957,Gabon,1957,55.19,58.37,75.6,Moderate simulated investment,True
+Gabon_1962,Gabon,1962,78.26,58.04,83.07,Higher simulated investment,True
+Gabon_1967,Gabon,1967,66.63,61.71,71.21,Moderate simulated investment,True
+Gabon_1972,Gabon,1972,82.51,83.27,70.7,Higher simulated investment,True
+Gabon_1977,Gabon,1977,83.06,86.82,89.26,Higher simulated investment,True
+Gabon_1982,Gabon,1982,,71.4,,Higher simulated investment,True
+Gabon_1987,Gabon,1987,88.91,68.2,77.69,Higher simulated investment,True
+Gabon_1992,Gabon,1992,87.94,80.32,88.84,Higher simulated investment,True
+Gabon_1997,Gabon,1997,84.75,82.22,87.37,Higher simulated investment,True
+Gabon_2002,Gabon,2002,89.74,76.55,87.34,Higher simulated investment,True
+Gabon_2007,Gabon,2007,74.06,95.28,86.25,Higher simulated investment,True
+Gambia_1952,Gambia,1952,69.92,51.31,61.76,Moderate simulated investment,True
+Gambia_1957,Gambia,1957,42.33,68.71,32.9,Lower simulated investment,True
+Gambia_1962,Gambia,1962,49.54,63.59,56.17,Lower simulated investment,True
+Gambia_1967,Gambia,1967,56.59,78.71,56.96,Moderate simulated investment,True
+Gambia_1972,Gambia,1972,56.42,35.07,63.51,Moderate simulated investment,True
+Gambia_1977,Gambia,1977,70.67,73.9,74.22,Moderate simulated investment,True
+Gambia_1982,Gambia,1982,46.88,71.82,69.6,Lower simulated investment,True
+Gambia_1987,Gambia,1987,75.64,58.7,59.73,Higher simulated investment,True
+Gambia_1992,Gambia,1992,69.08,63.27,82.36,Moderate simulated investment,True
+Gambia_1997,Gambia,1997,73.77,52.18,73.28,,True
+Gambia_2002,Gambia,2002,74.89,68.79,,Higher simulated investment,True
+Gambia_2007,Gambia,2007,44.95,50.96,69.65,Lower simulated investment,True
+Ghana_1952,Ghana,1952,53.77,55.57,55.3,Moderate simulated investment,True
+Ghana_1957,Ghana,1957,58.64,56.1,64.08,Moderate simulated investment,True
+Ghana_1962,Ghana,1962,44.09,,60.28,Lower simulated investment,True
+Ghana_1967,Ghana,1967,37.42,49.54,75.27,Lower simulated investment,True
+Ghana_1972,Ghana,1972,,62.39,57.51,Moderate simulated investment,True
+Ghana_1977,Ghana,1977,56.73,,67.35,Moderate simulated investment,True
+Ghana_1982,Ghana,1982,59.02,47.13,60.54,Moderate simulated investment,True
+Ghana_1987,Ghana,1987,68.13,71.87,55.68,Moderate simulated investment,True
+Ghana_1992,Ghana,1992,70.88,56.22,57.72,Moderate simulated investment,True
+Ghana_1997,Ghana,1997,70.03,80.67,54.0,Moderate simulated investment,True
+Ghana_2002,Ghana,2002,,60.19,73.58,Moderate simulated investment,True
+Ghana_2007,Ghana,2007,66.46,61.12,69.43,Moderate simulated investment,True
+Guinea_1952,Guinea,1952,38.15,69.13,34.84,Lower simulated investment,True
+Guinea_1957,Guinea,1957,49.74,53.14,,Lower simulated investment,True
+Guinea_1962,Guinea,1962,63.07,55.8,62.65,Moderate simulated investment,True
+Guinea_1967,Guinea,1967,77.06,56.73,57.28,Higher simulated investment,True
+Guinea_1972,Guinea,1972,72.03,53.56,61.65,Higher simulated investment,True
+Guinea_1977,Guinea,1977,,72.95,82.02,Moderate simulated investment,True
+Guinea_1982,Guinea,1982,48.04,66.27,66.36,Lower simulated investment,True
+Guinea_1987,Guinea,1987,64.52,62.23,63.43,,True
+Guinea_1992,Guinea,1992,71.96,,65.77,Moderate simulated investment,True
+Guinea_1997,Guinea,1997,70.13,65.34,47.91,,True
+Guinea_2002,Guinea,2002,66.79,78.42,77.18,Moderate simulated investment,True
+Guinea_2007,Guinea,2007,62.57,60.85,66.94,Moderate simulated investment,True
+Guinea_Bissau_1952,Guinea-Bissau,1952,58.58,47.74,67.52,,True
+Guinea_Bissau_1957,Guinea-Bissau,1957,67.36,47.95,52.85,Moderate simulated investment,True
+Guinea_Bissau_1962,Guinea-Bissau,1962,66.42,44.87,44.2,Moderate simulated investment,True
+Guinea_Bissau_1967,Guinea-Bissau,1967,68.08,44.63,61.78,Moderate simulated investment,True
+Guinea_Bissau_1972,Guinea-Bissau,1972,48.33,71.44,70.52,Lower simulated investment,True
+Guinea_Bissau_1977,Guinea-Bissau,1977,65.39,57.51,65.8,Moderate simulated investment,True
+Guinea_Bissau_1982,Guinea-Bissau,1982,62.66,71.86,46.88,,True
+Guinea_Bissau_1987,Guinea-Bissau,1987,65.6,55.14,46.03,Moderate simulated investment,True
+Guinea_Bissau_1992,Guinea-Bissau,1992,60.88,50.43,65.69,Moderate simulated investment,True
+Guinea_Bissau_1997,Guinea-Bissau,1997,63.59,58.02,58.85,Moderate simulated investment,True
+Guinea_Bissau_2002,Guinea-Bissau,2002,73.32,66.91,,Higher simulated investment,True
+Guinea_Bissau_2007,Guinea-Bissau,2007,65.28,52.23,64.4,Moderate simulated investment,True
+Hong_Kong_China_1952,"Hong Kong, China",1952,81.99,63.89,64.14,Higher simulated investment,True
+Hong_Kong_China_1957,"Hong Kong, China",1957,56.2,81.15,62.57,Moderate simulated investment,True
+Hong_Kong_China_1962,"Hong Kong, China",1962,86.15,64.82,69.2,Higher simulated investment,True
+Hong_Kong_China_1967,"Hong Kong, China",1967,75.07,,77.59,,True
+Hong_Kong_China_1972,"Hong Kong, China",1972,98.46,,74.46,Higher simulated investment,True
+Hong_Kong_China_1977,"Hong Kong, China",1977,69.52,91.36,85.25,Moderate simulated investment,True
+Hong_Kong_China_1982,"Hong Kong, China",1982,83.34,90.58,87.61,Higher simulated investment,True
+Hong_Kong_China_1987,"Hong Kong, China",1987,71.05,96.85,89.02,Moderate simulated investment,True
+Hong_Kong_China_1992,"Hong Kong, China",1992,87.91,79.66,83.42,Higher simulated investment,True
+Hong_Kong_China_1997,"Hong Kong, China",1997,98.06,98.75,80.86,Higher simulated investment,True
+Hong_Kong_China_2002,"Hong Kong, China",2002,,100.0,97.38,Higher simulated investment,True
+Hong_Kong_China_2007,"Hong Kong, China",2007,85.74,91.91,83.88,Higher simulated investment,True
+India_1952,India,1952,54.04,67.71,65.38,Moderate simulated investment,True
+India_1957,India,1957,,60.23,74.16,Lower simulated investment,True
+India_1962,India,1962,68.93,35.16,65.32,Moderate simulated investment,True
+India_1967,India,1967,54.55,67.49,57.67,Moderate simulated investment,True
+India_1972,India,1972,58.12,60.65,60.57,Moderate simulated investment,True
+India_1977,India,1977,51.93,56.93,66.03,Lower simulated investment,True
+India_1982,India,1982,53.76,37.24,69.21,Moderate simulated investment,True
+India_1987,India,1987,74.77,,61.61,Higher simulated investment,True
+India_1992,India,1992,67.88,,66.39,Moderate simulated investment,True
+India_1997,India,1997,59.78,66.61,,Moderate simulated investment,True
+India_2002,India,2002,53.23,81.27,76.25,Moderate simulated investment,True
+India_2007,India,2007,76.01,,62.23,Higher simulated investment,True
+Indonesia_1952,Indonesia,1952,,47.46,50.76,Moderate simulated investment,True
+Indonesia_1957,Indonesia,1957,56.38,64.37,58.65,Moderate simulated investment,True
+Indonesia_1962,Indonesia,1962,54.7,49.97,62.87,,True
+Indonesia_1967,Indonesia,1967,43.86,45.95,,Lower simulated investment,True
+Indonesia_1972,Indonesia,1972,64.09,57.79,51.49,Moderate simulated investment,True
+Indonesia_1977,Indonesia,1977,53.57,64.43,73.19,Moderate simulated investment,True
+Indonesia_1982,Indonesia,1982,60.8,80.21,59.82,Moderate simulated investment,True
+Indonesia_1987,Indonesia,1987,66.3,73.66,68.63,Moderate simulated investment,True
+Indonesia_1992,Indonesia,1992,65.23,66.45,70.63,Moderate simulated investment,True
+Indonesia_1997,Indonesia,1997,,69.3,68.92,Moderate simulated investment,True
+Indonesia_2002,Indonesia,2002,67.27,82.41,77.13,Moderate simulated investment,True
+Indonesia_2007,Indonesia,2007,55.38,,70.67,,True
+Iran_1952,Iran,1952,67.95,59.94,77.31,Moderate simulated investment,True
+Iran_1957,Iran,1957,63.08,71.56,66.61,Moderate simulated investment,True
+Iran_1962,Iran,1962,77.95,66.49,72.55,Higher simulated investment,True
+Iran_1967,Iran,1967,75.61,58.02,63.79,Higher simulated investment,True
+Iran_1972,Iran,1972,78.83,69.72,89.85,Higher simulated investment,True
+Iran_1977,Iran,1977,87.23,72.34,91.63,,True
+Iran_1982,Iran,1982,60.66,73.39,73.41,Moderate simulated investment,True
+Iran_1987,Iran,1987,70.97,100.0,78.04,Moderate simulated investment,True
+Iran_1992,Iran,1992,83.34,82.65,71.91,Higher simulated investment,True
+Iran_1997,Iran,1997,98.73,,80.62,Higher simulated investment,True
+Iran_2002,Iran,2002,88.23,81.72,81.81,Higher simulated investment,True
+Iran_2007,Iran,2007,79.2,74.2,83.4,Higher simulated investment,True
+Iraq_1952,Iraq,1952,52.1,,59.56,Lower simulated investment,True
+Iraq_1957,Iraq,1957,77.71,76.12,79.29,Higher simulated investment,True
+Iraq_1962,Iraq,1962,95.75,58.95,70.15,Higher simulated investment,True
+Iraq_1967,Iraq,1967,79.28,70.8,89.3,Higher simulated investment,True
+Iraq_1972,Iraq,1972,63.81,79.25,87.94,Moderate simulated investment,True
+Iraq_1977,Iraq,1977,90.02,79.89,72.9,Higher simulated investment,True
+Iraq_1982,Iraq,1982,95.41,97.61,,Higher simulated investment,True
+Iraq_1987,Iraq,1987,79.29,87.07,83.07,Higher simulated investment,True
+Iraq_1992,Iraq,1992,,61.24,93.58,Higher simulated investment,True
+Iraq_1997,Iraq,1997,81.2,77.66,76.21,Higher simulated investment,True
+Iraq_2002,Iraq,2002,89.71,82.03,90.22,Higher simulated investment,True
+Iraq_2007,Iraq,2007,84.2,83.54,,Higher simulated investment,True
+Israel_1952,Israel,1952,80.7,54.3,,Higher simulated investment,True
+Israel_1957,Israel,1957,72.96,85.24,58.56,Higher simulated investment,True
+Israel_1962,Israel,1962,86.11,70.41,72.41,Higher simulated investment,True
+Israel_1967,Israel,1967,77.33,75.23,70.56,Higher simulated investment,True
+Israel_1972,Israel,1972,61.81,85.93,88.48,Moderate simulated investment,True
+Israel_1977,Israel,1977,79.13,70.79,83.68,Higher simulated investment,True
+Israel_1982,Israel,1982,87.66,80.21,80.2,Higher simulated investment,True
+Israel_1987,Israel,1987,72.57,74.28,67.23,Higher simulated investment,True
+Israel_1992,Israel,1992,73.51,97.76,65.49,Higher simulated investment,True
+Israel_1997,Israel,1997,90.91,70.07,92.89,Higher simulated investment,True
+Israel_2002,Israel,2002,100.0,93.37,99.75,Higher simulated investment,True
+Israel_2007,Israel,2007,95.1,99.2,94.91,Higher simulated investment,True
+Japan_1952,Japan,1952,46.11,74.59,69.03,Lower simulated investment,True
+Japan_1957,Japan,1957,82.35,91.31,67.33,Higher simulated investment,True
+Japan_1962,Japan,1962,75.27,79.86,80.45,Higher simulated investment,True
+Japan_1967,Japan,1967,,79.92,68.23,Moderate simulated investment,True
+Japan_1972,Japan,1972,91.96,93.56,87.69,Higher simulated investment,True
+Japan_1977,Japan,1977,72.05,64.04,88.38,Higher simulated investment,True
+Japan_1982,Japan,1982,81.05,95.61,85.87,Higher simulated investment,True
+Japan_1987,Japan,1987,90.4,89.25,80.43,Higher simulated investment,True
+Japan_1992,Japan,1992,86.98,97.94,78.27,Higher simulated investment,True
+Japan_1997,Japan,1997,100.0,78.7,,Higher simulated investment,True
+Japan_2002,Japan,2002,85.37,83.18,78.86,Higher simulated investment,True
+Japan_2007,Japan,2007,,88.98,100.0,Higher simulated investment,True
+Jordan_1952,Jordan,1952,86.65,70.11,56.22,Higher simulated investment,True
+Jordan_1957,Jordan,1957,61.3,61.57,70.91,Moderate simulated investment,True
+Jordan_1962,Jordan,1962,68.68,77.2,46.21,Moderate simulated investment,True
+Jordan_1967,Jordan,1967,61.76,,,Moderate simulated investment,True
+Jordan_1972,Jordan,1972,48.26,63.17,58.69,Lower simulated investment,True
+Jordan_1977,Jordan,1977,92.28,81.18,64.77,Higher simulated investment,True
+Jordan_1982,Jordan,1982,85.5,69.92,77.57,Higher simulated investment,True
+Jordan_1987,Jordan,1987,78.63,67.57,76.02,Higher simulated investment,True
+Jordan_1992,Jordan,1992,77.16,51.25,77.46,Higher simulated investment,True
+Jordan_1997,Jordan,1997,72.72,82.01,74.42,Higher simulated investment,True
+Jordan_2002,Jordan,2002,86.27,,72.03,Higher simulated investment,True
+Jordan_2007,Jordan,2007,87.24,72.0,84.25,Higher simulated investment,True
+Kenya_1952,Kenya,1952,36.67,65.37,67.98,Lower simulated investment,True
+Kenya_1957,Kenya,1957,56.76,57.67,76.14,Moderate simulated investment,True
+Kenya_1962,Kenya,1962,71.77,65.42,59.03,Moderate simulated investment,True
+Kenya_1967,Kenya,1967,71.48,50.47,61.28,Moderate simulated investment,True
+Kenya_1972,Kenya,1972,68.65,69.1,55.27,Moderate simulated investment,True
+Kenya_1977,Kenya,1977,53.98,38.56,61.36,Moderate simulated investment,True
+Kenya_1982,Kenya,1982,82.59,76.01,53.18,Higher simulated investment,True
+Kenya_1987,Kenya,1987,48.19,65.82,77.88,Lower simulated investment,True
+Kenya_1992,Kenya,1992,74.95,83.6,65.74,Higher simulated investment,True
+Kenya_1997,Kenya,1997,71.18,60.58,56.64,,True
+Kenya_2002,Kenya,2002,59.79,77.84,67.59,Moderate simulated investment,True
+Kenya_2007,Kenya,2007,42.08,68.17,79.56,Lower simulated investment,True
+Korea_Dem_Rep_1952,"Korea, Dem. Rep.",1952,57.36,70.87,43.89,Moderate simulated investment,True
+Korea_Dem_Rep_1957,"Korea, Dem. Rep.",1957,48.37,53.92,70.57,Lower simulated investment,True
+Korea_Dem_Rep_1962,"Korea, Dem. Rep.",1962,50.77,90.35,55.93,Lower simulated investment,True
+Korea_Dem_Rep_1967,"Korea, Dem. Rep.",1967,,65.48,72.79,Moderate simulated investment,True
+Korea_Dem_Rep_1972,"Korea, Dem. Rep.",1972,79.13,63.96,65.32,Higher simulated investment,True
+Korea_Dem_Rep_1977,"Korea, Dem. Rep.",1977,83.15,64.97,69.5,Higher simulated investment,True
+Korea_Dem_Rep_1982,"Korea, Dem. Rep.",1982,81.85,79.67,77.26,Higher simulated investment,True
+Korea_Dem_Rep_1987,"Korea, Dem. Rep.",1987,78.1,69.44,80.51,Higher simulated investment,True
+Korea_Dem_Rep_1992,"Korea, Dem. Rep.",1992,63.75,71.9,81.17,Moderate simulated investment,True
+Korea_Dem_Rep_1997,"Korea, Dem. Rep.",1997,54.62,61.49,60.81,Moderate simulated investment,True
+Korea_Dem_Rep_2002,"Korea, Dem. Rep.",2002,56.74,73.29,73.03,Moderate simulated investment,True
+Korea_Dem_Rep_2007,"Korea, Dem. Rep.",2007,,66.33,72.09,Higher simulated investment,True
+Korea_Rep_1952,"Korea, Rep.",1952,62.36,60.8,47.58,Moderate simulated investment,True
+Korea_Rep_1957,"Korea, Rep.",1957,49.46,56.9,46.27,Lower simulated investment,True
+Korea_Rep_1962,"Korea, Rep.",1962,56.99,69.03,64.62,Moderate simulated investment,True
+Korea_Rep_1967,"Korea, Rep.",1967,71.96,,59.24,Moderate simulated investment,True
+Korea_Rep_1972,"Korea, Rep.",1972,70.44,62.27,72.46,Moderate simulated investment,True
+Korea_Rep_1977,"Korea, Rep.",1977,60.92,62.22,71.86,Moderate simulated investment,True
+Korea_Rep_1982,"Korea, Rep.",1982,,88.85,85.42,Higher simulated investment,True
+Korea_Rep_1987,"Korea, Rep.",1987,76.13,72.66,86.89,Higher simulated investment,True
+Korea_Rep_1992,"Korea, Rep.",1992,68.53,71.3,78.87,Moderate simulated investment,True
+Korea_Rep_1997,"Korea, Rep.",1997,75.97,71.63,76.26,Higher simulated investment,True
+Korea_Rep_2002,"Korea, Rep.",2002,99.66,96.92,80.46,Higher simulated investment,True
+Korea_Rep_2007,"Korea, Rep.",2007,100.0,95.88,88.66,Higher simulated investment,True
+Kuwait_1952,Kuwait,1952,94.23,100.0,84.39,Higher simulated investment,True
+Kuwait_1957,Kuwait,1957,97.21,100.0,100.0,Higher simulated investment,True
+Kuwait_1962,Kuwait,1962,87.05,100.0,94.92,Higher simulated investment,True
+Kuwait_1967,Kuwait,1967,,76.13,74.59,Higher simulated investment,True
+Kuwait_1972,Kuwait,1972,77.79,99.22,94.12,Higher simulated investment,True
+Kuwait_1977,Kuwait,1977,90.32,94.76,88.04,Higher simulated investment,True
+Kuwait_1982,Kuwait,1982,78.87,81.18,96.06,Higher simulated investment,True
+Kuwait_1987,Kuwait,1987,,100.0,86.84,Higher simulated investment,True
+Kuwait_1992,Kuwait,1992,82.13,72.72,100.0,Higher simulated investment,True
+Kuwait_1997,Kuwait,1997,100.0,,93.6,Higher simulated investment,True
+Kuwait_2002,Kuwait,2002,91.72,82.82,100.0,Higher simulated investment,True
+Kuwait_2007,Kuwait,2007,98.56,96.5,100.0,Higher simulated investment,True
+Lebanon_1952,Lebanon,1952,66.04,,72.72,Moderate simulated investment,True
+Lebanon_1957,Lebanon,1957,,55.51,66.01,Moderate simulated investment,True
+Lebanon_1962,Lebanon,1962,71.67,74.22,74.38,,True
+Lebanon_1967,Lebanon,1967,67.6,73.8,74.27,Moderate simulated investment,True
+Lebanon_1972,Lebanon,1972,63.55,77.96,64.73,Moderate simulated investment,True
+Lebanon_1977,Lebanon,1977,,79.39,,Moderate simulated investment,True
+Lebanon_1982,Lebanon,1982,96.04,81.02,89.6,Higher simulated investment,True
+Lebanon_1987,Lebanon,1987,76.57,81.47,84.53,Higher simulated investment,True
+Lebanon_1992,Lebanon,1992,73.19,79.39,83.35,Higher simulated investment,True
+Lebanon_1997,Lebanon,1997,78.11,77.2,,Higher simulated investment,True
+Lebanon_2002,Lebanon,2002,100.0,67.99,100.0,Higher simulated investment,True
+Lebanon_2007,Lebanon,2007,93.58,86.89,83.09,Higher simulated investment,True
+Lesotho_1952,Lesotho,1952,41.53,55.28,58.51,Lower simulated investment,True
+Lesotho_1957,Lesotho,1957,49.35,46.62,55.66,Lower simulated investment,True
+Lesotho_1962,Lesotho,1962,41.27,71.52,50.0,Lower simulated investment,True
+Lesotho_1967,Lesotho,1967,,67.25,51.48,Lower simulated investment,True
+Lesotho_1972,Lesotho,1972,48.02,51.69,76.09,,True
+Lesotho_1977,Lesotho,1977,56.85,48.01,52.64,Moderate simulated investment,True
+Lesotho_1982,Lesotho,1982,72.9,39.05,72.41,Higher simulated investment,True
+Lesotho_1987,Lesotho,1987,54.05,55.4,61.56,Moderate simulated investment,True
+Lesotho_1992,Lesotho,1992,66.94,53.91,66.35,Moderate simulated investment,True
+Lesotho_1997,Lesotho,1997,71.62,63.02,66.23,Moderate simulated investment,True
+Lesotho_2002,Lesotho,2002,53.99,76.01,73.02,Moderate simulated investment,True
+Lesotho_2007,Lesotho,2007,,68.59,74.58,Higher simulated investment,True
+Liberia_1952,Liberia,1952,43.96,59.48,57.31,Lower simulated investment,True
+Liberia_1957,Liberia,1957,55.43,73.07,54.73,Moderate simulated investment,True
+Liberia_1962,Liberia,1962,58.59,58.87,55.22,Moderate simulated investment,True
+Liberia_1967,Liberia,1967,52.01,55.24,64.31,Lower simulated investment,True
+Liberia_1972,Liberia,1972,,61.51,,Moderate simulated investment,True
+Liberia_1977,Liberia,1977,55.23,66.47,,Moderate simulated investment,True
+Liberia_1982,Liberia,1982,53.11,61.07,62.25,Moderate simulated investment,True
+Liberia_1987,Liberia,1987,,60.1,65.88,Higher simulated investment,True
+Liberia_1992,Liberia,1992,73.62,44.96,72.73,Higher simulated investment,True
+Liberia_1997,Liberia,1997,68.8,51.05,70.21,Moderate simulated investment,True
+Liberia_2002,Liberia,2002,57.25,53.09,64.07,Moderate simulated investment,True
+Liberia_2007,Liberia,2007,60.38,67.79,66.93,Moderate simulated investment,True
+Libya_1952,Libya,1952,,64.81,63.03,Moderate simulated investment,True
+Libya_1957,Libya,1957,74.55,82.81,66.56,,True
+Libya_1962,Libya,1962,60.31,70.2,80.4,Moderate simulated investment,True
+Libya_1967,Libya,1967,91.37,72.77,92.68,Higher simulated investment,True
+Libya_1972,Libya,1972,79.4,100.0,87.91,Higher simulated investment,True
+Libya_1977,Libya,1977,70.78,87.1,93.47,Moderate simulated investment,True
+Libya_1982,Libya,1982,91.38,76.88,74.74,Higher simulated investment,True
+Libya_1987,Libya,1987,85.08,80.61,100.0,Higher simulated investment,True
+Libya_1992,Libya,1992,65.31,80.87,89.9,Moderate simulated investment,True
+Libya_1997,Libya,1997,57.53,73.56,89.18,Moderate simulated investment,True
+Libya_2002,Libya,2002,78.93,81.29,83.47,Higher simulated investment,True
+Libya_2007,Libya,2007,80.22,90.03,79.53,Higher simulated investment,True
+Madagascar_1952,Madagascar,1952,51.8,63.41,54.85,Lower simulated investment,True
+Madagascar_1957,Madagascar,1957,64.97,56.29,77.26,Moderate simulated investment,True
+Madagascar_1962,Madagascar,1962,,65.68,60.16,Higher simulated investment,True
+Madagascar_1967,Madagascar,1967,66.73,,55.01,Moderate simulated investment,True
+Madagascar_1972,Madagascar,1972,62.82,82.01,67.1,Moderate simulated investment,True
+Madagascar_1977,Madagascar,1977,63.11,38.15,65.52,Moderate simulated investment,True
+Madagascar_1982,Madagascar,1982,78.88,65.51,62.82,Higher simulated investment,True
+Madagascar_1987,Madagascar,1987,72.36,59.98,67.27,Higher simulated investment,True
+Madagascar_1992,Madagascar,1992,61.88,61.86,66.53,Moderate simulated investment,True
+Madagascar_1997,Madagascar,1997,76.79,75.93,70.69,Higher simulated investment,True
+Madagascar_2002,Madagascar,2002,57.86,63.52,64.26,Moderate simulated investment,True
+Madagascar_2007,Madagascar,2007,83.49,80.83,74.95,Higher simulated investment,True
+Malawi_1952,Malawi,1952,70.83,79.7,49.5,Moderate simulated investment,True
+Malawi_1957,Malawi,1957,54.92,58.65,67.11,Moderate simulated investment,True
+Malawi_1962,Malawi,1962,56.07,66.54,38.98,Moderate simulated investment,True
+Malawi_1967,Malawi,1967,67.15,83.08,52.27,Moderate simulated investment,True
+Malawi_1972,Malawi,1972,66.26,60.63,72.22,Moderate simulated investment,True
+Malawi_1977,Malawi,1977,59.86,58.38,61.71,Moderate simulated investment,True
+Malawi_1982,Malawi,1982,66.2,52.34,69.3,Moderate simulated investment,True
+Malawi_1987,Malawi,1987,49.07,62.76,48.83,Lower simulated investment,True
+Malawi_1992,Malawi,1992,44.96,74.77,58.13,,True
+Malawi_1997,Malawi,1997,53.09,56.87,76.83,Moderate simulated investment,True
+Malawi_2002,Malawi,2002,65.89,69.02,65.68,Moderate simulated investment,True
+Malawi_2007,Malawi,2007,68.08,54.07,71.65,Moderate simulated investment,True
+Malaysia_1952,Malaysia,1952,68.74,66.39,52.98,Moderate simulated investment,True
+Malaysia_1957,Malaysia,1957,51.97,44.83,81.0,Lower simulated investment,True
+Malaysia_1962,Malaysia,1962,64.03,74.59,70.21,Moderate simulated investment,True
+Malaysia_1967,Malaysia,1967,59.62,59.33,68.03,Moderate simulated investment,True
+Malaysia_1972,Malaysia,1972,67.09,68.77,73.13,Moderate simulated investment,True
+Malaysia_1977,Malaysia,1977,60.24,61.34,83.65,Moderate simulated investment,True
+Malaysia_1982,Malaysia,1982,65.24,78.31,58.93,,True
+Malaysia_1987,Malaysia,1987,73.85,79.73,87.39,Higher simulated investment,True
+Malaysia_1992,Malaysia,1992,97.28,83.15,62.49,Higher simulated investment,True
+Malaysia_1997,Malaysia,1997,86.35,74.56,87.67,Higher simulated investment,True
+Malaysia_2002,Malaysia,2002,96.73,99.17,83.42,Higher simulated investment,True
+Malaysia_2007,Malaysia,2007,77.0,85.59,100.0,Higher simulated investment,True
+Mali_1952,Mali,1952,41.91,50.39,59.58,,True
+Mali_1957,Mali,1957,54.79,53.86,43.77,Moderate simulated investment,True
+Mali_1962,Mali,1962,48.01,50.63,,Lower simulated investment,True
+Mali_1967,Mali,1967,78.31,57.34,65.97,Higher simulated investment,True
+Mali_1972,Mali,1972,57.18,64.46,77.05,Moderate simulated investment,True
+Mali_1977,Mali,1977,51.46,58.62,66.64,Lower simulated investment,True
+Mali_1982,Mali,1982,69.14,56.5,84.36,Moderate simulated investment,True
+Mali_1987,Mali,1987,71.77,52.0,70.91,Moderate simulated investment,True
+Mali_1992,Mali,1992,51.35,58.85,63.86,Lower simulated investment,True
+Mali_1997,Mali,1997,77.41,58.84,,Higher simulated investment,True
+Mali_2002,Mali,2002,68.36,58.75,63.75,,True
+Mali_2007,Mali,2007,55.09,66.85,80.1,Moderate simulated investment,True
+Mauritania_1952,Mauritania,1952,52.7,65.58,62.2,Lower simulated investment,True
+Mauritania_1957,Mauritania,1957,53.8,47.26,58.54,Moderate simulated investment,True
+Mauritania_1962,Mauritania,1962,62.9,67.49,62.7,Moderate simulated investment,True
+Mauritania_1967,Mauritania,1967,61.31,56.77,53.11,Moderate simulated investment,True
+Mauritania_1972,Mauritania,1972,61.4,58.34,73.34,Moderate simulated investment,True
+Mauritania_1977,Mauritania,1977,55.05,56.66,75.34,Moderate simulated investment,True
+Mauritania_1982,Mauritania,1982,57.71,69.33,59.87,Moderate simulated investment,True
+Mauritania_1987,Mauritania,1987,72.08,70.83,68.95,Higher simulated investment,True
+Mauritania_1992,Mauritania,1992,73.85,,,Higher simulated investment,True
+Mauritania_1997,Mauritania,1997,41.0,78.7,59.8,Lower simulated investment,True
+Mauritania_2002,Mauritania,2002,84.96,66.6,74.26,Higher simulated investment,True
+Mauritania_2007,Mauritania,2007,79.67,81.15,92.78,Higher simulated investment,True
+Mauritius_1952,Mauritius,1952,83.75,67.99,66.58,Higher simulated investment,True
+Mauritius_1957,Mauritius,1957,67.83,62.12,53.09,,True
+Mauritius_1962,Mauritius,1962,49.16,71.95,,Lower simulated investment,True
+Mauritius_1967,Mauritius,1967,55.68,67.89,70.24,,True
+Mauritius_1972,Mauritius,1972,54.57,61.81,64.07,Moderate simulated investment,True
+Mauritius_1977,Mauritius,1977,56.35,,78.04,Moderate simulated investment,True
+Mauritius_1982,Mauritius,1982,73.01,79.41,,Higher simulated investment,True
+Mauritius_1987,Mauritius,1987,69.85,100.0,84.56,Moderate simulated investment,True
+Mauritius_1992,Mauritius,1992,88.92,68.72,89.38,Higher simulated investment,True
+Mauritius_1997,Mauritius,1997,67.34,75.37,100.0,Moderate simulated investment,True
+Mauritius_2002,Mauritius,2002,78.58,86.29,89.2,Higher simulated investment,True
+Mauritius_2007,Mauritius,2007,83.93,100.0,99.19,Higher simulated investment,True
+Mongolia_1952,Mongolia,1952,58.25,59.76,70.9,Moderate simulated investment,True
+Mongolia_1957,Mongolia,1957,51.2,48.92,58.25,Lower simulated investment,True
+Mongolia_1962,Mongolia,1962,80.83,65.68,48.05,Higher simulated investment,True
+Mongolia_1967,Mongolia,1967,79.19,57.03,60.71,,True
+Mongolia_1972,Mongolia,1972,65.29,58.38,70.1,,True
+Mongolia_1977,Mongolia,1977,69.39,,73.45,Moderate simulated investment,True
+Mongolia_1982,Mongolia,1982,68.53,59.21,76.19,Moderate simulated investment,True
+Mongolia_1987,Mongolia,1987,79.39,72.63,69.5,,True
+Mongolia_1992,Mongolia,1992,72.49,,52.5,Higher simulated investment,True
+Mongolia_1997,Mongolia,1997,72.13,67.53,73.68,Higher simulated investment,True
+Mongolia_2002,Mongolia,2002,,61.47,61.42,,True
+Mongolia_2007,Mongolia,2007,84.51,75.38,69.44,Higher simulated investment,True
+Morocco_1952,Morocco,1952,85.09,71.5,69.12,Higher simulated investment,True
+Morocco_1957,Morocco,1957,48.5,56.52,,Lower simulated investment,True
+Morocco_1962,Morocco,1962,,69.01,73.11,Moderate simulated investment,True
+Morocco_1967,Morocco,1967,72.41,72.5,66.21,,True
+Morocco_1972,Morocco,1972,62.53,77.46,71.1,Moderate simulated investment,True
+Morocco_1977,Morocco,1977,75.16,81.26,82.24,Higher simulated investment,True
+Morocco_1982,Morocco,1982,81.58,77.48,79.03,Higher simulated investment,True
+Morocco_1987,Morocco,1987,80.3,69.29,56.84,Higher simulated investment,True
+Morocco_1992,Morocco,1992,87.0,57.52,71.25,Higher simulated investment,True
+Morocco_1997,Morocco,1997,58.84,72.57,70.31,Moderate simulated investment,True
+Morocco_2002,Morocco,2002,74.73,83.23,63.48,Higher simulated investment,True
+Morocco_2007,Morocco,2007,68.72,92.3,70.63,Moderate simulated investment,True
+Mozambique_1952,Mozambique,1952,38.39,58.34,58.67,Lower simulated investment,True
+Mozambique_1957,Mozambique,1957,57.3,48.13,62.57,Moderate simulated investment,True
+Mozambique_1962,Mozambique,1962,42.39,58.4,56.09,Lower simulated investment,True
+Mozambique_1967,Mozambique,1967,57.7,53.13,56.26,Moderate simulated investment,True
+Mozambique_1972,Mozambique,1972,80.67,65.19,67.23,Higher simulated investment,True
+Mozambique_1977,Mozambique,1977,63.82,58.27,63.46,Moderate simulated investment,True
+Mozambique_1982,Mozambique,1982,64.73,44.01,77.78,,True
+Mozambique_1987,Mozambique,1987,38.14,72.92,51.41,Lower simulated investment,True
+Mozambique_1992,Mozambique,1992,38.15,71.94,62.43,Lower simulated investment,True
+Mozambique_1997,Mozambique,1997,57.62,43.98,76.48,Moderate simulated investment,True
+Mozambique_2002,Mozambique,2002,73.94,56.38,54.43,Higher simulated investment,True
+Mozambique_2007,Mozambique,2007,87.18,73.54,59.45,Higher simulated investment,True
+Myanmar_1952,Myanmar,1952,65.82,,39.71,Moderate simulated investment,True
+Myanmar_1957,Myanmar,1957,62.33,60.6,52.07,Moderate simulated investment,True
+Myanmar_1962,Myanmar,1962,59.75,39.12,60.59,Moderate simulated investment,True
+Myanmar_1967,Myanmar,1967,57.23,56.78,48.24,Moderate simulated investment,True
+Myanmar_1972,Myanmar,1972,56.54,31.32,54.48,Moderate simulated investment,True
+Myanmar_1977,Myanmar,1977,45.04,55.65,56.29,Lower simulated investment,True
+Myanmar_1982,Myanmar,1982,59.2,58.1,64.93,Moderate simulated investment,True
+Myanmar_1987,Myanmar,1987,57.37,71.99,56.9,Moderate simulated investment,True
+Myanmar_1992,Myanmar,1992,60.52,64.19,50.43,Moderate simulated investment,True
+Myanmar_1997,Myanmar,1997,64.82,55.01,47.88,Moderate simulated investment,True
+Myanmar_2002,Myanmar,2002,76.25,70.77,60.54,Higher simulated investment,True
+Myanmar_2007,Myanmar,2007,75.73,,80.63,Higher simulated investment,True
+Namibia_1952,Namibia,1952,61.29,74.11,59.25,Moderate simulated investment,True
+Namibia_1957,Namibia,1957,49.95,77.38,85.99,Lower simulated investment,True
+Namibia_1962,Namibia,1962,76.11,61.17,67.73,Higher simulated investment,True
+Namibia_1967,Namibia,1967,88.85,78.68,84.34,Higher simulated investment,True
+Namibia_1972,Namibia,1972,,83.26,58.34,Higher simulated investment,True
+Namibia_1977,Namibia,1977,84.04,74.52,68.5,Higher simulated investment,True
+Namibia_1982,Namibia,1982,99.65,73.38,86.92,Higher simulated investment,True
+Namibia_1987,Namibia,1987,86.54,74.68,77.33,Higher simulated investment,True
+Namibia_1992,Namibia,1992,100.0,,81.11,Higher simulated investment,True
+Namibia_1997,Namibia,1997,60.34,71.87,,Moderate simulated investment,True
+Namibia_2002,Namibia,2002,81.65,85.86,65.07,Higher simulated investment,True
+Namibia_2007,Namibia,2007,83.43,,84.5,Higher simulated investment,True
+Nepal_1952,Nepal,1952,50.24,68.64,45.05,Lower simulated investment,True
+Nepal_1957,Nepal,1957,55.18,42.77,,Moderate simulated investment,True
+Nepal_1962,Nepal,1962,,60.08,62.56,Higher simulated investment,True
+Nepal_1967,Nepal,1967,70.15,77.62,48.98,Moderate simulated investment,True
+Nepal_1972,Nepal,1972,50.2,57.58,82.21,Lower simulated investment,True
+Nepal_1977,Nepal,1977,45.61,72.11,64.53,Lower simulated investment,True
+Nepal_1982,Nepal,1982,59.96,70.05,62.56,Moderate simulated investment,True
+Nepal_1987,Nepal,1987,83.73,52.22,56.25,Higher simulated investment,True
+Nepal_1992,Nepal,1992,64.49,61.84,65.95,Moderate simulated investment,True
+Nepal_1997,Nepal,1997,65.7,67.04,69.51,Moderate simulated investment,True
+Nepal_2002,Nepal,2002,80.98,68.51,71.32,Higher simulated investment,True
+Nepal_2007,Nepal,2007,,77.15,70.85,Moderate simulated investment,True
+Niger_1952,Niger,1952,64.89,63.92,42.05,Moderate simulated investment,True
+Niger_1957,Niger,1957,81.64,69.93,72.14,Higher simulated investment,True
+Niger_1962,Niger,1962,61.63,65.36,69.37,Moderate simulated investment,True
+Niger_1967,Niger,1967,79.19,61.49,69.9,Higher simulated investment,True
+Niger_1972,Niger,1972,41.57,56.24,63.24,Lower simulated investment,True
+Niger_1977,Niger,1977,42.24,54.79,65.55,Lower simulated investment,True
+Niger_1982,Niger,1982,83.27,80.43,58.17,Higher simulated investment,True
+Niger_1987,Niger,1987,71.0,,61.41,Moderate simulated investment,True
+Niger_1992,Niger,1992,82.32,70.03,71.23,Higher simulated investment,True
+Niger_1997,Niger,1997,86.6,45.53,72.12,Higher simulated investment,True
+Niger_2002,Niger,2002,,59.51,66.28,Moderate simulated investment,True
+Niger_2007,Niger,2007,70.11,64.41,57.21,Moderate simulated investment,True
+Nigeria_1952,Nigeria,1952,54.32,52.25,56.64,,True
+Nigeria_1957,Nigeria,1957,61.46,53.02,54.66,Moderate simulated investment,True
+Nigeria_1962,Nigeria,1962,47.26,57.93,65.94,Lower simulated investment,True
+Nigeria_1967,Nigeria,1967,56.53,55.72,65.74,Moderate simulated investment,True
+Nigeria_1972,Nigeria,1972,60.48,51.11,,Moderate simulated investment,True
+Nigeria_1977,Nigeria,1977,,79.59,66.13,Moderate simulated investment,True
+Nigeria_1982,Nigeria,1982,80.5,62.8,66.69,Higher simulated investment,True
+Nigeria_1987,Nigeria,1987,69.54,69.19,73.59,Moderate simulated investment,True
+Nigeria_1992,Nigeria,1992,59.98,76.66,75.53,Moderate simulated investment,True
+Nigeria_1997,Nigeria,1997,61.03,72.1,66.05,Moderate simulated investment,True
+Nigeria_2002,Nigeria,2002,61.39,64.68,55.74,Moderate simulated investment,True
+Nigeria_2007,Nigeria,2007,66.05,69.36,83.68,Moderate simulated investment,True
+Oman_1952,Oman,1952,81.71,,56.46,Higher simulated investment,True
+Oman_1957,Oman,1957,75.24,,71.18,,True
+Oman_1962,Oman,1962,48.02,51.13,77.43,Lower simulated investment,True
+Oman_1967,Oman,1967,63.83,68.39,78.14,Moderate simulated investment,True
+Oman_1972,Oman,1972,84.7,,90.25,Higher simulated investment,True
+Oman_1977,Oman,1977,85.31,91.78,97.35,Higher simulated investment,True
+Oman_1982,Oman,1982,76.9,88.36,77.13,Higher simulated investment,True
+Oman_1987,Oman,1987,61.42,92.51,84.21,Moderate simulated investment,True
+Oman_1992,Oman,1992,95.4,84.87,85.61,Higher simulated investment,True
+Oman_1997,Oman,1997,,84.18,84.33,Higher simulated investment,True
+Oman_2002,Oman,2002,89.22,84.89,71.6,Higher simulated investment,True
+Oman_2007,Oman,2007,83.27,78.96,85.42,Higher simulated investment,True
+Pakistan_1952,Pakistan,1952,58.84,43.12,67.53,Moderate simulated investment,True
+Pakistan_1957,Pakistan,1957,78.06,57.71,68.07,Higher simulated investment,True
+Pakistan_1962,Pakistan,1962,45.35,52.61,45.41,Lower simulated investment,True
+Pakistan_1967,Pakistan,1967,67.51,78.93,69.25,,True
+Pakistan_1972,Pakistan,1972,69.97,53.92,70.47,Moderate simulated investment,True
+Pakistan_1977,Pakistan,1977,53.95,63.27,72.31,Moderate simulated investment,True
+Pakistan_1982,Pakistan,1982,61.77,73.18,75.43,Moderate simulated investment,True
+Pakistan_1987,Pakistan,1987,61.19,66.78,64.45,Moderate simulated investment,True
+Pakistan_1992,Pakistan,1992,77.13,66.64,,Higher simulated investment,True
+Pakistan_1997,Pakistan,1997,58.26,47.38,78.51,Moderate simulated investment,True
+Pakistan_2002,Pakistan,2002,80.04,81.8,84.07,Higher simulated investment,True
+Pakistan_2007,Pakistan,2007,75.46,84.52,77.26,,True
+Philippines_1952,Philippines,1952,49.33,70.75,56.13,Lower simulated investment,True
+Philippines_1957,Philippines,1957,58.52,58.37,58.34,Moderate simulated investment,True
+Philippines_1962,Philippines,1962,56.29,67.25,69.97,Moderate simulated investment,True
+Philippines_1967,Philippines,1967,,71.58,65.38,Higher simulated investment,True
+Philippines_1972,Philippines,1972,77.77,68.62,75.12,Higher simulated investment,True
+Philippines_1977,Philippines,1977,68.99,76.92,77.12,Moderate simulated investment,True
+Philippines_1982,Philippines,1982,64.38,53.18,64.31,Moderate simulated investment,True
+Philippines_1987,Philippines,1987,56.37,60.95,68.52,Moderate simulated investment,True
+Philippines_1992,Philippines,1992,71.9,66.61,,Moderate simulated investment,True
+Philippines_1997,Philippines,1997,92.61,58.56,93.15,Higher simulated investment,True
+Philippines_2002,Philippines,2002,63.07,65.72,,Moderate simulated investment,True
+Philippines_2007,Philippines,2007,83.34,85.49,90.1,Higher simulated investment,True
+Reunion_1952,Reunion,1952,66.93,89.98,61.71,Moderate simulated investment,True
+Reunion_1957,Reunion,1957,70.24,62.54,70.35,Moderate simulated investment,True
+Reunion_1962,Reunion,1962,71.33,59.21,73.48,Moderate simulated investment,True
+Reunion_1967,Reunion,1967,79.05,72.44,67.31,Higher simulated investment,True
+Reunion_1972,Reunion,1972,90.57,69.66,67.31,Higher simulated investment,True
+Reunion_1977,Reunion,1977,47.5,72.82,75.8,Lower simulated investment,True
+Reunion_1982,Reunion,1982,73.75,88.69,75.71,Higher simulated investment,True
+Reunion_1987,Reunion,1987,71.07,72.85,80.11,Moderate simulated investment,True
+Reunion_1992,Reunion,1992,83.06,,87.41,Higher simulated investment,True
+Reunion_1997,Reunion,1997,83.36,,88.79,Higher simulated investment,True
+Reunion_2002,Reunion,2002,81.09,83.31,80.79,Higher simulated investment,True
+Reunion_2007,Reunion,2007,91.17,93.66,86.39,Higher simulated investment,True
+Rwanda_1952,Rwanda,1952,60.27,50.18,53.87,,True
+Rwanda_1957,Rwanda,1957,61.86,61.32,70.22,Moderate simulated investment,True
+Rwanda_1962,Rwanda,1962,64.08,49.37,57.52,Moderate simulated investment,True
+Rwanda_1967,Rwanda,1967,47.6,48.99,,Lower simulated investment,True
+Rwanda_1972,Rwanda,1972,54.07,44.85,65.51,Moderate simulated investment,True
+Rwanda_1977,Rwanda,1977,42.71,61.62,56.09,Lower simulated investment,True
+Rwanda_1982,Rwanda,1982,77.92,53.47,72.59,Higher simulated investment,True
+Rwanda_1987,Rwanda,1987,,,68.14,Moderate simulated investment,True
+Rwanda_1992,Rwanda,1992,,62.42,69.14,Higher simulated investment,True
+Rwanda_1997,Rwanda,1997,38.69,73.8,,Lower simulated investment,True
+Rwanda_2002,Rwanda,2002,65.16,62.82,62.96,Moderate simulated investment,True
+Rwanda_2007,Rwanda,2007,79.16,69.06,66.05,Higher simulated investment,True
+Sao_Tome_and_Principe_1952,Sao Tome and Principe,1952,64.92,52.45,58.83,Moderate simulated investment,True
+Sao_Tome_and_Principe_1957,Sao Tome and Principe,1957,65.7,48.65,42.68,Moderate simulated investment,True
+Sao_Tome_and_Principe_1962,Sao Tome and Principe,1962,63.67,55.63,66.95,Moderate simulated investment,True
+Sao_Tome_and_Principe_1967,Sao Tome and Principe,1967,75.44,75.51,67.51,Higher simulated investment,True
+Sao_Tome_and_Principe_1972,Sao Tome and Principe,1972,75.07,72.84,64.24,Higher simulated investment,True
+Sao_Tome_and_Principe_1977,Sao Tome and Principe,1977,62.74,69.59,79.64,Moderate simulated investment,True
+Sao_Tome_and_Principe_1982,Sao Tome and Principe,1982,,,81.61,,True
+Sao_Tome_and_Principe_1987,Sao Tome and Principe,1987,64.98,62.93,69.92,Moderate simulated investment,True
+Sao_Tome_and_Principe_1992,Sao Tome and Principe,1992,72.99,61.91,87.92,Higher simulated investment,True
+Sao_Tome_and_Principe_1997,Sao Tome and Principe,1997,38.73,70.96,65.32,Lower simulated investment,True
+Sao_Tome_and_Principe_2002,Sao Tome and Principe,2002,82.96,80.92,78.16,Higher simulated investment,True
+Sao_Tome_and_Principe_2007,Sao Tome and Principe,2007,57.73,67.94,82.61,Moderate simulated investment,True
+Saudi_Arabia_1952,Saudi Arabia,1952,59.59,74.67,79.24,Moderate simulated investment,True
+Saudi_Arabia_1957,Saudi Arabia,1957,87.35,83.7,61.87,Higher simulated investment,True
+Saudi_Arabia_1962,Saudi Arabia,1962,87.77,73.13,68.68,Higher simulated investment,True
+Saudi_Arabia_1967,Saudi Arabia,1967,70.12,57.01,68.81,Moderate simulated investment,True
+Saudi_Arabia_1972,Saudi Arabia,1972,95.02,71.74,87.45,Higher simulated investment,True
+Saudi_Arabia_1977,Saudi Arabia,1977,83.93,76.17,90.02,Higher simulated investment,True
+Saudi_Arabia_1982,Saudi Arabia,1982,83.53,97.47,100.0,Higher simulated investment,True
+Saudi_Arabia_1987,Saudi Arabia,1987,80.6,80.26,84.2,Higher simulated investment,True
+Saudi_Arabia_1992,Saudi Arabia,1992,,82.3,99.54,Higher simulated investment,True
+Saudi_Arabia_1997,Saudi Arabia,1997,72.85,,98.7,Higher simulated investment,True
+Saudi_Arabia_2002,Saudi Arabia,2002,88.26,72.43,81.49,Higher simulated investment,True
+Saudi_Arabia_2007,Saudi Arabia,2007,91.43,84.04,,Higher simulated investment,True
+Senegal_1952,Senegal,1952,60.52,63.41,50.36,Moderate simulated investment,True
+Senegal_1957,Senegal,1957,70.38,51.51,52.94,Moderate simulated investment,True
+Senegal_1962,Senegal,1962,59.7,50.43,69.39,Moderate simulated investment,True
+Senegal_1967,Senegal,1967,92.66,52.81,80.08,Higher simulated investment,True
+Senegal_1972,Senegal,1972,78.78,79.18,71.03,Higher simulated investment,True
+Senegal_1977,Senegal,1977,63.9,,71.24,,True
+Senegal_1982,Senegal,1982,71.36,67.19,63.19,Moderate simulated investment,True
+Senegal_1987,Senegal,1987,59.67,78.18,78.25,Moderate simulated investment,True
+Senegal_1992,Senegal,1992,70.37,74.38,58.91,Moderate simulated investment,True
+Senegal_1997,Senegal,1997,70.06,68.38,86.19,Moderate simulated investment,True
+Senegal_2002,Senegal,2002,73.17,70.22,80.58,Higher simulated investment,True
+Senegal_2007,Senegal,2007,77.93,56.48,77.14,Higher simulated investment,True
+Sierra_Leone_1952,Sierra Leone,1952,58.39,55.94,42.69,Moderate simulated investment,True
+Sierra_Leone_1957,Sierra Leone,1957,79.56,44.52,71.6,Higher simulated investment,True
+Sierra_Leone_1962,Sierra Leone,1962,51.46,,68.08,Lower simulated investment,True
+Sierra_Leone_1967,Sierra Leone,1967,59.83,57.51,72.32,Moderate simulated investment,True
+Sierra_Leone_1972,Sierra Leone,1972,78.8,45.28,57.93,Higher simulated investment,True
+Sierra_Leone_1977,Sierra Leone,1977,,40.3,64.47,Lower simulated investment,True
+Sierra_Leone_1982,Sierra Leone,1982,,75.98,60.15,Moderate simulated investment,True
+Sierra_Leone_1987,Sierra Leone,1987,51.31,57.54,62.54,Lower simulated investment,True
+Sierra_Leone_1992,Sierra Leone,1992,57.88,58.69,52.64,Moderate simulated investment,True
+Sierra_Leone_1997,Sierra Leone,1997,72.11,46.37,72.7,Higher simulated investment,True
+Sierra_Leone_2002,Sierra Leone,2002,69.7,78.12,63.83,Moderate simulated investment,True
+Sierra_Leone_2007,Sierra Leone,2007,77.26,62.06,72.5,Higher simulated investment,True
+Singapore_1952,Singapore,1952,60.89,74.95,72.86,Moderate simulated investment,True
+Singapore_1957,Singapore,1957,49.32,80.13,56.56,Lower simulated investment,True
+Singapore_1962,Singapore,1962,65.77,74.0,59.34,Moderate simulated investment,True
+Singapore_1967,Singapore,1967,76.31,70.44,73.95,Higher simulated investment,True
+Singapore_1972,Singapore,1972,80.24,,83.76,Higher simulated investment,True
+Singapore_1977,Singapore,1977,98.94,90.33,86.84,Higher simulated investment,True
+Singapore_1982,Singapore,1982,78.4,84.45,85.3,Higher simulated investment,True
+Singapore_1987,Singapore,1987,,96.55,100.0,Higher simulated investment,True
+Singapore_1992,Singapore,1992,80.97,100.0,95.95,Higher simulated investment,True
+Singapore_1997,Singapore,1997,98.71,86.7,86.34,Higher simulated investment,True
+Singapore_2002,Singapore,2002,95.46,99.14,87.49,,True
+Singapore_2007,Singapore,2007,93.88,100.0,81.76,Higher simulated investment,True
+Somalia_1952,Somalia,1952,65.04,72.02,55.0,Moderate simulated investment,True
+Somalia_1957,Somalia,1957,55.22,66.5,77.84,Moderate simulated investment,True
+Somalia_1962,Somalia,1962,66.57,51.91,56.62,Moderate simulated investment,True
+Somalia_1967,Somalia,1967,64.92,62.82,62.53,Moderate simulated investment,True
+Somalia_1972,Somalia,1972,46.44,51.31,62.83,Lower simulated investment,True
+Somalia_1977,Somalia,1977,79.56,57.97,62.01,Higher simulated investment,True
+Somalia_1982,Somalia,1982,56.54,64.58,60.94,Moderate simulated investment,True
+Somalia_1987,Somalia,1987,56.04,63.17,63.32,,True
+Somalia_1992,Somalia,1992,78.42,66.19,69.76,Higher simulated investment,True
+Somalia_1997,Somalia,1997,67.14,75.55,68.82,Moderate simulated investment,True
+Somalia_2002,Somalia,2002,64.0,65.35,69.86,Moderate simulated investment,True
+Somalia_2007,Somalia,2007,52.62,66.53,,Lower simulated investment,True
+South_Africa_1952,South Africa,1952,74.79,84.74,69.8,Higher simulated investment,True
+South_Africa_1957,South Africa,1957,86.48,55.98,73.43,Higher simulated investment,True
+South_Africa_1962,South Africa,1962,67.88,61.02,77.5,Moderate simulated investment,True
+South_Africa_1967,South Africa,1967,81.94,72.32,73.76,Higher simulated investment,True
+South_Africa_1972,South Africa,1972,81.76,83.05,81.93,Higher simulated investment,True
+South_Africa_1977,South Africa,1977,81.42,83.25,99.73,,True
+South_Africa_1982,South Africa,1982,95.64,77.62,,Higher simulated investment,True
+South_Africa_1987,South Africa,1987,56.59,86.36,81.96,Moderate simulated investment,True
+South_Africa_1992,South Africa,1992,72.7,67.54,89.85,Higher simulated investment,True
+South_Africa_1997,South Africa,1997,85.24,81.38,67.24,Higher simulated investment,True
+South_Africa_2002,South Africa,2002,85.81,72.05,94.38,Higher simulated investment,True
+South_Africa_2007,South Africa,2007,87.92,88.98,,Higher simulated investment,True
+Sri_Lanka_1952,Sri Lanka,1952,81.57,53.59,58.23,,True
+Sri_Lanka_1957,Sri Lanka,1957,68.09,67.1,58.01,Moderate simulated investment,True
+Sri_Lanka_1962,Sri Lanka,1962,57.83,52.29,60.28,Moderate simulated investment,True
+Sri_Lanka_1967,Sri Lanka,1967,52.3,77.95,66.41,Lower simulated investment,True
+Sri_Lanka_1972,Sri Lanka,1972,76.17,67.73,74.21,Higher simulated investment,True
+Sri_Lanka_1977,Sri Lanka,1977,47.0,82.56,73.72,Lower simulated investment,True
+Sri_Lanka_1982,Sri Lanka,1982,73.47,71.08,66.32,Higher simulated investment,True
+Sri_Lanka_1987,Sri Lanka,1987,64.46,70.26,77.38,Moderate simulated investment,True
+Sri_Lanka_1992,Sri Lanka,1992,81.39,84.15,67.96,Higher simulated investment,True
+Sri_Lanka_1997,Sri Lanka,1997,62.99,71.57,67.82,Moderate simulated investment,True
+Sri_Lanka_2002,Sri Lanka,2002,80.6,50.15,,Higher simulated investment,True
+Sri_Lanka_2007,Sri Lanka,2007,,,86.4,Moderate simulated investment,True
+Sudan_1952,Sudan,1952,41.34,56.85,48.58,Lower simulated investment,True
+Sudan_1957,Sudan,1957,84.13,70.5,78.34,Higher simulated investment,True
+Sudan_1962,Sudan,1962,58.58,66.46,74.92,Moderate simulated investment,True
+Sudan_1967,Sudan,1967,67.8,51.73,70.02,Moderate simulated investment,True
+Sudan_1972,Sudan,1972,78.79,66.83,71.99,Higher simulated investment,True
+Sudan_1977,Sudan,1977,53.53,51.38,66.92,Moderate simulated investment,True
+Sudan_1982,Sudan,1982,59.92,78.1,77.76,Moderate simulated investment,True
+Sudan_1987,Sudan,1987,77.5,53.86,54.59,Higher simulated investment,True
+Sudan_1992,Sudan,1992,,72.36,73.46,Higher simulated investment,True
+Sudan_1997,Sudan,1997,79.95,76.41,80.86,Higher simulated investment,True
+Sudan_2002,Sudan,2002,,90.6,73.78,Moderate simulated investment,True
+Sudan_2007,Sudan,2007,67.01,82.43,85.98,Moderate simulated investment,True
+Swaziland_1952,Swaziland,1952,76.78,54.57,60.87,Higher simulated investment,True
+Swaziland_1957,Swaziland,1957,59.17,56.08,68.42,Moderate simulated investment,True
+Swaziland_1962,Swaziland,1962,51.24,59.24,67.83,Lower simulated investment,True
+Swaziland_1967,Swaziland,1967,82.09,54.3,62.25,Higher simulated investment,True
+Swaziland_1972,Swaziland,1972,88.32,,73.48,Higher simulated investment,True
+Swaziland_1977,Swaziland,1977,72.67,48.88,74.87,Higher simulated investment,True
+Swaziland_1982,Swaziland,1982,57.99,77.69,69.02,Moderate simulated investment,True
+Swaziland_1987,Swaziland,1987,75.52,86.94,68.15,Higher simulated investment,True
+Swaziland_1992,Swaziland,1992,62.25,74.44,60.44,Moderate simulated investment,True
+Swaziland_1997,Swaziland,1997,74.94,76.02,70.81,Higher simulated investment,True
+Swaziland_2002,Swaziland,2002,85.36,87.35,84.1,Higher simulated investment,True
+Swaziland_2007,Swaziland,2007,80.99,78.76,70.41,Higher simulated investment,True
+Syria_1952,Syria,1952,72.5,,70.13,Higher simulated investment,True
+Syria_1957,Syria,1957,88.94,60.65,70.38,,True
+Syria_1962,Syria,1962,52.89,51.52,56.5,Lower simulated investment,True
+Syria_1967,Syria,1967,75.09,77.51,,Higher simulated investment,True
+Syria_1972,Syria,1972,72.79,78.66,68.12,Higher simulated investment,True
+Syria_1977,Syria,1977,47.03,94.34,50.96,Lower simulated investment,True
+Syria_1982,Syria,1982,68.42,72.65,78.88,Moderate simulated investment,True
+Syria_1987,Syria,1987,65.23,75.88,74.28,Moderate simulated investment,True
+Syria_1992,Syria,1992,80.37,,78.27,Higher simulated investment,True
+Syria_1997,Syria,1997,76.42,66.75,75.81,Higher simulated investment,True
+Syria_2002,Syria,2002,94.86,89.18,69.26,Higher simulated investment,True
+Syria_2007,Syria,2007,100.0,71.25,73.54,Higher simulated investment,True
+Taiwan_1952,Taiwan,1952,59.39,68.65,54.85,Moderate simulated investment,True
+Taiwan_1957,Taiwan,1957,66.05,57.88,70.47,Moderate simulated investment,True
+Taiwan_1962,Taiwan,1962,83.72,58.72,79.5,Higher simulated investment,True
+Taiwan_1967,Taiwan,1967,66.3,62.23,86.69,Moderate simulated investment,True
+Taiwan_1972,Taiwan,1972,55.51,76.49,78.8,Moderate simulated investment,True
+Taiwan_1977,Taiwan,1977,63.52,93.93,66.02,Moderate simulated investment,True
+Taiwan_1982,Taiwan,1982,87.88,70.13,55.44,,True
+Taiwan_1987,Taiwan,1987,73.14,91.64,80.85,Higher simulated investment,True
+Taiwan_1992,Taiwan,1992,89.76,81.56,100.0,Higher simulated investment,True
+Taiwan_1997,Taiwan,1997,77.92,90.24,97.07,Higher simulated investment,True
+Taiwan_2002,Taiwan,2002,,90.45,94.17,Higher simulated investment,True
+Taiwan_2007,Taiwan,2007,100.0,91.59,,Higher simulated investment,True
+Tanzania_1952,Tanzania,1952,31.21,53.8,62.65,Lower simulated investment,True
+Tanzania_1957,Tanzania,1957,56.98,69.6,50.14,Moderate simulated investment,True
+Tanzania_1962,Tanzania,1962,64.98,62.06,50.23,Moderate simulated investment,True
+Tanzania_1967,Tanzania,1967,58.34,47.0,,,True
+Tanzania_1972,Tanzania,1972,68.1,61.94,63.49,Moderate simulated investment,True
+Tanzania_1977,Tanzania,1977,54.37,73.63,72.12,Moderate simulated investment,True
+Tanzania_1982,Tanzania,1982,57.42,46.82,49.71,Moderate simulated investment,True
+Tanzania_1987,Tanzania,1987,56.39,64.44,67.1,Moderate simulated investment,True
+Tanzania_1992,Tanzania,1992,63.47,67.07,77.12,Moderate simulated investment,True
+Tanzania_1997,Tanzania,1997,48.77,75.78,73.06,Lower simulated investment,True
+Tanzania_2002,Tanzania,2002,58.12,79.44,78.77,Moderate simulated investment,True
+Tanzania_2007,Tanzania,2007,71.92,61.15,73.9,,True
+Thailand_1952,Thailand,1952,61.16,47.71,39.91,Moderate simulated investment,True
+Thailand_1957,Thailand,1957,56.08,75.87,,Moderate simulated investment,True
+Thailand_1962,Thailand,1962,58.9,49.61,55.97,Moderate simulated investment,True
+Thailand_1967,Thailand,1967,,69.52,69.59,Moderate simulated investment,True
+Thailand_1972,Thailand,1972,63.16,67.53,59.93,Moderate simulated investment,True
+Thailand_1977,Thailand,1977,65.73,76.37,57.35,Moderate simulated investment,True
+Thailand_1982,Thailand,1982,77.09,66.94,59.38,Higher simulated investment,True
+Thailand_1987,Thailand,1987,75.01,77.5,73.89,Higher simulated investment,True
+Thailand_1992,Thailand,1992,82.11,91.71,92.0,Higher simulated investment,True
+Thailand_1997,Thailand,1997,90.53,68.71,82.37,Higher simulated investment,True
+Thailand_2002,Thailand,2002,72.43,76.82,91.35,Higher simulated investment,True
+Thailand_2007,Thailand,2007,98.1,77.41,98.39,,True
+Togo_1952,Togo,1952,62.06,67.79,53.64,Moderate simulated investment,True
+Togo_1957,Togo,1957,57.56,74.45,67.56,Moderate simulated investment,True
+Togo_1962,Togo,1962,62.11,63.75,68.96,Moderate simulated investment,True
+Togo_1967,Togo,1967,66.13,77.33,61.66,Moderate simulated investment,True
+Togo_1972,Togo,1972,72.51,56.1,73.71,Higher simulated investment,True
+Togo_1977,Togo,1977,76.75,42.53,71.4,Higher simulated investment,True
+Togo_1982,Togo,1982,51.52,68.5,82.22,Lower simulated investment,True
+Togo_1987,Togo,1987,65.75,74.72,68.89,Moderate simulated investment,True
+Togo_1992,Togo,1992,42.81,76.58,68.49,Lower simulated investment,True
+Togo_1997,Togo,1997,71.04,63.07,58.54,Moderate simulated investment,True
+Togo_2002,Togo,2002,83.85,,67.59,Higher simulated investment,True
+Togo_2007,Togo,2007,65.06,70.39,54.25,Moderate simulated investment,True
+Tunisia_1952,Tunisia,1952,41.84,63.1,52.53,Lower simulated investment,True
+Tunisia_1957,Tunisia,1957,60.18,57.88,70.45,Moderate simulated investment,True
+Tunisia_1962,Tunisia,1962,47.68,69.01,55.77,Lower simulated investment,True
+Tunisia_1967,Tunisia,1967,62.06,62.92,89.96,Moderate simulated investment,True
+Tunisia_1972,Tunisia,1972,59.51,89.09,,Moderate simulated investment,True
+Tunisia_1977,Tunisia,1977,89.62,69.64,65.73,Higher simulated investment,True
+Tunisia_1982,Tunisia,1982,71.04,,75.89,Moderate simulated investment,True
+Tunisia_1987,Tunisia,1987,69.41,65.02,,Moderate simulated investment,True
+Tunisia_1992,Tunisia,1992,83.85,92.95,86.49,Higher simulated investment,True
+Tunisia_1997,Tunisia,1997,87.45,,73.33,Higher simulated investment,True
+Tunisia_2002,Tunisia,2002,,90.64,75.43,Higher simulated investment,True
+Tunisia_2007,Tunisia,2007,60.15,89.66,78.81,,True
+Uganda_1952,Uganda,1952,68.96,55.77,50.78,Moderate simulated investment,True
+Uganda_1957,Uganda,1957,69.08,60.0,65.29,Moderate simulated investment,True
+Uganda_1962,Uganda,1962,76.17,63.72,32.47,Higher simulated investment,True
+Uganda_1967,Uganda,1967,61.9,49.55,72.53,Moderate simulated investment,True
+Uganda_1972,Uganda,1972,67.97,64.57,50.75,Moderate simulated investment,True
+Uganda_1977,Uganda,1977,39.13,,82.89,Lower simulated investment,True
+Uganda_1982,Uganda,1982,49.41,,,Lower simulated investment,True
+Uganda_1987,Uganda,1987,55.93,63.27,70.63,Moderate simulated investment,True
+Uganda_1992,Uganda,1992,,61.25,63.12,Moderate simulated investment,True
+Uganda_1997,Uganda,1997,60.73,62.2,,Moderate simulated investment,True
+Uganda_2002,Uganda,2002,,54.41,74.99,Higher simulated investment,True
+Uganda_2007,Uganda,2007,,74.2,62.12,Moderate simulated investment,True
+Vietnam_1952,Vietnam,1952,56.47,66.72,66.03,Moderate simulated investment,True
+Vietnam_1957,Vietnam,1957,71.13,70.13,65.33,Moderate simulated investment,True
+Vietnam_1962,Vietnam,1962,,,71.82,Moderate simulated investment,True
+Vietnam_1967,Vietnam,1967,70.39,66.51,53.75,Moderate simulated investment,True
+Vietnam_1972,Vietnam,1972,69.57,75.0,84.38,Moderate simulated investment,True
+Vietnam_1977,Vietnam,1977,63.01,47.32,77.89,Moderate simulated investment,True
+Vietnam_1982,Vietnam,1982,44.87,63.79,57.85,Lower simulated investment,True
+Vietnam_1987,Vietnam,1987,47.07,54.77,53.19,Lower simulated investment,True
+Vietnam_1992,Vietnam,1992,67.92,74.41,62.97,Moderate simulated investment,True
+Vietnam_1997,Vietnam,1997,62.96,,69.46,Moderate simulated investment,True
+Vietnam_2002,Vietnam,2002,61.21,64.91,88.82,Moderate simulated investment,True
+Vietnam_2007,Vietnam,2007,,76.82,75.27,Moderate simulated investment,True
+West_Bank_and_Gaza_1952,West Bank and Gaza,1952,,62.53,70.74,Moderate simulated investment,True
+West_Bank_and_Gaza_1957,West Bank and Gaza,1957,43.98,83.64,74.71,Lower simulated investment,True
+West_Bank_and_Gaza_1962,West Bank and Gaza,1962,59.21,63.8,55.71,Moderate simulated investment,True
+West_Bank_and_Gaza_1967,West Bank and Gaza,1967,64.88,72.56,62.82,Moderate simulated investment,True
+West_Bank_and_Gaza_1972,West Bank and Gaza,1972,,78.7,70.43,Moderate simulated investment,True
+West_Bank_and_Gaza_1977,West Bank and Gaza,1977,74.18,75.54,84.27,Higher simulated investment,True
+West_Bank_and_Gaza_1982,West Bank and Gaza,1982,58.99,79.05,,Moderate simulated investment,True
+West_Bank_and_Gaza_1987,West Bank and Gaza,1987,62.74,79.32,87.5,Moderate simulated investment,True
+West_Bank_and_Gaza_1992,West Bank and Gaza,1992,91.04,73.99,89.78,Higher simulated investment,True
+West_Bank_and_Gaza_1997,West Bank and Gaza,1997,46.95,90.04,85.92,Lower simulated investment,True
+West_Bank_and_Gaza_2002,West Bank and Gaza,2002,,77.48,99.02,Higher simulated investment,True
+West_Bank_and_Gaza_2007,West Bank and Gaza,2007,75.42,84.55,79.33,Higher simulated investment,True
+Yemen_Rep_1952,"Yemen, Rep.",1952,49.67,51.94,65.37,Lower simulated investment,True
+Yemen_Rep_1957,"Yemen, Rep.",1957,63.26,63.0,66.33,Moderate simulated investment,True
+Yemen_Rep_1962,"Yemen, Rep.",1962,58.05,49.48,70.41,Moderate simulated investment,True
+Yemen_Rep_1967,"Yemen, Rep.",1967,53.69,65.69,68.02,Moderate simulated investment,True
+Yemen_Rep_1972,"Yemen, Rep.",1972,75.64,65.88,55.01,Higher simulated investment,True
+Yemen_Rep_1977,"Yemen, Rep.",1977,70.92,71.26,59.72,Moderate simulated investment,True
+Yemen_Rep_1982,"Yemen, Rep.",1982,81.25,93.44,69.57,Higher simulated investment,True
+Yemen_Rep_1987,"Yemen, Rep.",1987,66.66,76.83,53.83,Moderate simulated investment,True
+Yemen_Rep_1992,"Yemen, Rep.",1992,75.03,57.59,,Higher simulated investment,True
+Yemen_Rep_1997,"Yemen, Rep.",1997,72.25,65.26,70.96,Higher simulated investment,True
+Yemen_Rep_2002,"Yemen, Rep.",2002,63.03,,68.69,Moderate simulated investment,True
+Yemen_Rep_2007,"Yemen, Rep.",2007,85.82,71.12,79.61,Higher simulated investment,True
+Zambia_1952,Zambia,1952,,92.92,57.87,Moderate simulated investment,True
+Zambia_1957,Zambia,1957,62.12,49.19,72.31,Moderate simulated investment,True
+Zambia_1962,Zambia,1962,55.87,59.27,75.97,Moderate simulated investment,True
+Zambia_1967,Zambia,1967,51.3,50.55,62.61,Lower simulated investment,True
+Zambia_1972,Zambia,1972,74.39,65.3,71.72,Higher simulated investment,True
+Zambia_1977,Zambia,1977,79.76,65.94,79.33,Higher simulated investment,True
+Zambia_1982,Zambia,1982,55.84,55.6,62.87,Moderate simulated investment,True
+Zambia_1987,Zambia,1987,59.83,78.45,60.44,Moderate simulated investment,True
+Zambia_1992,Zambia,1992,43.5,77.23,77.18,Lower simulated investment,True
+Zambia_1997,Zambia,1997,,48.6,,Moderate simulated investment,True
+Zambia_2002,Zambia,2002,68.75,74.81,73.15,Moderate simulated investment,True
+Zambia_2007,Zambia,2007,82.71,81.15,100.0,Higher simulated investment,True
+Zimbabwe_1952,Zimbabwe,1952,,51.03,56.77,Lower simulated investment,True
+Zimbabwe_1957,Zimbabwe,1957,63.18,60.19,62.49,Moderate simulated investment,True
+Zimbabwe_1962,Zimbabwe,1962,58.03,60.39,63.13,,True
+Zimbabwe_1967,Zimbabwe,1967,51.31,60.95,51.88,Lower simulated investment,True
+Zimbabwe_1972,Zimbabwe,1972,68.81,70.04,65.66,Moderate simulated investment,True
+Zimbabwe_1977,Zimbabwe,1977,,53.12,65.54,Moderate simulated investment,True
+Zimbabwe_1982,Zimbabwe,1982,68.41,90.42,56.63,Moderate simulated investment,True
+Zimbabwe_1987,Zimbabwe,1987,59.37,57.39,58.19,Moderate simulated investment,True
+Zimbabwe_1992,Zimbabwe,1992,40.75,74.28,69.83,Lower simulated investment,True
+Zimbabwe_1997,Zimbabwe,1997,49.27,57.62,67.37,Lower simulated investment,True
+Zimbabwe_2002,Zimbabwe,2002,75.86,,62.11,Higher simulated investment,True
+Zimbabwe_2007,Zimbabwe,2007,84.98,47.7,59.25,Higher simulated investment,True
+Albania_1952,Albania,1952,65.47,85.08,63.42,Moderate simulated investment,True
+Albania_1957,Albania,1957,84.16,60.19,65.8,Higher simulated investment,True
+Albania_1962,Albania,1962,62.28,67.63,67.51,Moderate simulated investment,True
+Albania_1967,Albania,1967,47.21,70.04,80.48,Lower simulated investment,True
+Albania_1972,Albania,1972,73.68,73.85,75.51,Higher simulated investment,True
+Albania_1977,Albania,1977,57.15,,73.8,Moderate simulated investment,True
+Albania_1982,Albania,1982,69.35,81.96,77.92,Moderate simulated investment,True
+Albania_1987,Albania,1987,,,74.35,Moderate simulated investment,True
+Albania_1992,Albania,1992,56.02,70.73,73.75,Moderate simulated investment,True
+Albania_1997,Albania,1997,69.97,65.82,92.95,Moderate simulated investment,True
+Albania_2002,Albania,2002,71.66,89.6,80.13,Moderate simulated investment,True
+Albania_2007,Albania,2007,68.45,76.33,73.66,Moderate simulated investment,True
+Argentina_1952,Argentina,1952,91.33,,60.12,Higher simulated investment,True
+Argentina_1957,Argentina,1957,65.39,87.07,82.47,Moderate simulated investment,True
+Argentina_1962,Argentina,1962,82.84,76.66,62.74,Higher simulated investment,True
+Argentina_1967,Argentina,1967,87.15,78.19,95.89,,True
+Argentina_1972,Argentina,1972,86.82,80.96,87.39,Higher simulated investment,True
+Argentina_1977,Argentina,1977,72.73,80.16,80.48,Higher simulated investment,True
+Argentina_1982,Argentina,1982,85.38,96.94,83.53,Higher simulated investment,True
+Argentina_1987,Argentina,1987,81.29,85.79,77.79,Higher simulated investment,True
+Argentina_1992,Argentina,1992,77.32,87.15,76.39,Higher simulated investment,True
+Argentina_1997,Argentina,1997,60.83,73.92,87.25,Moderate simulated investment,True
+Argentina_2002,Argentina,2002,99.77,96.89,78.96,Higher simulated investment,True
+Argentina_2007,Argentina,2007,84.52,95.23,99.57,Higher simulated investment,True
+Australia_1952,Australia,1952,70.63,73.21,75.05,Moderate simulated investment,True
+Australia_1957,Australia,1957,78.66,76.99,74.9,Higher simulated investment,True
+Australia_1962,Australia,1962,92.21,78.76,71.35,Higher simulated investment,True
+Australia_1967,Australia,1967,76.44,65.93,82.02,Higher simulated investment,True
+Australia_1972,Australia,1972,63.41,81.37,96.39,,True
+Australia_1977,Australia,1977,90.31,85.02,92.06,Higher simulated investment,True
+Australia_1982,Australia,1982,90.35,97.86,,Higher simulated investment,True
+Australia_1987,Australia,1987,86.47,100.0,87.59,Higher simulated investment,True
+Australia_1992,Australia,1992,78.48,100.0,89.24,Higher simulated investment,True
+Australia_1997,Australia,1997,86.92,91.35,92.23,,True
+Australia_2002,Australia,2002,82.09,100.0,89.54,Higher simulated investment,True
+Australia_2007,Australia,2007,73.36,100.0,100.0,Higher simulated investment,True
+Austria_1952,Austria,1952,87.48,75.21,67.84,Higher simulated investment,True
+Austria_1957,Austria,1957,73.85,75.59,67.12,Higher simulated investment,True
+Austria_1962,Austria,1962,74.4,62.86,86.36,,True
+Austria_1967,Austria,1967,58.97,79.74,72.31,Moderate simulated investment,True
+Austria_1972,Austria,1972,97.41,80.46,60.65,Higher simulated investment,True
+Austria_1977,Austria,1977,84.73,80.46,77.49,Higher simulated investment,True
+Austria_1982,Austria,1982,91.58,,89.06,Higher simulated investment,True
+Austria_1987,Austria,1987,77.38,72.97,97.14,Higher simulated investment,True
+Austria_1992,Austria,1992,96.68,84.72,100.0,Higher simulated investment,True
+Austria_1997,Austria,1997,87.09,,84.03,Higher simulated investment,True
+Austria_2002,Austria,2002,,86.54,96.17,Higher simulated investment,True
+Austria_2007,Austria,2007,92.18,89.06,88.37,Higher simulated investment,True
+Belgium_1952,Belgium,1952,76.26,81.65,79.63,,True
+Belgium_1957,Belgium,1957,54.96,73.93,,Moderate simulated investment,True
+Belgium_1962,Belgium,1962,83.45,68.39,65.66,Higher simulated investment,True
+Belgium_1967,Belgium,1967,86.42,73.03,89.68,Higher simulated investment,True
+Belgium_1972,Belgium,1972,70.53,59.36,88.94,Moderate simulated investment,True
+Belgium_1977,Belgium,1977,83.7,89.93,97.54,Higher simulated investment,True
+Belgium_1982,Belgium,1982,85.83,96.8,93.33,Higher simulated investment,True
+Belgium_1987,Belgium,1987,76.08,87.76,78.72,Higher simulated investment,True
+Belgium_1992,Belgium,1992,89.76,82.4,92.43,Higher simulated investment,True
+Belgium_1997,Belgium,1997,95.94,77.73,95.22,Higher simulated investment,True
+Belgium_2002,Belgium,2002,88.34,75.0,100.0,Higher simulated investment,True
+Belgium_2007,Belgium,2007,87.81,91.97,100.0,Higher simulated investment,True
+Bolivia_1952,Bolivia,1952,86.82,67.9,67.79,Higher simulated investment,True
+Bolivia_1957,Bolivia,1957,65.61,62.91,67.7,Moderate simulated investment,True
+Bolivia_1962,Bolivia,1962,41.57,49.14,85.42,Lower simulated investment,True
+Bolivia_1967,Bolivia,1967,63.7,59.34,72.14,Moderate simulated investment,True
+Bolivia_1972,Bolivia,1972,76.9,58.76,76.01,Higher simulated investment,True
+Bolivia_1977,Bolivia,1977,68.98,68.73,83.69,Moderate simulated investment,True
+Bolivia_1982,Bolivia,1982,74.12,90.87,,Higher simulated investment,True
+Bolivia_1987,Bolivia,1987,69.36,78.15,85.06,Moderate simulated investment,True
+Bolivia_1992,Bolivia,1992,71.4,74.29,95.68,Moderate simulated investment,True
+Bolivia_1997,Bolivia,1997,65.49,77.6,79.61,Moderate simulated investment,True
+Bolivia_2002,Bolivia,2002,85.7,75.14,100.0,Higher simulated investment,True
+Bolivia_2007,Bolivia,2007,,88.14,78.12,Moderate simulated investment,True
+Bosnia_and_Herzegovina_1952,Bosnia and Herzegovina,1952,61.12,65.46,81.97,Moderate simulated investment,True
+Bosnia_and_Herzegovina_1957,Bosnia and Herzegovina,1957,43.23,68.09,70.1,Lower simulated investment,True
+Bosnia_and_Herzegovina_1962,Bosnia and Herzegovina,1962,71.28,75.88,47.55,Moderate simulated investment,True
+Bosnia_and_Herzegovina_1967,Bosnia and Herzegovina,1967,67.67,65.26,51.85,Moderate simulated investment,True
+Bosnia_and_Herzegovina_1972,Bosnia and Herzegovina,1972,57.41,84.2,85.01,Moderate simulated investment,True
+Bosnia_and_Herzegovina_1977,Bosnia and Herzegovina,1977,77.45,78.26,68.64,Higher simulated investment,True
+Bosnia_and_Herzegovina_1982,Bosnia and Herzegovina,1982,86.21,67.82,72.78,Higher simulated investment,True
+Bosnia_and_Herzegovina_1987,Bosnia and Herzegovina,1987,77.11,64.03,85.53,Higher simulated investment,True
+Bosnia_and_Herzegovina_1992,Bosnia and Herzegovina,1992,83.38,54.66,74.16,Higher simulated investment,True
+Bosnia_and_Herzegovina_1997,Bosnia and Herzegovina,1997,76.89,69.38,69.42,Higher simulated investment,True
+Bosnia_and_Herzegovina_2002,Bosnia and Herzegovina,2002,76.4,82.66,79.62,Higher simulated investment,True
+Bosnia_and_Herzegovina_2007,Bosnia and Herzegovina,2007,78.18,83.37,80.48,Higher simulated investment,True
+Brazil_1952,Brazil,1952,43.43,65.29,60.49,Lower simulated investment,True
+Brazil_1957,Brazil,1957,70.89,65.22,78.41,Moderate simulated investment,True
+Brazil_1962,Brazil,1962,65.72,65.49,93.39,Moderate simulated investment,True
+Brazil_1967,Brazil,1967,62.68,79.62,81.99,Moderate simulated investment,True
+Brazil_1972,Brazil,1972,66.24,87.48,78.99,Moderate simulated investment,True
+Brazil_1977,Brazil,1977,83.62,80.45,84.5,Higher simulated investment,True
+Brazil_1982,Brazil,1982,90.02,75.84,71.93,,True
+Brazil_1987,Brazil,1987,,75.98,69.41,Higher simulated investment,True
+Brazil_1992,Brazil,1992,61.84,67.99,69.37,Moderate simulated investment,True
+Brazil_1997,Brazil,1997,80.15,78.13,73.11,Higher simulated investment,True
+Brazil_2002,Brazil,2002,100.0,85.87,73.97,Higher simulated investment,True
+Brazil_2007,Brazil,2007,79.87,82.91,100.0,Higher simulated investment,True
+Bulgaria_1952,Bulgaria,1952,49.62,76.76,83.47,Lower simulated investment,True
+Bulgaria_1957,Bulgaria,1957,74.78,76.95,79.68,Higher simulated investment,True
+Bulgaria_1962,Bulgaria,1962,64.45,69.52,72.49,Moderate simulated investment,True
+Bulgaria_1967,Bulgaria,1967,82.7,,74.13,Higher simulated investment,True
+Bulgaria_1972,Bulgaria,1972,71.5,80.59,74.52,Moderate simulated investment,True
+Bulgaria_1977,Bulgaria,1977,54.39,73.62,91.02,Moderate simulated investment,True
+Bulgaria_1982,Bulgaria,1982,67.75,76.12,79.97,Moderate simulated investment,True
+Bulgaria_1987,Bulgaria,1987,80.41,88.36,84.4,Higher simulated investment,True
+Bulgaria_1992,Bulgaria,1992,72.69,,93.86,Higher simulated investment,True
+Bulgaria_1997,Bulgaria,1997,91.35,73.02,74.13,Higher simulated investment,True
+Bulgaria_2002,Bulgaria,2002,83.08,68.54,85.8,Higher simulated investment,True
+Bulgaria_2007,Bulgaria,2007,,82.13,79.06,Moderate simulated investment,True
+Canada_1952,Canada,1952,82.12,84.58,76.96,Higher simulated investment,True
+Canada_1957,Canada,1957,87.86,81.04,76.83,Higher simulated investment,True
+Canada_1962,Canada,1962,60.02,60.35,79.98,Moderate simulated investment,True
+Canada_1967,Canada,1967,95.54,89.04,73.49,Higher simulated investment,True
+Canada_1972,Canada,1972,89.16,80.62,76.88,Higher simulated investment,True
+Canada_1977,Canada,1977,95.22,86.15,85.88,Higher simulated investment,True
+Canada_1982,Canada,1982,86.89,81.44,88.73,Higher simulated investment,True
+Canada_1987,Canada,1987,78.86,81.39,87.96,Higher simulated investment,True
+Canada_1992,Canada,1992,100.0,100.0,77.28,Higher simulated investment,True
+Canada_1997,Canada,1997,100.0,92.97,93.09,Higher simulated investment,True
+Canada_2002,Canada,2002,81.94,93.14,100.0,Higher simulated investment,True
+Canada_2007,Canada,2007,82.76,83.24,92.02,Higher simulated investment,True
+Chile_1952,Chile,1952,63.82,70.79,,Moderate simulated investment,True
+Chile_1957,Chile,1957,75.89,81.74,69.64,Higher simulated investment,True
+Chile_1962,Chile,1962,72.1,75.0,91.9,Higher simulated investment,True
+Chile_1967,Chile,1967,91.0,76.67,74.67,Higher simulated investment,True
+Chile_1972,Chile,1972,69.56,93.93,76.33,Moderate simulated investment,True
+Chile_1977,Chile,1977,77.31,77.98,83.91,Higher simulated investment,True
+Chile_1982,Chile,1982,82.88,,76.13,Higher simulated investment,True
+Chile_1987,Chile,1987,75.27,83.67,,,True
+Chile_1992,Chile,1992,77.48,63.66,65.01,Higher simulated investment,True
+Chile_1997,Chile,1997,81.83,90.53,96.4,Higher simulated investment,True
+Chile_2002,Chile,2002,87.14,68.67,92.28,Higher simulated investment,True
+Chile_2007,Chile,2007,85.74,91.56,94.29,Higher simulated investment,True
+Colombia_1952,Colombia,1952,50.62,74.29,81.13,Lower simulated investment,True
+Colombia_1957,Colombia,1957,89.53,50.74,62.22,Higher simulated investment,True
+Colombia_1962,Colombia,1962,53.4,63.72,55.84,Moderate simulated investment,True
+Colombia_1967,Colombia,1967,73.62,,61.3,Higher simulated investment,True
+Colombia_1972,Colombia,1972,77.59,92.24,75.03,Higher simulated investment,True
+Colombia_1977,Colombia,1977,76.26,86.41,84.95,Higher simulated investment,True
+Colombia_1982,Colombia,1982,64.03,71.83,79.87,Moderate simulated investment,True
+Colombia_1987,Colombia,1987,84.49,,74.19,Higher simulated investment,True
+Colombia_1992,Colombia,1992,53.29,63.67,65.84,Moderate simulated investment,True
+Colombia_1997,Colombia,1997,84.28,82.47,,Higher simulated investment,True
+Colombia_2002,Colombia,2002,83.7,,80.58,Higher simulated investment,True
+Colombia_2007,Colombia,2007,70.74,100.0,84.32,Moderate simulated investment,True
+Costa_Rica_1952,Costa Rica,1952,72.38,58.1,63.59,,True
+Costa_Rica_1957,Costa Rica,1957,68.0,82.4,61.09,Moderate simulated investment,True
+Costa_Rica_1962,Costa Rica,1962,78.31,69.45,67.31,Higher simulated investment,True
+Costa_Rica_1967,Costa Rica,1967,75.66,,,,True
+Costa_Rica_1972,Costa Rica,1972,62.67,82.1,82.25,Moderate simulated investment,True
+Costa_Rica_1977,Costa Rica,1977,92.09,78.16,77.47,Higher simulated investment,True
+Costa_Rica_1982,Costa Rica,1982,70.26,87.36,79.8,,True
+Costa_Rica_1987,Costa Rica,1987,82.46,,72.07,Higher simulated investment,True
+Costa_Rica_1992,Costa Rica,1992,82.11,87.19,71.41,Higher simulated investment,True
+Costa_Rica_1997,Costa Rica,1997,,63.41,95.4,Moderate simulated investment,True
+Costa_Rica_2002,Costa Rica,2002,85.14,86.22,85.33,Higher simulated investment,True
+Costa_Rica_2007,Costa Rica,2007,81.26,78.52,77.01,Higher simulated investment,True
+Croatia_1952,Croatia,1952,51.67,64.99,61.56,Lower simulated investment,True
+Croatia_1957,Croatia,1957,68.35,66.06,90.39,Moderate simulated investment,True
+Croatia_1962,Croatia,1962,68.5,71.4,89.28,Moderate simulated investment,True
+Croatia_1967,Croatia,1967,70.7,81.56,71.91,Moderate simulated investment,True
+Croatia_1972,Croatia,1972,68.18,,83.85,Moderate simulated investment,True
+Croatia_1977,Croatia,1977,81.88,71.06,75.98,Higher simulated investment,True
+Croatia_1982,Croatia,1982,78.93,87.28,99.85,Higher simulated investment,True
+Croatia_1987,Croatia,1987,86.26,84.99,93.58,Higher simulated investment,True
+Croatia_1992,Croatia,1992,90.49,65.38,79.64,Higher simulated investment,True
+Croatia_1997,Croatia,1997,86.13,73.95,85.0,Higher simulated investment,True
+Croatia_2002,Croatia,2002,63.37,77.86,90.0,Moderate simulated investment,True
+Croatia_2007,Croatia,2007,93.23,93.3,81.07,Higher simulated investment,True
+Cuba_1952,Cuba,1952,80.09,77.31,61.33,Higher simulated investment,True
+Cuba_1957,Cuba,1957,61.47,70.68,77.26,Moderate simulated investment,True
+Cuba_1962,Cuba,1962,97.36,63.87,76.51,Higher simulated investment,True
+Cuba_1967,Cuba,1967,94.05,79.06,79.53,Higher simulated investment,True
+Cuba_1972,Cuba,1972,74.32,,70.81,Higher simulated investment,True
+Cuba_1977,Cuba,1977,73.24,65.12,66.12,Higher simulated investment,True
+Cuba_1982,Cuba,1982,89.9,78.73,83.27,Higher simulated investment,True
+Cuba_1987,Cuba,1987,75.52,77.56,69.45,Higher simulated investment,True
+Cuba_1992,Cuba,1992,88.11,71.72,70.88,Higher simulated investment,True
+Cuba_1997,Cuba,1997,83.38,82.24,84.43,Higher simulated investment,True
+Cuba_2002,Cuba,2002,84.03,74.86,73.01,Higher simulated investment,True
+Cuba_2007,Cuba,2007,93.81,,89.83,Higher simulated investment,True
+Czech_Republic_1952,Czech Republic,1952,74.01,68.35,69.85,Higher simulated investment,True
+Czech_Republic_1957,Czech Republic,1957,78.64,,70.83,Higher simulated investment,True
+Czech_Republic_1962,Czech Republic,1962,85.57,80.76,71.3,Higher simulated investment,True
+Czech_Republic_1967,Czech Republic,1967,81.31,66.31,72.98,Higher simulated investment,True
+Czech_Republic_1972,Czech Republic,1972,90.48,94.08,80.15,Higher simulated investment,True
+Czech_Republic_1977,Czech Republic,1977,100.0,88.41,100.0,,True
+Czech_Republic_1982,Czech Republic,1982,58.09,97.71,79.82,Moderate simulated investment,True
+Czech_Republic_1987,Czech Republic,1987,96.16,79.71,82.64,Higher simulated investment,True
+Czech_Republic_1992,Czech Republic,1992,71.95,75.77,94.29,,True
+Czech_Republic_1997,Czech Republic,1997,97.13,90.27,83.85,Higher simulated investment,True
+Czech_Republic_2002,Czech Republic,2002,61.32,87.27,92.11,Moderate simulated investment,True
+Czech_Republic_2007,Czech Republic,2007,97.27,97.6,90.66,,True
+Denmark_1952,Denmark,1952,81.44,64.45,72.17,Higher simulated investment,True
+Denmark_1957,Denmark,1957,86.7,77.44,67.52,Higher simulated investment,True
+Denmark_1962,Denmark,1962,85.81,100.0,92.55,Higher simulated investment,True
+Denmark_1967,Denmark,1967,74.36,77.88,84.54,Higher simulated investment,True
+Denmark_1972,Denmark,1972,85.02,87.21,66.52,Higher simulated investment,True
+Denmark_1977,Denmark,1977,82.48,100.0,100.0,Higher simulated investment,True
+Denmark_1982,Denmark,1982,81.69,81.75,88.79,Higher simulated investment,True
+Denmark_1987,Denmark,1987,85.8,88.52,89.65,Higher simulated investment,True
+Denmark_1992,Denmark,1992,100.0,80.18,100.0,Higher simulated investment,True
+Denmark_1997,Denmark,1997,84.28,,97.14,Higher simulated investment,True
+Denmark_2002,Denmark,2002,,93.51,87.78,Higher simulated investment,True
+Denmark_2007,Denmark,2007,100.0,73.55,100.0,Higher simulated investment,True
+Dominican_Republic_1952,Dominican Republic,1952,78.22,67.42,70.23,Higher simulated investment,True
+Dominican_Republic_1957,Dominican Republic,1957,46.01,52.57,72.46,Lower simulated investment,True
+Dominican_Republic_1962,Dominican Republic,1962,63.45,62.31,76.65,Moderate simulated investment,True
+Dominican_Republic_1967,Dominican Republic,1967,70.38,68.95,67.13,Moderate simulated investment,True
+Dominican_Republic_1972,Dominican Republic,1972,54.9,61.71,72.67,Moderate simulated investment,True
+Dominican_Republic_1977,Dominican Republic,1977,64.93,86.5,78.81,Moderate simulated investment,True
+Dominican_Republic_1982,Dominican Republic,1982,72.47,72.04,58.77,Higher simulated investment,True
+Dominican_Republic_1987,Dominican Republic,1987,80.38,81.65,73.32,Higher simulated investment,True
+Dominican_Republic_1992,Dominican Republic,1992,71.12,82.04,,Moderate simulated investment,True
+Dominican_Republic_1997,Dominican Republic,1997,79.29,95.17,82.93,Higher simulated investment,True
+Dominican_Republic_2002,Dominican Republic,2002,85.1,56.72,76.91,Higher simulated investment,True
+Dominican_Republic_2007,Dominican Republic,2007,84.91,76.91,80.24,Higher simulated investment,True
+Ecuador_1952,Ecuador,1952,54.26,64.89,72.43,Moderate simulated investment,True
+Ecuador_1957,Ecuador,1957,66.25,68.5,79.41,Moderate simulated investment,True
+Ecuador_1962,Ecuador,1962,61.51,88.84,78.1,Moderate simulated investment,True
+Ecuador_1967,Ecuador,1967,48.69,,82.87,Lower simulated investment,True
+Ecuador_1972,Ecuador,1972,70.04,80.96,72.73,Moderate simulated investment,True
+Ecuador_1977,Ecuador,1977,62.93,96.32,82.63,Moderate simulated investment,True
+Ecuador_1982,Ecuador,1982,55.41,80.21,72.55,Moderate simulated investment,True
+Ecuador_1987,Ecuador,1987,95.28,83.86,82.8,,True
+Ecuador_1992,Ecuador,1992,86.61,79.17,91.09,Higher simulated investment,True
+Ecuador_1997,Ecuador,1997,65.5,79.41,75.48,Moderate simulated investment,True
+Ecuador_2002,Ecuador,2002,67.39,75.24,85.45,Moderate simulated investment,True
+Ecuador_2007,Ecuador,2007,83.32,89.27,100.0,Higher simulated investment,True
+El_Salvador_1952,El Salvador,1952,62.94,69.35,61.43,Moderate simulated investment,True
+El_Salvador_1957,El Salvador,1957,65.43,65.85,66.39,Moderate simulated investment,True
+El_Salvador_1962,El Salvador,1962,61.91,,63.62,Moderate simulated investment,True
+El_Salvador_1967,El Salvador,1967,66.0,76.09,73.57,Moderate simulated investment,True
+El_Salvador_1972,El Salvador,1972,79.33,58.75,78.98,Higher simulated investment,True
+El_Salvador_1977,El Salvador,1977,59.99,80.12,77.12,Moderate simulated investment,True
+El_Salvador_1982,El Salvador,1982,70.3,,62.08,Moderate simulated investment,True
+El_Salvador_1987,El Salvador,1987,66.92,80.38,73.56,Moderate simulated investment,True
+El_Salvador_1992,El Salvador,1992,55.27,58.24,99.69,Moderate simulated investment,True
+El_Salvador_1997,El Salvador,1997,,,83.7,Moderate simulated investment,True
+El_Salvador_2002,El Salvador,2002,93.58,79.42,78.31,Higher simulated investment,True
+El_Salvador_2007,El Salvador,2007,61.24,98.55,92.91,Moderate simulated investment,True
+Finland_1952,Finland,1952,55.06,84.87,57.69,Moderate simulated investment,True
+Finland_1957,Finland,1957,66.39,69.38,74.86,Moderate simulated investment,True
+Finland_1962,Finland,1962,74.67,74.17,65.45,Higher simulated investment,True
+Finland_1967,Finland,1967,83.39,88.68,79.13,Higher simulated investment,True
+Finland_1972,Finland,1972,72.22,69.33,80.4,Higher simulated investment,True
+Finland_1977,Finland,1977,62.89,86.13,99.93,Moderate simulated investment,True
+Finland_1982,Finland,1982,68.43,,80.48,,True
+Finland_1987,Finland,1987,94.72,75.09,98.23,Higher simulated investment,True
+Finland_1992,Finland,1992,90.32,86.21,86.15,Higher simulated investment,True
+Finland_1997,Finland,1997,72.07,73.55,87.18,Higher simulated investment,True
+Finland_2002,Finland,2002,81.1,88.05,,Higher simulated investment,True
+Finland_2007,Finland,2007,91.37,94.18,92.83,Higher simulated investment,True
+France_1952,France,1952,49.6,74.51,78.23,Lower simulated investment,True
+France_1957,France,1957,62.15,75.67,81.6,Moderate simulated investment,True
+France_1962,France,1962,76.19,,82.31,Higher simulated investment,True
+France_1967,France,1967,62.5,80.05,75.76,Moderate simulated investment,True
+France_1972,France,1972,76.74,90.63,74.63,Higher simulated investment,True
+France_1977,France,1977,,82.4,76.45,Higher simulated investment,True
+France_1982,France,1982,83.87,76.43,91.63,Higher simulated investment,True
+France_1987,France,1987,100.0,77.21,83.72,Higher simulated investment,True
+France_1992,France,1992,92.82,97.98,81.39,Higher simulated investment,True
+France_1997,France,1997,81.2,82.8,83.81,Higher simulated investment,True
+France_2002,France,2002,72.96,92.05,82.54,Higher simulated investment,True
+France_2007,France,2007,73.94,83.96,87.43,,True
+Germany_1952,Germany,1952,69.23,82.87,81.85,Moderate simulated investment,True
+Germany_1957,Germany,1957,56.76,81.63,75.88,Moderate simulated investment,True
+Germany_1962,Germany,1962,91.4,76.32,,Higher simulated investment,True
+Germany_1967,Germany,1967,73.6,73.95,94.32,Higher simulated investment,True
+Germany_1972,Germany,1972,76.7,67.04,75.13,Higher simulated investment,True
+Germany_1977,Germany,1977,76.49,79.72,89.77,Higher simulated investment,True
+Germany_1982,Germany,1982,90.35,96.87,100.0,Higher simulated investment,True
+Germany_1987,Germany,1987,89.52,97.94,95.88,Higher simulated investment,True
+Germany_1992,Germany,1992,87.22,95.03,100.0,Higher simulated investment,True
+Germany_1997,Germany,1997,78.13,100.0,94.28,Higher simulated investment,True
+Germany_2002,Germany,2002,100.0,89.73,94.6,Higher simulated investment,True
+Germany_2007,Germany,2007,85.45,,97.0,Higher simulated investment,True
+Greece_1952,Greece,1952,68.98,70.23,76.74,Moderate simulated investment,True
+Greece_1957,Greece,1957,,60.94,75.86,Higher simulated investment,True
+Greece_1962,Greece,1962,55.08,92.01,75.01,Moderate simulated investment,True
+Greece_1967,Greece,1967,65.8,70.36,85.03,Moderate simulated investment,True
+Greece_1972,Greece,1972,85.21,87.93,91.66,Higher simulated investment,True
+Greece_1977,Greece,1977,79.27,91.38,,Higher simulated investment,True
+Greece_1982,Greece,1982,86.5,,71.31,Higher simulated investment,True
+Greece_1987,Greece,1987,94.36,83.49,98.89,Higher simulated investment,True
+Greece_1992,Greece,1992,82.45,85.6,82.3,Higher simulated investment,True
+Greece_1997,Greece,1997,98.77,,84.55,Higher simulated investment,True
+Greece_2002,Greece,2002,88.74,100.0,93.98,Higher simulated investment,True
+Greece_2007,Greece,2007,77.99,94.48,84.99,Higher simulated investment,True
+Guatemala_1952,Guatemala,1952,56.41,60.81,69.78,Moderate simulated investment,True
+Guatemala_1957,Guatemala,1957,69.16,72.07,63.14,Moderate simulated investment,True
+Guatemala_1962,Guatemala,1962,68.89,75.97,82.21,Moderate simulated investment,True
+Guatemala_1967,Guatemala,1967,56.91,95.5,70.24,Moderate simulated investment,True
+Guatemala_1972,Guatemala,1972,82.03,,86.13,Higher simulated investment,True
+Guatemala_1977,Guatemala,1977,90.31,74.14,71.51,Higher simulated investment,True
+Guatemala_1982,Guatemala,1982,53.36,66.13,75.79,Moderate simulated investment,True
+Guatemala_1987,Guatemala,1987,64.95,,72.34,Moderate simulated investment,True
+Guatemala_1992,Guatemala,1992,73.5,69.67,73.08,Higher simulated investment,True
+Guatemala_1997,Guatemala,1997,58.51,80.96,74.25,,True
+Guatemala_2002,Guatemala,2002,73.6,70.06,66.78,Higher simulated investment,True
+Guatemala_2007,Guatemala,2007,,91.74,59.64,Higher simulated investment,True
+Haiti_1952,Haiti,1952,69.02,76.72,78.11,Moderate simulated investment,True
+Haiti_1957,Haiti,1957,43.5,56.84,60.05,Lower simulated investment,True
+Haiti_1962,Haiti,1962,54.2,81.18,71.98,Moderate simulated investment,True
+Haiti_1967,Haiti,1967,52.51,52.38,58.27,Lower simulated investment,True
+Haiti_1972,Haiti,1972,54.35,86.58,81.51,Moderate simulated investment,True
+Haiti_1977,Haiti,1977,69.02,73.13,68.72,Moderate simulated investment,True
+Haiti_1982,Haiti,1982,,59.98,78.48,Higher simulated investment,True
+Haiti_1987,Haiti,1987,70.56,76.08,67.19,Moderate simulated investment,True
+Haiti_1992,Haiti,1992,78.13,58.45,62.14,Higher simulated investment,True
+Haiti_1997,Haiti,1997,82.42,61.37,77.59,Higher simulated investment,True
+Haiti_2002,Haiti,2002,51.55,62.65,86.46,Lower simulated investment,True
+Haiti_2007,Haiti,2007,84.81,73.7,59.19,Higher simulated investment,True
+Honduras_1952,Honduras,1952,65.87,54.98,60.99,Moderate simulated investment,True
+Honduras_1957,Honduras,1957,65.84,68.96,63.02,Moderate simulated investment,True
+Honduras_1962,Honduras,1962,76.65,69.33,68.95,Higher simulated investment,True
+Honduras_1967,Honduras,1967,70.48,66.37,69.49,Moderate simulated investment,True
+Honduras_1972,Honduras,1972,58.58,51.97,52.35,Moderate simulated investment,True
+Honduras_1977,Honduras,1977,78.67,62.44,57.39,Higher simulated investment,True
+Honduras_1982,Honduras,1982,72.58,74.52,,Higher simulated investment,True
+Honduras_1987,Honduras,1987,78.88,75.38,77.05,Higher simulated investment,True
+Honduras_1992,Honduras,1992,57.44,66.57,,Moderate simulated investment,True
+Honduras_1997,Honduras,1997,84.8,70.85,75.52,Higher simulated investment,True
+Honduras_2002,Honduras,2002,72.35,84.25,87.06,Higher simulated investment,True
+Honduras_2007,Honduras,2007,81.23,70.31,72.55,Higher simulated investment,True
+Hungary_1952,Hungary,1952,53.74,73.86,72.53,Moderate simulated investment,True
+Hungary_1957,Hungary,1957,100.0,75.23,67.19,Higher simulated investment,True
+Hungary_1962,Hungary,1962,90.68,72.98,90.04,Higher simulated investment,True
+Hungary_1967,Hungary,1967,64.66,72.89,67.1,Moderate simulated investment,True
+Hungary_1972,Hungary,1972,70.21,66.33,73.1,Moderate simulated investment,True
+Hungary_1977,Hungary,1977,71.78,87.7,79.73,Moderate simulated investment,True
+Hungary_1982,Hungary,1982,79.27,86.63,91.72,Higher simulated investment,True
+Hungary_1987,Hungary,1987,74.31,87.9,77.42,Higher simulated investment,True
+Hungary_1992,Hungary,1992,76.24,84.74,89.84,Higher simulated investment,True
+Hungary_1997,Hungary,1997,93.14,95.09,87.36,Higher simulated investment,True
+Hungary_2002,Hungary,2002,81.98,74.94,87.16,Higher simulated investment,True
+Hungary_2007,Hungary,2007,93.51,92.53,83.92,Higher simulated investment,True
+Iceland_1952,Iceland,1952,83.58,87.83,87.82,Higher simulated investment,True
+Iceland_1957,Iceland,1957,64.72,71.72,81.75,Moderate simulated investment,True
+Iceland_1962,Iceland,1962,89.7,79.69,71.61,Higher simulated investment,True
+Iceland_1967,Iceland,1967,87.16,69.31,69.41,Higher simulated investment,True
+Iceland_1972,Iceland,1972,76.02,77.92,90.01,Higher simulated investment,True
+Iceland_1977,Iceland,1977,82.68,82.79,77.73,Higher simulated investment,True
+Iceland_1982,Iceland,1982,76.62,96.95,87.02,Higher simulated investment,True
+Iceland_1987,Iceland,1987,74.21,84.81,76.75,Higher simulated investment,True
+Iceland_1992,Iceland,1992,78.29,,94.94,Higher simulated investment,True
+Iceland_1997,Iceland,1997,89.73,,97.29,Higher simulated investment,True
+Iceland_2002,Iceland,2002,73.93,78.31,100.0,Higher simulated investment,True
+Iceland_2007,Iceland,2007,86.45,100.0,100.0,Higher simulated investment,True
+Ireland_1952,Ireland,1952,84.19,78.56,50.79,Higher simulated investment,True
+Ireland_1957,Ireland,1957,88.3,67.55,74.66,Higher simulated investment,True
+Ireland_1962,Ireland,1962,69.25,,80.79,Moderate simulated investment,True
+Ireland_1967,Ireland,1967,88.28,87.59,62.06,Higher simulated investment,True
+Ireland_1972,Ireland,1972,89.75,87.16,69.88,Higher simulated investment,True
+Ireland_1977,Ireland,1977,61.55,100.0,58.46,Moderate simulated investment,True
+Ireland_1982,Ireland,1982,94.35,94.67,75.59,Higher simulated investment,True
+Ireland_1987,Ireland,1987,83.44,85.6,93.26,Higher simulated investment,True
+Ireland_1992,Ireland,1992,98.61,77.61,87.4,Higher simulated investment,True
+Ireland_1997,Ireland,1997,84.79,86.8,75.98,Higher simulated investment,True
+Ireland_2002,Ireland,2002,79.43,89.25,98.23,Higher simulated investment,True
+Ireland_2007,Ireland,2007,85.48,97.16,94.71,Higher simulated investment,True
+Italy_1952,Italy,1952,73.1,63.64,63.08,Higher simulated investment,True
+Italy_1957,Italy,1957,86.35,69.25,74.38,Higher simulated investment,True
+Italy_1962,Italy,1962,,82.6,78.17,Higher simulated investment,True
+Italy_1967,Italy,1967,62.73,98.94,67.82,Moderate simulated investment,True
+Italy_1972,Italy,1972,85.08,94.02,80.56,Higher simulated investment,True
+Italy_1977,Italy,1977,76.66,84.14,75.12,Higher simulated investment,True
+Italy_1982,Italy,1982,75.47,87.77,87.55,Higher simulated investment,True
+Italy_1987,Italy,1987,56.25,77.86,,Moderate simulated investment,True
+Italy_1992,Italy,1992,71.93,92.02,91.31,Moderate simulated investment,True
+Italy_1997,Italy,1997,82.88,100.0,89.09,Higher simulated investment,True
+Italy_2002,Italy,2002,75.21,87.01,88.42,Higher simulated investment,True
+Italy_2007,Italy,2007,80.14,86.94,94.73,Higher simulated investment,True
+Jamaica_1952,Jamaica,1952,58.54,54.1,74.93,,True
+Jamaica_1957,Jamaica,1957,63.0,60.11,56.32,Moderate simulated investment,True
+Jamaica_1962,Jamaica,1962,90.02,86.52,66.04,Higher simulated investment,True
+Jamaica_1967,Jamaica,1967,69.02,64.89,72.31,Moderate simulated investment,True
+Jamaica_1972,Jamaica,1972,76.42,60.33,75.5,Higher simulated investment,True
+Jamaica_1977,Jamaica,1977,60.22,60.59,92.91,Moderate simulated investment,True
+Jamaica_1982,Jamaica,1982,86.57,80.72,71.38,Higher simulated investment,True
+Jamaica_1987,Jamaica,1987,65.07,81.87,76.92,Moderate simulated investment,True
+Jamaica_1992,Jamaica,1992,92.4,77.55,80.59,Higher simulated investment,True
+Jamaica_1997,Jamaica,1997,91.16,64.56,82.7,Higher simulated investment,True
+Jamaica_2002,Jamaica,2002,82.15,74.09,93.71,Higher simulated investment,True
+Jamaica_2007,Jamaica,2007,76.88,75.81,72.47,Higher simulated investment,True
+Mexico_1952,Mexico,1952,75.98,69.26,78.13,Higher simulated investment,True
+Mexico_1957,Mexico,1957,59.23,60.62,70.57,Moderate simulated investment,True
+Mexico_1962,Mexico,1962,51.85,90.89,84.39,Lower simulated investment,True
+Mexico_1967,Mexico,1967,84.59,54.3,84.59,Higher simulated investment,True
+Mexico_1972,Mexico,1972,68.2,79.31,73.62,Moderate simulated investment,True
+Mexico_1977,Mexico,1977,67.39,96.58,68.11,Moderate simulated investment,True
+Mexico_1982,Mexico,1982,,81.56,77.93,,True
+Mexico_1987,Mexico,1987,70.67,90.12,80.86,Moderate simulated investment,True
+Mexico_1992,Mexico,1992,95.7,88.46,69.15,Higher simulated investment,True
+Mexico_1997,Mexico,1997,89.05,75.27,80.68,,True
+Mexico_2002,Mexico,2002,82.45,84.85,82.97,Higher simulated investment,True
+Mexico_2007,Mexico,2007,55.17,73.39,83.28,Moderate simulated investment,True
+Montenegro_1952,Montenegro,1952,56.0,68.65,61.04,Moderate simulated investment,True
+Montenegro_1957,Montenegro,1957,66.53,72.05,67.91,Moderate simulated investment,True
+Montenegro_1962,Montenegro,1962,64.97,77.13,60.84,Moderate simulated investment,True
+Montenegro_1967,Montenegro,1967,70.97,97.14,74.15,Moderate simulated investment,True
+Montenegro_1972,Montenegro,1972,78.62,83.32,94.41,Higher simulated investment,True
+Montenegro_1977,Montenegro,1977,79.95,83.03,79.66,Higher simulated investment,True
+Montenegro_1982,Montenegro,1982,85.94,69.28,89.89,,True
+Montenegro_1987,Montenegro,1987,87.56,81.3,87.4,Higher simulated investment,True
+Montenegro_1992,Montenegro,1992,79.57,94.77,90.02,Higher simulated investment,True
+Montenegro_1997,Montenegro,1997,58.15,88.99,75.26,Moderate simulated investment,True
+Montenegro_2002,Montenegro,2002,100.0,79.03,83.08,Higher simulated investment,True
+Montenegro_2007,Montenegro,2007,91.51,87.88,95.69,Higher simulated investment,True
+Netherlands_1952,Netherlands,1952,64.44,77.86,78.09,Moderate simulated investment,True
+Netherlands_1957,Netherlands,1957,78.06,67.77,97.56,Higher simulated investment,True
+Netherlands_1962,Netherlands,1962,90.93,77.53,74.94,Higher simulated investment,True
+Netherlands_1967,Netherlands,1967,90.76,85.63,85.24,Higher simulated investment,True
+Netherlands_1972,Netherlands,1972,83.47,,64.42,Higher simulated investment,True
+Netherlands_1977,Netherlands,1977,90.63,93.34,75.42,Higher simulated investment,True
+Netherlands_1982,Netherlands,1982,99.18,93.04,80.57,Higher simulated investment,True
+Netherlands_1987,Netherlands,1987,81.45,91.07,76.94,,True
+Netherlands_1992,Netherlands,1992,90.61,95.85,85.99,Higher simulated investment,True
+Netherlands_1997,Netherlands,1997,84.02,95.05,84.63,Higher simulated investment,True
+Netherlands_2002,Netherlands,2002,80.07,61.61,96.35,Higher simulated investment,True
+Netherlands_2007,Netherlands,2007,92.68,90.05,100.0,Higher simulated investment,True
+New_Zealand_1952,New Zealand,1952,89.39,71.48,,Higher simulated investment,True
+New_Zealand_1957,New Zealand,1957,70.23,72.11,81.81,Moderate simulated investment,True
+New_Zealand_1962,New Zealand,1962,73.12,81.35,93.61,Higher simulated investment,True
+New_Zealand_1967,New Zealand,1967,54.75,66.98,77.21,Moderate simulated investment,True
+New_Zealand_1972,New Zealand,1972,88.01,99.15,79.89,Higher simulated investment,True
+New_Zealand_1977,New Zealand,1977,95.77,71.62,79.69,Higher simulated investment,True
+New_Zealand_1982,New Zealand,1982,99.53,75.31,78.38,Higher simulated investment,True
+New_Zealand_1987,New Zealand,1987,83.99,100.0,93.36,Higher simulated investment,True
+New_Zealand_1992,New Zealand,1992,100.0,87.92,98.74,Higher simulated investment,True
+New_Zealand_1997,New Zealand,1997,93.83,100.0,97.45,Higher simulated investment,True
+New_Zealand_2002,New Zealand,2002,76.0,77.0,100.0,Higher simulated investment,True
+New_Zealand_2007,New Zealand,2007,78.95,,87.7,Higher simulated investment,True
+Nicaragua_1952,Nicaragua,1952,64.58,55.18,,Moderate simulated investment,True
+Nicaragua_1957,Nicaragua,1957,84.41,66.87,67.76,,True
+Nicaragua_1962,Nicaragua,1962,74.14,57.18,76.43,Higher simulated investment,True
+Nicaragua_1967,Nicaragua,1967,87.55,69.66,70.68,Higher simulated investment,True
+Nicaragua_1972,Nicaragua,1972,68.53,82.0,72.14,Moderate simulated investment,True
+Nicaragua_1977,Nicaragua,1977,100.0,82.21,75.02,Higher simulated investment,True
+Nicaragua_1982,Nicaragua,1982,55.29,,73.43,Moderate simulated investment,True
+Nicaragua_1987,Nicaragua,1987,74.59,70.39,71.52,Higher simulated investment,True
+Nicaragua_1992,Nicaragua,1992,67.17,,78.88,Moderate simulated investment,True
+Nicaragua_1997,Nicaragua,1997,88.94,93.02,82.88,Higher simulated investment,True
+Nicaragua_2002,Nicaragua,2002,66.51,83.45,67.3,Moderate simulated investment,True
+Nicaragua_2007,Nicaragua,2007,70.19,82.67,81.34,Moderate simulated investment,True
+Norway_1952,Norway,1952,85.27,81.04,81.29,Higher simulated investment,True
+Norway_1957,Norway,1957,67.32,59.06,87.5,Moderate simulated investment,True
+Norway_1962,Norway,1962,80.66,88.02,,Higher simulated investment,True
+Norway_1967,Norway,1967,95.96,78.08,73.37,Higher simulated investment,True
+Norway_1972,Norway,1972,77.28,85.32,71.22,Higher simulated investment,True
+Norway_1977,Norway,1977,96.3,70.29,93.03,Higher simulated investment,True
+Norway_1982,Norway,1982,79.84,93.6,69.56,Higher simulated investment,True
+Norway_1987,Norway,1987,87.67,91.08,87.77,Higher simulated investment,True
+Norway_1992,Norway,1992,78.74,72.67,80.16,Higher simulated investment,True
+Norway_1997,Norway,1997,100.0,92.6,96.71,Higher simulated investment,True
+Norway_2002,Norway,2002,100.0,,99.52,Higher simulated investment,True
+Norway_2007,Norway,2007,97.33,100.0,100.0,Higher simulated investment,True
+Panama_1952,Panama,1952,58.51,55.31,79.32,Moderate simulated investment,True
+Panama_1957,Panama,1957,72.34,73.53,60.55,Higher simulated investment,True
+Panama_1962,Panama,1962,67.02,74.98,60.02,Moderate simulated investment,True
+Panama_1967,Panama,1967,64.44,77.31,64.06,Moderate simulated investment,True
+Panama_1972,Panama,1972,76.44,90.93,78.5,Higher simulated investment,True
+Panama_1977,Panama,1977,,75.41,67.34,Higher simulated investment,True
+Panama_1982,Panama,1982,84.81,81.56,74.2,Higher simulated investment,True
+Panama_1987,Panama,1987,76.4,,78.43,Higher simulated investment,True
+Panama_1992,Panama,1992,81.81,80.93,78.64,Higher simulated investment,True
+Panama_1997,Panama,1997,93.76,73.07,69.28,Higher simulated investment,True
+Panama_2002,Panama,2002,81.14,79.97,93.97,Higher simulated investment,True
+Panama_2007,Panama,2007,78.44,99.7,89.32,Higher simulated investment,True
+Paraguay_1952,Paraguay,1952,71.59,56.92,66.55,Moderate simulated investment,True
+Paraguay_1957,Paraguay,1957,65.53,50.3,61.21,Moderate simulated investment,True
+Paraguay_1962,Paraguay,1962,,71.35,68.84,,True
+Paraguay_1967,Paraguay,1967,81.63,55.99,74.7,Higher simulated investment,True
+Paraguay_1972,Paraguay,1972,70.32,72.73,66.48,Moderate simulated investment,True
+Paraguay_1977,Paraguay,1977,,58.97,74.22,Moderate simulated investment,True
+Paraguay_1982,Paraguay,1982,86.39,76.0,71.19,,True
+Paraguay_1987,Paraguay,1987,,72.49,73.29,Moderate simulated investment,True
+Paraguay_1992,Paraguay,1992,88.83,83.11,78.7,Higher simulated investment,True
+Paraguay_1997,Paraguay,1997,53.58,87.33,,Moderate simulated investment,True
+Paraguay_2002,Paraguay,2002,69.35,72.49,80.13,Moderate simulated investment,True
+Paraguay_2007,Paraguay,2007,79.26,100.0,85.2,Higher simulated investment,True
+Peru_1952,Peru,1952,91.0,73.05,72.8,Higher simulated investment,True
+Peru_1957,Peru,1957,,85.42,59.39,Moderate simulated investment,True
+Peru_1962,Peru,1962,72.99,68.06,61.23,Higher simulated investment,True
+Peru_1967,Peru,1967,60.13,89.2,73.68,Moderate simulated investment,True
+Peru_1972,Peru,1972,74.77,49.35,55.44,Higher simulated investment,True
+Peru_1977,Peru,1977,78.77,62.83,71.48,Higher simulated investment,True
+Peru_1982,Peru,1982,96.85,88.61,77.51,Higher simulated investment,True
+Peru_1987,Peru,1987,77.85,59.24,70.95,,True
+Peru_1992,Peru,1992,68.48,59.89,67.08,Moderate simulated investment,True
+Peru_1997,Peru,1997,99.93,94.57,90.45,Higher simulated investment,True
+Peru_2002,Peru,2002,82.97,67.52,100.0,Higher simulated investment,True
+Peru_2007,Peru,2007,100.0,73.42,83.63,Higher simulated investment,True
+Poland_1952,Poland,1952,61.82,59.82,74.2,Moderate simulated investment,True
+Poland_1957,Poland,1957,55.45,61.94,65.27,Moderate simulated investment,True
+Poland_1962,Poland,1962,,78.44,66.87,,True
+Poland_1967,Poland,1967,74.87,,,Higher simulated investment,True
+Poland_1972,Poland,1972,72.21,65.28,72.66,Higher simulated investment,True
+Poland_1977,Poland,1977,77.67,75.43,85.35,Higher simulated investment,True
+Poland_1982,Poland,1982,94.69,67.35,72.53,Higher simulated investment,True
+Poland_1987,Poland,1987,89.88,61.3,63.88,Higher simulated investment,True
+Poland_1992,Poland,1992,82.9,72.81,69.06,Higher simulated investment,True
+Poland_1997,Poland,1997,87.74,79.72,96.64,Higher simulated investment,True
+Poland_2002,Poland,2002,100.0,72.95,84.52,Higher simulated investment,True
+Poland_2007,Poland,2007,86.1,88.32,95.45,Higher simulated investment,True
+Portugal_1952,Portugal,1952,59.01,67.73,64.33,Moderate simulated investment,True
+Portugal_1957,Portugal,1957,80.06,79.49,53.58,Higher simulated investment,True
+Portugal_1962,Portugal,1962,75.79,90.96,77.49,Higher simulated investment,True
+Portugal_1967,Portugal,1967,70.48,62.99,90.47,Moderate simulated investment,True
+Portugal_1972,Portugal,1972,96.58,93.42,66.55,Higher simulated investment,True
+Portugal_1977,Portugal,1977,74.76,91.0,93.21,Higher simulated investment,True
+Portugal_1982,Portugal,1982,72.57,69.55,84.66,Higher simulated investment,True
+Portugal_1987,Portugal,1987,93.83,66.88,94.21,Higher simulated investment,True
+Portugal_1992,Portugal,1992,61.24,84.08,70.96,,True
+Portugal_1997,Portugal,1997,88.44,100.0,100.0,Higher simulated investment,True
+Portugal_2002,Portugal,2002,100.0,78.25,94.37,Higher simulated investment,True
+Portugal_2007,Portugal,2007,92.56,100.0,79.37,Higher simulated investment,True
+Puerto_Rico_1952,Puerto Rico,1952,,84.61,55.8,Moderate simulated investment,True
+Puerto_Rico_1957,Puerto Rico,1957,69.8,66.93,78.11,Moderate simulated investment,True
+Puerto_Rico_1962,Puerto Rico,1962,86.8,75.13,93.37,Higher simulated investment,True
+Puerto_Rico_1967,Puerto Rico,1967,54.07,,89.3,Moderate simulated investment,True
+Puerto_Rico_1972,Puerto Rico,1972,66.81,81.51,77.97,Moderate simulated investment,True
+Puerto_Rico_1977,Puerto Rico,1977,60.54,91.48,79.61,Moderate simulated investment,True
+Puerto_Rico_1982,Puerto Rico,1982,95.38,85.23,75.68,Higher simulated investment,True
+Puerto_Rico_1987,Puerto Rico,1987,92.22,100.0,75.55,Higher simulated investment,True
+Puerto_Rico_1992,Puerto Rico,1992,67.85,82.21,98.48,Moderate simulated investment,True
+Puerto_Rico_1997,Puerto Rico,1997,91.28,78.13,77.33,Higher simulated investment,True
+Puerto_Rico_2002,Puerto Rico,2002,100.0,72.86,88.16,Higher simulated investment,True
+Puerto_Rico_2007,Puerto Rico,2007,87.27,93.51,86.54,Higher simulated investment,True
+Romania_1952,Romania,1952,73.45,75.48,57.94,Higher simulated investment,True
+Romania_1957,Romania,1957,73.35,68.6,73.62,Higher simulated investment,True
+Romania_1962,Romania,1962,87.94,91.97,73.82,Higher simulated investment,True
+Romania_1967,Romania,1967,84.32,71.23,79.1,Higher simulated investment,True
+Romania_1972,Romania,1972,79.07,89.72,78.2,Higher simulated investment,True
+Romania_1977,Romania,1977,80.64,66.19,62.49,Higher simulated investment,True
+Romania_1982,Romania,1982,74.71,98.42,74.49,Higher simulated investment,True
+Romania_1987,Romania,1987,67.04,58.17,78.09,Moderate simulated investment,True
+Romania_1992,Romania,1992,77.76,85.16,86.03,Higher simulated investment,True
+Romania_1997,Romania,1997,92.27,92.93,73.84,Higher simulated investment,True
+Romania_2002,Romania,2002,100.0,82.51,77.45,Higher simulated investment,True
+Romania_2007,Romania,2007,76.46,98.21,87.24,Higher simulated investment,True
+Serbia_1952,Serbia,1952,64.6,73.31,78.54,Moderate simulated investment,True
+Serbia_1957,Serbia,1957,71.0,86.7,90.95,Moderate simulated investment,True
+Serbia_1962,Serbia,1962,76.52,79.71,73.35,Higher simulated investment,True
+Serbia_1967,Serbia,1967,67.49,71.56,79.55,Moderate simulated investment,True
+Serbia_1972,Serbia,1972,90.28,65.75,,Higher simulated investment,True
+Serbia_1977,Serbia,1977,83.55,88.45,90.53,Higher simulated investment,True
+Serbia_1982,Serbia,1982,92.74,,79.52,Higher simulated investment,True
+Serbia_1987,Serbia,1987,71.27,91.93,88.28,Moderate simulated investment,True
+Serbia_1992,Serbia,1992,69.71,86.58,68.15,Moderate simulated investment,True
+Serbia_1997,Serbia,1997,79.28,73.44,,Higher simulated investment,True
+Serbia_2002,Serbia,2002,91.3,89.7,98.91,Higher simulated investment,True
+Serbia_2007,Serbia,2007,76.7,80.03,77.59,Higher simulated investment,True
+Slovak_Republic_1952,Slovak Republic,1952,70.45,76.73,,Moderate simulated investment,True
+Slovak_Republic_1957,Slovak Republic,1957,67.96,87.85,88.18,Moderate simulated investment,True
+Slovak_Republic_1962,Slovak Republic,1962,58.94,89.14,53.32,Moderate simulated investment,True
+Slovak_Republic_1967,Slovak Republic,1967,81.97,87.26,77.44,Higher simulated investment,True
+Slovak_Republic_1972,Slovak Republic,1972,65.04,65.6,72.5,Moderate simulated investment,True
+Slovak_Republic_1977,Slovak Republic,1977,90.11,86.99,92.78,Higher simulated investment,True
+Slovak_Republic_1982,Slovak Republic,1982,77.95,86.61,74.23,Higher simulated investment,True
+Slovak_Republic_1987,Slovak Republic,1987,88.14,88.14,89.61,Higher simulated investment,True
+Slovak_Republic_1992,Slovak Republic,1992,91.28,89.36,86.74,Higher simulated investment,True
+Slovak_Republic_1997,Slovak Republic,1997,78.33,79.06,75.64,Higher simulated investment,True
+Slovak_Republic_2002,Slovak Republic,2002,84.12,78.17,97.33,Higher simulated investment,True
+Slovak_Republic_2007,Slovak Republic,2007,95.22,86.17,90.06,,True
+Slovenia_1952,Slovenia,1952,70.4,73.74,82.87,Moderate simulated investment,True
+Slovenia_1957,Slovenia,1957,72.54,86.23,,Higher simulated investment,True
+Slovenia_1962,Slovenia,1962,87.13,84.95,82.21,,True
+Slovenia_1967,Slovenia,1967,77.96,77.72,76.03,Higher simulated investment,True
+Slovenia_1972,Slovenia,1972,93.3,84.3,82.2,Higher simulated investment,True
+Slovenia_1977,Slovenia,1977,93.3,83.02,75.82,Higher simulated investment,True
+Slovenia_1982,Slovenia,1982,82.4,84.36,86.71,Higher simulated investment,True
+Slovenia_1987,Slovenia,1987,83.7,77.21,95.26,Higher simulated investment,True
+Slovenia_1992,Slovenia,1992,88.43,88.88,98.41,Higher simulated investment,True
+Slovenia_1997,Slovenia,1997,72.76,94.67,90.27,Higher simulated investment,True
+Slovenia_2002,Slovenia,2002,85.58,84.22,,Higher simulated investment,True
+Slovenia_2007,Slovenia,2007,96.76,100.0,100.0,Higher simulated investment,True
+Spain_1952,Spain,1952,59.6,83.42,84.08,Moderate simulated investment,True
+Spain_1957,Spain,1957,85.63,81.47,80.82,Higher simulated investment,True
+Spain_1962,Spain,1962,47.81,56.92,93.15,Lower simulated investment,True
+Spain_1967,Spain,1967,81.71,75.45,61.73,Higher simulated investment,True
+Spain_1972,Spain,1972,84.84,85.46,75.73,Higher simulated investment,True
+Spain_1977,Spain,1977,74.21,77.78,85.97,Higher simulated investment,True
+Spain_1982,Spain,1982,77.35,79.02,83.44,Higher simulated investment,True
+Spain_1987,Spain,1987,81.05,,96.12,Higher simulated investment,True
+Spain_1992,Spain,1992,72.71,75.91,86.9,Higher simulated investment,True
+Spain_1997,Spain,1997,96.13,86.33,84.73,Higher simulated investment,True
+Spain_2002,Spain,2002,84.24,83.46,96.76,Higher simulated investment,True
+Spain_2007,Spain,2007,100.0,87.95,95.32,Higher simulated investment,True
+Sweden_1952,Sweden,1952,83.58,78.19,75.27,Higher simulated investment,True
+Sweden_1957,Sweden,1957,64.59,98.99,96.92,Moderate simulated investment,True
+Sweden_1962,Sweden,1962,57.37,70.67,77.35,Moderate simulated investment,True
+Sweden_1967,Sweden,1967,84.36,70.04,83.15,Higher simulated investment,True
+Sweden_1972,Sweden,1972,80.13,78.01,83.19,Higher simulated investment,True
+Sweden_1977,Sweden,1977,81.08,98.08,76.35,Higher simulated investment,True
+Sweden_1982,Sweden,1982,77.62,100.0,83.76,Higher simulated investment,True
+Sweden_1987,Sweden,1987,91.13,87.27,74.8,Higher simulated investment,True
+Sweden_1992,Sweden,1992,91.52,78.94,86.5,Higher simulated investment,True
+Sweden_1997,Sweden,1997,84.68,85.11,89.4,Higher simulated investment,True
+Sweden_2002,Sweden,2002,91.8,75.18,84.68,Higher simulated investment,True
+Sweden_2007,Sweden,2007,91.19,88.79,100.0,Higher simulated investment,True
+Switzerland_1952,Switzerland,1952,88.04,92.17,88.4,,True
+Switzerland_1957,Switzerland,1957,83.46,86.81,92.33,Higher simulated investment,True
+Switzerland_1962,Switzerland,1962,69.28,72.09,76.07,Moderate simulated investment,True
+Switzerland_1967,Switzerland,1967,76.63,83.19,67.67,Higher simulated investment,True
+Switzerland_1972,Switzerland,1972,67.15,100.0,94.7,Moderate simulated investment,True
+Switzerland_1977,Switzerland,1977,89.52,84.84,75.83,Higher simulated investment,True
+Switzerland_1982,Switzerland,1982,78.02,89.66,95.01,Higher simulated investment,True
+Switzerland_1987,Switzerland,1987,75.19,93.16,91.48,Higher simulated investment,True
+Switzerland_1992,Switzerland,1992,84.12,91.82,74.95,Higher simulated investment,True
+Switzerland_1997,Switzerland,1997,95.96,85.74,88.31,Higher simulated investment,True
+Switzerland_2002,Switzerland,2002,100.0,89.96,100.0,Higher simulated investment,True
+Switzerland_2007,Switzerland,2007,99.66,95.33,95.77,Higher simulated investment,True
+Trinidad_and_Tobago_1952,Trinidad and Tobago,1952,85.04,58.15,71.82,Higher simulated investment,True
+Trinidad_and_Tobago_1957,Trinidad and Tobago,1957,,65.47,64.07,Lower simulated investment,True
+Trinidad_and_Tobago_1962,Trinidad and Tobago,1962,66.64,80.3,85.97,Moderate simulated investment,True
+Trinidad_and_Tobago_1967,Trinidad and Tobago,1967,76.43,77.44,85.24,Higher simulated investment,True
+Trinidad_and_Tobago_1972,Trinidad and Tobago,1972,72.4,57.84,71.39,Higher simulated investment,True
+Trinidad_and_Tobago_1977,Trinidad and Tobago,1977,86.5,75.53,77.21,Higher simulated investment,True
+Trinidad_and_Tobago_1982,Trinidad and Tobago,1982,94.27,90.66,85.57,Higher simulated investment,True
+Trinidad_and_Tobago_1987,Trinidad and Tobago,1987,75.87,77.47,90.27,Higher simulated investment,True
+Trinidad_and_Tobago_1992,Trinidad and Tobago,1992,75.37,67.1,83.06,Higher simulated investment,True
+Trinidad_and_Tobago_1997,Trinidad and Tobago,1997,71.91,87.96,79.76,Moderate simulated investment,True
+Trinidad_and_Tobago_2002,Trinidad and Tobago,2002,78.16,90.14,86.8,,True
+Trinidad_and_Tobago_2007,Trinidad and Tobago,2007,100.0,88.28,89.37,Higher simulated investment,True
+Turkey_1952,Turkey,1952,66.44,70.13,58.17,Moderate simulated investment,True
+Turkey_1957,Turkey,1957,73.48,64.21,58.87,Higher simulated investment,True
+Turkey_1962,Turkey,1962,51.71,79.09,75.2,Lower simulated investment,True
+Turkey_1967,Turkey,1967,50.33,61.05,64.11,Lower simulated investment,True
+Turkey_1972,Turkey,1972,73.69,75.54,83.23,Higher simulated investment,True
+Turkey_1977,Turkey,1977,57.93,60.85,64.85,Moderate simulated investment,True
+Turkey_1982,Turkey,1982,70.57,80.68,71.55,Moderate simulated investment,True
+Turkey_1987,Turkey,1987,77.25,84.02,78.55,Higher simulated investment,True
+Turkey_1992,Turkey,1992,,79.91,75.9,Moderate simulated investment,True
+Turkey_1997,Turkey,1997,74.58,54.41,80.23,Higher simulated investment,True
+Turkey_2002,Turkey,2002,53.74,96.52,78.2,Moderate simulated investment,True
+Turkey_2007,Turkey,2007,86.2,76.14,94.19,Higher simulated investment,True
+United_Kingdom_1952,United Kingdom,1952,71.88,75.18,79.76,Moderate simulated investment,True
+United_Kingdom_1957,United Kingdom,1957,75.65,70.29,79.4,Higher simulated investment,True
+United_Kingdom_1962,United Kingdom,1962,81.1,72.72,78.44,Higher simulated investment,True
+United_Kingdom_1967,United Kingdom,1967,88.09,90.48,87.92,Higher simulated investment,True
+United_Kingdom_1972,United Kingdom,1972,84.97,75.19,78.06,Higher simulated investment,True
+United_Kingdom_1977,United Kingdom,1977,100.0,82.86,65.21,Higher simulated investment,True
+United_Kingdom_1982,United Kingdom,1982,78.32,88.15,87.1,,True
+United_Kingdom_1987,United Kingdom,1987,66.17,77.85,80.22,Moderate simulated investment,True
+United_Kingdom_1992,United Kingdom,1992,93.66,93.11,89.9,Higher simulated investment,True
+United_Kingdom_1997,United Kingdom,1997,100.0,100.0,94.37,Higher simulated investment,True
+United_Kingdom_2002,United Kingdom,2002,84.39,81.06,91.13,Higher simulated investment,True
+United_Kingdom_2007,United Kingdom,2007,94.69,79.86,93.57,Higher simulated investment,True
+United_States_1952,United States,1952,68.1,75.1,80.86,Moderate simulated investment,True
+United_States_1957,United States,1957,64.02,88.33,84.49,Moderate simulated investment,True
+United_States_1962,United States,1962,74.12,76.41,88.81,Higher simulated investment,True
+United_States_1967,United States,1967,88.02,82.02,86.87,Higher simulated investment,True
+United_States_1972,United States,1972,100.0,87.37,86.65,Higher simulated investment,True
+United_States_1977,United States,1977,,91.85,88.0,Higher simulated investment,True
+United_States_1982,United States,1982,77.02,,87.11,Higher simulated investment,True
+United_States_1987,United States,1987,95.46,91.18,82.86,Higher simulated investment,True
+United_States_1992,United States,1992,96.05,87.2,94.79,,True
+United_States_1997,United States,1997,90.12,93.4,94.75,Higher simulated investment,True
+United_States_2002,United States,2002,89.96,100.0,79.94,Higher simulated investment,True
+United_States_2007,United States,2007,100.0,96.08,100.0,Higher simulated investment,True
+Uruguay_1952,Uruguay,1952,87.3,63.37,65.95,Higher simulated investment,True
+Uruguay_1957,Uruguay,1957,97.2,78.11,66.27,Higher simulated investment,True
+Uruguay_1962,Uruguay,1962,84.3,70.66,87.13,Higher simulated investment,True
+Uruguay_1967,Uruguay,1967,68.58,75.37,65.62,Moderate simulated investment,True
+Uruguay_1972,Uruguay,1972,66.82,68.75,80.32,Moderate simulated investment,True
+Uruguay_1977,Uruguay,1977,65.56,58.42,67.26,Moderate simulated investment,True
+Uruguay_1982,Uruguay,1982,91.77,78.3,89.44,Higher simulated investment,True
+Uruguay_1987,Uruguay,1987,80.32,99.06,76.02,Higher simulated investment,True
+Uruguay_1992,Uruguay,1992,70.62,78.44,86.36,Moderate simulated investment,True
+Uruguay_1997,Uruguay,1997,95.93,98.46,89.01,Higher simulated investment,True
+Uruguay_2002,Uruguay,2002,66.95,96.66,92.34,Moderate simulated investment,True
+Uruguay_2007,Uruguay,2007,68.18,79.34,76.63,Moderate simulated investment,True
+Venezuela_1952,Venezuela,1952,69.07,86.68,64.74,Moderate simulated investment,True
+Venezuela_1957,Venezuela,1957,80.06,60.91,85.67,Higher simulated investment,True
+Venezuela_1962,Venezuela,1962,74.66,67.53,68.38,Higher simulated investment,True
+Venezuela_1967,Venezuela,1967,73.01,89.58,73.93,Higher simulated investment,True
+Venezuela_1972,Venezuela,1972,68.56,89.89,75.87,,True
+Venezuela_1977,Venezuela,1977,80.66,80.7,75.48,Higher simulated investment,True
+Venezuela_1982,Venezuela,1982,63.83,68.43,86.87,Moderate simulated investment,True
+Venezuela_1987,Venezuela,1987,73.45,,77.21,Higher simulated investment,True
+Venezuela_1992,Venezuela,1992,,78.45,90.04,,True
+Venezuela_1997,Venezuela,1997,81.25,98.55,85.45,Higher simulated investment,True
+Venezuela_2002,Venezuela,2002,91.65,68.21,91.63,Higher simulated investment,True
+Venezuela_2007,Venezuela,2007,100.0,81.16,86.09,Higher simulated investment,True

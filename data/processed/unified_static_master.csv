@@ -1,0 +1,1705 @@
+continent,country,data_feed,gdp_per_capita,iso_alpha,iso_num,life_expectancy,population,year,record_id
+Asia,Afghanistan,Feed_A_Africa_Asia,779.4453145,AFG,4,28.801,8425333.0,1952,Afghanistan_1952
+Asia,Afghanistan,Feed_A_Africa_Asia,820.8530296,AFG,4,30.332,9240934.0,1957,Afghanistan_1957
+Asia,Afghanistan,Feed_A_Africa_Asia,853.1007099999998,AFG,4,31.997,10267083.0,1962,Afghanistan_1962
+Asia,Afghanistan,Feed_A_Africa_Asia,836.1971382,AFG,4,34.02,11537966.0,1967,Afghanistan_1967
+Asia,Afghanistan,Feed_A_Africa_Asia,739.9811057999998,AFG,4,36.088,13079460.0,1972,Afghanistan_1972
+Asia,Afghanistan,Feed_A_Africa_Asia,786.11336,AFG,4,38.438,14880372.0,1977,Afghanistan_1977
+Asia,Afghanistan,Feed_A_Africa_Asia,978.0114388,AFG,4,39.854,12881816.0,1982,Afghanistan_1982
+Asia,Afghanistan,Feed_A_Africa_Asia,852.3959447999998,AFG,4,40.822,13867957.0,1987,Afghanistan_1987
+Asia,Afghanistan,Feed_A_Africa_Asia,649.3413952000002,AFG,4,41.674,16317921.0,1992,Afghanistan_1992
+Asia,Afghanistan,Feed_A_Africa_Asia,635.341351,AFG,4,41.76300000000001,22227415.0,1997,Afghanistan_1997
+Asia,Afghanistan,Feed_A_Africa_Asia,726.7340548,AFG,4,42.129,25268405.0,2002,Afghanistan_2002
+Asia,Afghanistan,Feed_A_Africa_Asia,974.5803384,AFG,4,43.828,31889923.0,2007,Afghanistan_2007
+Africa,Algeria,Feed_A_Africa_Asia,2449.008185,DZA,12,43.077,9279525.0,1952,Algeria_1952
+Africa,Algeria,Feed_A_Africa_Asia,3013.976023,DZA,12,45.685,10270856.0,1957,Algeria_1957
+Africa,Algeria,Feed_A_Africa_Asia,2550.81688,DZA,12,48.303,11000948.0,1962,Algeria_1962
+Africa,Algeria,Feed_A_Africa_Asia,3246.991771,DZA,12,51.407,12760499.0,1967,Algeria_1967
+Africa,Algeria,Feed_A_Africa_Asia,4182.663766,DZA,12,54.518,14760787.0,1972,Algeria_1972
+Africa,Algeria,Feed_A_Africa_Asia,4910.416756000001,DZA,12,58.014,17152804.0,1977,Algeria_1977
+Africa,Algeria,Feed_A_Africa_Asia,5745.160213,DZA,12,61.368,20033753.0,1982,Algeria_1982
+Africa,Algeria,Feed_A_Africa_Asia,5681.358539,DZA,12,65.79899999999999,23254956.0,1987,Algeria_1987
+Africa,Algeria,Feed_A_Africa_Asia,5023.216647,DZA,12,67.744,26298373.0,1992,Algeria_1992
+Africa,Algeria,Feed_A_Africa_Asia,4797.295051,DZA,12,69.152,29072015.0,1997,Algeria_1997
+Africa,Algeria,Feed_A_Africa_Asia,5288.040382,DZA,12,70.994,31287142.0,2002,Algeria_2002
+Africa,Algeria,Feed_A_Africa_Asia,6223.367465,DZA,12,72.301,33333216.0,2007,Algeria_2007
+Africa,Angola,Feed_A_Africa_Asia,3520.610273,AGO,24,30.015,4232095.0,1952,Angola_1952
+Africa,Angola,Feed_A_Africa_Asia,3827.940465,AGO,24,31.999,4561361.0,1957,Angola_1957
+Africa,Angola,Feed_A_Africa_Asia,4269.276742,AGO,24,34.0,4826015.0,1962,Angola_1962
+Africa,Angola,Feed_A_Africa_Asia,5522.776375,AGO,24,35.985,5247469.0,1967,Angola_1967
+Africa,Angola,Feed_A_Africa_Asia,5473.288004999999,AGO,24,37.928,5894858.0,1972,Angola_1972
+Africa,Angola,Feed_A_Africa_Asia,3008.647355,AGO,24,39.483,6162675.0,1977,Angola_1977
+Africa,Angola,Feed_A_Africa_Asia,2756.953672,AGO,24,39.942,7016384.0,1982,Angola_1982
+Africa,Angola,Feed_A_Africa_Asia,2430.208311,AGO,24,39.906,7874230.0,1987,Angola_1987
+Africa,Angola,Feed_A_Africa_Asia,2627.845685,AGO,24,40.647,8735988.0,1992,Angola_1992
+Africa,Angola,Feed_A_Africa_Asia,2277.140884,AGO,24,40.963,9875024.0,1997,Angola_1997
+Africa,Angola,Feed_A_Africa_Asia,2773.287312,AGO,24,41.003,10866106.0,2002,Angola_2002
+Africa,Angola,Feed_A_Africa_Asia,4797.231267,AGO,24,42.731,12420476.0,2007,Angola_2007
+Asia,Bahrain,Feed_A_Africa_Asia,9867.084765,BHR,48,50.93899999999999,120447.0,1952,Bahrain_1952
+Asia,Bahrain,Feed_A_Africa_Asia,11635.79945,BHR,48,53.832,138655.0,1957,Bahrain_1957
+Asia,Bahrain,Feed_A_Africa_Asia,12753.27514,BHR,48,56.923,171863.0,1962,Bahrain_1962
+Asia,Bahrain,Feed_A_Africa_Asia,14804.6727,BHR,48,59.923,202182.0,1967,Bahrain_1967
+Asia,Bahrain,Feed_A_Africa_Asia,18268.65839,BHR,48,63.3,230800.0,1972,Bahrain_1972
+Asia,Bahrain,Feed_A_Africa_Asia,19340.10196,BHR,48,65.593,297410.0,1977,Bahrain_1977
+Asia,Bahrain,Feed_A_Africa_Asia,19211.14731,BHR,48,69.05199999999999,377967.0,1982,Bahrain_1982
+Asia,Bahrain,Feed_A_Africa_Asia,18524.02406,BHR,48,70.75,454612.0,1987,Bahrain_1987
+Asia,Bahrain,Feed_A_Africa_Asia,19035.57917,BHR,48,72.601,529491.0,1992,Bahrain_1992
+Asia,Bahrain,Feed_A_Africa_Asia,20292.01679,BHR,48,73.925,598561.0,1997,Bahrain_1997
+Asia,Bahrain,Feed_A_Africa_Asia,23403.55927,BHR,48,74.795,656397.0,2002,Bahrain_2002
+Asia,Bahrain,Feed_A_Africa_Asia,29796.04834,BHR,48,75.635,708573.0,2007,Bahrain_2007
+Asia,Bangladesh,Feed_A_Africa_Asia,684.2441716,BGD,50,37.484,46886859.0,1952,Bangladesh_1952
+Asia,Bangladesh,Feed_A_Africa_Asia,661.6374577,BGD,50,39.348,51365468.0,1957,Bangladesh_1957
+Asia,Bangladesh,Feed_A_Africa_Asia,686.3415537999998,BGD,50,41.216,56839289.0,1962,Bangladesh_1962
+Asia,Bangladesh,Feed_A_Africa_Asia,721.1860862000002,BGD,50,43.453,62821884.0,1967,Bangladesh_1967
+Asia,Bangladesh,Feed_A_Africa_Asia,630.2336265,BGD,50,45.252,70759295.0,1972,Bangladesh_1972
+Asia,Bangladesh,Feed_A_Africa_Asia,659.8772322000002,BGD,50,46.923,80428306.0,1977,Bangladesh_1977
+Asia,Bangladesh,Feed_A_Africa_Asia,676.9818656,BGD,50,50.00899999999999,93074406.0,1982,Bangladesh_1982
+Asia,Bangladesh,Feed_A_Africa_Asia,751.9794035,BGD,50,52.819,103764241.0,1987,Bangladesh_1987
+Asia,Bangladesh,Feed_A_Africa_Asia,837.8101642999999,BGD,50,56.018,113704579.0,1992,Bangladesh_1992
+Asia,Bangladesh,Feed_A_Africa_Asia,972.7700352,BGD,50,59.412,123315288.0,1997,Bangladesh_1997
+Asia,Bangladesh,Feed_A_Africa_Asia,1136.3904300000004,BGD,50,62.01300000000001,135656790.0,2002,Bangladesh_2002
+Asia,Bangladesh,Feed_A_Africa_Asia,1391.253792,BGD,50,64.062,150448339.0,2007,Bangladesh_2007
+Africa,Benin,Feed_A_Africa_Asia,1062.7522,BEN,204,38.223,1738315.0,1952,Benin_1952
+Africa,Benin,Feed_A_Africa_Asia,959.6010805,BEN,204,40.358,1925173.0,1957,Benin_1957
+Africa,Benin,Feed_A_Africa_Asia,949.4990641,BEN,204,42.618,2151895.0,1962,Benin_1962
+Africa,Benin,Feed_A_Africa_Asia,1035.831411,BEN,204,44.885,2427334.0,1967,Benin_1967
+Africa,Benin,Feed_A_Africa_Asia,1085.796879,BEN,204,47.014,2761407.0,1972,Benin_1972
+Africa,Benin,Feed_A_Africa_Asia,1029.161251,BEN,204,49.19,3168267.0,1977,Benin_1977
+Africa,Benin,Feed_A_Africa_Asia,1277.897616,BEN,204,50.904,3641603.0,1982,Benin_1982
+Africa,Benin,Feed_A_Africa_Asia,1225.85601,BEN,204,52.337,4243788.0,1987,Benin_1987
+Africa,Benin,Feed_A_Africa_Asia,1191.207681,BEN,204,53.919,4981671.0,1992,Benin_1992
+Africa,Benin,Feed_A_Africa_Asia,1232.975292,BEN,204,54.777,6066080.0,1997,Benin_1997
+Africa,Benin,Feed_A_Africa_Asia,1372.877931,BEN,204,54.40600000000001,7026113.0,2002,Benin_2002
+Africa,Benin,Feed_A_Africa_Asia,1441.284873,BEN,204,56.728,8078314.0,2007,Benin_2007
+Africa,Botswana,Feed_A_Africa_Asia,851.2411407,BWA,72,47.622,442308.0,1952,Botswana_1952
+Africa,Botswana,Feed_A_Africa_Asia,918.2325349,BWA,72,49.618,474639.0,1957,Botswana_1957
+Africa,Botswana,Feed_A_Africa_Asia,983.6539764,BWA,72,51.52,512764.0,1962,Botswana_1962
+Africa,Botswana,Feed_A_Africa_Asia,1214.709294,BWA,72,53.298,553541.0,1967,Botswana_1967
+Africa,Botswana,Feed_A_Africa_Asia,2263.6111140000007,BWA,72,56.024,619351.0,1972,Botswana_1972
+Africa,Botswana,Feed_A_Africa_Asia,3214.857818,BWA,72,59.319,781472.0,1977,Botswana_1977
+Africa,Botswana,Feed_A_Africa_Asia,4551.14215,BWA,72,61.484,970347.0,1982,Botswana_1982
+Africa,Botswana,Feed_A_Africa_Asia,6205.88385,BWA,72,63.622,1151184.0,1987,Botswana_1987
+Africa,Botswana,Feed_A_Africa_Asia,7954.111645,BWA,72,62.745,1342614.0,1992,Botswana_1992
+Africa,Botswana,Feed_A_Africa_Asia,8647.142313,BWA,72,52.556,1536536.0,1997,Botswana_1997
+Africa,Botswana,Feed_A_Africa_Asia,11003.60508,BWA,72,46.63399999999999,1630347.0,2002,Botswana_2002
+Africa,Botswana,Feed_A_Africa_Asia,12569.85177,BWA,72,50.728,1639131.0,2007,Botswana_2007
+Africa,Burkina Faso,Feed_A_Africa_Asia,543.2552413,BFA,854,31.975,4469979.0,1952,Burkina_Faso_1952
+Africa,Burkina Faso,Feed_A_Africa_Asia,617.1834647999998,BFA,854,34.906,4713416.0,1957,Burkina_Faso_1957
+Africa,Burkina Faso,Feed_A_Africa_Asia,722.5120206,BFA,854,37.814,4919632.0,1962,Burkina_Faso_1962
+Africa,Burkina Faso,Feed_A_Africa_Asia,794.8265597,BFA,854,40.697,5127935.0,1967,Burkina_Faso_1967
+Africa,Burkina Faso,Feed_A_Africa_Asia,854.7359763000002,BFA,854,43.591,5433886.0,1972,Burkina_Faso_1972
+Africa,Burkina Faso,Feed_A_Africa_Asia,743.3870368,BFA,854,46.137,5889574.0,1977,Burkina_Faso_1977
+Africa,Burkina Faso,Feed_A_Africa_Asia,807.1985855,BFA,854,48.122,6634596.0,1982,Burkina_Faso_1982
+Africa,Burkina Faso,Feed_A_Africa_Asia,912.0631417,BFA,854,49.557,7586551.0,1987,Burkina_Faso_1987
+Africa,Burkina Faso,Feed_A_Africa_Asia,931.7527731,BFA,854,50.26,8878303.0,1992,Burkina_Faso_1992
+Africa,Burkina Faso,Feed_A_Africa_Asia,946.2949618,BFA,854,50.324,10352843.0,1997,Burkina_Faso_1997
+Africa,Burkina Faso,Feed_A_Africa_Asia,1037.645221,BFA,854,50.65,12251209.0,2002,Burkina_Faso_2002
+Africa,Burkina Faso,Feed_A_Africa_Asia,1217.032994,BFA,854,52.295,14326203.0,2007,Burkina_Faso_2007
+Africa,Burundi,Feed_A_Africa_Asia,339.2964587,BDI,108,39.031,2445618.0,1952,Burundi_1952
+Africa,Burundi,Feed_A_Africa_Asia,379.5646281000001,BDI,108,40.533,2667518.0,1957,Burundi_1957
+Africa,Burundi,Feed_A_Africa_Asia,355.2032273,BDI,108,42.045,2961915.0,1962,Burundi_1962
+Africa,Burundi,Feed_A_Africa_Asia,412.97751360000007,BDI,108,43.548,3330989.0,1967,Burundi_1967
+Africa,Burundi,Feed_A_Africa_Asia,464.0995039,BDI,108,44.057,3529983.0,1972,Burundi_1972
+Africa,Burundi,Feed_A_Africa_Asia,556.1032651,BDI,108,45.91,3834415.0,1977,Burundi_1977
+Africa,Burundi,Feed_A_Africa_Asia,559.6032309999998,BDI,108,47.471,4580410.0,1982,Burundi_1982
+Africa,Burundi,Feed_A_Africa_Asia,621.8188188999999,BDI,108,48.21100000000001,5126023.0,1987,Burundi_1987
+Africa,Burundi,Feed_A_Africa_Asia,631.6998778,BDI,108,44.736,5809236.0,1992,Burundi_1992
+Africa,Burundi,Feed_A_Africa_Asia,463.1151478,BDI,108,45.326,6121610.0,1997,Burundi_1997
+Africa,Burundi,Feed_A_Africa_Asia,446.4035126,BDI,108,47.36,7021078.0,2002,Burundi_2002
+Africa,Burundi,Feed_A_Africa_Asia,430.0706916,BDI,108,49.58,8390505.0,2007,Burundi_2007
+Asia,Cambodia,Feed_A_Africa_Asia,368.4692856,KHM,116,39.417,4693836.0,1952,Cambodia_1952
+Asia,Cambodia,Feed_A_Africa_Asia,434.0383364,KHM,116,41.36600000000001,5322536.0,1957,Cambodia_1957
+Asia,Cambodia,Feed_A_Africa_Asia,496.9136476,KHM,116,43.415,6083619.0,1962,Cambodia_1962
+Asia,Cambodia,Feed_A_Africa_Asia,523.4323142,KHM,116,45.415,6960067.0,1967,Cambodia_1967
+Asia,Cambodia,Feed_A_Africa_Asia,421.6240257,KHM,116,40.317,7450606.0,1972,Cambodia_1972
+Asia,Cambodia,Feed_A_Africa_Asia,524.9721831999999,KHM,116,31.22,6978607.0,1977,Cambodia_1977
+Asia,Cambodia,Feed_A_Africa_Asia,624.4754784,KHM,116,50.957,7272485.0,1982,Cambodia_1982
+Asia,Cambodia,Feed_A_Africa_Asia,683.8955732000002,KHM,116,53.914,8371791.0,1987,Cambodia_1987
+Asia,Cambodia,Feed_A_Africa_Asia,682.3031755,KHM,116,55.803,10150094.0,1992,Cambodia_1992
+Asia,Cambodia,Feed_A_Africa_Asia,734.28517,KHM,116,56.534,11782962.0,1997,Cambodia_1997
+Asia,Cambodia,Feed_A_Africa_Asia,896.2260152999999,KHM,116,56.752,12926707.0,2002,Cambodia_2002
+Asia,Cambodia,Feed_A_Africa_Asia,1713.778686,KHM,116,59.723,14131858.0,2007,Cambodia_2007
+Africa,Cameroon,Feed_A_Africa_Asia,1172.667655,CMR,120,38.523,5009067.0,1952,Cameroon_1952
+Africa,Cameroon,Feed_A_Africa_Asia,1313.048099,CMR,120,40.428,5359923.0,1957,Cameroon_1957
+Africa,Cameroon,Feed_A_Africa_Asia,1399.607441,CMR,120,42.643,5793633.0,1962,Cameroon_1962
+Africa,Cameroon,Feed_A_Africa_Asia,1508.453148,CMR,120,44.799,6335506.0,1967,Cameroon_1967
+Africa,Cameroon,Feed_A_Africa_Asia,1684.1465280000002,CMR,120,47.049,7021028.0,1972,Cameroon_1972
+Africa,Cameroon,Feed_A_Africa_Asia,1783.432873,CMR,120,49.355,7959865.0,1977,Cameroon_1977
+Africa,Cameroon,Feed_A_Africa_Asia,2367.983282,CMR,120,52.96100000000001,9250831.0,1982,Cameroon_1982
+Africa,Cameroon,Feed_A_Africa_Asia,2602.664206,CMR,120,54.985,10780667.0,1987,Cameroon_1987
+Africa,Cameroon,Feed_A_Africa_Asia,1793.1632780000002,CMR,120,54.31399999999999,12467171.0,1992,Cameroon_1992
+Africa,Cameroon,Feed_A_Africa_Asia,1694.337469,CMR,120,52.199,14195809.0,1997,Cameroon_1997
+Africa,Cameroon,Feed_A_Africa_Asia,1934.011449,CMR,120,49.856,15929988.0,2002,Cameroon_2002
+Africa,Cameroon,Feed_A_Africa_Asia,2042.09524,CMR,120,50.43,17696293.0,2007,Cameroon_2007
+Africa,Central African Republic,Feed_A_Africa_Asia,1071.310713,CAF,140,35.463,1291695.0,1952,Central_African_Republic_1952
+Africa,Central African Republic,Feed_A_Africa_Asia,1190.844328,CAF,140,37.464,1392284.0,1957,Central_African_Republic_1957
+Africa,Central African Republic,Feed_A_Africa_Asia,1193.068753,CAF,140,39.475,1523478.0,1962,Central_African_Republic_1962
+Africa,Central African Republic,Feed_A_Africa_Asia,1136.056615,CAF,140,41.478,1733638.0,1967,Central_African_Republic_1967
+Africa,Central African Republic,Feed_A_Africa_Asia,1070.013275,CAF,140,43.457,1927260.0,1972,Central_African_Republic_1972
+Africa,Central African Republic,Feed_A_Africa_Asia,1109.374338,CAF,140,46.775,2167533.0,1977,Central_African_Republic_1977
+Africa,Central African Republic,Feed_A_Africa_Asia,956.7529907,CAF,140,48.295,2476971.0,1982,Central_African_Republic_1982
+Africa,Central African Republic,Feed_A_Africa_Asia,844.8763504000002,CAF,140,50.485,2840009.0,1987,Central_African_Republic_1987
+Africa,Central African Republic,Feed_A_Africa_Asia,747.9055252,CAF,140,49.396,3265124.0,1992,Central_African_Republic_1992
+Africa,Central African Republic,Feed_A_Africa_Asia,740.5063317,CAF,140,46.066,3696513.0,1997,Central_African_Republic_1997
+Africa,Central African Republic,Feed_A_Africa_Asia,738.6906068,CAF,140,43.308,4048013.0,2002,Central_African_Republic_2002
+Africa,Central African Republic,Feed_A_Africa_Asia,706.016537,CAF,140,44.74100000000001,4369038.0,2007,Central_African_Republic_2007
+Africa,Chad,Feed_A_Africa_Asia,1178.665927,TCD,148,38.092,2682462.0,1952,Chad_1952
+Africa,Chad,Feed_A_Africa_Asia,1308.495577,TCD,148,39.881,2894855.0,1957,Chad_1957
+Africa,Chad,Feed_A_Africa_Asia,1389.817618,TCD,148,41.716,3150417.0,1962,Chad_1962
+Africa,Chad,Feed_A_Africa_Asia,1196.810565,TCD,148,43.601000000000006,3495967.0,1967,Chad_1967
+Africa,Chad,Feed_A_Africa_Asia,1104.103987,TCD,148,45.569,3899068.0,1972,Chad_1972
+Africa,Chad,Feed_A_Africa_Asia,1133.98495,TCD,148,47.383,4388260.0,1977,Chad_1977
+Africa,Chad,Feed_A_Africa_Asia,797.9081006,TCD,148,49.517,4875118.0,1982,Chad_1982
+Africa,Chad,Feed_A_Africa_Asia,952.386129,TCD,148,51.051,5498955.0,1987,Chad_1987
+Africa,Chad,Feed_A_Africa_Asia,1058.0643,TCD,148,51.724,6429417.0,1992,Chad_1992
+Africa,Chad,Feed_A_Africa_Asia,1004.961353,TCD,148,51.573,7562011.0,1997,Chad_1997
+Africa,Chad,Feed_A_Africa_Asia,1156.18186,TCD,148,50.525,8835739.0,2002,Chad_2002
+Africa,Chad,Feed_A_Africa_Asia,1704.063724,TCD,148,50.651,10238807.0,2007,Chad_2007
+Asia,China,Feed_A_Africa_Asia,400.448611,CHN,156,44.0,556263527.0,1952,China_1952
+Asia,China,Feed_A_Africa_Asia,575.9870009,CHN,156,50.54896,637408000.0,1957,China_1957
+Asia,China,Feed_A_Africa_Asia,487.6740183,CHN,156,44.50136,665770000.0,1962,China_1962
+Asia,China,Feed_A_Africa_Asia,612.7056934,CHN,156,58.38112,754550000.0,1967,China_1967
+Asia,China,Feed_A_Africa_Asia,676.9000921,CHN,156,63.11888,862030000.0,1972,China_1972
+Asia,China,Feed_A_Africa_Asia,741.2374699,CHN,156,63.96736,943455000.0,1977,China_1977
+Asia,China,Feed_A_Africa_Asia,962.4213805,CHN,156,65.525,1000281000.0,1982,China_1982
+Asia,China,Feed_A_Africa_Asia,1378.904018,CHN,156,67.274,1084035000.0,1987,China_1987
+Asia,China,Feed_A_Africa_Asia,1655.784158,CHN,156,68.69,1164970000.0,1992,China_1992
+Asia,China,Feed_A_Africa_Asia,2289.234136,CHN,156,70.426,1230075000.0,1997,China_1997
+Asia,China,Feed_A_Africa_Asia,3119.280896,CHN,156,72.028,1280400000.0,2002,China_2002
+Asia,China,Feed_A_Africa_Asia,4959.114854,CHN,156,72.961,1318683096.0,2007,China_2007
+Africa,Comoros,Feed_A_Africa_Asia,1102.990936,COM,174,40.715,153936.0,1952,Comoros_1952
+Africa,Comoros,Feed_A_Africa_Asia,1211.148548,COM,174,42.46,170928.0,1957,Comoros_1957
+Africa,Comoros,Feed_A_Africa_Asia,1406.648278,COM,174,44.467,191689.0,1962,Comoros_1962
+Africa,Comoros,Feed_A_Africa_Asia,1876.029643,COM,174,46.472,217378.0,1967,Comoros_1967
+Africa,Comoros,Feed_A_Africa_Asia,1937.577675,COM,174,48.944,250027.0,1972,Comoros_1972
+Africa,Comoros,Feed_A_Africa_Asia,1172.603047,COM,174,50.93899999999999,304739.0,1977,Comoros_1977
+Africa,Comoros,Feed_A_Africa_Asia,1267.100083,COM,174,52.933,348643.0,1982,Comoros_1982
+Africa,Comoros,Feed_A_Africa_Asia,1315.980812,COM,174,54.926,395114.0,1987,Comoros_1987
+Africa,Comoros,Feed_A_Africa_Asia,1246.90737,COM,174,57.93899999999999,454429.0,1992,Comoros_1992
+Africa,Comoros,Feed_A_Africa_Asia,1173.618235,COM,174,60.66,527982.0,1997,Comoros_1997
+Africa,Comoros,Feed_A_Africa_Asia,1075.811558,COM,174,62.974,614382.0,2002,Comoros_2002
+Africa,Comoros,Feed_A_Africa_Asia,986.1478792,COM,174,65.152,710960.0,2007,Comoros_2007
+Africa,"Congo, Dem. Rep.",Feed_A_Africa_Asia,780.5423257,COD,180,39.143,14100005.0,1952,Congo_Dem_Rep_1952
+Africa,"Congo, Dem. Rep.",Feed_A_Africa_Asia,905.8602303,COD,180,40.652,15577932.0,1957,Congo_Dem_Rep_1957
+Africa,"Congo, Dem. Rep.",Feed_A_Africa_Asia,896.3146335000001,COD,180,42.122,17486434.0,1962,Congo_Dem_Rep_1962
+Africa,"Congo, Dem. Rep.",Feed_A_Africa_Asia,861.5932424,COD,180,44.056,19941073.0,1967,Congo_Dem_Rep_1967
+Africa,"Congo, Dem. Rep.",Feed_A_Africa_Asia,904.8960685,COD,180,45.989,23007669.0,1972,Congo_Dem_Rep_1972
+Africa,"Congo, Dem. Rep.",Feed_A_Africa_Asia,795.757282,COD,180,47.804,26480870.0,1977,Congo_Dem_Rep_1977
+Africa,"Congo, Dem. Rep.",Feed_A_Africa_Asia,673.7478181,COD,180,47.784,30646495.0,1982,Congo_Dem_Rep_1982
+Africa,"Congo, Dem. Rep.",Feed_A_Africa_Asia,672.774812,COD,180,47.412,35481645.0,1987,Congo_Dem_Rep_1987
+Africa,"Congo, Dem. Rep.",Feed_A_Africa_Asia,457.7191807,COD,180,45.548,41672143.0,1992,Congo_Dem_Rep_1992
+Africa,"Congo, Dem. Rep.",Feed_A_Africa_Asia,312.188423,COD,180,42.587,47798986.0,1997,Congo_Dem_Rep_1997
+Africa,"Congo, Dem. Rep.",Feed_A_Africa_Asia,241.1658765,COD,180,44.966,55379852.0,2002,Congo_Dem_Rep_2002
+Africa,"Congo, Dem. Rep.",Feed_A_Africa_Asia,277.5518587,COD,180,46.462,64606759.0,2007,Congo_Dem_Rep_2007
+Africa,"Congo, Rep.",Feed_A_Africa_Asia,2125.621418,COG,178,42.111,854885.0,1952,Congo_Rep_1952
+Africa,"Congo, Rep.",Feed_A_Africa_Asia,2315.056572,COG,178,45.053,940458.0,1957,Congo_Rep_1957
+Africa,"Congo, Rep.",Feed_A_Africa_Asia,2464.783157,COG,178,48.435,1047924.0,1962,Congo_Rep_1962
+Africa,"Congo, Rep.",Feed_A_Africa_Asia,2677.9396420000007,COG,178,52.04,1179760.0,1967,Congo_Rep_1967
+Africa,"Congo, Rep.",Feed_A_Africa_Asia,3213.152683,COG,178,54.907,1340458.0,1972,Congo_Rep_1972
+Africa,"Congo, Rep.",Feed_A_Africa_Asia,3259.178978,COG,178,55.625,1536769.0,1977,Congo_Rep_1977
+Africa,"Congo, Rep.",Feed_A_Africa_Asia,4879.507522,COG,178,56.695,1774735.0,1982,Congo_Rep_1982
+Africa,"Congo, Rep.",Feed_A_Africa_Asia,4201.194936999998,COG,178,57.47,2064095.0,1987,Congo_Rep_1987
+Africa,"Congo, Rep.",Feed_A_Africa_Asia,4016.239529,COG,178,56.433,2409073.0,1992,Congo_Rep_1992
+Africa,"Congo, Rep.",Feed_A_Africa_Asia,3484.164376,COG,178,52.962,2800947.0,1997,Congo_Rep_1997
+Africa,"Congo, Rep.",Feed_A_Africa_Asia,3484.06197,COG,178,52.97,3328795.0,2002,Congo_Rep_2002
+Africa,"Congo, Rep.",Feed_A_Africa_Asia,3632.557798,COG,178,55.322,3800610.0,2007,Congo_Rep_2007
+Africa,Cote d'Ivoire,Feed_A_Africa_Asia,1388.594732,CIV,384,40.477,2977019.0,1952,Cote_d_Ivoire_1952
+Africa,Cote d'Ivoire,Feed_A_Africa_Asia,1500.895925,CIV,384,42.469,3300000.0,1957,Cote_d_Ivoire_1957
+Africa,Cote d'Ivoire,Feed_A_Africa_Asia,1728.8694280000002,CIV,384,44.93,3832408.0,1962,Cote_d_Ivoire_1962
+Africa,Cote d'Ivoire,Feed_A_Africa_Asia,2052.050473,CIV,384,47.35,4744870.0,1967,Cote_d_Ivoire_1967
+Africa,Cote d'Ivoire,Feed_A_Africa_Asia,2378.201111,CIV,384,49.801,6071696.0,1972,Cote_d_Ivoire_1972
+Africa,Cote d'Ivoire,Feed_A_Africa_Asia,2517.736547,CIV,384,52.374,7459574.0,1977,Cote_d_Ivoire_1977
+Africa,Cote d'Ivoire,Feed_A_Africa_Asia,2602.710169,CIV,384,53.983,9025951.0,1982,Cote_d_Ivoire_1982
+Africa,Cote d'Ivoire,Feed_A_Africa_Asia,2156.9560690000008,CIV,384,54.655,10761098.0,1987,Cote_d_Ivoire_1987
+Africa,Cote d'Ivoire,Feed_A_Africa_Asia,1648.073791,CIV,384,52.044,12772596.0,1992,Cote_d_Ivoire_1992
+Africa,Cote d'Ivoire,Feed_A_Africa_Asia,1786.265407,CIV,384,47.99100000000001,14625967.0,1997,Cote_d_Ivoire_1997
+Africa,Cote d'Ivoire,Feed_A_Africa_Asia,1648.800823,CIV,384,46.832,16252726.0,2002,Cote_d_Ivoire_2002
+Africa,Cote d'Ivoire,Feed_A_Africa_Asia,1544.750112,CIV,384,48.328,18013409.0,2007,Cote_d_Ivoire_2007
+Africa,Djibouti,Feed_A_Africa_Asia,2669.529475,DJI,262,34.812,63149.0,1952,Djibouti_1952
+Africa,Djibouti,Feed_A_Africa_Asia,2864.9690760000008,DJI,262,37.328,71851.0,1957,Djibouti_1957
+Africa,Djibouti,Feed_A_Africa_Asia,3020.989263,DJI,262,39.69300000000001,89898.0,1962,Djibouti_1962
+Africa,Djibouti,Feed_A_Africa_Asia,3020.050513,DJI,262,42.074,127617.0,1967,Djibouti_1967
+Africa,Djibouti,Feed_A_Africa_Asia,3694.2123520000014,DJI,262,44.36600000000001,178848.0,1972,Djibouti_1972
+Africa,Djibouti,Feed_A_Africa_Asia,3081.761022,DJI,262,46.519,228694.0,1977,Djibouti_1977
+Africa,Djibouti,Feed_A_Africa_Asia,2879.468067,DJI,262,48.812,305991.0,1982,Djibouti_1982
+Africa,Djibouti,Feed_A_Africa_Asia,2880.102568,DJI,262,50.04,311025.0,1987,Djibouti_1987
+Africa,Djibouti,Feed_A_Africa_Asia,2377.156192000001,DJI,262,51.604,384156.0,1992,Djibouti_1992
+Africa,Djibouti,Feed_A_Africa_Asia,1895.016984,DJI,262,53.157,417908.0,1997,Djibouti_1997
+Africa,Djibouti,Feed_A_Africa_Asia,1908.260867,DJI,262,53.37300000000001,447416.0,2002,Djibouti_2002
+Africa,Djibouti,Feed_A_Africa_Asia,2082.4815670000007,DJI,262,54.791,496374.0,2007,Djibouti_2007
+Africa,Egypt,Feed_A_Africa_Asia,1418.822445,EGY,818,41.893,22223309.0,1952,Egypt_1952
+Africa,Egypt,Feed_A_Africa_Asia,1458.915272,EGY,818,44.444,25009741.0,1957,Egypt_1957
+Africa,Egypt,Feed_A_Africa_Asia,1693.335853,EGY,818,46.992,28173309.0,1962,Egypt_1962
+Africa,Egypt,Feed_A_Africa_Asia,1814.880728,EGY,818,49.293,31681188.0,1967,Egypt_1967
+Africa,Egypt,Feed_A_Africa_Asia,2024.008147,EGY,818,51.137,34807417.0,1972,Egypt_1972
+Africa,Egypt,Feed_A_Africa_Asia,2785.493582,EGY,818,53.319,38783863.0,1977,Egypt_1977
+Africa,Egypt,Feed_A_Africa_Asia,3503.729636,EGY,818,56.006,45681811.0,1982,Egypt_1982
+Africa,Egypt,Feed_A_Africa_Asia,3885.46071,EGY,818,59.797,52799062.0,1987,Egypt_1987
+Africa,Egypt,Feed_A_Africa_Asia,3794.755195,EGY,818,63.674,59402198.0,1992,Egypt_1992
+Africa,Egypt,Feed_A_Africa_Asia,4173.181797,EGY,818,67.217,66134291.0,1997,Egypt_1997
+Africa,Egypt,Feed_A_Africa_Asia,4754.604414,EGY,818,69.806,73312559.0,2002,Egypt_2002
+Africa,Egypt,Feed_A_Africa_Asia,5581.180998,EGY,818,71.33800000000002,80264543.0,2007,Egypt_2007
+Africa,Equatorial Guinea,Feed_A_Africa_Asia,375.6431231,GNQ,226,34.482,216964.0,1952,Equatorial_Guinea_1952
+Africa,Equatorial Guinea,Feed_A_Africa_Asia,426.0964081,GNQ,226,35.98300000000001,232922.0,1957,Equatorial_Guinea_1957
+Africa,Equatorial Guinea,Feed_A_Africa_Asia,582.8419713999998,GNQ,226,37.485,249220.0,1962,Equatorial_Guinea_1962
+Africa,Equatorial Guinea,Feed_A_Africa_Asia,915.5960025,GNQ,226,38.987,259864.0,1967,Equatorial_Guinea_1967
+Africa,Equatorial Guinea,Feed_A_Africa_Asia,672.4122571,GNQ,226,40.516,277603.0,1972,Equatorial_Guinea_1972
+Africa,Equatorial Guinea,Feed_A_Africa_Asia,958.5668124,GNQ,226,42.024,192675.0,1977,Equatorial_Guinea_1977
+Africa,Equatorial Guinea,Feed_A_Africa_Asia,927.8253427,GNQ,226,43.662,285483.0,1982,Equatorial_Guinea_1982
+Africa,Equatorial Guinea,Feed_A_Africa_Asia,966.8968149,GNQ,226,45.664,341244.0,1987,Equatorial_Guinea_1987
+Africa,Equatorial Guinea,Feed_A_Africa_Asia,1132.055034,GNQ,226,47.545,387838.0,1992,Equatorial_Guinea_1992
+Africa,Equatorial Guinea,Feed_A_Africa_Asia,2814.480755,GNQ,226,48.245,439971.0,1997,Equatorial_Guinea_1997
+Africa,Equatorial Guinea,Feed_A_Africa_Asia,7703.4959,GNQ,226,49.348,495627.0,2002,Equatorial_Guinea_2002
+Africa,Equatorial Guinea,Feed_A_Africa_Asia,12154.08975,GNQ,226,51.57899999999999,551201.0,2007,Equatorial_Guinea_2007
+Africa,Eritrea,Feed_A_Africa_Asia,328.9405571000001,ERI,232,35.92800000000001,1438760.0,1952,Eritrea_1952
+Africa,Eritrea,Feed_A_Africa_Asia,344.1618859,ERI,232,38.047,1542611.0,1957,Eritrea_1957
+Africa,Eritrea,Feed_A_Africa_Asia,380.9958433000001,ERI,232,40.158,1666618.0,1962,Eritrea_1962
+Africa,Eritrea,Feed_A_Africa_Asia,468.7949699,ERI,232,42.18899999999999,1820319.0,1967,Eritrea_1967
+Africa,Eritrea,Feed_A_Africa_Asia,514.3242081999998,ERI,232,44.142,2260187.0,1972,Eritrea_1972
+Africa,Eritrea,Feed_A_Africa_Asia,505.7538077,ERI,232,44.535,2512642.0,1977,Eritrea_1977
+Africa,Eritrea,Feed_A_Africa_Asia,524.8758493,ERI,232,43.89,2637297.0,1982,Eritrea_1982
+Africa,Eritrea,Feed_A_Africa_Asia,521.1341333,ERI,232,46.453,2915959.0,1987,Eritrea_1987
+Africa,Eritrea,Feed_A_Africa_Asia,582.8585102000002,ERI,232,49.99100000000001,3668440.0,1992,Eritrea_1992
+Africa,Eritrea,Feed_A_Africa_Asia,913.47079,ERI,232,53.378,4058319.0,1997,Eritrea_1997
+Africa,Eritrea,Feed_A_Africa_Asia,765.3500015,ERI,232,55.24,4414865.0,2002,Eritrea_2002
+Africa,Eritrea,Feed_A_Africa_Asia,641.3695236000002,ERI,232,58.04,4906585.0,2007,Eritrea_2007
+Africa,Ethiopia,Feed_A_Africa_Asia,362.1462796,ETH,231,34.078,20860941.0,1952,Ethiopia_1952
+Africa,Ethiopia,Feed_A_Africa_Asia,378.9041632,ETH,231,36.667,22815614.0,1957,Ethiopia_1957
+Africa,Ethiopia,Feed_A_Africa_Asia,419.4564161,ETH,231,40.059,25145372.0,1962,Ethiopia_1962
+Africa,Ethiopia,Feed_A_Africa_Asia,516.1186438,ETH,231,42.115,27860297.0,1967,Ethiopia_1967
+Africa,Ethiopia,Feed_A_Africa_Asia,566.2439442000001,ETH,231,43.515,30770372.0,1972,Ethiopia_1972
+Africa,Ethiopia,Feed_A_Africa_Asia,556.8083834,ETH,231,44.51,34617799.0,1977,Ethiopia_1977
+Africa,Ethiopia,Feed_A_Africa_Asia,577.8607471,ETH,231,44.916,38111756.0,1982,Ethiopia_1982
+Africa,Ethiopia,Feed_A_Africa_Asia,573.7413142000001,ETH,231,46.684,42999530.0,1987,Ethiopia_1987
+Africa,Ethiopia,Feed_A_Africa_Asia,421.3534653,ETH,231,48.091,52088559.0,1992,Ethiopia_1992
+Africa,Ethiopia,Feed_A_Africa_Asia,515.8894013,ETH,231,49.402,59861301.0,1997,Ethiopia_1997
+Africa,Ethiopia,Feed_A_Africa_Asia,530.0535319,ETH,231,50.725,67946797.0,2002,Ethiopia_2002
+Africa,Ethiopia,Feed_A_Africa_Asia,690.8055759,ETH,231,52.947,76511887.0,2007,Ethiopia_2007
+Africa,Gabon,Feed_A_Africa_Asia,4293.476475,GAB,266,37.003,420702.0,1952,Gabon_1952
+Africa,Gabon,Feed_A_Africa_Asia,4976.198099,GAB,266,38.999,434904.0,1957,Gabon_1957
+Africa,Gabon,Feed_A_Africa_Asia,6631.459222,GAB,266,40.489,455661.0,1962,Gabon_1962
+Africa,Gabon,Feed_A_Africa_Asia,8358.761987,GAB,266,44.598,489004.0,1967,Gabon_1967
+Africa,Gabon,Feed_A_Africa_Asia,11401.94841,GAB,266,48.69,537977.0,1972,Gabon_1972
+Africa,Gabon,Feed_A_Africa_Asia,21745.57328,GAB,266,52.79,706367.0,1977,Gabon_1977
+Africa,Gabon,Feed_A_Africa_Asia,15113.36194,GAB,266,56.56399999999999,753874.0,1982,Gabon_1982
+Africa,Gabon,Feed_A_Africa_Asia,11864.40844,GAB,266,60.19,880397.0,1987,Gabon_1987
+Africa,Gabon,Feed_A_Africa_Asia,13522.15752,GAB,266,61.36600000000001,985739.0,1992,Gabon_1992
+Africa,Gabon,Feed_A_Africa_Asia,14722.841880000002,GAB,266,60.46100000000001,1126189.0,1997,Gabon_1997
+Africa,Gabon,Feed_A_Africa_Asia,12521.71392,GAB,266,56.761,1299304.0,2002,Gabon_2002
+Africa,Gabon,Feed_A_Africa_Asia,13206.48452,GAB,266,56.735,1454867.0,2007,Gabon_2007
+Africa,Gambia,Feed_A_Africa_Asia,485.2306591,GMB,270,30.0,284320.0,1952,Gambia_1952
+Africa,Gambia,Feed_A_Africa_Asia,520.9267111,GMB,270,32.065,323150.0,1957,Gambia_1957
+Africa,Gambia,Feed_A_Africa_Asia,599.650276,GMB,270,33.896,374020.0,1962,Gambia_1962
+Africa,Gambia,Feed_A_Africa_Asia,734.7829124,GMB,270,35.857,439593.0,1967,Gambia_1967
+Africa,Gambia,Feed_A_Africa_Asia,756.0868363,GMB,270,38.308,517101.0,1972,Gambia_1972
+Africa,Gambia,Feed_A_Africa_Asia,884.7552507000001,GMB,270,41.842,608274.0,1977,Gambia_1977
+Africa,Gambia,Feed_A_Africa_Asia,835.8096107999999,GMB,270,45.58,715523.0,1982,Gambia_1982
+Africa,Gambia,Feed_A_Africa_Asia,611.6588611000002,GMB,270,49.265,848406.0,1987,Gambia_1987
+Africa,Gambia,Feed_A_Africa_Asia,665.6244126,GMB,270,52.644,1025384.0,1992,Gambia_1992
+Africa,Gambia,Feed_A_Africa_Asia,653.7301704,GMB,270,55.861,1235767.0,1997,Gambia_1997
+Africa,Gambia,Feed_A_Africa_Asia,660.5855997,GMB,270,58.041,1457766.0,2002,Gambia_2002
+Africa,Gambia,Feed_A_Africa_Asia,752.7497265,GMB,270,59.448,1688359.0,2007,Gambia_2007
+Africa,Ghana,Feed_A_Africa_Asia,911.2989371,GHA,288,43.149,5581001.0,1952,Ghana_1952
+Africa,Ghana,Feed_A_Africa_Asia,1043.5615369999996,GHA,288,44.779,6391288.0,1957,Ghana_1957
+Africa,Ghana,Feed_A_Africa_Asia,1190.041118,GHA,288,46.452,7355248.0,1962,Ghana_1962
+Africa,Ghana,Feed_A_Africa_Asia,1125.69716,GHA,288,48.072,8490213.0,1967,Ghana_1967
+Africa,Ghana,Feed_A_Africa_Asia,1178.223708,GHA,288,49.875,9354120.0,1972,Ghana_1972
+Africa,Ghana,Feed_A_Africa_Asia,993.2239571,GHA,288,51.756,10538093.0,1977,Ghana_1977
+Africa,Ghana,Feed_A_Africa_Asia,876.032569,GHA,288,53.744,11400338.0,1982,Ghana_1982
+Africa,Ghana,Feed_A_Africa_Asia,847.0061135,GHA,288,55.729,14168101.0,1987,Ghana_1987
+Africa,Ghana,Feed_A_Africa_Asia,925.060154,GHA,288,57.50100000000001,16278738.0,1992,Ghana_1992
+Africa,Ghana,Feed_A_Africa_Asia,1005.245812,GHA,288,58.556,18418288.0,1997,Ghana_1997
+Africa,Ghana,Feed_A_Africa_Asia,1111.9845779999996,GHA,288,58.453,20550751.0,2002,Ghana_2002
+Africa,Ghana,Feed_A_Africa_Asia,1327.60891,GHA,288,60.022,22873338.0,2007,Ghana_2007
+Africa,Guinea,Feed_A_Africa_Asia,510.1964923000001,GIN,324,33.609,2664249.0,1952,Guinea_1952
+Africa,Guinea,Feed_A_Africa_Asia,576.2670245,GIN,324,34.558,2876726.0,1957,Guinea_1957
+Africa,Guinea,Feed_A_Africa_Asia,686.3736739,GIN,324,35.753,3140003.0,1962,Guinea_1962
+Africa,Guinea,Feed_A_Africa_Asia,708.7595409,GIN,324,37.197,3451418.0,1967,Guinea_1967
+Africa,Guinea,Feed_A_Africa_Asia,741.6662307,GIN,324,38.842,3811387.0,1972,Guinea_1972
+Africa,Guinea,Feed_A_Africa_Asia,874.6858642999998,GIN,324,40.762,4227026.0,1977,Guinea_1977
+Africa,Guinea,Feed_A_Africa_Asia,857.2503577,GIN,324,42.89100000000001,4710497.0,1982,Guinea_1982
+Africa,Guinea,Feed_A_Africa_Asia,805.5724717999999,GIN,324,45.552,5650262.0,1987,Guinea_1987
+Africa,Guinea,Feed_A_Africa_Asia,794.3484384,GIN,324,48.576,6990574.0,1992,Guinea_1992
+Africa,Guinea,Feed_A_Africa_Asia,869.4497667999998,GIN,324,51.455,8048834.0,1997,Guinea_1997
+Africa,Guinea,Feed_A_Africa_Asia,945.5835837,GIN,324,53.676,8807818.0,2002,Guinea_2002
+Africa,Guinea,Feed_A_Africa_Asia,942.6542111,GIN,324,56.007,9947814.0,2007,Guinea_2007
+Africa,Guinea-Bissau,Feed_A_Africa_Asia,299.850319,GNB,624,32.5,580653.0,1952,Guinea_Bissau_1952
+Africa,Guinea-Bissau,Feed_A_Africa_Asia,431.79045660000014,GNB,624,33.489000000000004,601095.0,1957,Guinea_Bissau_1957
+Africa,Guinea-Bissau,Feed_A_Africa_Asia,522.0343725,GNB,624,34.488,627820.0,1962,Guinea_Bissau_1962
+Africa,Guinea-Bissau,Feed_A_Africa_Asia,715.5806402000002,GNB,624,35.492,601287.0,1967,Guinea_Bissau_1967
+Africa,Guinea-Bissau,Feed_A_Africa_Asia,820.2245876000002,GNB,624,36.486,625361.0,1972,Guinea_Bissau_1972
+Africa,Guinea-Bissau,Feed_A_Africa_Asia,764.7259627999998,GNB,624,37.465,745228.0,1977,Guinea_Bissau_1977
+Africa,Guinea-Bissau,Feed_A_Africa_Asia,838.1239671,GNB,624,39.327,825987.0,1982,Guinea_Bissau_1982
+Africa,Guinea-Bissau,Feed_A_Africa_Asia,736.4153921,GNB,624,41.245,927524.0,1987,Guinea_Bissau_1987
+Africa,Guinea-Bissau,Feed_A_Africa_Asia,745.5398706,GNB,624,43.26600000000001,1050938.0,1992,Guinea_Bissau_1992
+Africa,Guinea-Bissau,Feed_A_Africa_Asia,796.6644681,GNB,624,44.87300000000001,1193708.0,1997,Guinea_Bissau_1997
+Africa,Guinea-Bissau,Feed_A_Africa_Asia,575.7047176,GNB,624,45.504,1332459.0,2002,Guinea_Bissau_2002
+Africa,Guinea-Bissau,Feed_A_Africa_Asia,579.2317429999998,GNB,624,46.38800000000001,1472041.0,2007,Guinea_Bissau_2007
+Asia,"Hong Kong, China",Feed_A_Africa_Asia,3054.421209,HKG,344,60.96,2125900.0,1952,Hong_Kong_China_1952
+Asia,"Hong Kong, China",Feed_A_Africa_Asia,3629.076457,HKG,344,64.75,2736300.0,1957,Hong_Kong_China_1957
+Asia,"Hong Kong, China",Feed_A_Africa_Asia,4692.648271999999,HKG,344,67.65,3305200.0,1962,Hong_Kong_China_1962
+Asia,"Hong Kong, China",Feed_A_Africa_Asia,6197.962814,HKG,344,70.0,3722800.0,1967,Hong_Kong_China_1967
+Asia,"Hong Kong, China",Feed_A_Africa_Asia,8315.928145,HKG,344,72.0,4115700.0,1972,Hong_Kong_China_1972
+Asia,"Hong Kong, China",Feed_A_Africa_Asia,11186.14125,HKG,344,73.6,4583700.0,1977,Hong_Kong_China_1977
+Asia,"Hong Kong, China",Feed_A_Africa_Asia,14560.53051,HKG,344,75.45,5264500.0,1982,Hong_Kong_China_1982
+Asia,"Hong Kong, China",Feed_A_Africa_Asia,20038.47269,HKG,344,76.2,5584510.0,1987,Hong_Kong_China_1987
+Asia,"Hong Kong, China",Feed_A_Africa_Asia,24757.60301,HKG,344,77.601,5829696.0,1992,Hong_Kong_China_1992
+Asia,"Hong Kong, China",Feed_A_Africa_Asia,28377.63219,HKG,344,80.0,6495918.0,1997,Hong_Kong_China_1997
+Asia,"Hong Kong, China",Feed_A_Africa_Asia,30209.015160000006,HKG,344,81.495,6762476.0,2002,Hong_Kong_China_2002
+Asia,"Hong Kong, China",Feed_A_Africa_Asia,39724.97867,HKG,344,82.208,6980412.0,2007,Hong_Kong_China_2007
+Asia,India,Feed_A_Africa_Asia,546.5657493,IND,356,37.37300000000001,372000000.0,1952,India_1952
+Asia,India,Feed_A_Africa_Asia,590.061996,IND,356,40.249,409000000.0,1957,India_1957
+Asia,India,Feed_A_Africa_Asia,658.3471509,IND,356,43.605,454000000.0,1962,India_1962
+Asia,India,Feed_A_Africa_Asia,700.7706107000001,IND,356,47.19300000000001,506000000.0,1967,India_1967
+Asia,India,Feed_A_Africa_Asia,724.032527,IND,356,50.651,567000000.0,1972,India_1972
+Asia,India,Feed_A_Africa_Asia,813.3373230000002,IND,356,54.208,634000000.0,1977,India_1977
+Asia,India,Feed_A_Africa_Asia,855.7235377000002,IND,356,56.596,708000000.0,1982,India_1982
+Asia,India,Feed_A_Africa_Asia,976.5126756,IND,356,58.553,788000000.0,1987,India_1987
+Asia,India,Feed_A_Africa_Asia,1164.406809,IND,356,60.223,872000000.0,1992,India_1992
+Asia,India,Feed_A_Africa_Asia,1458.817442,IND,356,61.765,959000000.0,1997,India_1997
+Asia,India,Feed_A_Africa_Asia,1746.769454,IND,356,62.879,1034172547.0,2002,India_2002
+Asia,India,Feed_A_Africa_Asia,2452.210407,IND,356,64.69800000000001,1110396331.0,2007,India_2007
+Asia,Indonesia,Feed_A_Africa_Asia,749.6816546,IDN,360,37.468,82052000.0,1952,Indonesia_1952
+Asia,Indonesia,Feed_A_Africa_Asia,858.9002707000002,IDN,360,39.918,90124000.0,1957,Indonesia_1957
+Asia,Indonesia,Feed_A_Africa_Asia,849.2897700999998,IDN,360,42.518,99028000.0,1962,Indonesia_1962
+Asia,Indonesia,Feed_A_Africa_Asia,762.4317721,IDN,360,45.964,109343000.0,1967,Indonesia_1967
+Asia,Indonesia,Feed_A_Africa_Asia,1111.107907,IDN,360,49.203,121282000.0,1972,Indonesia_1972
+Asia,Indonesia,Feed_A_Africa_Asia,1382.702056,IDN,360,52.702,136725000.0,1977,Indonesia_1977
+Asia,Indonesia,Feed_A_Africa_Asia,1516.872988,IDN,360,56.159,153343000.0,1982,Indonesia_1982
+Asia,Indonesia,Feed_A_Africa_Asia,1748.356961,IDN,360,60.137,169276000.0,1987,Indonesia_1987
+Asia,Indonesia,Feed_A_Africa_Asia,2383.140898,IDN,360,62.681,184816000.0,1992,Indonesia_1992
+Asia,Indonesia,Feed_A_Africa_Asia,3119.335603,IDN,360,66.041,199278000.0,1997,Indonesia_1997
+Asia,Indonesia,Feed_A_Africa_Asia,2873.91287,IDN,360,68.58800000000001,211060000.0,2002,Indonesia_2002
+Asia,Indonesia,Feed_A_Africa_Asia,3540.651564,IDN,360,70.65,223547000.0,2007,Indonesia_2007
+Asia,Iran,Feed_A_Africa_Asia,3035.326002,IRN,364,44.869,17272000.0,1952,Iran_1952
+Asia,Iran,Feed_A_Africa_Asia,3290.257643,IRN,364,47.181,19792000.0,1957,Iran_1957
+Asia,Iran,Feed_A_Africa_Asia,4187.329802,IRN,364,49.325,22874000.0,1962,Iran_1962
+Asia,Iran,Feed_A_Africa_Asia,5906.731804999999,IRN,364,52.469,26538000.0,1967,Iran_1967
+Asia,Iran,Feed_A_Africa_Asia,9613.818607,IRN,364,55.234,30614000.0,1972,Iran_1972
+Asia,Iran,Feed_A_Africa_Asia,11888.59508,IRN,364,57.702,35480679.0,1977,Iran_1977
+Asia,Iran,Feed_A_Africa_Asia,7608.334602,IRN,364,59.62,43072751.0,1982,Iran_1982
+Asia,Iran,Feed_A_Africa_Asia,6642.881371,IRN,364,63.04,51889696.0,1987,Iran_1987
+Asia,Iran,Feed_A_Africa_Asia,7235.653187999998,IRN,364,65.742,60397973.0,1992,Iran_1992
+Asia,Iran,Feed_A_Africa_Asia,8263.590301,IRN,364,68.042,63327987.0,1997,Iran_1997
+Asia,Iran,Feed_A_Africa_Asia,9240.761975,IRN,364,69.45100000000001,66907826.0,2002,Iran_2002
+Asia,Iran,Feed_A_Africa_Asia,11605.71449,IRN,364,70.964,69453570.0,2007,Iran_2007
+Asia,Iraq,Feed_A_Africa_Asia,4129.766056,IRQ,368,45.32,5441766.0,1952,Iraq_1952
+Asia,Iraq,Feed_A_Africa_Asia,6229.333562,IRQ,368,48.437,6248643.0,1957,Iraq_1957
+Asia,Iraq,Feed_A_Africa_Asia,8341.737815,IRQ,368,51.457,7240260.0,1962,Iraq_1962
+Asia,Iraq,Feed_A_Africa_Asia,8931.459811,IRQ,368,54.459,8519282.0,1967,Iraq_1967
+Asia,Iraq,Feed_A_Africa_Asia,9576.037596,IRQ,368,56.95,10061506.0,1972,Iraq_1972
+Asia,Iraq,Feed_A_Africa_Asia,14688.23507,IRQ,368,60.413,11882916.0,1977,Iraq_1977
+Asia,Iraq,Feed_A_Africa_Asia,14517.90711,IRQ,368,62.038,14173318.0,1982,Iraq_1982
+Asia,Iraq,Feed_A_Africa_Asia,11643.57268,IRQ,368,65.044,16543189.0,1987,Iraq_1987
+Asia,Iraq,Feed_A_Africa_Asia,3745.640687,IRQ,368,59.46100000000001,17861905.0,1992,Iraq_1992
+Asia,Iraq,Feed_A_Africa_Asia,3076.239795,IRQ,368,58.81100000000001,20775703.0,1997,Iraq_1997
+Asia,Iraq,Feed_A_Africa_Asia,4390.717312,IRQ,368,57.04600000000001,24001816.0,2002,Iraq_2002
+Asia,Iraq,Feed_A_Africa_Asia,4471.061906,IRQ,368,59.545,27499638.0,2007,Iraq_2007
+Asia,Israel,Feed_A_Africa_Asia,4086.522128,ISR,376,65.39,1620914.0,1952,Israel_1952
+Asia,Israel,Feed_A_Africa_Asia,5385.278451,ISR,376,67.84,1944401.0,1957,Israel_1957
+Asia,Israel,Feed_A_Africa_Asia,7105.630706,ISR,376,69.39,2310904.0,1962,Israel_1962
+Asia,Israel,Feed_A_Africa_Asia,8393.741404,ISR,376,70.75,2693585.0,1967,Israel_1967
+Asia,Israel,Feed_A_Africa_Asia,12786.93223,ISR,376,71.63,3095893.0,1972,Israel_1972
+Asia,Israel,Feed_A_Africa_Asia,13306.61921,ISR,376,73.06,3495918.0,1977,Israel_1977
+Asia,Israel,Feed_A_Africa_Asia,15367.0292,ISR,376,74.45,3858421.0,1982,Israel_1982
+Asia,Israel,Feed_A_Africa_Asia,17122.47986,ISR,376,75.6,4203148.0,1987,Israel_1987
+Asia,Israel,Feed_A_Africa_Asia,18051.52254,ISR,376,76.93,4936550.0,1992,Israel_1992
+Asia,Israel,Feed_A_Africa_Asia,20896.60924,ISR,376,78.26899999999998,5531387.0,1997,Israel_1997
+Asia,Israel,Feed_A_Africa_Asia,21905.59514,ISR,376,79.696,6029529.0,2002,Israel_2002
+Asia,Israel,Feed_A_Africa_Asia,25523.2771,ISR,376,80.745,6426679.0,2007,Israel_2007
+Asia,Japan,Feed_A_Africa_Asia,3216.956347,JPN,392,63.03,86459025.0,1952,Japan_1952
+Asia,Japan,Feed_A_Africa_Asia,4317.694365,JPN,392,65.5,91563009.0,1957,Japan_1957
+Asia,Japan,Feed_A_Africa_Asia,6576.649461,JPN,392,68.73,95831757.0,1962,Japan_1962
+Asia,Japan,Feed_A_Africa_Asia,9847.788607,JPN,392,71.43,100825279.0,1967,Japan_1967
+Asia,Japan,Feed_A_Africa_Asia,14778.78636,JPN,392,73.42,107188273.0,1972,Japan_1972
+Asia,Japan,Feed_A_Africa_Asia,16610.37701,JPN,392,75.38,113872473.0,1977,Japan_1977
+Asia,Japan,Feed_A_Africa_Asia,19384.10571,JPN,392,77.11,118454974.0,1982,Japan_1982
+Asia,Japan,Feed_A_Africa_Asia,22375.94189,JPN,392,78.67,122091325.0,1987,Japan_1987
+Asia,Japan,Feed_A_Africa_Asia,26824.89511,JPN,392,79.36,124329269.0,1992,Japan_1992
+Asia,Japan,Feed_A_Africa_Asia,28816.58499,JPN,392,80.69,125956499.0,1997,Japan_1997
+Asia,Japan,Feed_A_Africa_Asia,28604.5919,JPN,392,82.0,127065841.0,2002,Japan_2002
+Asia,Japan,Feed_A_Africa_Asia,31656.06806,JPN,392,82.603,127467972.0,2007,Japan_2007
+Asia,Jordan,Feed_A_Africa_Asia,1546.907807,JOR,400,43.158,607914.0,1952,Jordan_1952
+Asia,Jordan,Feed_A_Africa_Asia,1886.080591,JOR,400,45.669,746559.0,1957,Jordan_1957
+Asia,Jordan,Feed_A_Africa_Asia,2348.009158,JOR,400,48.12600000000001,933559.0,1962,Jordan_1962
+Asia,Jordan,Feed_A_Africa_Asia,2741.796252,JOR,400,51.629,1255058.0,1967,Jordan_1967
+Asia,Jordan,Feed_A_Africa_Asia,2110.856309,JOR,400,56.528,1613551.0,1972,Jordan_1972
+Asia,Jordan,Feed_A_Africa_Asia,2852.351568,JOR,400,61.13399999999999,1937652.0,1977,Jordan_1977
+Asia,Jordan,Feed_A_Africa_Asia,4161.415959,JOR,400,63.739,2347031.0,1982,Jordan_1982
+Asia,Jordan,Feed_A_Africa_Asia,4448.679912,JOR,400,65.869,2820042.0,1987,Jordan_1987
+Asia,Jordan,Feed_A_Africa_Asia,3431.593647,JOR,400,68.015,3867409.0,1992,Jordan_1992
+Asia,Jordan,Feed_A_Africa_Asia,3645.379572,JOR,400,69.77199999999999,4526235.0,1997,Jordan_1997
+Asia,Jordan,Feed_A_Africa_Asia,3844.917194,JOR,400,71.263,5307470.0,2002,Jordan_2002
+Asia,Jordan,Feed_A_Africa_Asia,4519.461171,JOR,400,72.535,6053193.0,2007,Jordan_2007
+Africa,Kenya,Feed_A_Africa_Asia,853.5409189999998,KEN,404,42.27,6464046.0,1952,Kenya_1952
+Africa,Kenya,Feed_A_Africa_Asia,944.4383152,KEN,404,44.68600000000001,7454779.0,1957,Kenya_1957
+Africa,Kenya,Feed_A_Africa_Asia,896.9663732,KEN,404,47.949,8678557.0,1962,Kenya_1962
+Africa,Kenya,Feed_A_Africa_Asia,1056.736457,KEN,404,50.654,10191512.0,1967,Kenya_1967
+Africa,Kenya,Feed_A_Africa_Asia,1222.359968,KEN,404,53.559,12044785.0,1972,Kenya_1972
+Africa,Kenya,Feed_A_Africa_Asia,1267.613204,KEN,404,56.155,14500404.0,1977,Kenya_1977
+Africa,Kenya,Feed_A_Africa_Asia,1348.225791,KEN,404,58.76600000000001,17661452.0,1982,Kenya_1982
+Africa,Kenya,Feed_A_Africa_Asia,1361.936856,KEN,404,59.339,21198082.0,1987,Kenya_1987
+Africa,Kenya,Feed_A_Africa_Asia,1341.9217210000004,KEN,404,59.285,25020539.0,1992,Kenya_1992
+Africa,Kenya,Feed_A_Africa_Asia,1360.4850210000004,KEN,404,54.407,28263827.0,1997,Kenya_1997
+Africa,Kenya,Feed_A_Africa_Asia,1287.514732,KEN,404,50.992,31386842.0,2002,Kenya_2002
+Africa,Kenya,Feed_A_Africa_Asia,1463.249282,KEN,404,54.11,35610177.0,2007,Kenya_2007
+Asia,"Korea, Dem. Rep.",Feed_A_Africa_Asia,1088.277758,KOR,410,50.056,8865488.0,1952,Korea_Dem_Rep_1952
+Asia,"Korea, Dem. Rep.",Feed_A_Africa_Asia,1571.134655,KOR,410,54.081,9411381.0,1957,Korea_Dem_Rep_1957
+Asia,"Korea, Dem. Rep.",Feed_A_Africa_Asia,1621.693598,KOR,410,56.65600000000001,10917494.0,1962,Korea_Dem_Rep_1962
+Asia,"Korea, Dem. Rep.",Feed_A_Africa_Asia,2143.540609,KOR,410,59.942,12617009.0,1967,Korea_Dem_Rep_1967
+Asia,"Korea, Dem. Rep.",Feed_A_Africa_Asia,3701.621503,KOR,410,63.983,14781241.0,1972,Korea_Dem_Rep_1972
+Asia,"Korea, Dem. Rep.",Feed_A_Africa_Asia,4106.301249,KOR,410,67.15899999999999,16325320.0,1977,Korea_Dem_Rep_1977
+Asia,"Korea, Dem. Rep.",Feed_A_Africa_Asia,4106.525293,KOR,410,69.1,17647518.0,1982,Korea_Dem_Rep_1982
+Asia,"Korea, Dem. Rep.",Feed_A_Africa_Asia,4106.492315,KOR,410,70.64699999999998,19067554.0,1987,Korea_Dem_Rep_1987
+Asia,"Korea, Dem. Rep.",Feed_A_Africa_Asia,3726.063507,KOR,410,69.97800000000001,20711375.0,1992,Korea_Dem_Rep_1992
+Asia,"Korea, Dem. Rep.",Feed_A_Africa_Asia,1690.756814,KOR,410,67.727,21585105.0,1997,Korea_Dem_Rep_1997
+Asia,"Korea, Dem. Rep.",Feed_A_Africa_Asia,1646.758151,KOR,410,66.66199999999999,22215365.0,2002,Korea_Dem_Rep_2002
+Asia,"Korea, Dem. Rep.",Feed_A_Africa_Asia,1593.06548,KOR,410,67.297,23301725.0,2007,Korea_Dem_Rep_2007
+Asia,"Korea, Rep.",Feed_A_Africa_Asia,1030.592226,KOR,410,47.453,20947571.0,1952,Korea_Rep_1952
+Asia,"Korea, Rep.",Feed_A_Africa_Asia,1487.593537,KOR,410,52.681,22611552.0,1957,Korea_Rep_1957
+Asia,"Korea, Rep.",Feed_A_Africa_Asia,1536.344387,KOR,410,55.292,26420307.0,1962,Korea_Rep_1962
+Asia,"Korea, Rep.",Feed_A_Africa_Asia,2029.228142,KOR,410,57.716,30131000.0,1967,Korea_Rep_1967
+Asia,"Korea, Rep.",Feed_A_Africa_Asia,3030.87665,KOR,410,62.612,33505000.0,1972,Korea_Rep_1972
+Asia,"Korea, Rep.",Feed_A_Africa_Asia,4657.22102,KOR,410,64.766,36436000.0,1977,Korea_Rep_1977
+Asia,"Korea, Rep.",Feed_A_Africa_Asia,5622.942464,KOR,410,67.123,39326000.0,1982,Korea_Rep_1982
+Asia,"Korea, Rep.",Feed_A_Africa_Asia,8533.088805,KOR,410,69.81,41622000.0,1987,Korea_Rep_1987
+Asia,"Korea, Rep.",Feed_A_Africa_Asia,12104.27872,KOR,410,72.244,43805450.0,1992,Korea_Rep_1992
+Asia,"Korea, Rep.",Feed_A_Africa_Asia,15993.52796,KOR,410,74.64699999999998,46173816.0,1997,Korea_Rep_1997
+Asia,"Korea, Rep.",Feed_A_Africa_Asia,19233.98818,KOR,410,77.045,47969150.0,2002,Korea_Rep_2002
+Asia,"Korea, Rep.",Feed_A_Africa_Asia,23348.139730000006,KOR,410,78.623,49044790.0,2007,Korea_Rep_2007
+Asia,Kuwait,Feed_A_Africa_Asia,108382.3529,KWT,414,55.565,160000.0,1952,Kuwait_1952
+Asia,Kuwait,Feed_A_Africa_Asia,113523.1329,KWT,414,58.033,212846.0,1957,Kuwait_1957
+Asia,Kuwait,Feed_A_Africa_Asia,95458.11176,KWT,414,60.47,358266.0,1962,Kuwait_1962
+Asia,Kuwait,Feed_A_Africa_Asia,80894.88326,KWT,414,64.624,575003.0,1967,Kuwait_1967
+Asia,Kuwait,Feed_A_Africa_Asia,109347.867,KWT,414,67.712,841934.0,1972,Kuwait_1972
+Asia,Kuwait,Feed_A_Africa_Asia,59265.47714,KWT,414,69.343,1140357.0,1977,Kuwait_1977
+Asia,Kuwait,Feed_A_Africa_Asia,31354.03573,KWT,414,71.309,1497494.0,1982,Kuwait_1982
+Asia,Kuwait,Feed_A_Africa_Asia,28118.42998,KWT,414,74.17399999999998,1891487.0,1987,Kuwait_1987
+Asia,Kuwait,Feed_A_Africa_Asia,34932.91959,KWT,414,75.19,1418095.0,1992,Kuwait_1992
+Asia,Kuwait,Feed_A_Africa_Asia,40300.61996,KWT,414,76.156,1765345.0,1997,Kuwait_1997
+Asia,Kuwait,Feed_A_Africa_Asia,35110.10566,KWT,414,76.904,2111561.0,2002,Kuwait_2002
+Asia,Kuwait,Feed_A_Africa_Asia,47306.98978,KWT,414,77.58800000000002,2505559.0,2007,Kuwait_2007
+Asia,Lebanon,Feed_A_Africa_Asia,4834.804067,LBN,422,55.928,1439529.0,1952,Lebanon_1952
+Asia,Lebanon,Feed_A_Africa_Asia,6089.786934000002,LBN,422,59.489,1647412.0,1957,Lebanon_1957
+Asia,Lebanon,Feed_A_Africa_Asia,5714.560611,LBN,422,62.094,1886848.0,1962,Lebanon_1962
+Asia,Lebanon,Feed_A_Africa_Asia,6006.983042,LBN,422,63.87,2186894.0,1967,Lebanon_1967
+Asia,Lebanon,Feed_A_Africa_Asia,7486.384341,LBN,422,65.421,2680018.0,1972,Lebanon_1972
+Asia,Lebanon,Feed_A_Africa_Asia,8659.696836,LBN,422,66.09899999999999,3115787.0,1977,Lebanon_1977
+Asia,Lebanon,Feed_A_Africa_Asia,7640.519520999998,LBN,422,66.983,3086876.0,1982,Lebanon_1982
+Asia,Lebanon,Feed_A_Africa_Asia,5377.091329,LBN,422,67.926,3089353.0,1987,Lebanon_1987
+Asia,Lebanon,Feed_A_Africa_Asia,6890.806854,LBN,422,69.292,3219994.0,1992,Lebanon_1992
+Asia,Lebanon,Feed_A_Africa_Asia,8754.96385,LBN,422,70.265,3430388.0,1997,Lebanon_1997
+Asia,Lebanon,Feed_A_Africa_Asia,9313.93883,LBN,422,71.028,3677780.0,2002,Lebanon_2002
+Asia,Lebanon,Feed_A_Africa_Asia,10461.05868,LBN,422,71.993,3921278.0,2007,Lebanon_2007
+Africa,Lesotho,Feed_A_Africa_Asia,298.8462121,LSO,426,42.13800000000001,748747.0,1952,Lesotho_1952
+Africa,Lesotho,Feed_A_Africa_Asia,335.9971151000001,LSO,426,45.047,813338.0,1957,Lesotho_1957
+Africa,Lesotho,Feed_A_Africa_Asia,411.8006266,LSO,426,47.747,893143.0,1962,Lesotho_1962
+Africa,Lesotho,Feed_A_Africa_Asia,498.6390265,LSO,426,48.492,996380.0,1967,Lesotho_1967
+Africa,Lesotho,Feed_A_Africa_Asia,496.5815922000001,LSO,426,49.767,1116779.0,1972,Lesotho_1972
+Africa,Lesotho,Feed_A_Africa_Asia,745.3695408,LSO,426,52.208,1251524.0,1977,Lesotho_1977
+Africa,Lesotho,Feed_A_Africa_Asia,797.2631074,LSO,426,55.078,1411807.0,1982,Lesotho_1982
+Africa,Lesotho,Feed_A_Africa_Asia,773.9932140999998,LSO,426,57.18,1599200.0,1987,Lesotho_1987
+Africa,Lesotho,Feed_A_Africa_Asia,977.4862725,LSO,426,59.685,1803195.0,1992,Lesotho_1992
+Africa,Lesotho,Feed_A_Africa_Asia,1186.147994,LSO,426,55.558,1982823.0,1997,Lesotho_1997
+Africa,Lesotho,Feed_A_Africa_Asia,1275.184575,LSO,426,44.593,2046772.0,2002,Lesotho_2002
+Africa,Lesotho,Feed_A_Africa_Asia,1569.331442,LSO,426,42.592,2012649.0,2007,Lesotho_2007
+Africa,Liberia,Feed_A_Africa_Asia,575.5729961000002,LBR,430,38.48,863308.0,1952,Liberia_1952
+Africa,Liberia,Feed_A_Africa_Asia,620.9699901,LBR,430,39.486,975950.0,1957,Liberia_1957
+Africa,Liberia,Feed_A_Africa_Asia,634.1951625,LBR,430,40.502,1112796.0,1962,Liberia_1962
+Africa,Liberia,Feed_A_Africa_Asia,713.6036482999998,LBR,430,41.536,1279406.0,1967,Liberia_1967
+Africa,Liberia,Feed_A_Africa_Asia,803.0054535,LBR,430,42.614,1482628.0,1972,Liberia_1972
+Africa,Liberia,Feed_A_Africa_Asia,640.3224382999998,LBR,430,43.764,1703617.0,1977,Liberia_1977
+Africa,Liberia,Feed_A_Africa_Asia,572.1995694,LBR,430,44.852,1956875.0,1982,Liberia_1982
+Africa,Liberia,Feed_A_Africa_Asia,506.1138573,LBR,430,46.027,2269414.0,1987,Liberia_1987
+Africa,Liberia,Feed_A_Africa_Asia,636.6229191000001,LBR,430,40.802,1912974.0,1992,Liberia_1992
+Africa,Liberia,Feed_A_Africa_Asia,609.1739508,LBR,430,42.221,2200725.0,1997,Liberia_1997
+Africa,Liberia,Feed_A_Africa_Asia,531.4823679,LBR,430,43.753,2814651.0,2002,Liberia_2002
+Africa,Liberia,Feed_A_Africa_Asia,414.5073415,LBR,430,45.678,3193942.0,2007,Liberia_2007
+Africa,Libya,Feed_A_Africa_Asia,2387.54806,LBY,434,42.723,1019729.0,1952,Libya_1952
+Africa,Libya,Feed_A_Africa_Asia,3448.284395,LBY,434,45.289,1201578.0,1957,Libya_1957
+Africa,Libya,Feed_A_Africa_Asia,6757.030816,LBY,434,47.808,1441863.0,1962,Libya_1962
+Africa,Libya,Feed_A_Africa_Asia,18772.75169,LBY,434,50.227,1759224.0,1967,Libya_1967
+Africa,Libya,Feed_A_Africa_Asia,21011.49721,LBY,434,52.773,2183877.0,1972,Libya_1972
+Africa,Libya,Feed_A_Africa_Asia,21951.21176,LBY,434,57.442,2721783.0,1977,Libya_1977
+Africa,Libya,Feed_A_Africa_Asia,17364.275380000006,LBY,434,62.155,3344074.0,1982,Libya_1982
+Africa,Libya,Feed_A_Africa_Asia,11770.5898,LBY,434,66.234,3799845.0,1987,Libya_1987
+Africa,Libya,Feed_A_Africa_Asia,9640.138501,LBY,434,68.755,4364501.0,1992,Libya_1992
+Africa,Libya,Feed_A_Africa_Asia,9467.446056,LBY,434,71.555,4759670.0,1997,Libya_1997
+Africa,Libya,Feed_A_Africa_Asia,9534.677467,LBY,434,72.737,5368585.0,2002,Libya_2002
+Africa,Libya,Feed_A_Africa_Asia,12057.49928,LBY,434,73.952,6036914.0,2007,Libya_2007
+Africa,Madagascar,Feed_A_Africa_Asia,1443.011715,MDG,450,36.681,4762912.0,1952,Madagascar_1952
+Africa,Madagascar,Feed_A_Africa_Asia,1589.20275,MDG,450,38.865,5181679.0,1957,Madagascar_1957
+Africa,Madagascar,Feed_A_Africa_Asia,1643.38711,MDG,450,40.848,5703324.0,1962,Madagascar_1962
+Africa,Madagascar,Feed_A_Africa_Asia,1634.047282,MDG,450,42.881,6334556.0,1967,Madagascar_1967
+Africa,Madagascar,Feed_A_Africa_Asia,1748.562982,MDG,450,44.851000000000006,7082430.0,1972,Madagascar_1972
+Africa,Madagascar,Feed_A_Africa_Asia,1544.228586,MDG,450,46.881,8007166.0,1977,Madagascar_1977
+Africa,Madagascar,Feed_A_Africa_Asia,1302.878658,MDG,450,48.969,9171477.0,1982,Madagascar_1982
+Africa,Madagascar,Feed_A_Africa_Asia,1155.441948,MDG,450,49.35,10568642.0,1987,Madagascar_1987
+Africa,Madagascar,Feed_A_Africa_Asia,1040.67619,MDG,450,52.214,12210395.0,1992,Madagascar_1992
+Africa,Madagascar,Feed_A_Africa_Asia,986.2958956,MDG,450,54.978,14165114.0,1997,Madagascar_1997
+Africa,Madagascar,Feed_A_Africa_Asia,894.6370822,MDG,450,57.286,16473477.0,2002,Madagascar_2002
+Africa,Madagascar,Feed_A_Africa_Asia,1044.770126,MDG,450,59.44300000000001,19167654.0,2007,Madagascar_2007
+Africa,Malawi,Feed_A_Africa_Asia,369.1650802,MWI,454,36.256,2917802.0,1952,Malawi_1952
+Africa,Malawi,Feed_A_Africa_Asia,416.3698064,MWI,454,37.207,3221238.0,1957,Malawi_1957
+Africa,Malawi,Feed_A_Africa_Asia,427.9010856,MWI,454,38.41,3628608.0,1962,Malawi_1962
+Africa,Malawi,Feed_A_Africa_Asia,495.5147806,MWI,454,39.487,4147252.0,1967,Malawi_1967
+Africa,Malawi,Feed_A_Africa_Asia,584.6219709,MWI,454,41.76600000000001,4730997.0,1972,Malawi_1972
+Africa,Malawi,Feed_A_Africa_Asia,663.2236766,MWI,454,43.767,5637246.0,1977,Malawi_1977
+Africa,Malawi,Feed_A_Africa_Asia,632.8039209,MWI,454,45.642,6502825.0,1982,Malawi_1982
+Africa,Malawi,Feed_A_Africa_Asia,635.5173633999998,MWI,454,47.457,7824747.0,1987,Malawi_1987
+Africa,Malawi,Feed_A_Africa_Asia,563.2000145,MWI,454,49.42,10014249.0,1992,Malawi_1992
+Africa,Malawi,Feed_A_Africa_Asia,692.2758102999999,MWI,454,47.495,10419991.0,1997,Malawi_1997
+Africa,Malawi,Feed_A_Africa_Asia,665.4231186000002,MWI,454,45.00899999999999,11824495.0,2002,Malawi_2002
+Africa,Malawi,Feed_A_Africa_Asia,759.3499101,MWI,454,48.303,13327079.0,2007,Malawi_2007
+Asia,Malaysia,Feed_A_Africa_Asia,1831.132894,MYS,458,48.463,6748378.0,1952,Malaysia_1952
+Asia,Malaysia,Feed_A_Africa_Asia,1810.0669920000007,MYS,458,52.102,7739235.0,1957,Malaysia_1957
+Asia,Malaysia,Feed_A_Africa_Asia,2036.884944,MYS,458,55.737,8906385.0,1962,Malaysia_1962
+Asia,Malaysia,Feed_A_Africa_Asia,2277.742396,MYS,458,59.371,10154878.0,1967,Malaysia_1967
+Asia,Malaysia,Feed_A_Africa_Asia,2849.09478,MYS,458,63.01,11441462.0,1972,Malaysia_1972
+Asia,Malaysia,Feed_A_Africa_Asia,3827.921571,MYS,458,65.256,12845381.0,1977,Malaysia_1977
+Asia,Malaysia,Feed_A_Africa_Asia,4920.355951,MYS,458,68.0,14441916.0,1982,Malaysia_1982
+Asia,Malaysia,Feed_A_Africa_Asia,5249.802653,MYS,458,69.5,16331785.0,1987,Malaysia_1987
+Asia,Malaysia,Feed_A_Africa_Asia,7277.912802,MYS,458,70.693,18319502.0,1992,Malaysia_1992
+Asia,Malaysia,Feed_A_Africa_Asia,10132.90964,MYS,458,71.938,20476091.0,1997,Malaysia_1997
+Asia,Malaysia,Feed_A_Africa_Asia,10206.97794,MYS,458,73.044,22662365.0,2002,Malaysia_2002
+Asia,Malaysia,Feed_A_Africa_Asia,12451.6558,MYS,458,74.241,24821286.0,2007,Malaysia_2007
+Africa,Mali,Feed_A_Africa_Asia,452.3369807,MLI,466,33.685,3838168.0,1952,Mali_1952
+Africa,Mali,Feed_A_Africa_Asia,490.3821867,MLI,466,35.30699999999999,4241884.0,1957,Mali_1957
+Africa,Mali,Feed_A_Africa_Asia,496.1743428,MLI,466,36.936,4690372.0,1962,Mali_1962
+Africa,Mali,Feed_A_Africa_Asia,545.0098873,MLI,466,38.487,5212416.0,1967,Mali_1967
+Africa,Mali,Feed_A_Africa_Asia,581.3688761,MLI,466,39.977,5828158.0,1972,Mali_1972
+Africa,Mali,Feed_A_Africa_Asia,686.3952693,MLI,466,41.714,6491649.0,1977,Mali_1977
+Africa,Mali,Feed_A_Africa_Asia,618.0140640999998,MLI,466,43.916,6998256.0,1982,Mali_1982
+Africa,Mali,Feed_A_Africa_Asia,684.1715576,MLI,466,46.364,7634008.0,1987,Mali_1987
+Africa,Mali,Feed_A_Africa_Asia,739.014375,MLI,466,48.38800000000001,8416215.0,1992,Mali_1992
+Africa,Mali,Feed_A_Africa_Asia,790.2579846,MLI,466,49.903,9384984.0,1997,Mali_1997
+Africa,Mali,Feed_A_Africa_Asia,951.4097518,MLI,466,51.81800000000001,10580176.0,2002,Mali_2002
+Africa,Mali,Feed_A_Africa_Asia,1042.581557,MLI,466,54.467,12031795.0,2007,Mali_2007
+Africa,Mauritania,Feed_A_Africa_Asia,743.1159097,MRT,478,40.543,1022556.0,1952,Mauritania_1952
+Africa,Mauritania,Feed_A_Africa_Asia,846.1202613,MRT,478,42.338,1076852.0,1957,Mauritania_1957
+Africa,Mauritania,Feed_A_Africa_Asia,1055.896036,MRT,478,44.24800000000001,1146757.0,1962,Mauritania_1962
+Africa,Mauritania,Feed_A_Africa_Asia,1421.145193,MRT,478,46.289,1230542.0,1967,Mauritania_1967
+Africa,Mauritania,Feed_A_Africa_Asia,1586.851781,MRT,478,48.437,1332786.0,1972,Mauritania_1972
+Africa,Mauritania,Feed_A_Africa_Asia,1497.492223,MRT,478,50.852,1456688.0,1977,Mauritania_1977
+Africa,Mauritania,Feed_A_Africa_Asia,1481.150189,MRT,478,53.599,1622136.0,1982,Mauritania_1982
+Africa,Mauritania,Feed_A_Africa_Asia,1421.603576,MRT,478,56.145,1841240.0,1987,Mauritania_1987
+Africa,Mauritania,Feed_A_Africa_Asia,1361.369784,MRT,478,58.333,2119465.0,1992,Mauritania_1992
+Africa,Mauritania,Feed_A_Africa_Asia,1483.136136,MRT,478,60.43,2444741.0,1997,Mauritania_1997
+Africa,Mauritania,Feed_A_Africa_Asia,1579.019543,MRT,478,62.247,2828858.0,2002,Mauritania_2002
+Africa,Mauritania,Feed_A_Africa_Asia,1803.151496,MRT,478,64.164,3270065.0,2007,Mauritania_2007
+Africa,Mauritius,Feed_A_Africa_Asia,1967.955707,MUS,480,50.986,516556.0,1952,Mauritius_1952
+Africa,Mauritius,Feed_A_Africa_Asia,2034.037981,MUS,480,58.089,609816.0,1957,Mauritius_1957
+Africa,Mauritius,Feed_A_Africa_Asia,2529.0674870000007,MUS,480,60.246,701016.0,1962,Mauritius_1962
+Africa,Mauritius,Feed_A_Africa_Asia,2475.387562,MUS,480,61.557,789309.0,1967,Mauritius_1967
+Africa,Mauritius,Feed_A_Africa_Asia,2575.484158,MUS,480,62.944,851334.0,1972,Mauritius_1972
+Africa,Mauritius,Feed_A_Africa_Asia,3710.982963,MUS,480,64.93,913025.0,1977,Mauritius_1977
+Africa,Mauritius,Feed_A_Africa_Asia,3688.037739,MUS,480,66.711,992040.0,1982,Mauritius_1982
+Africa,Mauritius,Feed_A_Africa_Asia,4783.586903,MUS,480,68.74,1042663.0,1987,Mauritius_1987
+Africa,Mauritius,Feed_A_Africa_Asia,6058.253846000001,MUS,480,69.745,1096202.0,1992,Mauritius_1992
+Africa,Mauritius,Feed_A_Africa_Asia,7425.705295000002,MUS,480,70.736,1149818.0,1997,Mauritius_1997
+Africa,Mauritius,Feed_A_Africa_Asia,9021.815894,MUS,480,71.954,1200206.0,2002,Mauritius_2002
+Africa,Mauritius,Feed_A_Africa_Asia,10956.99112,MUS,480,72.801,1250882.0,2007,Mauritius_2007
+Asia,Mongolia,Feed_A_Africa_Asia,786.5668575,MNG,496,42.244,800663.0,1952,Mongolia_1952
+Asia,Mongolia,Feed_A_Africa_Asia,912.6626085,MNG,496,45.24800000000001,882134.0,1957,Mongolia_1957
+Asia,Mongolia,Feed_A_Africa_Asia,1056.353958,MNG,496,48.25100000000001,1010280.0,1962,Mongolia_1962
+Asia,Mongolia,Feed_A_Africa_Asia,1226.04113,MNG,496,51.253,1149500.0,1967,Mongolia_1967
+Asia,Mongolia,Feed_A_Africa_Asia,1421.741975,MNG,496,53.754,1320500.0,1972,Mongolia_1972
+Asia,Mongolia,Feed_A_Africa_Asia,1647.511665,MNG,496,55.49100000000001,1528000.0,1977,Mongolia_1977
+Asia,Mongolia,Feed_A_Africa_Asia,2000.603139,MNG,496,57.489,1756032.0,1982,Mongolia_1982
+Asia,Mongolia,Feed_A_Africa_Asia,2338.008304,MNG,496,60.222,2015133.0,1987,Mongolia_1987
+Asia,Mongolia,Feed_A_Africa_Asia,1785.402016,MNG,496,61.271,2312802.0,1992,Mongolia_1992
+Asia,Mongolia,Feed_A_Africa_Asia,1902.2521,MNG,496,63.625,2494803.0,1997,Mongolia_1997
+Asia,Mongolia,Feed_A_Africa_Asia,2140.739323,MNG,496,65.033,2674234.0,2002,Mongolia_2002
+Asia,Mongolia,Feed_A_Africa_Asia,3095.7722710000007,MNG,496,66.803,2874127.0,2007,Mongolia_2007
+Africa,Morocco,Feed_A_Africa_Asia,1688.20357,MAR,504,42.87300000000001,9939217.0,1952,Morocco_1952
+Africa,Morocco,Feed_A_Africa_Asia,1642.002314,MAR,504,45.423,11406350.0,1957,Morocco_1957
+Africa,Morocco,Feed_A_Africa_Asia,1566.353493,MAR,504,47.924,13056604.0,1962,Morocco_1962
+Africa,Morocco,Feed_A_Africa_Asia,1711.04477,MAR,504,50.335,14770296.0,1967,Morocco_1967
+Africa,Morocco,Feed_A_Africa_Asia,1930.194975,MAR,504,52.862,16660670.0,1972,Morocco_1972
+Africa,Morocco,Feed_A_Africa_Asia,2370.619976,MAR,504,55.73,18396941.0,1977,Morocco_1977
+Africa,Morocco,Feed_A_Africa_Asia,2702.620356,MAR,504,59.65,20198730.0,1982,Morocco_1982
+Africa,Morocco,Feed_A_Africa_Asia,2755.046991,MAR,504,62.677,22987397.0,1987,Morocco_1987
+Africa,Morocco,Feed_A_Africa_Asia,2948.047252,MAR,504,65.393,25798239.0,1992,Morocco_1992
+Africa,Morocco,Feed_A_Africa_Asia,2982.101858,MAR,504,67.66,28529501.0,1997,Morocco_1997
+Africa,Morocco,Feed_A_Africa_Asia,3258.495584,MAR,504,69.615,31167783.0,2002,Morocco_2002
+Africa,Morocco,Feed_A_Africa_Asia,3820.17523,MAR,504,71.164,33757175.0,2007,Morocco_2007
+Africa,Mozambique,Feed_A_Africa_Asia,468.5260381,MOZ,508,31.286,6446316.0,1952,Mozambique_1952
+Africa,Mozambique,Feed_A_Africa_Asia,495.58683330000014,MOZ,508,33.779,7038035.0,1957,Mozambique_1957
+Africa,Mozambique,Feed_A_Africa_Asia,556.6863539,MOZ,508,36.161,7788944.0,1962,Mozambique_1962
+Africa,Mozambique,Feed_A_Africa_Asia,566.6691539,MOZ,508,38.113,8680909.0,1967,Mozambique_1967
+Africa,Mozambique,Feed_A_Africa_Asia,724.9178037,MOZ,508,40.328,9809596.0,1972,Mozambique_1972
+Africa,Mozambique,Feed_A_Africa_Asia,502.3197334,MOZ,508,42.495,11127868.0,1977,Mozambique_1977
+Africa,Mozambique,Feed_A_Africa_Asia,462.2114149,MOZ,508,42.795,12587223.0,1982,Mozambique_1982
+Africa,Mozambique,Feed_A_Africa_Asia,389.8761846,MOZ,508,42.861,12891952.0,1987,Mozambique_1987
+Africa,Mozambique,Feed_A_Africa_Asia,410.8968239,MOZ,508,44.284,13160731.0,1992,Mozambique_1992
+Africa,Mozambique,Feed_A_Africa_Asia,472.34607710000006,MOZ,508,46.344,16603334.0,1997,Mozambique_1997
+Africa,Mozambique,Feed_A_Africa_Asia,633.6179466,MOZ,508,44.026,18473780.0,2002,Mozambique_2002
+Africa,Mozambique,Feed_A_Africa_Asia,823.6856205,MOZ,508,42.082,19951656.0,2007,Mozambique_2007
+Asia,Myanmar,Feed_A_Africa_Asia,331.0,MMR,104,36.319,20092996.0,1952,Myanmar_1952
+Asia,Myanmar,Feed_A_Africa_Asia,350.0,MMR,104,41.905,21731844.0,1957,Myanmar_1957
+Asia,Myanmar,Feed_A_Africa_Asia,388.0,MMR,104,45.108,23634436.0,1962,Myanmar_1962
+Asia,Myanmar,Feed_A_Africa_Asia,349.0,MMR,104,49.379,25870271.0,1967,Myanmar_1967
+Asia,Myanmar,Feed_A_Africa_Asia,357.0,MMR,104,53.07,28466390.0,1972,Myanmar_1972
+Asia,Myanmar,Feed_A_Africa_Asia,371.0,MMR,104,56.059,31528087.0,1977,Myanmar_1977
+Asia,Myanmar,Feed_A_Africa_Asia,424.0,MMR,104,58.056,34680442.0,1982,Myanmar_1982
+Asia,Myanmar,Feed_A_Africa_Asia,385.0,MMR,104,58.339,38028578.0,1987,Myanmar_1987
+Asia,Myanmar,Feed_A_Africa_Asia,347.0,MMR,104,59.32,40546538.0,1992,Myanmar_1992
+Asia,Myanmar,Feed_A_Africa_Asia,415.0,MMR,104,60.328,43247867.0,1997,Myanmar_1997
+Asia,Myanmar,Feed_A_Africa_Asia,611.0,MMR,104,59.908,45598081.0,2002,Myanmar_2002
+Asia,Myanmar,Feed_A_Africa_Asia,944.0,MMR,104,62.069,47761980.0,2007,Myanmar_2007
+Africa,Namibia,Feed_A_Africa_Asia,2423.780443,NAM,516,41.725,485831.0,1952,Namibia_1952
+Africa,Namibia,Feed_A_Africa_Asia,2621.448058,NAM,516,45.226000000000006,548080.0,1957,Namibia_1957
+Africa,Namibia,Feed_A_Africa_Asia,3173.215595,NAM,516,48.386,621392.0,1962,Namibia_1962
+Africa,Namibia,Feed_A_Africa_Asia,3793.694753,NAM,516,51.159,706640.0,1967,Namibia_1967
+Africa,Namibia,Feed_A_Africa_Asia,3746.080948,NAM,516,53.867,821782.0,1972,Namibia_1972
+Africa,Namibia,Feed_A_Africa_Asia,3876.485958,NAM,516,56.437,977026.0,1977,Namibia_1977
+Africa,Namibia,Feed_A_Africa_Asia,4191.100511,NAM,516,58.968,1099010.0,1982,Namibia_1982
+Africa,Namibia,Feed_A_Africa_Asia,3693.731337,NAM,516,60.835,1278184.0,1987,Namibia_1987
+Africa,Namibia,Feed_A_Africa_Asia,3804.537999,NAM,516,61.999,1554253.0,1992,Namibia_1992
+Africa,Namibia,Feed_A_Africa_Asia,3899.52426,NAM,516,58.909,1774766.0,1997,Namibia_1997
+Africa,Namibia,Feed_A_Africa_Asia,4072.324751,NAM,516,51.479,1972153.0,2002,Namibia_2002
+Africa,Namibia,Feed_A_Africa_Asia,4811.060429,NAM,516,52.90600000000001,2055080.0,2007,Namibia_2007
+Asia,Nepal,Feed_A_Africa_Asia,545.8657228999998,NPL,524,36.157,9182536.0,1952,Nepal_1952
+Asia,Nepal,Feed_A_Africa_Asia,597.9363557999999,NPL,524,37.686,9682338.0,1957,Nepal_1957
+Asia,Nepal,Feed_A_Africa_Asia,652.3968593,NPL,524,39.393,10332057.0,1962,Nepal_1962
+Asia,Nepal,Feed_A_Africa_Asia,676.4422254,NPL,524,41.472,11261690.0,1967,Nepal_1967
+Asia,Nepal,Feed_A_Africa_Asia,674.7881296,NPL,524,43.971,12412593.0,1972,Nepal_1972
+Asia,Nepal,Feed_A_Africa_Asia,694.1124398,NPL,524,46.74800000000001,13933198.0,1977,Nepal_1977
+Asia,Nepal,Feed_A_Africa_Asia,718.3730947,NPL,524,49.594,15796314.0,1982,Nepal_1982
+Asia,Nepal,Feed_A_Africa_Asia,775.6324501,NPL,524,52.537,17917180.0,1987,Nepal_1987
+Asia,Nepal,Feed_A_Africa_Asia,897.7403604,NPL,524,55.727,20326209.0,1992,Nepal_1992
+Asia,Nepal,Feed_A_Africa_Asia,1010.892138,NPL,524,59.426,23001113.0,1997,Nepal_1997
+Asia,Nepal,Feed_A_Africa_Asia,1057.206311,NPL,524,61.34,25873917.0,2002,Nepal_2002
+Asia,Nepal,Feed_A_Africa_Asia,1091.359778,NPL,524,63.785,28901790.0,2007,Nepal_2007
+Africa,Niger,Feed_A_Africa_Asia,761.879376,NER,562,37.444,3379468.0,1952,Niger_1952
+Africa,Niger,Feed_A_Africa_Asia,835.5234025000002,NER,562,38.598,3692184.0,1957,Niger_1957
+Africa,Niger,Feed_A_Africa_Asia,997.7661127,NER,562,39.487,4076008.0,1962,Niger_1962
+Africa,Niger,Feed_A_Africa_Asia,1054.384891,NER,562,40.118,4534062.0,1967,Niger_1967
+Africa,Niger,Feed_A_Africa_Asia,954.2092363,NER,562,40.546,5060262.0,1972,Niger_1972
+Africa,Niger,Feed_A_Africa_Asia,808.8970727999998,NER,562,41.291,5682086.0,1977,Niger_1977
+Africa,Niger,Feed_A_Africa_Asia,909.7221354,NER,562,42.598,6437188.0,1982,Niger_1982
+Africa,Niger,Feed_A_Africa_Asia,668.3000228,NER,562,44.555,7332638.0,1987,Niger_1987
+Africa,Niger,Feed_A_Africa_Asia,581.182725,NER,562,47.39100000000001,8392818.0,1992,Niger_1992
+Africa,Niger,Feed_A_Africa_Asia,580.3052092,NER,562,51.313,9666252.0,1997,Niger_1997
+Africa,Niger,Feed_A_Africa_Asia,601.0745012,NER,562,54.496,11140655.0,2002,Niger_2002
+Africa,Niger,Feed_A_Africa_Asia,619.6768923999998,NER,562,56.867,12894865.0,2007,Niger_2007
+Africa,Nigeria,Feed_A_Africa_Asia,1077.281856,NGA,566,36.324,33119096.0,1952,Nigeria_1952
+Africa,Nigeria,Feed_A_Africa_Asia,1100.5925630000004,NGA,566,37.802,37173340.0,1957,Nigeria_1957
+Africa,Nigeria,Feed_A_Africa_Asia,1150.9274779999996,NGA,566,39.36,41871351.0,1962,Nigeria_1962
+Africa,Nigeria,Feed_A_Africa_Asia,1014.514104,NGA,566,41.04,47287752.0,1967,Nigeria_1967
+Africa,Nigeria,Feed_A_Africa_Asia,1698.388838,NGA,566,42.82100000000001,53740085.0,1972,Nigeria_1972
+Africa,Nigeria,Feed_A_Africa_Asia,1981.951806,NGA,566,44.514,62209173.0,1977,Nigeria_1977
+Africa,Nigeria,Feed_A_Africa_Asia,1576.97375,NGA,566,45.826,73039376.0,1982,Nigeria_1982
+Africa,Nigeria,Feed_A_Africa_Asia,1385.029563,NGA,566,46.886,81551520.0,1987,Nigeria_1987
+Africa,Nigeria,Feed_A_Africa_Asia,1619.848217,NGA,566,47.472,93364244.0,1992,Nigeria_1992
+Africa,Nigeria,Feed_A_Africa_Asia,1624.941275,NGA,566,47.464,106207839.0,1997,Nigeria_1997
+Africa,Nigeria,Feed_A_Africa_Asia,1615.286395,NGA,566,46.608,119901274.0,2002,Nigeria_2002
+Africa,Nigeria,Feed_A_Africa_Asia,2013.977305,NGA,566,46.859,135031164.0,2007,Nigeria_2007
+Asia,Oman,Feed_A_Africa_Asia,1828.230307,OMN,512,37.578,507833.0,1952,Oman_1952
+Asia,Oman,Feed_A_Africa_Asia,2242.746551,OMN,512,40.08,561977.0,1957,Oman_1957
+Asia,Oman,Feed_A_Africa_Asia,2924.638113,OMN,512,43.165,628164.0,1962,Oman_1962
+Asia,Oman,Feed_A_Africa_Asia,4720.942687,OMN,512,46.988,714775.0,1967,Oman_1967
+Asia,Oman,Feed_A_Africa_Asia,10618.03855,OMN,512,52.143,829050.0,1972,Oman_1972
+Asia,Oman,Feed_A_Africa_Asia,11848.34392,OMN,512,57.367,1004533.0,1977,Oman_1977
+Asia,Oman,Feed_A_Africa_Asia,12954.79101,OMN,512,62.728,1301048.0,1982,Oman_1982
+Asia,Oman,Feed_A_Africa_Asia,18115.22313,OMN,512,67.734,1593882.0,1987,Oman_1987
+Asia,Oman,Feed_A_Africa_Asia,18616.70691,OMN,512,71.197,1915208.0,1992,Oman_1992
+Asia,Oman,Feed_A_Africa_Asia,19702.05581,OMN,512,72.499,2283635.0,1997,Oman_1997
+Asia,Oman,Feed_A_Africa_Asia,19774.83687,OMN,512,74.193,2713462.0,2002,Oman_2002
+Asia,Oman,Feed_A_Africa_Asia,22316.19287,OMN,512,75.64,3204897.0,2007,Oman_2007
+Asia,Pakistan,Feed_A_Africa_Asia,684.5971437999998,PAK,586,43.43600000000001,41346560.0,1952,Pakistan_1952
+Asia,Pakistan,Feed_A_Africa_Asia,747.0835292,PAK,586,45.557,46679944.0,1957,Pakistan_1957
+Asia,Pakistan,Feed_A_Africa_Asia,803.3427418,PAK,586,47.67,53100671.0,1962,Pakistan_1962
+Asia,Pakistan,Feed_A_Africa_Asia,942.4082588,PAK,586,49.8,60641899.0,1967,Pakistan_1967
+Asia,Pakistan,Feed_A_Africa_Asia,1049.938981,PAK,586,51.929,69325921.0,1972,Pakistan_1972
+Asia,Pakistan,Feed_A_Africa_Asia,1175.921193,PAK,586,54.043,78152686.0,1977,Pakistan_1977
+Asia,Pakistan,Feed_A_Africa_Asia,1443.429832,PAK,586,56.158,91462088.0,1982,Pakistan_1982
+Asia,Pakistan,Feed_A_Africa_Asia,1704.686583,PAK,586,58.245,105186881.0,1987,Pakistan_1987
+Asia,Pakistan,Feed_A_Africa_Asia,1971.829464,PAK,586,60.838,120065004.0,1992,Pakistan_1992
+Asia,Pakistan,Feed_A_Africa_Asia,2049.3505210000008,PAK,586,61.81800000000001,135564834.0,1997,Pakistan_1997
+Asia,Pakistan,Feed_A_Africa_Asia,2092.712441,PAK,586,63.61,153403524.0,2002,Pakistan_2002
+Asia,Pakistan,Feed_A_Africa_Asia,2605.94758,PAK,586,65.483,169270617.0,2007,Pakistan_2007
+Asia,Philippines,Feed_A_Africa_Asia,1272.880995,PHL,608,47.752,22438691.0,1952,Philippines_1952
+Asia,Philippines,Feed_A_Africa_Asia,1547.944844,PHL,608,51.334,26072194.0,1957,Philippines_1957
+Asia,Philippines,Feed_A_Africa_Asia,1649.552153,PHL,608,54.757,30325264.0,1962,Philippines_1962
+Asia,Philippines,Feed_A_Africa_Asia,1814.12743,PHL,608,56.393,35356600.0,1967,Philippines_1967
+Asia,Philippines,Feed_A_Africa_Asia,1989.37407,PHL,608,58.065,40850141.0,1972,Philippines_1972
+Asia,Philippines,Feed_A_Africa_Asia,2373.204287,PHL,608,60.06,46850962.0,1977,Philippines_1977
+Asia,Philippines,Feed_A_Africa_Asia,2603.273765,PHL,608,62.082,53456774.0,1982,Philippines_1982
+Asia,Philippines,Feed_A_Africa_Asia,2189.634995,PHL,608,64.15100000000001,60017788.0,1987,Philippines_1987
+Asia,Philippines,Feed_A_Africa_Asia,2279.324017000001,PHL,608,66.458,67185766.0,1992,Philippines_1992
+Asia,Philippines,Feed_A_Africa_Asia,2536.534925,PHL,608,68.564,75012988.0,1997,Philippines_1997
+Asia,Philippines,Feed_A_Africa_Asia,2650.921068,PHL,608,70.303,82995088.0,2002,Philippines_2002
+Asia,Philippines,Feed_A_Africa_Asia,3190.481016,PHL,608,71.688,91077287.0,2007,Philippines_2007
+Africa,Reunion,Feed_A_Africa_Asia,2718.885295,REU,638,52.724,257700.0,1952,Reunion_1952
+Africa,Reunion,Feed_A_Africa_Asia,2769.451844,REU,638,55.09,308700.0,1957,Reunion_1957
+Africa,Reunion,Feed_A_Africa_Asia,3173.72334,REU,638,57.666,358900.0,1962,Reunion_1962
+Africa,Reunion,Feed_A_Africa_Asia,4021.175739,REU,638,60.542,414024.0,1967,Reunion_1967
+Africa,Reunion,Feed_A_Africa_Asia,5047.658563,REU,638,64.274,461633.0,1972,Reunion_1972
+Africa,Reunion,Feed_A_Africa_Asia,4319.804067,REU,638,67.064,492095.0,1977,Reunion_1977
+Africa,Reunion,Feed_A_Africa_Asia,5267.219353,REU,638,69.885,517810.0,1982,Reunion_1982
+Africa,Reunion,Feed_A_Africa_Asia,5303.377488,REU,638,71.913,562035.0,1987,Reunion_1987
+Africa,Reunion,Feed_A_Africa_Asia,6101.255823,REU,638,73.615,622191.0,1992,Reunion_1992
+Africa,Reunion,Feed_A_Africa_Asia,6071.941411,REU,638,74.77199999999998,684810.0,1997,Reunion_1997
+Africa,Reunion,Feed_A_Africa_Asia,6316.1652,REU,638,75.744,743981.0,2002,Reunion_2002
+Africa,Reunion,Feed_A_Africa_Asia,7670.122558,REU,638,76.442,798094.0,2007,Reunion_2007
+Africa,Rwanda,Feed_A_Africa_Asia,493.3238752,RWA,646,40.0,2534927.0,1952,Rwanda_1952
+Africa,Rwanda,Feed_A_Africa_Asia,540.2893982999999,RWA,646,41.5,2822082.0,1957,Rwanda_1957
+Africa,Rwanda,Feed_A_Africa_Asia,597.4730727000001,RWA,646,43.0,3051242.0,1962,Rwanda_1962
+Africa,Rwanda,Feed_A_Africa_Asia,510.9637142,RWA,646,44.1,3451079.0,1967,Rwanda_1967
+Africa,Rwanda,Feed_A_Africa_Asia,590.5806637999998,RWA,646,44.6,3992121.0,1972,Rwanda_1972
+Africa,Rwanda,Feed_A_Africa_Asia,670.0806011,RWA,646,45.0,4657072.0,1977,Rwanda_1977
+Africa,Rwanda,Feed_A_Africa_Asia,881.5706467,RWA,646,46.218,5507565.0,1982,Rwanda_1982
+Africa,Rwanda,Feed_A_Africa_Asia,847.991217,RWA,646,44.02,6349365.0,1987,Rwanda_1987
+Africa,Rwanda,Feed_A_Africa_Asia,737.0685949,RWA,646,23.599,7290203.0,1992,Rwanda_1992
+Africa,Rwanda,Feed_A_Africa_Asia,589.9445051,RWA,646,36.087,7212583.0,1997,Rwanda_1997
+Africa,Rwanda,Feed_A_Africa_Asia,785.6537647999999,RWA,646,43.413,7852401.0,2002,Rwanda_2002
+Africa,Rwanda,Feed_A_Africa_Asia,863.0884639000002,RWA,646,46.242,8860588.0,2007,Rwanda_2007
+Africa,Sao Tome and Principe,Feed_A_Africa_Asia,879.5835855,STP,678,46.471,60011.0,1952,Sao_Tome_and_Principe_1952
+Africa,Sao Tome and Principe,Feed_A_Africa_Asia,860.7369026,STP,678,48.945,61325.0,1957,Sao_Tome_and_Principe_1957
+Africa,Sao Tome and Principe,Feed_A_Africa_Asia,1071.551119,STP,678,51.893,65345.0,1962,Sao_Tome_and_Principe_1962
+Africa,Sao Tome and Principe,Feed_A_Africa_Asia,1384.840593,STP,678,54.425,70787.0,1967,Sao_Tome_and_Principe_1967
+Africa,Sao Tome and Principe,Feed_A_Africa_Asia,1532.985254,STP,678,56.48,76595.0,1972,Sao_Tome_and_Principe_1972
+Africa,Sao Tome and Principe,Feed_A_Africa_Asia,1737.561657,STP,678,58.55,86796.0,1977,Sao_Tome_and_Principe_1977
+Africa,Sao Tome and Principe,Feed_A_Africa_Asia,1890.218117,STP,678,60.351000000000006,98593.0,1982,Sao_Tome_and_Principe_1982
+Africa,Sao Tome and Principe,Feed_A_Africa_Asia,1516.525457,STP,678,61.728,110812.0,1987,Sao_Tome_and_Principe_1987
+Africa,Sao Tome and Principe,Feed_A_Africa_Asia,1428.777814,STP,678,62.742,125911.0,1992,Sao_Tome_and_Principe_1992
+Africa,Sao Tome and Principe,Feed_A_Africa_Asia,1339.076036,STP,678,63.306,145608.0,1997,Sao_Tome_and_Principe_1997
+Africa,Sao Tome and Principe,Feed_A_Africa_Asia,1353.09239,STP,678,64.337,170372.0,2002,Sao_Tome_and_Principe_2002
+Africa,Sao Tome and Principe,Feed_A_Africa_Asia,1598.435089,STP,678,65.528,199579.0,2007,Sao_Tome_and_Principe_2007
+Asia,Saudi Arabia,Feed_A_Africa_Asia,6459.554823,SAU,682,39.875,4005677.0,1952,Saudi_Arabia_1952
+Asia,Saudi Arabia,Feed_A_Africa_Asia,8157.5912480000015,SAU,682,42.868,4419650.0,1957,Saudi_Arabia_1957
+Asia,Saudi Arabia,Feed_A_Africa_Asia,11626.41975,SAU,682,45.914,4943029.0,1962,Saudi_Arabia_1962
+Asia,Saudi Arabia,Feed_A_Africa_Asia,16903.04886,SAU,682,49.901,5618198.0,1967,Saudi_Arabia_1967
+Asia,Saudi Arabia,Feed_A_Africa_Asia,24837.42865,SAU,682,53.886,6472756.0,1972,Saudi_Arabia_1972
+Asia,Saudi Arabia,Feed_A_Africa_Asia,34167.7626,SAU,682,58.69,8128505.0,1977,Saudi_Arabia_1977
+Asia,Saudi Arabia,Feed_A_Africa_Asia,33693.17525,SAU,682,63.012,11254672.0,1982,Saudi_Arabia_1982
+Asia,Saudi Arabia,Feed_A_Africa_Asia,21198.26136,SAU,682,66.295,14619745.0,1987,Saudi_Arabia_1987
+Asia,Saudi Arabia,Feed_A_Africa_Asia,24841.61777,SAU,682,68.768,16945857.0,1992,Saudi_Arabia_1992
+Asia,Saudi Arabia,Feed_A_Africa_Asia,20586.69019,SAU,682,70.533,21229759.0,1997,Saudi_Arabia_1997
+Asia,Saudi Arabia,Feed_A_Africa_Asia,19014.54118,SAU,682,71.626,24501530.0,2002,Saudi_Arabia_2002
+Asia,Saudi Arabia,Feed_A_Africa_Asia,21654.83194,SAU,682,72.777,27601038.0,2007,Saudi_Arabia_2007
+Africa,Senegal,Feed_A_Africa_Asia,1450.356983,SEN,686,37.278,2755589.0,1952,Senegal_1952
+Africa,Senegal,Feed_A_Africa_Asia,1567.653006,SEN,686,39.329,3054547.0,1957,Senegal_1957
+Africa,Senegal,Feed_A_Africa_Asia,1654.988723,SEN,686,41.45399999999999,3430243.0,1962,Senegal_1962
+Africa,Senegal,Feed_A_Africa_Asia,1612.404632,SEN,686,43.563,3965841.0,1967,Senegal_1967
+Africa,Senegal,Feed_A_Africa_Asia,1597.712056,SEN,686,45.815,4588696.0,1972,Senegal_1972
+Africa,Senegal,Feed_A_Africa_Asia,1561.769116,SEN,686,48.879,5260855.0,1977,Senegal_1977
+Africa,Senegal,Feed_A_Africa_Asia,1518.479984,SEN,686,52.379,6147783.0,1982,Senegal_1982
+Africa,Senegal,Feed_A_Africa_Asia,1441.72072,SEN,686,55.769,7171347.0,1987,Senegal_1987
+Africa,Senegal,Feed_A_Africa_Asia,1367.899369,SEN,686,58.19600000000001,8307920.0,1992,Senegal_1992
+Africa,Senegal,Feed_A_Africa_Asia,1392.368347,SEN,686,60.187,9535314.0,1997,Senegal_1997
+Africa,Senegal,Feed_A_Africa_Asia,1519.635262,SEN,686,61.6,10870037.0,2002,Senegal_2002
+Africa,Senegal,Feed_A_Africa_Asia,1712.472136,SEN,686,63.062,12267493.0,2007,Senegal_2007
+Africa,Sierra Leone,Feed_A_Africa_Asia,879.7877358,SLE,694,30.331,2143249.0,1952,Sierra_Leone_1952
+Africa,Sierra Leone,Feed_A_Africa_Asia,1004.484437,SLE,694,31.57,2295678.0,1957,Sierra_Leone_1957
+Africa,Sierra Leone,Feed_A_Africa_Asia,1116.6398769999996,SLE,694,32.767,2467895.0,1962,Sierra_Leone_1962
+Africa,Sierra Leone,Feed_A_Africa_Asia,1206.043465,SLE,694,34.113,2662190.0,1967,Sierra_Leone_1967
+Africa,Sierra Leone,Feed_A_Africa_Asia,1353.759762,SLE,694,35.4,2879013.0,1972,Sierra_Leone_1972
+Africa,Sierra Leone,Feed_A_Africa_Asia,1348.285159,SLE,694,36.788,3140897.0,1977,Sierra_Leone_1977
+Africa,Sierra Leone,Feed_A_Africa_Asia,1465.010784,SLE,694,38.445,3464522.0,1982,Sierra_Leone_1982
+Africa,Sierra Leone,Feed_A_Africa_Asia,1294.4477880000004,SLE,694,40.006,3868905.0,1987,Sierra_Leone_1987
+Africa,Sierra Leone,Feed_A_Africa_Asia,1068.696278,SLE,694,38.333,4260884.0,1992,Sierra_Leone_1992
+Africa,Sierra Leone,Feed_A_Africa_Asia,574.6481576,SLE,694,39.897,4578212.0,1997,Sierra_Leone_1997
+Africa,Sierra Leone,Feed_A_Africa_Asia,699.4897129999998,SLE,694,41.012,5359092.0,2002,Sierra_Leone_2002
+Africa,Sierra Leone,Feed_A_Africa_Asia,862.5407561000002,SLE,694,42.56800000000001,6144562.0,2007,Sierra_Leone_2007
+Asia,Singapore,Feed_A_Africa_Asia,2315.138227,SGP,702,60.396,1127000.0,1952,Singapore_1952
+Asia,Singapore,Feed_A_Africa_Asia,2843.104409,SGP,702,63.179,1445929.0,1957,Singapore_1957
+Asia,Singapore,Feed_A_Africa_Asia,3674.735572,SGP,702,65.798,1750200.0,1962,Singapore_1962
+Asia,Singapore,Feed_A_Africa_Asia,4977.41854,SGP,702,67.946,1977600.0,1967,Singapore_1967
+Asia,Singapore,Feed_A_Africa_Asia,8597.756202,SGP,702,69.521,2152400.0,1972,Singapore_1972
+Asia,Singapore,Feed_A_Africa_Asia,11210.08948,SGP,702,70.795,2325300.0,1977,Singapore_1977
+Asia,Singapore,Feed_A_Africa_Asia,15169.16112,SGP,702,71.76,2651869.0,1982,Singapore_1982
+Asia,Singapore,Feed_A_Africa_Asia,18861.53081,SGP,702,73.56,2794552.0,1987,Singapore_1987
+Asia,Singapore,Feed_A_Africa_Asia,24769.8912,SGP,702,75.788,3235865.0,1992,Singapore_1992
+Asia,Singapore,Feed_A_Africa_Asia,33519.4766,SGP,702,77.158,3802309.0,1997,Singapore_1997
+Asia,Singapore,Feed_A_Africa_Asia,36023.1054,SGP,702,78.77,4197776.0,2002,Singapore_2002
+Asia,Singapore,Feed_A_Africa_Asia,47143.17964,SGP,702,79.972,4553009.0,2007,Singapore_2007
+Africa,Somalia,Feed_A_Africa_Asia,1135.749842,SOM,706,32.978,2526994.0,1952,Somalia_1952
+Africa,Somalia,Feed_A_Africa_Asia,1258.147413,SOM,706,34.977,2780415.0,1957,Somalia_1957
+Africa,Somalia,Feed_A_Africa_Asia,1369.488336,SOM,706,36.981,3080153.0,1962,Somalia_1962
+Africa,Somalia,Feed_A_Africa_Asia,1284.7331800000004,SOM,706,38.977,3428839.0,1967,Somalia_1967
+Africa,Somalia,Feed_A_Africa_Asia,1254.576127,SOM,706,40.973,3840161.0,1972,Somalia_1972
+Africa,Somalia,Feed_A_Africa_Asia,1450.992513,SOM,706,41.974,4353666.0,1977,Somalia_1977
+Africa,Somalia,Feed_A_Africa_Asia,1176.807031,SOM,706,42.955,5828892.0,1982,Somalia_1982
+Africa,Somalia,Feed_A_Africa_Asia,1093.244963,SOM,706,44.50100000000001,6921858.0,1987,Somalia_1987
+Africa,Somalia,Feed_A_Africa_Asia,926.9602964,SOM,706,39.658,6099799.0,1992,Somalia_1992
+Africa,Somalia,Feed_A_Africa_Asia,930.5964284,SOM,706,43.795,6633514.0,1997,Somalia_1997
+Africa,Somalia,Feed_A_Africa_Asia,882.0818218000002,SOM,706,45.93600000000001,7753310.0,2002,Somalia_2002
+Africa,Somalia,Feed_A_Africa_Asia,926.1410683,SOM,706,48.159,9118773.0,2007,Somalia_2007
+Africa,South Africa,Feed_A_Africa_Asia,4725.295531000002,ZAF,710,45.00899999999999,14264935.0,1952,South_Africa_1952
+Africa,South Africa,Feed_A_Africa_Asia,5487.104219,ZAF,710,47.985,16151549.0,1957,South_Africa_1957
+Africa,South Africa,Feed_A_Africa_Asia,5768.729717,ZAF,710,49.951,18356657.0,1962,South_Africa_1962
+Africa,South Africa,Feed_A_Africa_Asia,7114.477970999998,ZAF,710,51.927,20997321.0,1967,South_Africa_1967
+Africa,South Africa,Feed_A_Africa_Asia,7765.962636,ZAF,710,53.69600000000001,23935810.0,1972,South_Africa_1972
+Africa,South Africa,Feed_A_Africa_Asia,8028.651439,ZAF,710,55.527,27129932.0,1977,South_Africa_1977
+Africa,South Africa,Feed_A_Africa_Asia,8568.266228,ZAF,710,58.161,31140029.0,1982,South_Africa_1982
+Africa,South Africa,Feed_A_Africa_Asia,7825.823398,ZAF,710,60.834,35933379.0,1987,South_Africa_1987
+Africa,South Africa,Feed_A_Africa_Asia,7225.069257999998,ZAF,710,61.88800000000001,39964159.0,1992,South_Africa_1992
+Africa,South Africa,Feed_A_Africa_Asia,7479.188244,ZAF,710,60.236,42835005.0,1997,South_Africa_1997
+Africa,South Africa,Feed_A_Africa_Asia,7710.946444,ZAF,710,53.365,44433622.0,2002,South_Africa_2002
+Africa,South Africa,Feed_A_Africa_Asia,9269.657808,ZAF,710,49.339,43997828.0,2007,South_Africa_2007
+Asia,Sri Lanka,Feed_A_Africa_Asia,1083.53203,LKA,144,57.593,7982342.0,1952,Sri_Lanka_1952
+Asia,Sri Lanka,Feed_A_Africa_Asia,1072.546602,LKA,144,61.456,9128546.0,1957,Sri_Lanka_1957
+Asia,Sri Lanka,Feed_A_Africa_Asia,1074.47196,LKA,144,62.192,10421936.0,1962,Sri_Lanka_1962
+Asia,Sri Lanka,Feed_A_Africa_Asia,1135.514326,LKA,144,64.266,11737396.0,1967,Sri_Lanka_1967
+Asia,Sri Lanka,Feed_A_Africa_Asia,1213.39553,LKA,144,65.042,13016733.0,1972,Sri_Lanka_1972
+Asia,Sri Lanka,Feed_A_Africa_Asia,1348.775651,LKA,144,65.949,14116836.0,1977,Sri_Lanka_1977
+Asia,Sri Lanka,Feed_A_Africa_Asia,1648.079789,LKA,144,68.757,15410151.0,1982,Sri_Lanka_1982
+Asia,Sri Lanka,Feed_A_Africa_Asia,1876.766827,LKA,144,69.01100000000001,16495304.0,1987,Sri_Lanka_1987
+Asia,Sri Lanka,Feed_A_Africa_Asia,2153.739222,LKA,144,70.37899999999998,17587060.0,1992,Sri_Lanka_1992
+Asia,Sri Lanka,Feed_A_Africa_Asia,2664.477257,LKA,144,70.457,18698655.0,1997,Sri_Lanka_1997
+Asia,Sri Lanka,Feed_A_Africa_Asia,3015.378833,LKA,144,70.815,19576783.0,2002,Sri_Lanka_2002
+Asia,Sri Lanka,Feed_A_Africa_Asia,3970.095407,LKA,144,72.396,20378239.0,2007,Sri_Lanka_2007
+Africa,Sudan,Feed_A_Africa_Asia,1615.991129,SDN,736,38.635,8504667.0,1952,Sudan_1952
+Africa,Sudan,Feed_A_Africa_Asia,1770.3370739999998,SDN,736,39.624,9753392.0,1957,Sudan_1957
+Africa,Sudan,Feed_A_Africa_Asia,1959.593767,SDN,736,40.87,11183227.0,1962,Sudan_1962
+Africa,Sudan,Feed_A_Africa_Asia,1687.997641,SDN,736,42.858,12716129.0,1967,Sudan_1967
+Africa,Sudan,Feed_A_Africa_Asia,1659.652775,SDN,736,45.083,14597019.0,1972,Sudan_1972
+Africa,Sudan,Feed_A_Africa_Asia,2202.988423,SDN,736,47.8,17104986.0,1977,Sudan_1977
+Africa,Sudan,Feed_A_Africa_Asia,1895.544073,SDN,736,50.338,20367053.0,1982,Sudan_1982
+Africa,Sudan,Feed_A_Africa_Asia,1507.819159,SDN,736,51.744,24725960.0,1987,Sudan_1987
+Africa,Sudan,Feed_A_Africa_Asia,1492.197043,SDN,736,53.556,28227588.0,1992,Sudan_1992
+Africa,Sudan,Feed_A_Africa_Asia,1632.2107640000004,SDN,736,55.37300000000001,32160729.0,1997,Sudan_1997
+Africa,Sudan,Feed_A_Africa_Asia,1993.398314,SDN,736,56.369,37090298.0,2002,Sudan_2002
+Africa,Sudan,Feed_A_Africa_Asia,2602.394995,SDN,736,58.556,42292929.0,2007,Sudan_2007
+Africa,Swaziland,Feed_A_Africa_Asia,1148.376626,SWZ,748,41.407,290243.0,1952,Swaziland_1952
+Africa,Swaziland,Feed_A_Africa_Asia,1244.708364,SWZ,748,43.424,326741.0,1957,Swaziland_1957
+Africa,Swaziland,Feed_A_Africa_Asia,1856.182125,SWZ,748,44.992,370006.0,1962,Swaziland_1962
+Africa,Swaziland,Feed_A_Africa_Asia,2613.101665,SWZ,748,46.633,420690.0,1967,Swaziland_1967
+Africa,Swaziland,Feed_A_Africa_Asia,3364.836625,SWZ,748,49.552,480105.0,1972,Swaziland_1972
+Africa,Swaziland,Feed_A_Africa_Asia,3781.410618,SWZ,748,52.537,551425.0,1977,Swaziland_1977
+Africa,Swaziland,Feed_A_Africa_Asia,3895.384018,SWZ,748,55.56100000000001,649901.0,1982,Swaziland_1982
+Africa,Swaziland,Feed_A_Africa_Asia,3984.839812,SWZ,748,57.678,779348.0,1987,Swaziland_1987
+Africa,Swaziland,Feed_A_Africa_Asia,3553.0224,SWZ,748,58.474,962344.0,1992,Swaziland_1992
+Africa,Swaziland,Feed_A_Africa_Asia,3876.76846,SWZ,748,54.289,1054486.0,1997,Swaziland_1997
+Africa,Swaziland,Feed_A_Africa_Asia,4128.116943,SWZ,748,43.869,1130269.0,2002,Swaziland_2002
+Africa,Swaziland,Feed_A_Africa_Asia,4513.480643,SWZ,748,39.613,1133066.0,2007,Swaziland_2007
+Asia,Syria,Feed_A_Africa_Asia,1643.485354,SYR,760,45.883,3661549.0,1952,Syria_1952
+Asia,Syria,Feed_A_Africa_Asia,2117.234893,SYR,760,48.284,4149908.0,1957,Syria_1957
+Asia,Syria,Feed_A_Africa_Asia,2193.037133,SYR,760,50.305,4834621.0,1962,Syria_1962
+Asia,Syria,Feed_A_Africa_Asia,1881.923632,SYR,760,53.655,5680812.0,1967,Syria_1967
+Asia,Syria,Feed_A_Africa_Asia,2571.423014,SYR,760,57.29600000000001,6701172.0,1972,Syria_1972
+Asia,Syria,Feed_A_Africa_Asia,3195.484582,SYR,760,61.195,7932503.0,1977,Syria_1977
+Asia,Syria,Feed_A_Africa_Asia,3761.837715,SYR,760,64.59,9410494.0,1982,Syria_1982
+Asia,Syria,Feed_A_Africa_Asia,3116.774285,SYR,760,66.97399999999999,11242847.0,1987,Syria_1987
+Asia,Syria,Feed_A_Africa_Asia,3340.542768,SYR,760,69.249,13219062.0,1992,Syria_1992
+Asia,Syria,Feed_A_Africa_Asia,4014.238972,SYR,760,71.527,15081016.0,1997,Syria_1997
+Asia,Syria,Feed_A_Africa_Asia,4090.925331,SYR,760,73.053,17155814.0,2002,Syria_2002
+Asia,Syria,Feed_A_Africa_Asia,4184.548089,SYR,760,74.143,19314747.0,2007,Syria_2007
+Asia,Taiwan,Feed_A_Africa_Asia,1206.947913,TWN,158,58.5,8550362.0,1952,Taiwan_1952
+Asia,Taiwan,Feed_A_Africa_Asia,1507.86129,TWN,158,62.4,10164215.0,1957,Taiwan_1957
+Asia,Taiwan,Feed_A_Africa_Asia,1822.879028,TWN,158,65.2,11918938.0,1962,Taiwan_1962
+Asia,Taiwan,Feed_A_Africa_Asia,2643.858681,TWN,158,67.5,13648692.0,1967,Taiwan_1967
+Asia,Taiwan,Feed_A_Africa_Asia,4062.523897,TWN,158,69.39,15226039.0,1972,Taiwan_1972
+Asia,Taiwan,Feed_A_Africa_Asia,5596.519826,TWN,158,70.59,16785196.0,1977,Taiwan_1977
+Asia,Taiwan,Feed_A_Africa_Asia,7426.3547739999985,TWN,158,72.16,18501390.0,1982,Taiwan_1982
+Asia,Taiwan,Feed_A_Africa_Asia,11054.56175,TWN,158,73.4,19757799.0,1987,Taiwan_1987
+Asia,Taiwan,Feed_A_Africa_Asia,15215.6579,TWN,158,74.26,20686918.0,1992,Taiwan_1992
+Asia,Taiwan,Feed_A_Africa_Asia,20206.82098,TWN,158,75.25,21628605.0,1997,Taiwan_1997
+Asia,Taiwan,Feed_A_Africa_Asia,23235.42329,TWN,158,76.99,22454239.0,2002,Taiwan_2002
+Asia,Taiwan,Feed_A_Africa_Asia,28718.27684,TWN,158,78.4,23174294.0,2007,Taiwan_2007
+Africa,Tanzania,Feed_A_Africa_Asia,716.6500721,TZA,834,41.215,8322925.0,1952,Tanzania_1952
+Africa,Tanzania,Feed_A_Africa_Asia,698.5356073,TZA,834,42.974,9452826.0,1957,Tanzania_1957
+Africa,Tanzania,Feed_A_Africa_Asia,722.0038073,TZA,834,44.246,10863958.0,1962,Tanzania_1962
+Africa,Tanzania,Feed_A_Africa_Asia,848.2186575,TZA,834,45.757,12607312.0,1967,Tanzania_1967
+Africa,Tanzania,Feed_A_Africa_Asia,915.9850592,TZA,834,47.62,14706593.0,1972,Tanzania_1972
+Africa,Tanzania,Feed_A_Africa_Asia,962.4922932,TZA,834,49.919,17129565.0,1977,Tanzania_1977
+Africa,Tanzania,Feed_A_Africa_Asia,874.2426069,TZA,834,50.608,19844382.0,1982,Tanzania_1982
+Africa,Tanzania,Feed_A_Africa_Asia,831.8220794,TZA,834,51.535,23040630.0,1987,Tanzania_1987
+Africa,Tanzania,Feed_A_Africa_Asia,825.682454,TZA,834,50.44,26605473.0,1992,Tanzania_1992
+Africa,Tanzania,Feed_A_Africa_Asia,789.1862231,TZA,834,48.466,30686889.0,1997,Tanzania_1997
+Africa,Tanzania,Feed_A_Africa_Asia,899.0742111,TZA,834,49.651,34593779.0,2002,Tanzania_2002
+Africa,Tanzania,Feed_A_Africa_Asia,1107.482182,TZA,834,52.517,38139640.0,2007,Tanzania_2007
+Asia,Thailand,Feed_A_Africa_Asia,757.7974177,THA,764,50.848,21289402.0,1952,Thailand_1952
+Asia,Thailand,Feed_A_Africa_Asia,793.5774147999998,THA,764,53.63,25041917.0,1957,Thailand_1957
+Asia,Thailand,Feed_A_Africa_Asia,1002.199172,THA,764,56.06100000000001,29263397.0,1962,Thailand_1962
+Asia,Thailand,Feed_A_Africa_Asia,1295.46066,THA,764,58.285,34024249.0,1967,Thailand_1967
+Asia,Thailand,Feed_A_Africa_Asia,1524.358936,THA,764,60.405,39276153.0,1972,Thailand_1972
+Asia,Thailand,Feed_A_Africa_Asia,1961.2246350000007,THA,764,62.494,44148285.0,1977,Thailand_1977
+Asia,Thailand,Feed_A_Africa_Asia,2393.219781,THA,764,64.597,48827160.0,1982,Thailand_1982
+Asia,Thailand,Feed_A_Africa_Asia,2982.653773,THA,764,66.084,52910342.0,1987,Thailand_1987
+Asia,Thailand,Feed_A_Africa_Asia,4616.896545000001,THA,764,67.298,56667095.0,1992,Thailand_1992
+Asia,Thailand,Feed_A_Africa_Asia,5852.625497,THA,764,67.521,60216677.0,1997,Thailand_1997
+Asia,Thailand,Feed_A_Africa_Asia,5913.187529,THA,764,68.564,62806748.0,2002,Thailand_2002
+Asia,Thailand,Feed_A_Africa_Asia,7458.396326999998,THA,764,70.616,65068149.0,2007,Thailand_2007
+Africa,Togo,Feed_A_Africa_Asia,859.8086567,TGO,768,38.596,1219113.0,1952,Togo_1952
+Africa,Togo,Feed_A_Africa_Asia,925.9083202,TGO,768,41.208,1357445.0,1957,Togo_1957
+Africa,Togo,Feed_A_Africa_Asia,1067.53481,TGO,768,43.922,1528098.0,1962,Togo_1962
+Africa,Togo,Feed_A_Africa_Asia,1477.59676,TGO,768,46.769,1735550.0,1967,Togo_1967
+Africa,Togo,Feed_A_Africa_Asia,1649.660188,TGO,768,49.75899999999999,2056351.0,1972,Togo_1972
+Africa,Togo,Feed_A_Africa_Asia,1532.776998,TGO,768,52.887,2308582.0,1977,Togo_1977
+Africa,Togo,Feed_A_Africa_Asia,1344.577953,TGO,768,55.471,2644765.0,1982,Togo_1982
+Africa,Togo,Feed_A_Africa_Asia,1202.201361,TGO,768,56.941,3154264.0,1987,Togo_1987
+Africa,Togo,Feed_A_Africa_Asia,1034.298904,TGO,768,58.06100000000001,3747553.0,1992,Togo_1992
+Africa,Togo,Feed_A_Africa_Asia,982.2869243,TGO,768,58.39,4320890.0,1997,Togo_1997
+Africa,Togo,Feed_A_Africa_Asia,886.2205765000001,TGO,768,57.56100000000001,4977378.0,2002,Togo_2002
+Africa,Togo,Feed_A_Africa_Asia,882.9699437999999,TGO,768,58.42,5701579.0,2007,Togo_2007
+Africa,Tunisia,Feed_A_Africa_Asia,1468.475631,TUN,788,44.6,3647735.0,1952,Tunisia_1952
+Africa,Tunisia,Feed_A_Africa_Asia,1395.232468,TUN,788,47.1,3950849.0,1957,Tunisia_1957
+Africa,Tunisia,Feed_A_Africa_Asia,1660.30321,TUN,788,49.57899999999999,4286552.0,1962,Tunisia_1962
+Africa,Tunisia,Feed_A_Africa_Asia,1932.3601670000005,TUN,788,52.053,4786986.0,1967,Tunisia_1967
+Africa,Tunisia,Feed_A_Africa_Asia,2753.2859940000008,TUN,788,55.602,5303507.0,1972,Tunisia_1972
+Africa,Tunisia,Feed_A_Africa_Asia,3120.876811,TUN,788,59.837,6005061.0,1977,Tunisia_1977
+Africa,Tunisia,Feed_A_Africa_Asia,3560.2331740000004,TUN,788,64.048,6734098.0,1982,Tunisia_1982
+Africa,Tunisia,Feed_A_Africa_Asia,3810.419296,TUN,788,66.89399999999999,7724976.0,1987,Tunisia_1987
+Africa,Tunisia,Feed_A_Africa_Asia,4332.720164,TUN,788,70.001,8523077.0,1992,Tunisia_1992
+Africa,Tunisia,Feed_A_Africa_Asia,4876.798614,TUN,788,71.973,9231669.0,1997,Tunisia_1997
+Africa,Tunisia,Feed_A_Africa_Asia,5722.895654999998,TUN,788,73.042,9770575.0,2002,Tunisia_2002
+Africa,Tunisia,Feed_A_Africa_Asia,7092.923025,TUN,788,73.923,10276158.0,2007,Tunisia_2007
+Africa,Uganda,Feed_A_Africa_Asia,734.753484,UGA,800,39.978,5824797.0,1952,Uganda_1952
+Africa,Uganda,Feed_A_Africa_Asia,774.3710692000002,UGA,800,42.57100000000001,6675501.0,1957,Uganda_1957
+Africa,Uganda,Feed_A_Africa_Asia,767.2717397999999,UGA,800,45.344,7688797.0,1962,Uganda_1962
+Africa,Uganda,Feed_A_Africa_Asia,908.9185217,UGA,800,48.051,8900294.0,1967,Uganda_1967
+Africa,Uganda,Feed_A_Africa_Asia,950.735869,UGA,800,51.01600000000001,10190285.0,1972,Uganda_1972
+Africa,Uganda,Feed_A_Africa_Asia,843.7331372000001,UGA,800,50.35,11457758.0,1977,Uganda_1977
+Africa,Uganda,Feed_A_Africa_Asia,682.2662267999998,UGA,800,49.849,12939400.0,1982,Uganda_1982
+Africa,Uganda,Feed_A_Africa_Asia,617.7244065,UGA,800,51.50899999999999,15283050.0,1987,Uganda_1987
+Africa,Uganda,Feed_A_Africa_Asia,644.1707968999998,UGA,800,48.825,18252190.0,1992,Uganda_1992
+Africa,Uganda,Feed_A_Africa_Asia,816.559081,UGA,800,44.578,21210254.0,1997,Uganda_1997
+Africa,Uganda,Feed_A_Africa_Asia,927.7210018,UGA,800,47.813,24739869.0,2002,Uganda_2002
+Africa,Uganda,Feed_A_Africa_Asia,1056.380121,UGA,800,51.542,29170398.0,2007,Uganda_2007
+Asia,Vietnam,Feed_A_Africa_Asia,605.0664917,VNM,704,40.412,26246839.0,1952,Vietnam_1952
+Asia,Vietnam,Feed_A_Africa_Asia,676.2854477999998,VNM,704,42.887,28998543.0,1957,Vietnam_1957
+Asia,Vietnam,Feed_A_Africa_Asia,772.0491602000002,VNM,704,45.363,33796140.0,1962,Vietnam_1962
+Asia,Vietnam,Feed_A_Africa_Asia,637.1232887,VNM,704,47.838,39463910.0,1967,Vietnam_1967
+Asia,Vietnam,Feed_A_Africa_Asia,699.5016441,VNM,704,50.254,44655014.0,1972,Vietnam_1972
+Asia,Vietnam,Feed_A_Africa_Asia,713.5371196000001,VNM,704,55.764,50533506.0,1977,Vietnam_1977
+Asia,Vietnam,Feed_A_Africa_Asia,707.2357863,VNM,704,58.816,56142181.0,1982,Vietnam_1982
+Asia,Vietnam,Feed_A_Africa_Asia,820.7994449,VNM,704,62.82,62826491.0,1987,Vietnam_1987
+Asia,Vietnam,Feed_A_Africa_Asia,989.0231487,VNM,704,67.66199999999999,69940728.0,1992,Vietnam_1992
+Asia,Vietnam,Feed_A_Africa_Asia,1385.896769,VNM,704,70.672,76048996.0,1997,Vietnam_1997
+Asia,Vietnam,Feed_A_Africa_Asia,1764.456677,VNM,704,73.017,80908147.0,2002,Vietnam_2002
+Asia,Vietnam,Feed_A_Africa_Asia,2441.576404,VNM,704,74.249,85262356.0,2007,Vietnam_2007
+Asia,West Bank and Gaza,Feed_A_Africa_Asia,1515.5923289999996,PSE,275,43.16,1030585.0,1952,West_Bank_and_Gaza_1952
+Asia,West Bank and Gaza,Feed_A_Africa_Asia,1827.067742,PSE,275,45.67100000000001,1070439.0,1957,West_Bank_and_Gaza_1957
+Asia,West Bank and Gaza,Feed_A_Africa_Asia,2198.9563120000007,PSE,275,48.127,1133134.0,1962,West_Bank_and_Gaza_1962
+Asia,West Bank and Gaza,Feed_A_Africa_Asia,2649.715007,PSE,275,51.631,1142636.0,1967,West_Bank_and_Gaza_1967
+Asia,West Bank and Gaza,Feed_A_Africa_Asia,3133.409277,PSE,275,56.532,1089572.0,1972,West_Bank_and_Gaza_1972
+Asia,West Bank and Gaza,Feed_A_Africa_Asia,3682.831494,PSE,275,60.765,1261091.0,1977,West_Bank_and_Gaza_1977
+Asia,West Bank and Gaza,Feed_A_Africa_Asia,4336.032082,PSE,275,64.406,1425876.0,1982,West_Bank_and_Gaza_1982
+Asia,West Bank and Gaza,Feed_A_Africa_Asia,5107.197384,PSE,275,67.046,1691210.0,1987,West_Bank_and_Gaza_1987
+Asia,West Bank and Gaza,Feed_A_Africa_Asia,6017.654756,PSE,275,69.718,2104779.0,1992,West_Bank_and_Gaza_1992
+Asia,West Bank and Gaza,Feed_A_Africa_Asia,7110.667619,PSE,275,71.096,2826046.0,1997,West_Bank_and_Gaza_1997
+Asia,West Bank and Gaza,Feed_A_Africa_Asia,4515.487575,PSE,275,72.37,3389578.0,2002,West_Bank_and_Gaza_2002
+Asia,West Bank and Gaza,Feed_A_Africa_Asia,3025.349798,PSE,275,73.422,4018332.0,2007,West_Bank_and_Gaza_2007
+Asia,"Yemen, Rep.",Feed_A_Africa_Asia,781.7175761,YEM,887,32.548,4963829.0,1952,Yemen_Rep_1952
+Asia,"Yemen, Rep.",Feed_A_Africa_Asia,804.8304547,YEM,887,33.97,5498090.0,1957,Yemen_Rep_1957
+Asia,"Yemen, Rep.",Feed_A_Africa_Asia,825.6232006,YEM,887,35.18,6120081.0,1962,Yemen_Rep_1962
+Asia,"Yemen, Rep.",Feed_A_Africa_Asia,862.4421463,YEM,887,36.984,6740785.0,1967,Yemen_Rep_1967
+Asia,"Yemen, Rep.",Feed_A_Africa_Asia,1265.047031,YEM,887,39.848,7407075.0,1972,Yemen_Rep_1972
+Asia,"Yemen, Rep.",Feed_A_Africa_Asia,1829.765177,YEM,887,44.175,8403990.0,1977,Yemen_Rep_1977
+Asia,"Yemen, Rep.",Feed_A_Africa_Asia,1977.55701,YEM,887,49.113,9657618.0,1982,Yemen_Rep_1982
+Asia,"Yemen, Rep.",Feed_A_Africa_Asia,1971.741538,YEM,887,52.922,11219340.0,1987,Yemen_Rep_1987
+Asia,"Yemen, Rep.",Feed_A_Africa_Asia,1879.496673,YEM,887,55.599,13367997.0,1992,Yemen_Rep_1992
+Asia,"Yemen, Rep.",Feed_A_Africa_Asia,2117.484526,YEM,887,58.02,15826497.0,1997,Yemen_Rep_1997
+Asia,"Yemen, Rep.",Feed_A_Africa_Asia,2234.820827,YEM,887,60.308,18701257.0,2002,Yemen_Rep_2002
+Asia,"Yemen, Rep.",Feed_A_Africa_Asia,2280.769906,YEM,887,62.698,22211743.0,2007,Yemen_Rep_2007
+Africa,Zambia,Feed_A_Africa_Asia,1147.388831,ZMB,894,42.038,2672000.0,1952,Zambia_1952
+Africa,Zambia,Feed_A_Africa_Asia,1311.956766,ZMB,894,44.077,3016000.0,1957,Zambia_1957
+Africa,Zambia,Feed_A_Africa_Asia,1452.725766,ZMB,894,46.023,3421000.0,1962,Zambia_1962
+Africa,Zambia,Feed_A_Africa_Asia,1777.077318,ZMB,894,47.768,3900000.0,1967,Zambia_1967
+Africa,Zambia,Feed_A_Africa_Asia,1773.498265,ZMB,894,50.107,4506497.0,1972,Zambia_1972
+Africa,Zambia,Feed_A_Africa_Asia,1588.688299,ZMB,894,51.386,5216550.0,1977,Zambia_1977
+Africa,Zambia,Feed_A_Africa_Asia,1408.678565,ZMB,894,51.82100000000001,6100407.0,1982,Zambia_1982
+Africa,Zambia,Feed_A_Africa_Asia,1213.315116,ZMB,894,50.82100000000001,7272406.0,1987,Zambia_1987
+Africa,Zambia,Feed_A_Africa_Asia,1210.884633,ZMB,894,46.1,8381163.0,1992,Zambia_1992
+Africa,Zambia,Feed_A_Africa_Asia,1071.353818,ZMB,894,40.238,9417789.0,1997,Zambia_1997
+Africa,Zambia,Feed_A_Africa_Asia,1071.6139380000004,ZMB,894,39.19300000000001,10595811.0,2002,Zambia_2002
+Africa,Zambia,Feed_A_Africa_Asia,1271.211593,ZMB,894,42.38399999999999,11746035.0,2007,Zambia_2007
+Africa,Zimbabwe,Feed_A_Africa_Asia,406.8841148,ZWE,716,48.451,3080907.0,1952,Zimbabwe_1952
+Africa,Zimbabwe,Feed_A_Africa_Asia,518.7642681,ZWE,716,50.469,3646340.0,1957,Zimbabwe_1957
+Africa,Zimbabwe,Feed_A_Africa_Asia,527.2721818,ZWE,716,52.358,4277736.0,1962,Zimbabwe_1962
+Africa,Zimbabwe,Feed_A_Africa_Asia,569.7950712,ZWE,716,53.995,4995432.0,1967,Zimbabwe_1967
+Africa,Zimbabwe,Feed_A_Africa_Asia,799.3621757999998,ZWE,716,55.635,5861135.0,1972,Zimbabwe_1972
+Africa,Zimbabwe,Feed_A_Africa_Asia,685.5876821,ZWE,716,57.674,6642107.0,1977,Zimbabwe_1977
+Africa,Zimbabwe,Feed_A_Africa_Asia,788.8550411,ZWE,716,60.363,7636524.0,1982,Zimbabwe_1982
+Africa,Zimbabwe,Feed_A_Africa_Asia,706.1573059,ZWE,716,62.351000000000006,9216418.0,1987,Zimbabwe_1987
+Africa,Zimbabwe,Feed_A_Africa_Asia,693.4207856,ZWE,716,60.377,10704340.0,1992,Zimbabwe_1992
+Africa,Zimbabwe,Feed_A_Africa_Asia,792.4499602999998,ZWE,716,46.809,11404948.0,1997,Zimbabwe_1997
+Africa,Zimbabwe,Feed_A_Africa_Asia,672.0386227000001,ZWE,716,39.989,11926563.0,2002,Zimbabwe_2002
+Africa,Zimbabwe,Feed_A_Africa_Asia,469.70929810000007,ZWE,716,43.487,12311143.0,2007,Zimbabwe_2007
+Europe,Albania,Feed_B_Other_Regions,1601.056136,ALB,8,55.23,1282697.0,1952,Albania_1952
+Europe,Albania,Feed_B_Other_Regions,1942.284244,ALB,8,59.28,1476505.0,1957,Albania_1957
+Europe,Albania,Feed_B_Other_Regions,2312.888958,ALB,8,64.82,1728137.0,1962,Albania_1962
+Europe,Albania,Feed_B_Other_Regions,2760.196931,ALB,8,66.22,1984060.0,1967,Albania_1967
+Europe,Albania,Feed_B_Other_Regions,3313.422188,ALB,8,67.69,2263554.0,1972,Albania_1972
+Europe,Albania,Feed_B_Other_Regions,3533.003910000001,ALB,8,68.93,2509048.0,1977,Albania_1977
+Europe,Albania,Feed_B_Other_Regions,3630.880722,ALB,8,70.42,2780097.0,1982,Albania_1982
+Europe,Albania,Feed_B_Other_Regions,3738.932735,ALB,8,72.0,3075321.0,1987,Albania_1987
+Europe,Albania,Feed_B_Other_Regions,2497.437901,ALB,8,71.581,3326498.0,1992,Albania_1992
+Europe,Albania,Feed_B_Other_Regions,3193.054604,ALB,8,72.95,3428038.0,1997,Albania_1997
+Europe,Albania,Feed_B_Other_Regions,4604.211737,ALB,8,75.65100000000002,3508512.0,2002,Albania_2002
+Europe,Albania,Feed_B_Other_Regions,5937.029525999998,ALB,8,76.423,3600523.0,2007,Albania_2007
+Americas,Argentina,Feed_B_Other_Regions,5911.315053,ARG,32,62.485,17876956.0,1952,Argentina_1952
+Americas,Argentina,Feed_B_Other_Regions,6856.8562120000015,ARG,32,64.399,19610538.0,1957,Argentina_1957
+Americas,Argentina,Feed_B_Other_Regions,7133.166023000002,ARG,32,65.142,21283783.0,1962,Argentina_1962
+Americas,Argentina,Feed_B_Other_Regions,8052.953020999998,ARG,32,65.634,22934225.0,1967,Argentina_1967
+Americas,Argentina,Feed_B_Other_Regions,9443.038526,ARG,32,67.065,24779799.0,1972,Argentina_1972
+Americas,Argentina,Feed_B_Other_Regions,10079.02674,ARG,32,68.48100000000001,26983828.0,1977,Argentina_1977
+Americas,Argentina,Feed_B_Other_Regions,8997.897412,ARG,32,69.942,29341374.0,1982,Argentina_1982
+Americas,Argentina,Feed_B_Other_Regions,9139.671389,ARG,32,70.774,31620918.0,1987,Argentina_1987
+Americas,Argentina,Feed_B_Other_Regions,9308.41871,ARG,32,71.868,33958947.0,1992,Argentina_1992
+Americas,Argentina,Feed_B_Other_Regions,10967.28195,ARG,32,73.275,36203463.0,1997,Argentina_1997
+Americas,Argentina,Feed_B_Other_Regions,8797.640716,ARG,32,74.34,38331121.0,2002,Argentina_2002
+Americas,Argentina,Feed_B_Other_Regions,12779.37964,ARG,32,75.32,40301927.0,2007,Argentina_2007
+Oceania,Australia,Feed_B_Other_Regions,10039.59564,AUS,36,69.12,8691212.0,1952,Australia_1952
+Oceania,Australia,Feed_B_Other_Regions,10949.64959,AUS,36,70.33,9712569.0,1957,Australia_1957
+Oceania,Australia,Feed_B_Other_Regions,12217.22686,AUS,36,70.93,10794968.0,1962,Australia_1962
+Oceania,Australia,Feed_B_Other_Regions,14526.12465,AUS,36,71.1,11872264.0,1967,Australia_1967
+Oceania,Australia,Feed_B_Other_Regions,16788.62948,AUS,36,71.93,13177000.0,1972,Australia_1972
+Oceania,Australia,Feed_B_Other_Regions,18334.19751,AUS,36,73.49,14074100.0,1977,Australia_1977
+Oceania,Australia,Feed_B_Other_Regions,19477.00928,AUS,36,74.74,15184200.0,1982,Australia_1982
+Oceania,Australia,Feed_B_Other_Regions,21888.88903,AUS,36,76.32,16257249.0,1987,Australia_1987
+Oceania,Australia,Feed_B_Other_Regions,23424.76683,AUS,36,77.56,17481977.0,1992,Australia_1992
+Oceania,Australia,Feed_B_Other_Regions,26997.93657,AUS,36,78.83,18565243.0,1997,Australia_1997
+Oceania,Australia,Feed_B_Other_Regions,30687.75473,AUS,36,80.37,19546792.0,2002,Australia_2002
+Oceania,Australia,Feed_B_Other_Regions,34435.367439999995,AUS,36,81.235,20434176.0,2007,Australia_2007
+Europe,Austria,Feed_B_Other_Regions,6137.076492,AUT,40,66.8,6927772.0,1952,Austria_1952
+Europe,Austria,Feed_B_Other_Regions,8842.59803,AUT,40,67.48,6965860.0,1957,Austria_1957
+Europe,Austria,Feed_B_Other_Regions,10750.72111,AUT,40,69.54,7129864.0,1962,Austria_1962
+Europe,Austria,Feed_B_Other_Regions,12834.6024,AUT,40,70.14,7376998.0,1967,Austria_1967
+Europe,Austria,Feed_B_Other_Regions,16661.6256,AUT,40,70.63,7544201.0,1972,Austria_1972
+Europe,Austria,Feed_B_Other_Regions,19749.4223,AUT,40,72.17,7568430.0,1977,Austria_1977
+Europe,Austria,Feed_B_Other_Regions,21597.08362,AUT,40,73.18,7574613.0,1982,Austria_1982
+Europe,Austria,Feed_B_Other_Regions,23687.82607,AUT,40,74.94,7578903.0,1987,Austria_1987
+Europe,Austria,Feed_B_Other_Regions,27042.01868,AUT,40,76.04,7914969.0,1992,Austria_1992
+Europe,Austria,Feed_B_Other_Regions,29095.920660000003,AUT,40,77.51,8069876.0,1997,Austria_1997
+Europe,Austria,Feed_B_Other_Regions,32417.60769,AUT,40,78.98,8148312.0,2002,Austria_2002
+Europe,Austria,Feed_B_Other_Regions,36126.4927,AUT,40,79.829,8199783.0,2007,Austria_2007
+Europe,Belgium,Feed_B_Other_Regions,8343.105126999999,BEL,56,68.0,8730405.0,1952,Belgium_1952
+Europe,Belgium,Feed_B_Other_Regions,9714.960623,BEL,56,69.24,8989111.0,1957,Belgium_1957
+Europe,Belgium,Feed_B_Other_Regions,10991.20676,BEL,56,70.25,9218400.0,1962,Belgium_1962
+Europe,Belgium,Feed_B_Other_Regions,13149.04119,BEL,56,70.94,9556500.0,1967,Belgium_1967
+Europe,Belgium,Feed_B_Other_Regions,16672.14356,BEL,56,71.44,9709100.0,1972,Belgium_1972
+Europe,Belgium,Feed_B_Other_Regions,19117.97448,BEL,56,72.8,9821800.0,1977,Belgium_1977
+Europe,Belgium,Feed_B_Other_Regions,20979.84589,BEL,56,73.93,9856303.0,1982,Belgium_1982
+Europe,Belgium,Feed_B_Other_Regions,22525.56308,BEL,56,75.35,9870200.0,1987,Belgium_1987
+Europe,Belgium,Feed_B_Other_Regions,25575.57069,BEL,56,76.46,10045622.0,1992,Belgium_1992
+Europe,Belgium,Feed_B_Other_Regions,27561.19663,BEL,56,77.53,10199787.0,1997,Belgium_1997
+Europe,Belgium,Feed_B_Other_Regions,30485.88375,BEL,56,78.32,10311970.0,2002,Belgium_2002
+Europe,Belgium,Feed_B_Other_Regions,33692.60508,BEL,56,79.441,10392226.0,2007,Belgium_2007
+Americas,Bolivia,Feed_B_Other_Regions,2677.326347,BOL,68,40.414,2883315.0,1952,Bolivia_1952
+Americas,Bolivia,Feed_B_Other_Regions,2127.686326,BOL,68,41.89,3211738.0,1957,Bolivia_1957
+Americas,Bolivia,Feed_B_Other_Regions,2180.972546,BOL,68,43.428,3593918.0,1962,Bolivia_1962
+Americas,Bolivia,Feed_B_Other_Regions,2586.886053,BOL,68,45.032,4040665.0,1967,Bolivia_1967
+Americas,Bolivia,Feed_B_Other_Regions,2980.331339,BOL,68,46.714,4565872.0,1972,Bolivia_1972
+Americas,Bolivia,Feed_B_Other_Regions,3548.097832,BOL,68,50.023,5079716.0,1977,Bolivia_1977
+Americas,Bolivia,Feed_B_Other_Regions,3156.510452,BOL,68,53.859,5642224.0,1982,Bolivia_1982
+Americas,Bolivia,Feed_B_Other_Regions,2753.69149,BOL,68,57.25100000000001,6156369.0,1987,Bolivia_1987
+Americas,Bolivia,Feed_B_Other_Regions,2961.699694,BOL,68,59.957,6893451.0,1992,Bolivia_1992
+Americas,Bolivia,Feed_B_Other_Regions,3326.143191,BOL,68,62.05,7693188.0,1997,Bolivia_1997
+Americas,Bolivia,Feed_B_Other_Regions,3413.26269,BOL,68,63.883,8445134.0,2002,Bolivia_2002
+Americas,Bolivia,Feed_B_Other_Regions,3822.137084,BOL,68,65.554,9119152.0,2007,Bolivia_2007
+Europe,Bosnia and Herzegovina,Feed_B_Other_Regions,973.5331948,BIH,70,53.82,2791000.0,1952,Bosnia_and_Herzegovina_1952
+Europe,Bosnia and Herzegovina,Feed_B_Other_Regions,1353.989176,BIH,70,58.45,3076000.0,1957,Bosnia_and_Herzegovina_1957
+Europe,Bosnia and Herzegovina,Feed_B_Other_Regions,1709.683679,BIH,70,61.93,3349000.0,1962,Bosnia_and_Herzegovina_1962
+Europe,Bosnia and Herzegovina,Feed_B_Other_Regions,2172.3524230000007,BIH,70,64.79,3585000.0,1967,Bosnia_and_Herzegovina_1967
+Europe,Bosnia and Herzegovina,Feed_B_Other_Regions,2860.16975,BIH,70,67.45,3819000.0,1972,Bosnia_and_Herzegovina_1972
+Europe,Bosnia and Herzegovina,Feed_B_Other_Regions,3528.481305,BIH,70,69.86,4086000.0,1977,Bosnia_and_Herzegovina_1977
+Europe,Bosnia and Herzegovina,Feed_B_Other_Regions,4126.613157,BIH,70,70.69,4172693.0,1982,Bosnia_and_Herzegovina_1982
+Europe,Bosnia and Herzegovina,Feed_B_Other_Regions,4314.114757,BIH,70,71.14,4338977.0,1987,Bosnia_and_Herzegovina_1987
+Europe,Bosnia and Herzegovina,Feed_B_Other_Regions,2546.781445,BIH,70,72.178,4256013.0,1992,Bosnia_and_Herzegovina_1992
+Europe,Bosnia and Herzegovina,Feed_B_Other_Regions,4766.355904,BIH,70,73.244,3607000.0,1997,Bosnia_and_Herzegovina_1997
+Europe,Bosnia and Herzegovina,Feed_B_Other_Regions,6018.975239,BIH,70,74.09,4165416.0,2002,Bosnia_and_Herzegovina_2002
+Europe,Bosnia and Herzegovina,Feed_B_Other_Regions,7446.298803,BIH,70,74.852,4552198.0,2007,Bosnia_and_Herzegovina_2007
+Americas,Brazil,Feed_B_Other_Regions,2108.944355,BRA,76,50.917,56602560.0,1952,Brazil_1952
+Americas,Brazil,Feed_B_Other_Regions,2487.365989,BRA,76,53.285,65551171.0,1957,Brazil_1957
+Americas,Brazil,Feed_B_Other_Regions,3336.585802,BRA,76,55.665,76039390.0,1962,Brazil_1962
+Americas,Brazil,Feed_B_Other_Regions,3429.864357,BRA,76,57.632,88049823.0,1967,Brazil_1967
+Americas,Brazil,Feed_B_Other_Regions,4985.711467,BRA,76,59.504,100840058.0,1972,Brazil_1972
+Americas,Brazil,Feed_B_Other_Regions,6660.118654,BRA,76,61.489,114313951.0,1977,Brazil_1977
+Americas,Brazil,Feed_B_Other_Regions,7030.835878,BRA,76,63.33600000000001,128962939.0,1982,Brazil_1982
+Americas,Brazil,Feed_B_Other_Regions,7807.095818000002,BRA,76,65.205,142938076.0,1987,Brazil_1987
+Americas,Brazil,Feed_B_Other_Regions,6950.283020999998,BRA,76,67.057,155975974.0,1992,Brazil_1992
+Americas,Brazil,Feed_B_Other_Regions,7957.980823999998,BRA,76,69.388,168546719.0,1997,Brazil_1997
+Americas,Brazil,Feed_B_Other_Regions,8131.212843000001,BRA,76,71.006,179914212.0,2002,Brazil_2002
+Americas,Brazil,Feed_B_Other_Regions,9065.800825,BRA,76,72.39,190010647.0,2007,Brazil_2007
+Europe,Bulgaria,Feed_B_Other_Regions,2444.286648,BGR,100,59.6,7274900.0,1952,Bulgaria_1952
+Europe,Bulgaria,Feed_B_Other_Regions,3008.670727,BGR,100,66.61,7651254.0,1957,Bulgaria_1957
+Europe,Bulgaria,Feed_B_Other_Regions,4254.337839,BGR,100,69.51,8012946.0,1962,Bulgaria_1962
+Europe,Bulgaria,Feed_B_Other_Regions,5577.0028,BGR,100,70.42,8310226.0,1967,Bulgaria_1967
+Europe,Bulgaria,Feed_B_Other_Regions,6597.494398,BGR,100,70.9,8576200.0,1972,Bulgaria_1972
+Europe,Bulgaria,Feed_B_Other_Regions,7612.240438,BGR,100,70.81,8797022.0,1977,Bulgaria_1977
+Europe,Bulgaria,Feed_B_Other_Regions,8224.191647,BGR,100,71.08,8892098.0,1982,Bulgaria_1982
+Europe,Bulgaria,Feed_B_Other_Regions,8239.854824,BGR,100,71.34,8971958.0,1987,Bulgaria_1987
+Europe,Bulgaria,Feed_B_Other_Regions,6302.623438000001,BGR,100,71.19,8658506.0,1992,Bulgaria_1992
+Europe,Bulgaria,Feed_B_Other_Regions,5970.38876,BGR,100,70.32,8066057.0,1997,Bulgaria_1997
+Europe,Bulgaria,Feed_B_Other_Regions,7696.777725,BGR,100,72.14,7661799.0,2002,Bulgaria_2002
+Europe,Bulgaria,Feed_B_Other_Regions,10680.79282,BGR,100,73.005,7322858.0,2007,Bulgaria_2007
+Americas,Canada,Feed_B_Other_Regions,11367.16112,CAN,124,68.75,14785584.0,1952,Canada_1952
+Americas,Canada,Feed_B_Other_Regions,12489.95006,CAN,124,69.96,17010154.0,1957,Canada_1957
+Americas,Canada,Feed_B_Other_Regions,13462.48555,CAN,124,71.3,18985849.0,1962,Canada_1962
+Americas,Canada,Feed_B_Other_Regions,16076.58803,CAN,124,72.13,20819767.0,1967,Canada_1967
+Americas,Canada,Feed_B_Other_Regions,18970.57086,CAN,124,72.88,22284500.0,1972,Canada_1972
+Americas,Canada,Feed_B_Other_Regions,22090.88306,CAN,124,74.21,23796400.0,1977,Canada_1977
+Americas,Canada,Feed_B_Other_Regions,22898.79214,CAN,124,75.76,25201900.0,1982,Canada_1982
+Americas,Canada,Feed_B_Other_Regions,26626.51503,CAN,124,76.86,26549700.0,1987,Canada_1987
+Americas,Canada,Feed_B_Other_Regions,26342.88426,CAN,124,77.95,28523502.0,1992,Canada_1992
+Americas,Canada,Feed_B_Other_Regions,28954.92589,CAN,124,78.61,30305843.0,1997,Canada_1997
+Americas,Canada,Feed_B_Other_Regions,33328.96507,CAN,124,79.77,31902268.0,2002,Canada_2002
+Americas,Canada,Feed_B_Other_Regions,36319.23501,CAN,124,80.653,33390141.0,2007,Canada_2007
+Americas,Chile,Feed_B_Other_Regions,3939.978789,CHL,152,54.745,6377619.0,1952,Chile_1952
+Americas,Chile,Feed_B_Other_Regions,4315.622723,CHL,152,56.074,7048426.0,1957,Chile_1957
+Americas,Chile,Feed_B_Other_Regions,4519.094331,CHL,152,57.924,7961258.0,1962,Chile_1962
+Americas,Chile,Feed_B_Other_Regions,5106.654313,CHL,152,60.523,8858908.0,1967,Chile_1967
+Americas,Chile,Feed_B_Other_Regions,5494.024437,CHL,152,63.441,9717524.0,1972,Chile_1972
+Americas,Chile,Feed_B_Other_Regions,4756.763836,CHL,152,67.05199999999999,10599793.0,1977,Chile_1977
+Americas,Chile,Feed_B_Other_Regions,5095.6657380000015,CHL,152,70.565,11487112.0,1982,Chile_1982
+Americas,Chile,Feed_B_Other_Regions,5547.063754,CHL,152,72.492,12463354.0,1987,Chile_1987
+Americas,Chile,Feed_B_Other_Regions,7596.125964,CHL,152,74.126,13572994.0,1992,Chile_1992
+Americas,Chile,Feed_B_Other_Regions,10118.05318,CHL,152,75.816,14599929.0,1997,Chile_1997
+Americas,Chile,Feed_B_Other_Regions,10778.78385,CHL,152,77.86,15497046.0,2002,Chile_2002
+Americas,Chile,Feed_B_Other_Regions,13171.63885,CHL,152,78.553,16284741.0,2007,Chile_2007
+Americas,Colombia,Feed_B_Other_Regions,2144.115096,COL,170,50.643,12350771.0,1952,Colombia_1952
+Americas,Colombia,Feed_B_Other_Regions,2323.805581,COL,170,55.118,14485993.0,1957,Colombia_1957
+Americas,Colombia,Feed_B_Other_Regions,2492.351109,COL,170,57.863,17009885.0,1962,Colombia_1962
+Americas,Colombia,Feed_B_Other_Regions,2678.729839,COL,170,59.963,19764027.0,1967,Colombia_1967
+Americas,Colombia,Feed_B_Other_Regions,3264.660041,COL,170,61.62300000000001,22542890.0,1972,Colombia_1972
+Americas,Colombia,Feed_B_Other_Regions,3815.80787,COL,170,63.837,25094412.0,1977,Colombia_1977
+Americas,Colombia,Feed_B_Other_Regions,4397.575659,COL,170,66.653,27764644.0,1982,Colombia_1982
+Americas,Colombia,Feed_B_Other_Regions,4903.2191,COL,170,67.768,30964245.0,1987,Colombia_1987
+Americas,Colombia,Feed_B_Other_Regions,5444.648617,COL,170,68.421,34202721.0,1992,Colombia_1992
+Americas,Colombia,Feed_B_Other_Regions,6117.361746000001,COL,170,70.313,37657830.0,1997,Colombia_1997
+Americas,Colombia,Feed_B_Other_Regions,5755.259962,COL,170,71.682,41008227.0,2002,Colombia_2002
+Americas,Colombia,Feed_B_Other_Regions,7006.580419,COL,170,72.889,44227550.0,2007,Colombia_2007
+Americas,Costa Rica,Feed_B_Other_Regions,2627.0094710000008,CRI,188,57.206,926317.0,1952,Costa_Rica_1952
+Americas,Costa Rica,Feed_B_Other_Regions,2990.010802,CRI,188,60.026,1112300.0,1957,Costa_Rica_1957
+Americas,Costa Rica,Feed_B_Other_Regions,3460.937025,CRI,188,62.842,1345187.0,1962,Costa_Rica_1962
+Americas,Costa Rica,Feed_B_Other_Regions,4161.727834,CRI,188,65.42399999999999,1588717.0,1967,Costa_Rica_1967
+Americas,Costa Rica,Feed_B_Other_Regions,5118.146939,CRI,188,67.84899999999999,1834796.0,1972,Costa_Rica_1972
+Americas,Costa Rica,Feed_B_Other_Regions,5926.876967,CRI,188,70.75,2108457.0,1977,Costa_Rica_1977
+Americas,Costa Rica,Feed_B_Other_Regions,5262.734751,CRI,188,73.45,2424367.0,1982,Costa_Rica_1982
+Americas,Costa Rica,Feed_B_Other_Regions,5629.915318,CRI,188,74.752,2799811.0,1987,Costa_Rica_1987
+Americas,Costa Rica,Feed_B_Other_Regions,6160.416317,CRI,188,75.71300000000002,3173216.0,1992,Costa_Rica_1992
+Americas,Costa Rica,Feed_B_Other_Regions,6677.045314,CRI,188,77.26,3518107.0,1997,Costa_Rica_1997
+Americas,Costa Rica,Feed_B_Other_Regions,7723.447195000002,CRI,188,78.123,3834934.0,2002,Costa_Rica_2002
+Americas,Costa Rica,Feed_B_Other_Regions,9645.06142,CRI,188,78.782,4133884.0,2007,Costa_Rica_2007
+Europe,Croatia,Feed_B_Other_Regions,3119.23652,HRV,191,61.21,3882229.0,1952,Croatia_1952
+Europe,Croatia,Feed_B_Other_Regions,4338.231617,HRV,191,64.77,3991242.0,1957,Croatia_1957
+Europe,Croatia,Feed_B_Other_Regions,5477.890018,HRV,191,67.13,4076557.0,1962,Croatia_1962
+Europe,Croatia,Feed_B_Other_Regions,6960.297861,HRV,191,68.5,4174366.0,1967,Croatia_1967
+Europe,Croatia,Feed_B_Other_Regions,9164.090127,HRV,191,69.61,4225310.0,1972,Croatia_1972
+Europe,Croatia,Feed_B_Other_Regions,11305.38517,HRV,191,70.64,4318673.0,1977,Croatia_1977
+Europe,Croatia,Feed_B_Other_Regions,13221.82184,HRV,191,70.46,4413368.0,1982,Croatia_1982
+Europe,Croatia,Feed_B_Other_Regions,13822.58394,HRV,191,71.52,4484310.0,1987,Croatia_1987
+Europe,Croatia,Feed_B_Other_Regions,8447.794873,HRV,191,72.527,4494013.0,1992,Croatia_1992
+Europe,Croatia,Feed_B_Other_Regions,9875.604515,HRV,191,73.68,4444595.0,1997,Croatia_1997
+Europe,Croatia,Feed_B_Other_Regions,11628.38895,HRV,191,74.876,4481020.0,2002,Croatia_2002
+Europe,Croatia,Feed_B_Other_Regions,14619.222719999998,HRV,191,75.748,4493312.0,2007,Croatia_2007
+Americas,Cuba,Feed_B_Other_Regions,5586.53878,CUB,192,59.42100000000001,6007797.0,1952,Cuba_1952
+Americas,Cuba,Feed_B_Other_Regions,6092.1743590000015,CUB,192,62.325,6640752.0,1957,Cuba_1957
+Americas,Cuba,Feed_B_Other_Regions,5180.75591,CUB,192,65.24600000000001,7254373.0,1962,Cuba_1962
+Americas,Cuba,Feed_B_Other_Regions,5690.268015,CUB,192,68.29,8139332.0,1967,Cuba_1967
+Americas,Cuba,Feed_B_Other_Regions,5305.445256,CUB,192,70.723,8831348.0,1972,Cuba_1972
+Americas,Cuba,Feed_B_Other_Regions,6380.494965999998,CUB,192,72.649,9537988.0,1977,Cuba_1977
+Americas,Cuba,Feed_B_Other_Regions,7316.918106999998,CUB,192,73.717,9789224.0,1982,Cuba_1982
+Americas,Cuba,Feed_B_Other_Regions,7532.924762999999,CUB,192,74.17399999999998,10239839.0,1987,Cuba_1987
+Americas,Cuba,Feed_B_Other_Regions,5592.843963,CUB,192,74.414,10723260.0,1992,Cuba_1992
+Americas,Cuba,Feed_B_Other_Regions,5431.990415,CUB,192,76.15100000000002,10983007.0,1997,Cuba_1997
+Americas,Cuba,Feed_B_Other_Regions,6340.646683,CUB,192,77.158,11226999.0,2002,Cuba_2002
+Americas,Cuba,Feed_B_Other_Regions,8948.102923,CUB,192,78.273,11416987.0,2007,Cuba_2007
+Europe,Czech Republic,Feed_B_Other_Regions,6876.14025,CZE,203,66.87,9125183.0,1952,Czech_Republic_1952
+Europe,Czech Republic,Feed_B_Other_Regions,8256.343918,CZE,203,69.03,9513758.0,1957,Czech_Republic_1957
+Europe,Czech Republic,Feed_B_Other_Regions,10136.86713,CZE,203,69.9,9620282.0,1962,Czech_Republic_1962
+Europe,Czech Republic,Feed_B_Other_Regions,11399.44489,CZE,203,70.38,9835109.0,1967,Czech_Republic_1967
+Europe,Czech Republic,Feed_B_Other_Regions,13108.4536,CZE,203,70.29,9862158.0,1972,Czech_Republic_1972
+Europe,Czech Republic,Feed_B_Other_Regions,14800.16062,CZE,203,70.71,10161915.0,1977,Czech_Republic_1977
+Europe,Czech Republic,Feed_B_Other_Regions,15377.22855,CZE,203,70.96,10303704.0,1982,Czech_Republic_1982
+Europe,Czech Republic,Feed_B_Other_Regions,16310.4434,CZE,203,71.58,10311597.0,1987,Czech_Republic_1987
+Europe,Czech Republic,Feed_B_Other_Regions,14297.02122,CZE,203,72.4,10315702.0,1992,Czech_Republic_1992
+Europe,Czech Republic,Feed_B_Other_Regions,16048.51424,CZE,203,74.01,10300707.0,1997,Czech_Republic_1997
+Europe,Czech Republic,Feed_B_Other_Regions,17596.210219999994,CZE,203,75.51,10256295.0,2002,Czech_Republic_2002
+Europe,Czech Republic,Feed_B_Other_Regions,22833.30851,CZE,203,76.486,10228744.0,2007,Czech_Republic_2007
+Europe,Denmark,Feed_B_Other_Regions,9692.385245,DNK,208,70.78,4334000.0,1952,Denmark_1952
+Europe,Denmark,Feed_B_Other_Regions,11099.65935,DNK,208,71.81,4487831.0,1957,Denmark_1957
+Europe,Denmark,Feed_B_Other_Regions,13583.31351,DNK,208,72.35,4646899.0,1962,Denmark_1962
+Europe,Denmark,Feed_B_Other_Regions,15937.21123,DNK,208,72.96,4838800.0,1967,Denmark_1967
+Europe,Denmark,Feed_B_Other_Regions,18866.20721,DNK,208,73.47,4991596.0,1972,Denmark_1972
+Europe,Denmark,Feed_B_Other_Regions,20422.9015,DNK,208,74.69,5088419.0,1977,Denmark_1977
+Europe,Denmark,Feed_B_Other_Regions,21688.04048,DNK,208,74.63,5117810.0,1982,Denmark_1982
+Europe,Denmark,Feed_B_Other_Regions,25116.17581,DNK,208,74.8,5127024.0,1987,Denmark_1987
+Europe,Denmark,Feed_B_Other_Regions,26406.73985,DNK,208,75.33,5171393.0,1992,Denmark_1992
+Europe,Denmark,Feed_B_Other_Regions,29804.34567,DNK,208,76.11,5283663.0,1997,Denmark_1997
+Europe,Denmark,Feed_B_Other_Regions,32166.50006,DNK,208,77.18,5374693.0,2002,Denmark_2002
+Europe,Denmark,Feed_B_Other_Regions,35278.41874,DNK,208,78.332,5468120.0,2007,Denmark_2007
+Americas,Dominican Republic,Feed_B_Other_Regions,1397.717137,DOM,214,45.928,2491346.0,1952,Dominican_Republic_1952
+Americas,Dominican Republic,Feed_B_Other_Regions,1544.402995,DOM,214,49.828,2923186.0,1957,Dominican_Republic_1957
+Americas,Dominican Republic,Feed_B_Other_Regions,1662.137359,DOM,214,53.459,3453434.0,1962,Dominican_Republic_1962
+Americas,Dominican Republic,Feed_B_Other_Regions,1653.7230029999996,DOM,214,56.75100000000001,4049146.0,1967,Dominican_Republic_1967
+Americas,Dominican Republic,Feed_B_Other_Regions,2189.874499,DOM,214,59.631,4671329.0,1972,Dominican_Republic_1972
+Americas,Dominican Republic,Feed_B_Other_Regions,2681.9889,DOM,214,61.788,5302800.0,1977,Dominican_Republic_1977
+Americas,Dominican Republic,Feed_B_Other_Regions,2861.092386,DOM,214,63.727,5968349.0,1982,Dominican_Republic_1982
+Americas,Dominican Republic,Feed_B_Other_Regions,2899.842175,DOM,214,66.046,6655297.0,1987,Dominican_Republic_1987
+Americas,Dominican Republic,Feed_B_Other_Regions,3044.214214,DOM,214,68.457,7351181.0,1992,Dominican_Republic_1992
+Americas,Dominican Republic,Feed_B_Other_Regions,3614.101285,DOM,214,69.957,7992357.0,1997,Dominican_Republic_1997
+Americas,Dominican Republic,Feed_B_Other_Regions,4563.808154,DOM,214,70.847,8650322.0,2002,Dominican_Republic_2002
+Americas,Dominican Republic,Feed_B_Other_Regions,6025.3747520000015,DOM,214,72.235,9319622.0,2007,Dominican_Republic_2007
+Americas,Ecuador,Feed_B_Other_Regions,3522.110717,ECU,218,48.357,3548753.0,1952,Ecuador_1952
+Americas,Ecuador,Feed_B_Other_Regions,3780.546651,ECU,218,51.356,4058385.0,1957,Ecuador_1957
+Americas,Ecuador,Feed_B_Other_Regions,4086.114078,ECU,218,54.64,4681707.0,1962,Ecuador_1962
+Americas,Ecuador,Feed_B_Other_Regions,4579.074215,ECU,218,56.678,5432424.0,1967,Ecuador_1967
+Americas,Ecuador,Feed_B_Other_Regions,5280.99471,ECU,218,58.79600000000001,6298651.0,1972,Ecuador_1972
+Americas,Ecuador,Feed_B_Other_Regions,6679.62326,ECU,218,61.31,7278866.0,1977,Ecuador_1977
+Americas,Ecuador,Feed_B_Other_Regions,7213.791267,ECU,218,64.342,8365850.0,1982,Ecuador_1982
+Americas,Ecuador,Feed_B_Other_Regions,6481.776993,ECU,218,67.23100000000001,9545158.0,1987,Ecuador_1987
+Americas,Ecuador,Feed_B_Other_Regions,7103.702595000002,ECU,218,69.613,10748394.0,1992,Ecuador_1992
+Americas,Ecuador,Feed_B_Other_Regions,7429.4558769999985,ECU,218,72.312,11911819.0,1997,Ecuador_1997
+Americas,Ecuador,Feed_B_Other_Regions,5773.044512,ECU,218,74.173,12921234.0,2002,Ecuador_2002
+Americas,Ecuador,Feed_B_Other_Regions,6873.262326000001,ECU,218,74.994,13755680.0,2007,Ecuador_2007
+Americas,El Salvador,Feed_B_Other_Regions,3048.3029,SLV,222,45.262,2042865.0,1952,El_Salvador_1952
+Americas,El Salvador,Feed_B_Other_Regions,3421.523218,SLV,222,48.57,2355805.0,1957,El_Salvador_1957
+Americas,El Salvador,Feed_B_Other_Regions,3776.803627,SLV,222,52.307,2747687.0,1962,El_Salvador_1962
+Americas,El Salvador,Feed_B_Other_Regions,4358.595393,SLV,222,55.855,3232927.0,1967,El_Salvador_1967
+Americas,El Salvador,Feed_B_Other_Regions,4520.246008,SLV,222,58.207,3790903.0,1972,El_Salvador_1972
+Americas,El Salvador,Feed_B_Other_Regions,5138.922374,SLV,222,56.69600000000001,4282586.0,1977,El_Salvador_1977
+Americas,El Salvador,Feed_B_Other_Regions,4098.344175,SLV,222,56.604,4474873.0,1982,El_Salvador_1982
+Americas,El Salvador,Feed_B_Other_Regions,4140.442097,SLV,222,63.154,4842194.0,1987,El_Salvador_1987
+Americas,El Salvador,Feed_B_Other_Regions,4444.2317,SLV,222,66.798,5274649.0,1992,El_Salvador_1992
+Americas,El Salvador,Feed_B_Other_Regions,5154.825496,SLV,222,69.535,5783439.0,1997,El_Salvador_1997
+Americas,El Salvador,Feed_B_Other_Regions,5351.568665999999,SLV,222,70.734,6353681.0,2002,El_Salvador_2002
+Americas,El Salvador,Feed_B_Other_Regions,5728.353514,SLV,222,71.878,6939688.0,2007,El_Salvador_2007
+Europe,Finland,Feed_B_Other_Regions,6424.519071,FIN,246,66.55,4090500.0,1952,Finland_1952
+Europe,Finland,Feed_B_Other_Regions,7545.415386,FIN,246,67.49,4324000.0,1957,Finland_1957
+Europe,Finland,Feed_B_Other_Regions,9371.842561,FIN,246,68.75,4491443.0,1962,Finland_1962
+Europe,Finland,Feed_B_Other_Regions,10921.63626,FIN,246,69.83,4605744.0,1967,Finland_1967
+Europe,Finland,Feed_B_Other_Regions,14358.8759,FIN,246,70.87,4639657.0,1972,Finland_1972
+Europe,Finland,Feed_B_Other_Regions,15605.42283,FIN,246,72.52,4738902.0,1977,Finland_1977
+Europe,Finland,Feed_B_Other_Regions,18533.15761,FIN,246,74.55,4826933.0,1982,Finland_1982
+Europe,Finland,Feed_B_Other_Regions,21141.01223,FIN,246,74.83,4931729.0,1987,Finland_1987
+Europe,Finland,Feed_B_Other_Regions,20647.16499,FIN,246,75.7,5041039.0,1992,Finland_1992
+Europe,Finland,Feed_B_Other_Regions,23723.9502,FIN,246,77.13,5134406.0,1997,Finland_1997
+Europe,Finland,Feed_B_Other_Regions,28204.59057,FIN,246,78.37,5193039.0,2002,Finland_2002
+Europe,Finland,Feed_B_Other_Regions,33207.0844,FIN,246,79.313,5238460.0,2007,Finland_2007
+Europe,France,Feed_B_Other_Regions,7029.809327,FRA,250,67.41,42459667.0,1952,France_1952
+Europe,France,Feed_B_Other_Regions,8662.834898000001,FRA,250,68.93,44310863.0,1957,France_1957
+Europe,France,Feed_B_Other_Regions,10560.48553,FRA,250,70.51,47124000.0,1962,France_1962
+Europe,France,Feed_B_Other_Regions,12999.91766,FRA,250,71.55,49569000.0,1967,France_1967
+Europe,France,Feed_B_Other_Regions,16107.19171,FRA,250,72.38,51732000.0,1972,France_1972
+Europe,France,Feed_B_Other_Regions,18292.63514,FRA,250,73.83,53165019.0,1977,France_1977
+Europe,France,Feed_B_Other_Regions,20293.89746,FRA,250,74.89,54433565.0,1982,France_1982
+Europe,France,Feed_B_Other_Regions,22066.44214,FRA,250,76.34,55630100.0,1987,France_1987
+Europe,France,Feed_B_Other_Regions,24703.79615,FRA,250,77.46,57374179.0,1992,France_1992
+Europe,France,Feed_B_Other_Regions,25889.78487,FRA,250,78.64,58623428.0,1997,France_1997
+Europe,France,Feed_B_Other_Regions,28926.03234,FRA,250,79.59,59925035.0,2002,France_2002
+Europe,France,Feed_B_Other_Regions,30470.0167,FRA,250,80.657,61083916.0,2007,France_2007
+Europe,Germany,Feed_B_Other_Regions,7144.114393000002,DEU,276,67.5,69145952.0,1952,Germany_1952
+Europe,Germany,Feed_B_Other_Regions,10187.82665,DEU,276,69.1,71019069.0,1957,Germany_1957
+Europe,Germany,Feed_B_Other_Regions,12902.46291,DEU,276,70.3,73739117.0,1962,Germany_1962
+Europe,Germany,Feed_B_Other_Regions,14745.62561,DEU,276,70.8,76368453.0,1967,Germany_1967
+Europe,Germany,Feed_B_Other_Regions,18016.18027,DEU,276,71.0,78717088.0,1972,Germany_1972
+Europe,Germany,Feed_B_Other_Regions,20512.92123,DEU,276,72.5,78160773.0,1977,Germany_1977
+Europe,Germany,Feed_B_Other_Regions,22031.53274,DEU,276,73.8,78335266.0,1982,Germany_1982
+Europe,Germany,Feed_B_Other_Regions,24639.18566,DEU,276,74.847,77718298.0,1987,Germany_1987
+Europe,Germany,Feed_B_Other_Regions,26505.30317,DEU,276,76.07,80597764.0,1992,Germany_1992
+Europe,Germany,Feed_B_Other_Regions,27788.88416,DEU,276,77.34,82011073.0,1997,Germany_1997
+Europe,Germany,Feed_B_Other_Regions,30035.80198,DEU,276,78.67,82350671.0,2002,Germany_2002
+Europe,Germany,Feed_B_Other_Regions,32170.37442,DEU,276,79.406,82400996.0,2007,Germany_2007
+Europe,Greece,Feed_B_Other_Regions,3530.690067,GRC,300,65.86,7733250.0,1952,Greece_1952
+Europe,Greece,Feed_B_Other_Regions,4916.299889,GRC,300,67.86,8096218.0,1957,Greece_1957
+Europe,Greece,Feed_B_Other_Regions,6017.190732999999,GRC,300,69.51,8448233.0,1962,Greece_1962
+Europe,Greece,Feed_B_Other_Regions,8513.097016,GRC,300,71.0,8716441.0,1967,Greece_1967
+Europe,Greece,Feed_B_Other_Regions,12724.82957,GRC,300,72.34,8888628.0,1972,Greece_1972
+Europe,Greece,Feed_B_Other_Regions,14195.52428,GRC,300,73.68,9308479.0,1977,Greece_1977
+Europe,Greece,Feed_B_Other_Regions,15268.42089,GRC,300,75.24,9786480.0,1982,Greece_1982
+Europe,Greece,Feed_B_Other_Regions,16120.52839,GRC,300,76.67,9974490.0,1987,Greece_1987
+Europe,Greece,Feed_B_Other_Regions,17541.49634,GRC,300,77.03,10325429.0,1992,Greece_1992
+Europe,Greece,Feed_B_Other_Regions,18747.69814,GRC,300,77.869,10502372.0,1997,Greece_1997
+Europe,Greece,Feed_B_Other_Regions,22514.2548,GRC,300,78.256,10603863.0,2002,Greece_2002
+Europe,Greece,Feed_B_Other_Regions,27538.41188,GRC,300,79.483,10706290.0,2007,Greece_2007
+Americas,Guatemala,Feed_B_Other_Regions,2428.2377690000008,GTM,320,42.023,3146381.0,1952,Guatemala_1952
+Americas,Guatemala,Feed_B_Other_Regions,2617.155967,GTM,320,44.142,3640876.0,1957,Guatemala_1957
+Americas,Guatemala,Feed_B_Other_Regions,2750.364446,GTM,320,46.95399999999999,4208858.0,1962,Guatemala_1962
+Americas,Guatemala,Feed_B_Other_Regions,3242.531147,GTM,320,50.01600000000001,4690773.0,1967,Guatemala_1967
+Americas,Guatemala,Feed_B_Other_Regions,4031.408271,GTM,320,53.738,5149581.0,1972,Guatemala_1972
+Americas,Guatemala,Feed_B_Other_Regions,4879.992748,GTM,320,56.029,5703430.0,1977,Guatemala_1977
+Americas,Guatemala,Feed_B_Other_Regions,4820.49479,GTM,320,58.137,6395630.0,1982,Guatemala_1982
+Americas,Guatemala,Feed_B_Other_Regions,4246.485974,GTM,320,60.782,7326406.0,1987,Guatemala_1987
+Americas,Guatemala,Feed_B_Other_Regions,4439.45084,GTM,320,63.37300000000001,8486949.0,1992,Guatemala_1992
+Americas,Guatemala,Feed_B_Other_Regions,4684.313807,GTM,320,66.322,9803875.0,1997,Guatemala_1997
+Americas,Guatemala,Feed_B_Other_Regions,4858.347495,GTM,320,68.97800000000001,11178650.0,2002,Guatemala_2002
+Americas,Guatemala,Feed_B_Other_Regions,5186.050003,GTM,320,70.259,12572928.0,2007,Guatemala_2007
+Americas,Haiti,Feed_B_Other_Regions,1840.366939,HTI,332,37.579,3201488.0,1952,Haiti_1952
+Americas,Haiti,Feed_B_Other_Regions,1726.887882,HTI,332,40.696,3507701.0,1957,Haiti_1957
+Americas,Haiti,Feed_B_Other_Regions,1796.589032,HTI,332,43.59,3880130.0,1962,Haiti_1962
+Americas,Haiti,Feed_B_Other_Regions,1452.057666,HTI,332,46.243,4318137.0,1967,Haiti_1967
+Americas,Haiti,Feed_B_Other_Regions,1654.456946,HTI,332,48.042,4698301.0,1972,Haiti_1972
+Americas,Haiti,Feed_B_Other_Regions,1874.298931,HTI,332,49.923,4908554.0,1977,Haiti_1977
+Americas,Haiti,Feed_B_Other_Regions,2011.159549,HTI,332,51.46100000000001,5198399.0,1982,Haiti_1982
+Americas,Haiti,Feed_B_Other_Regions,1823.015995,HTI,332,53.636,5756203.0,1987,Haiti_1987
+Americas,Haiti,Feed_B_Other_Regions,1456.309517,HTI,332,55.089,6326682.0,1992,Haiti_1992
+Americas,Haiti,Feed_B_Other_Regions,1341.726931,HTI,332,56.67100000000001,6913545.0,1997,Haiti_1997
+Americas,Haiti,Feed_B_Other_Regions,1270.364932,HTI,332,58.137,7607651.0,2002,Haiti_2002
+Americas,Haiti,Feed_B_Other_Regions,1201.637154,HTI,332,60.916,8502814.0,2007,Haiti_2007
+Americas,Honduras,Feed_B_Other_Regions,2194.926204,HND,340,41.912,1517453.0,1952,Honduras_1952
+Americas,Honduras,Feed_B_Other_Regions,2220.487682,HND,340,44.665,1770390.0,1957,Honduras_1957
+Americas,Honduras,Feed_B_Other_Regions,2291.156835,HND,340,48.041,2090162.0,1962,Honduras_1962
+Americas,Honduras,Feed_B_Other_Regions,2538.269358,HND,340,50.924,2500689.0,1967,Honduras_1967
+Americas,Honduras,Feed_B_Other_Regions,2529.842345,HND,340,53.88399999999999,2965146.0,1972,Honduras_1972
+Americas,Honduras,Feed_B_Other_Regions,3203.208066,HND,340,57.402,3055235.0,1977,Honduras_1977
+Americas,Honduras,Feed_B_Other_Regions,3121.7607940000007,HND,340,60.909,3669448.0,1982,Honduras_1982
+Americas,Honduras,Feed_B_Other_Regions,3023.096699,HND,340,64.492,4372203.0,1987,Honduras_1987
+Americas,Honduras,Feed_B_Other_Regions,3081.694603,HND,340,66.399,5077347.0,1992,Honduras_1992
+Americas,Honduras,Feed_B_Other_Regions,3160.454906,HND,340,67.65899999999999,5867957.0,1997,Honduras_1997
+Americas,Honduras,Feed_B_Other_Regions,3099.72866,HND,340,68.565,6677328.0,2002,Honduras_2002
+Americas,Honduras,Feed_B_Other_Regions,3548.3308460000007,HND,340,70.19800000000001,7483763.0,2007,Honduras_2007
+Europe,Hungary,Feed_B_Other_Regions,5263.673816,HUN,348,64.03,9504000.0,1952,Hungary_1952
+Europe,Hungary,Feed_B_Other_Regions,6040.180011,HUN,348,66.41,9839000.0,1957,Hungary_1957
+Europe,Hungary,Feed_B_Other_Regions,7550.359877,HUN,348,67.96,10063000.0,1962,Hungary_1962
+Europe,Hungary,Feed_B_Other_Regions,9326.64467,HUN,348,69.5,10223422.0,1967,Hungary_1967
+Europe,Hungary,Feed_B_Other_Regions,10168.65611,HUN,348,69.76,10394091.0,1972,Hungary_1972
+Europe,Hungary,Feed_B_Other_Regions,11674.83737,HUN,348,69.95,10637171.0,1977,Hungary_1977
+Europe,Hungary,Feed_B_Other_Regions,12545.99066,HUN,348,69.39,10705535.0,1982,Hungary_1982
+Europe,Hungary,Feed_B_Other_Regions,12986.47998,HUN,348,69.58,10612740.0,1987,Hungary_1987
+Europe,Hungary,Feed_B_Other_Regions,10535.62855,HUN,348,69.17,10348684.0,1992,Hungary_1992
+Europe,Hungary,Feed_B_Other_Regions,11712.7768,HUN,348,71.04,10244684.0,1997,Hungary_1997
+Europe,Hungary,Feed_B_Other_Regions,14843.93556,HUN,348,72.59,10083313.0,2002,Hungary_2002
+Europe,Hungary,Feed_B_Other_Regions,18008.94444,HUN,348,73.33800000000002,9956108.0,2007,Hungary_2007
+Europe,Iceland,Feed_B_Other_Regions,7267.688428,ISL,352,72.49,147962.0,1952,Iceland_1952
+Europe,Iceland,Feed_B_Other_Regions,9244.001412,ISL,352,73.47,165110.0,1957,Iceland_1957
+Europe,Iceland,Feed_B_Other_Regions,10350.15906,ISL,352,73.68,182053.0,1962,Iceland_1962
+Europe,Iceland,Feed_B_Other_Regions,13319.89568,ISL,352,73.73,198676.0,1967,Iceland_1967
+Europe,Iceland,Feed_B_Other_Regions,15798.06362,ISL,352,74.46,209275.0,1972,Iceland_1972
+Europe,Iceland,Feed_B_Other_Regions,19654.96247,ISL,352,76.11,221823.0,1977,Iceland_1977
+Europe,Iceland,Feed_B_Other_Regions,23269.6075,ISL,352,76.99,233997.0,1982,Iceland_1982
+Europe,Iceland,Feed_B_Other_Regions,26923.20628,ISL,352,77.23,244676.0,1987,Iceland_1987
+Europe,Iceland,Feed_B_Other_Regions,25144.39201,ISL,352,78.77,259012.0,1992,Iceland_1992
+Europe,Iceland,Feed_B_Other_Regions,28061.099660000003,ISL,352,78.95,271192.0,1997,Iceland_1997
+Europe,Iceland,Feed_B_Other_Regions,31163.20196,ISL,352,80.5,288030.0,2002,Iceland_2002
+Europe,Iceland,Feed_B_Other_Regions,36180.78919,ISL,352,81.757,301931.0,2007,Iceland_2007
+Europe,Ireland,Feed_B_Other_Regions,5210.280328,IRL,372,66.91,2952156.0,1952,Ireland_1952
+Europe,Ireland,Feed_B_Other_Regions,5599.077872,IRL,372,68.9,2878220.0,1957,Ireland_1957
+Europe,Ireland,Feed_B_Other_Regions,6631.597314,IRL,372,70.29,2830000.0,1962,Ireland_1962
+Europe,Ireland,Feed_B_Other_Regions,7655.568963,IRL,372,71.08,2900100.0,1967,Ireland_1967
+Europe,Ireland,Feed_B_Other_Regions,9530.772896,IRL,372,71.28,3024400.0,1972,Ireland_1972
+Europe,Ireland,Feed_B_Other_Regions,11150.98113,IRL,372,72.03,3271900.0,1977,Ireland_1977
+Europe,Ireland,Feed_B_Other_Regions,12618.32141,IRL,372,73.1,3480000.0,1982,Ireland_1982
+Europe,Ireland,Feed_B_Other_Regions,13872.86652,IRL,372,74.36,3539900.0,1987,Ireland_1987
+Europe,Ireland,Feed_B_Other_Regions,17558.81555,IRL,372,75.467,3557761.0,1992,Ireland_1992
+Europe,Ireland,Feed_B_Other_Regions,24521.94713,IRL,372,76.122,3667233.0,1997,Ireland_1997
+Europe,Ireland,Feed_B_Other_Regions,34077.04939,IRL,372,77.783,3879155.0,2002,Ireland_2002
+Europe,Ireland,Feed_B_Other_Regions,40675.99635,IRL,372,78.885,4109086.0,2007,Ireland_2007
+Europe,Italy,Feed_B_Other_Regions,4931.404154999998,ITA,380,65.94,47666000.0,1952,Italy_1952
+Europe,Italy,Feed_B_Other_Regions,6248.656232,ITA,380,67.81,49182000.0,1957,Italy_1957
+Europe,Italy,Feed_B_Other_Regions,8243.58234,ITA,380,69.24,50843200.0,1962,Italy_1962
+Europe,Italy,Feed_B_Other_Regions,10022.40131,ITA,380,71.06,52667100.0,1967,Italy_1967
+Europe,Italy,Feed_B_Other_Regions,12269.27378,ITA,380,72.19,54365564.0,1972,Italy_1972
+Europe,Italy,Feed_B_Other_Regions,14255.98475,ITA,380,73.48,56059245.0,1977,Italy_1977
+Europe,Italy,Feed_B_Other_Regions,16537.4835,ITA,380,74.98,56535636.0,1982,Italy_1982
+Europe,Italy,Feed_B_Other_Regions,19207.23482,ITA,380,76.42,56729703.0,1987,Italy_1987
+Europe,Italy,Feed_B_Other_Regions,22013.64486,ITA,380,77.44,56840847.0,1992,Italy_1992
+Europe,Italy,Feed_B_Other_Regions,24675.02446,ITA,380,78.82,57479469.0,1997,Italy_1997
+Europe,Italy,Feed_B_Other_Regions,27968.09817,ITA,380,80.24,57926999.0,2002,Italy_2002
+Europe,Italy,Feed_B_Other_Regions,28569.7197,ITA,380,80.546,58147733.0,2007,Italy_2007
+Americas,Jamaica,Feed_B_Other_Regions,2898.530881,JAM,388,58.53,1426095.0,1952,Jamaica_1952
+Americas,Jamaica,Feed_B_Other_Regions,4756.525781,JAM,388,62.61,1535090.0,1957,Jamaica_1957
+Americas,Jamaica,Feed_B_Other_Regions,5246.107524,JAM,388,65.61,1665128.0,1962,Jamaica_1962
+Americas,Jamaica,Feed_B_Other_Regions,6124.703450999999,JAM,388,67.51,1861096.0,1967,Jamaica_1967
+Americas,Jamaica,Feed_B_Other_Regions,7433.889293000001,JAM,388,69.0,1997616.0,1972,Jamaica_1972
+Americas,Jamaica,Feed_B_Other_Regions,6650.195573,JAM,388,70.11,2156814.0,1977,Jamaica_1977
+Americas,Jamaica,Feed_B_Other_Regions,6068.05135,JAM,388,71.21,2298309.0,1982,Jamaica_1982
+Americas,Jamaica,Feed_B_Other_Regions,6351.237495,JAM,388,71.77,2326606.0,1987,Jamaica_1987
+Americas,Jamaica,Feed_B_Other_Regions,7404.923685,JAM,388,71.766,2378618.0,1992,Jamaica_1992
+Americas,Jamaica,Feed_B_Other_Regions,7121.924704000001,JAM,388,72.262,2531311.0,1997,Jamaica_1997
+Americas,Jamaica,Feed_B_Other_Regions,6994.774861,JAM,388,72.047,2664659.0,2002,Jamaica_2002
+Americas,Jamaica,Feed_B_Other_Regions,7320.8802620000015,JAM,388,72.567,2780132.0,2007,Jamaica_2007
+Americas,Mexico,Feed_B_Other_Regions,3478.125529,MEX,484,50.789,30144317.0,1952,Mexico_1952
+Americas,Mexico,Feed_B_Other_Regions,4131.546641,MEX,484,55.19,35015548.0,1957,Mexico_1957
+Americas,Mexico,Feed_B_Other_Regions,4581.609385,MEX,484,58.299,41121485.0,1962,Mexico_1962
+Americas,Mexico,Feed_B_Other_Regions,5754.733883,MEX,484,60.11,47995559.0,1967,Mexico_1967
+Americas,Mexico,Feed_B_Other_Regions,6809.406690000002,MEX,484,62.361,55984294.0,1972,Mexico_1972
+Americas,Mexico,Feed_B_Other_Regions,7674.929108,MEX,484,65.032,63759976.0,1977,Mexico_1977
+Americas,Mexico,Feed_B_Other_Regions,9611.147541,MEX,484,67.405,71640904.0,1982,Mexico_1982
+Americas,Mexico,Feed_B_Other_Regions,8688.156003,MEX,484,69.498,80122492.0,1987,Mexico_1987
+Americas,Mexico,Feed_B_Other_Regions,9472.384295,MEX,484,71.455,88111030.0,1992,Mexico_1992
+Americas,Mexico,Feed_B_Other_Regions,9767.29753,MEX,484,73.67,95895146.0,1997,Mexico_1997
+Americas,Mexico,Feed_B_Other_Regions,10742.44053,MEX,484,74.902,102479927.0,2002,Mexico_2002
+Americas,Mexico,Feed_B_Other_Regions,11977.57496,MEX,484,76.195,108700891.0,2007,Mexico_2007
+Europe,Montenegro,Feed_B_Other_Regions,2647.585601,MNE,499,59.164,413834.0,1952,Montenegro_1952
+Europe,Montenegro,Feed_B_Other_Regions,3682.259903,MNE,499,61.448,442829.0,1957,Montenegro_1957
+Europe,Montenegro,Feed_B_Other_Regions,4649.593785,MNE,499,63.728,474528.0,1962,Montenegro_1962
+Europe,Montenegro,Feed_B_Other_Regions,5907.850937,MNE,499,67.178,501035.0,1967,Montenegro_1967
+Europe,Montenegro,Feed_B_Other_Regions,7778.414017,MNE,499,70.63600000000002,527678.0,1972,Montenegro_1972
+Europe,Montenegro,Feed_B_Other_Regions,9595.929905,MNE,499,73.066,560073.0,1977,Montenegro_1977
+Europe,Montenegro,Feed_B_Other_Regions,11222.58762,MNE,499,74.101,562548.0,1982,Montenegro_1982
+Europe,Montenegro,Feed_B_Other_Regions,11732.51017,MNE,499,74.865,569473.0,1987,Montenegro_1987
+Europe,Montenegro,Feed_B_Other_Regions,7003.339037000002,MNE,499,75.435,621621.0,1992,Montenegro_1992
+Europe,Montenegro,Feed_B_Other_Regions,6465.613349,MNE,499,75.445,692651.0,1997,Montenegro_1997
+Europe,Montenegro,Feed_B_Other_Regions,6557.194282,MNE,499,73.98100000000002,720230.0,2002,Montenegro_2002
+Europe,Montenegro,Feed_B_Other_Regions,9253.896111,MNE,499,74.543,684736.0,2007,Montenegro_2007
+Europe,Netherlands,Feed_B_Other_Regions,8941.571858,NLD,528,72.13,10381988.0,1952,Netherlands_1952
+Europe,Netherlands,Feed_B_Other_Regions,11276.19344,NLD,528,72.99,11026383.0,1957,Netherlands_1957
+Europe,Netherlands,Feed_B_Other_Regions,12790.84956,NLD,528,73.23,11805689.0,1962,Netherlands_1962
+Europe,Netherlands,Feed_B_Other_Regions,15363.25136,NLD,528,73.82,12596822.0,1967,Netherlands_1967
+Europe,Netherlands,Feed_B_Other_Regions,18794.74567,NLD,528,73.75,13329874.0,1972,Netherlands_1972
+Europe,Netherlands,Feed_B_Other_Regions,21209.0592,NLD,528,75.24,13852989.0,1977,Netherlands_1977
+Europe,Netherlands,Feed_B_Other_Regions,21399.46046,NLD,528,76.05,14310401.0,1982,Netherlands_1982
+Europe,Netherlands,Feed_B_Other_Regions,23651.32361,NLD,528,76.83,14665278.0,1987,Netherlands_1987
+Europe,Netherlands,Feed_B_Other_Regions,26790.94961,NLD,528,77.42,15174244.0,1992,Netherlands_1992
+Europe,Netherlands,Feed_B_Other_Regions,30246.13063,NLD,528,78.03,15604464.0,1997,Netherlands_1997
+Europe,Netherlands,Feed_B_Other_Regions,33724.75778,NLD,528,78.53,16122830.0,2002,Netherlands_2002
+Europe,Netherlands,Feed_B_Other_Regions,36797.93332,NLD,528,79.762,16570613.0,2007,Netherlands_2007
+Oceania,New Zealand,Feed_B_Other_Regions,10556.57566,NZL,554,69.39,1994794.0,1952,New_Zealand_1952
+Oceania,New Zealand,Feed_B_Other_Regions,12247.39532,NZL,554,70.26,2229407.0,1957,New_Zealand_1957
+Oceania,New Zealand,Feed_B_Other_Regions,13175.678,NZL,554,71.24,2488550.0,1962,New_Zealand_1962
+Oceania,New Zealand,Feed_B_Other_Regions,14463.918930000002,NZL,554,71.52,2728150.0,1967,New_Zealand_1967
+Oceania,New Zealand,Feed_B_Other_Regions,16046.03728,NZL,554,71.89,2929100.0,1972,New_Zealand_1972
+Oceania,New Zealand,Feed_B_Other_Regions,16233.7177,NZL,554,72.22,3164900.0,1977,New_Zealand_1977
+Oceania,New Zealand,Feed_B_Other_Regions,17632.4104,NZL,554,73.84,3210650.0,1982,New_Zealand_1982
+Oceania,New Zealand,Feed_B_Other_Regions,19007.19129,NZL,554,74.32,3317166.0,1987,New_Zealand_1987
+Oceania,New Zealand,Feed_B_Other_Regions,18363.32494,NZL,554,76.33,3437674.0,1992,New_Zealand_1992
+Oceania,New Zealand,Feed_B_Other_Regions,21050.41377,NZL,554,77.55,3676187.0,1997,New_Zealand_1997
+Oceania,New Zealand,Feed_B_Other_Regions,23189.80135,NZL,554,79.11,3908037.0,2002,New_Zealand_2002
+Oceania,New Zealand,Feed_B_Other_Regions,25185.00911,NZL,554,80.204,4115771.0,2007,New_Zealand_2007
+Americas,Nicaragua,Feed_B_Other_Regions,3112.363948,NIC,558,42.31399999999999,1165790.0,1952,Nicaragua_1952
+Americas,Nicaragua,Feed_B_Other_Regions,3457.415947,NIC,558,45.432,1358828.0,1957,Nicaragua_1957
+Americas,Nicaragua,Feed_B_Other_Regions,3634.364406,NIC,558,48.632,1590597.0,1962,Nicaragua_1962
+Americas,Nicaragua,Feed_B_Other_Regions,4643.393534000002,NIC,558,51.88399999999999,1865490.0,1967,Nicaragua_1967
+Americas,Nicaragua,Feed_B_Other_Regions,4688.593267,NIC,558,55.151,2182908.0,1972,Nicaragua_1972
+Americas,Nicaragua,Feed_B_Other_Regions,5486.371089,NIC,558,57.47,2554598.0,1977,Nicaragua_1977
+Americas,Nicaragua,Feed_B_Other_Regions,3470.3381560000007,NIC,558,59.298,2979423.0,1982,Nicaragua_1982
+Americas,Nicaragua,Feed_B_Other_Regions,2955.984375,NIC,558,62.008,3344353.0,1987,Nicaragua_1987
+Americas,Nicaragua,Feed_B_Other_Regions,2170.151724,NIC,558,65.843,4017939.0,1992,Nicaragua_1992
+Americas,Nicaragua,Feed_B_Other_Regions,2253.023004,NIC,558,68.426,4609572.0,1997,Nicaragua_1997
+Americas,Nicaragua,Feed_B_Other_Regions,2474.548819,NIC,558,70.836,5146848.0,2002,Nicaragua_2002
+Americas,Nicaragua,Feed_B_Other_Regions,2749.320965,NIC,558,72.899,5675356.0,2007,Nicaragua_2007
+Europe,Norway,Feed_B_Other_Regions,10095.42172,NOR,578,72.67,3327728.0,1952,Norway_1952
+Europe,Norway,Feed_B_Other_Regions,11653.97304,NOR,578,73.44,3491938.0,1957,Norway_1957
+Europe,Norway,Feed_B_Other_Regions,13450.40151,NOR,578,73.47,3638919.0,1962,Norway_1962
+Europe,Norway,Feed_B_Other_Regions,16361.87647,NOR,578,74.08,3786019.0,1967,Norway_1967
+Europe,Norway,Feed_B_Other_Regions,18965.05551,NOR,578,74.34,3933004.0,1972,Norway_1972
+Europe,Norway,Feed_B_Other_Regions,23311.34939,NOR,578,75.37,4043205.0,1977,Norway_1977
+Europe,Norway,Feed_B_Other_Regions,26298.63531,NOR,578,75.97,4114787.0,1982,Norway_1982
+Europe,Norway,Feed_B_Other_Regions,31540.9748,NOR,578,75.89,4186147.0,1987,Norway_1987
+Europe,Norway,Feed_B_Other_Regions,33965.66115,NOR,578,77.32,4286357.0,1992,Norway_1992
+Europe,Norway,Feed_B_Other_Regions,41283.16433,NOR,578,78.32,4405672.0,1997,Norway_1997
+Europe,Norway,Feed_B_Other_Regions,44683.97525,NOR,578,79.05,4535591.0,2002,Norway_2002
+Europe,Norway,Feed_B_Other_Regions,49357.19017,NOR,578,80.196,4627926.0,2007,Norway_2007
+Americas,Panama,Feed_B_Other_Regions,2480.380334,PAN,591,55.191,940080.0,1952,Panama_1952
+Americas,Panama,Feed_B_Other_Regions,2961.800905,PAN,591,59.201,1063506.0,1957,Panama_1957
+Americas,Panama,Feed_B_Other_Regions,3536.540301,PAN,591,61.817,1215725.0,1962,Panama_1962
+Americas,Panama,Feed_B_Other_Regions,4421.009084,PAN,591,64.071,1405486.0,1967,Panama_1967
+Americas,Panama,Feed_B_Other_Regions,5364.249663000001,PAN,591,66.21600000000001,1616384.0,1972,Panama_1972
+Americas,Panama,Feed_B_Other_Regions,5351.912144,PAN,591,68.681,1839782.0,1977,Panama_1977
+Americas,Panama,Feed_B_Other_Regions,7009.601598,PAN,591,70.472,2036305.0,1982,Panama_1982
+Americas,Panama,Feed_B_Other_Regions,7034.779161,PAN,591,71.523,2253639.0,1987,Panama_1987
+Americas,Panama,Feed_B_Other_Regions,6618.74305,PAN,591,72.462,2484997.0,1992,Panama_1992
+Americas,Panama,Feed_B_Other_Regions,7113.692252,PAN,591,73.738,2734531.0,1997,Panama_1997
+Americas,Panama,Feed_B_Other_Regions,7356.0319340000015,PAN,591,74.712,2990875.0,2002,Panama_2002
+Americas,Panama,Feed_B_Other_Regions,9809.185636,PAN,591,75.53699999999998,3242173.0,2007,Panama_2007
+Americas,Paraguay,Feed_B_Other_Regions,1952.308701,PRY,600,62.649,1555876.0,1952,Paraguay_1952
+Americas,Paraguay,Feed_B_Other_Regions,2046.154706,PRY,600,63.19600000000001,1770902.0,1957,Paraguay_1957
+Americas,Paraguay,Feed_B_Other_Regions,2148.027146,PRY,600,64.361,2009813.0,1962,Paraguay_1962
+Americas,Paraguay,Feed_B_Other_Regions,2299.376311,PRY,600,64.95100000000001,2287985.0,1967,Paraguay_1967
+Americas,Paraguay,Feed_B_Other_Regions,2523.337977,PRY,600,65.815,2614104.0,1972,Paraguay_1972
+Americas,Paraguay,Feed_B_Other_Regions,3248.373311,PRY,600,66.35300000000001,2984494.0,1977,Paraguay_1977
+Americas,Paraguay,Feed_B_Other_Regions,4258.503604,PRY,600,66.874,3366439.0,1982,Paraguay_1982
+Americas,Paraguay,Feed_B_Other_Regions,3998.875695,PRY,600,67.378,3886512.0,1987,Paraguay_1987
+Americas,Paraguay,Feed_B_Other_Regions,4196.411078,PRY,600,68.225,4483945.0,1992,Paraguay_1992
+Americas,Paraguay,Feed_B_Other_Regions,4247.400261,PRY,600,69.4,5154123.0,1997,Paraguay_1997
+Americas,Paraguay,Feed_B_Other_Regions,3783.674243,PRY,600,70.755,5884491.0,2002,Paraguay_2002
+Americas,Paraguay,Feed_B_Other_Regions,4172.838464,PRY,600,71.752,6667147.0,2007,Paraguay_2007
+Americas,Peru,Feed_B_Other_Regions,3758.523437,PER,604,43.902,8025700.0,1952,Peru_1952
+Americas,Peru,Feed_B_Other_Regions,4245.256697999999,PER,604,46.26300000000001,9146100.0,1957,Peru_1957
+Americas,Peru,Feed_B_Other_Regions,4957.037982,PER,604,49.096,10516500.0,1962,Peru_1962
+Americas,Peru,Feed_B_Other_Regions,5788.09333,PER,604,51.445,12132200.0,1967,Peru_1967
+Americas,Peru,Feed_B_Other_Regions,5937.827283,PER,604,55.448,13954700.0,1972,Peru_1972
+Americas,Peru,Feed_B_Other_Regions,6281.290854999998,PER,604,58.447,15990099.0,1977,Peru_1977
+Americas,Peru,Feed_B_Other_Regions,6434.501797,PER,604,61.40600000000001,18125129.0,1982,Peru_1982
+Americas,Peru,Feed_B_Other_Regions,6360.943444,PER,604,64.134,20195924.0,1987,Peru_1987
+Americas,Peru,Feed_B_Other_Regions,4446.380924,PER,604,66.458,22430449.0,1992,Peru_1992
+Americas,Peru,Feed_B_Other_Regions,5838.347657,PER,604,68.38600000000001,24748122.0,1997,Peru_1997
+Americas,Peru,Feed_B_Other_Regions,5909.020073,PER,604,69.906,26769436.0,2002,Peru_2002
+Americas,Peru,Feed_B_Other_Regions,7408.905561,PER,604,71.421,28674757.0,2007,Peru_2007
+Europe,Poland,Feed_B_Other_Regions,4029.329699,POL,616,61.31,25730551.0,1952,Poland_1952
+Europe,Poland,Feed_B_Other_Regions,4734.253019,POL,616,65.77,28235346.0,1957,Poland_1957
+Europe,Poland,Feed_B_Other_Regions,5338.752143,POL,616,67.64,30329617.0,1962,Poland_1962
+Europe,Poland,Feed_B_Other_Regions,6557.152776,POL,616,69.61,31785378.0,1967,Poland_1967
+Europe,Poland,Feed_B_Other_Regions,8006.506993000001,POL,616,70.85,33039545.0,1972,Poland_1972
+Europe,Poland,Feed_B_Other_Regions,9508.141454,POL,616,70.67,34621254.0,1977,Poland_1977
+Europe,Poland,Feed_B_Other_Regions,8451.531004,POL,616,71.32,36227381.0,1982,Poland_1982
+Europe,Poland,Feed_B_Other_Regions,9082.351172,POL,616,70.98,37740710.0,1987,Poland_1987
+Europe,Poland,Feed_B_Other_Regions,7738.881247,POL,616,70.99,38370697.0,1992,Poland_1992
+Europe,Poland,Feed_B_Other_Regions,10159.58368,POL,616,72.75,38654957.0,1997,Poland_1997
+Europe,Poland,Feed_B_Other_Regions,12002.23908,POL,616,74.67,38625976.0,2002,Poland_2002
+Europe,Poland,Feed_B_Other_Regions,15389.924680000002,POL,616,75.563,38518241.0,2007,Poland_2007
+Europe,Portugal,Feed_B_Other_Regions,3068.319867,PRT,620,59.82,8526050.0,1952,Portugal_1952
+Europe,Portugal,Feed_B_Other_Regions,3774.571743,PRT,620,61.51,8817650.0,1957,Portugal_1957
+Europe,Portugal,Feed_B_Other_Regions,4727.954889,PRT,620,64.39,9019800.0,1962,Portugal_1962
+Europe,Portugal,Feed_B_Other_Regions,6361.517993,PRT,620,66.6,9103000.0,1967,Portugal_1967
+Europe,Portugal,Feed_B_Other_Regions,9022.247417,PRT,620,69.26,8970450.0,1972,Portugal_1972
+Europe,Portugal,Feed_B_Other_Regions,10172.48572,PRT,620,70.41,9662600.0,1977,Portugal_1977
+Europe,Portugal,Feed_B_Other_Regions,11753.84291,PRT,620,72.77,9859650.0,1982,Portugal_1982
+Europe,Portugal,Feed_B_Other_Regions,13039.30876,PRT,620,74.06,9915289.0,1987,Portugal_1987
+Europe,Portugal,Feed_B_Other_Regions,16207.266630000002,PRT,620,74.86,9927680.0,1992,Portugal_1992
+Europe,Portugal,Feed_B_Other_Regions,17641.03156,PRT,620,75.97,10156415.0,1997,Portugal_1997
+Europe,Portugal,Feed_B_Other_Regions,19970.90787,PRT,620,77.29,10433867.0,2002,Portugal_2002
+Europe,Portugal,Feed_B_Other_Regions,20509.64777,PRT,620,78.098,10642836.0,2007,Portugal_2007
+Americas,Puerto Rico,Feed_B_Other_Regions,3081.959785,PRI,630,64.28,2227000.0,1952,Puerto_Rico_1952
+Americas,Puerto Rico,Feed_B_Other_Regions,3907.156189,PRI,630,68.54,2260000.0,1957,Puerto_Rico_1957
+Americas,Puerto Rico,Feed_B_Other_Regions,5108.34463,PRI,630,69.62,2448046.0,1962,Puerto_Rico_1962
+Americas,Puerto Rico,Feed_B_Other_Regions,6929.277714,PRI,630,71.1,2648961.0,1967,Puerto_Rico_1967
+Americas,Puerto Rico,Feed_B_Other_Regions,9123.041742,PRI,630,72.16,2847132.0,1972,Puerto_Rico_1972
+Americas,Puerto Rico,Feed_B_Other_Regions,9770.524921,PRI,630,73.44,3080828.0,1977,Puerto_Rico_1977
+Americas,Puerto Rico,Feed_B_Other_Regions,10330.98915,PRI,630,73.75,3279001.0,1982,Puerto_Rico_1982
+Americas,Puerto Rico,Feed_B_Other_Regions,12281.34191,PRI,630,74.63,3444468.0,1987,Puerto_Rico_1987
+Americas,Puerto Rico,Feed_B_Other_Regions,14641.58711,PRI,630,73.911,3585176.0,1992,Puerto_Rico_1992
+Americas,Puerto Rico,Feed_B_Other_Regions,16999.4333,PRI,630,74.917,3759430.0,1997,Puerto_Rico_1997
+Americas,Puerto Rico,Feed_B_Other_Regions,18855.60618,PRI,630,77.778,3859606.0,2002,Puerto_Rico_2002
+Americas,Puerto Rico,Feed_B_Other_Regions,19328.70901,PRI,630,78.74600000000002,3942491.0,2007,Puerto_Rico_2007
+Europe,Romania,Feed_B_Other_Regions,3144.613186,ROU,642,61.05,16630000.0,1952,Romania_1952
+Europe,Romania,Feed_B_Other_Regions,3943.370225,ROU,642,64.1,17829327.0,1957,Romania_1957
+Europe,Romania,Feed_B_Other_Regions,4734.997586,ROU,642,66.8,18680721.0,1962,Romania_1962
+Europe,Romania,Feed_B_Other_Regions,6470.866545,ROU,642,66.8,19284814.0,1967,Romania_1967
+Europe,Romania,Feed_B_Other_Regions,8011.4144019999985,ROU,642,69.21,20662648.0,1972,Romania_1972
+Europe,Romania,Feed_B_Other_Regions,9356.39724,ROU,642,69.46,21658597.0,1977,Romania_1977
+Europe,Romania,Feed_B_Other_Regions,9605.314053,ROU,642,69.66,22356726.0,1982,Romania_1982
+Europe,Romania,Feed_B_Other_Regions,9696.273295,ROU,642,69.53,22686371.0,1987,Romania_1987
+Europe,Romania,Feed_B_Other_Regions,6598.409903,ROU,642,69.36,22797027.0,1992,Romania_1992
+Europe,Romania,Feed_B_Other_Regions,7346.547556999999,ROU,642,69.72,22562458.0,1997,Romania_1997
+Europe,Romania,Feed_B_Other_Regions,7885.360081,ROU,642,71.322,22404337.0,2002,Romania_2002
+Europe,Romania,Feed_B_Other_Regions,10808.47561,ROU,642,72.476,22276056.0,2007,Romania_2007
+Europe,Serbia,Feed_B_Other_Regions,3581.459448,SRB,688,57.996,6860147.0,1952,Serbia_1952
+Europe,Serbia,Feed_B_Other_Regions,4981.090891,SRB,688,61.685,7271135.0,1957,Serbia_1957
+Europe,Serbia,Feed_B_Other_Regions,6289.629157,SRB,688,64.531,7616060.0,1962,Serbia_1962
+Europe,Serbia,Feed_B_Other_Regions,7991.707066,SRB,688,66.914,7971222.0,1967,Serbia_1967
+Europe,Serbia,Feed_B_Other_Regions,10522.06749,SRB,688,68.7,8313288.0,1972,Serbia_1972
+Europe,Serbia,Feed_B_Other_Regions,12980.66956,SRB,688,70.3,8686367.0,1977,Serbia_1977
+Europe,Serbia,Feed_B_Other_Regions,15181.0927,SRB,688,70.16199999999999,9032824.0,1982,Serbia_1982
+Europe,Serbia,Feed_B_Other_Regions,15870.87851,SRB,688,71.218,9230783.0,1987,Serbia_1987
+Europe,Serbia,Feed_B_Other_Regions,9325.068238,SRB,688,71.65899999999998,9826397.0,1992,Serbia_1992
+Europe,Serbia,Feed_B_Other_Regions,7914.320304000002,SRB,688,72.232,10336594.0,1997,Serbia_1997
+Europe,Serbia,Feed_B_Other_Regions,7236.075251,SRB,688,73.21300000000002,10111559.0,2002,Serbia_2002
+Europe,Serbia,Feed_B_Other_Regions,9786.534714,SRB,688,74.002,10150265.0,2007,Serbia_2007
+Europe,Slovak Republic,Feed_B_Other_Regions,5074.659104,SVK,703,64.36,3558137.0,1952,Slovak_Republic_1952
+Europe,Slovak Republic,Feed_B_Other_Regions,6093.26298,SVK,703,67.45,3844277.0,1957,Slovak_Republic_1957
+Europe,Slovak Republic,Feed_B_Other_Regions,7481.107598,SVK,703,70.33,4237384.0,1962,Slovak_Republic_1962
+Europe,Slovak Republic,Feed_B_Other_Regions,8412.902397,SVK,703,70.98,4442238.0,1967,Slovak_Republic_1967
+Europe,Slovak Republic,Feed_B_Other_Regions,9674.167626,SVK,703,70.35,4593433.0,1972,Slovak_Republic_1972
+Europe,Slovak Republic,Feed_B_Other_Regions,10922.66404,SVK,703,70.45,4827803.0,1977,Slovak_Republic_1977
+Europe,Slovak Republic,Feed_B_Other_Regions,11348.54585,SVK,703,70.8,5048043.0,1982,Slovak_Republic_1982
+Europe,Slovak Republic,Feed_B_Other_Regions,12037.26758,SVK,703,71.08,5199318.0,1987,Slovak_Republic_1987
+Europe,Slovak Republic,Feed_B_Other_Regions,9498.467723,SVK,703,71.38,5302888.0,1992,Slovak_Republic_1992
+Europe,Slovak Republic,Feed_B_Other_Regions,12126.23065,SVK,703,72.71,5383010.0,1997,Slovak_Republic_1997
+Europe,Slovak Republic,Feed_B_Other_Regions,13638.778369999998,SVK,703,73.8,5410052.0,2002,Slovak_Republic_2002
+Europe,Slovak Republic,Feed_B_Other_Regions,18678.31435,SVK,703,74.663,5447502.0,2007,Slovak_Republic_2007
+Europe,Slovenia,Feed_B_Other_Regions,4215.041741,SVN,705,65.57,1489518.0,1952,Slovenia_1952
+Europe,Slovenia,Feed_B_Other_Regions,5862.276629,SVN,705,67.85,1533070.0,1957,Slovenia_1957
+Europe,Slovenia,Feed_B_Other_Regions,7402.303395,SVN,705,69.15,1582962.0,1962,Slovenia_1962
+Europe,Slovenia,Feed_B_Other_Regions,9405.489397,SVN,705,69.18,1646912.0,1967,Slovenia_1967
+Europe,Slovenia,Feed_B_Other_Regions,12383.4862,SVN,705,69.82,1694510.0,1972,Slovenia_1972
+Europe,Slovenia,Feed_B_Other_Regions,15277.030169999998,SVN,705,70.97,1746919.0,1977,Slovenia_1977
+Europe,Slovenia,Feed_B_Other_Regions,17866.72175,SVN,705,71.063,1861252.0,1982,Slovenia_1982
+Europe,Slovenia,Feed_B_Other_Regions,18678.53492,SVN,705,72.25,1945870.0,1987,Slovenia_1987
+Europe,Slovenia,Feed_B_Other_Regions,14214.71681,SVN,705,73.64,1999210.0,1992,Slovenia_1992
+Europe,Slovenia,Feed_B_Other_Regions,17161.10735,SVN,705,75.13,2011612.0,1997,Slovenia_1997
+Europe,Slovenia,Feed_B_Other_Regions,20660.01936,SVN,705,76.66,2011497.0,2002,Slovenia_2002
+Europe,Slovenia,Feed_B_Other_Regions,25768.25759,SVN,705,77.926,2009245.0,2007,Slovenia_2007
+Europe,Spain,Feed_B_Other_Regions,3834.034742,ESP,724,64.94,28549870.0,1952,Spain_1952
+Europe,Spain,Feed_B_Other_Regions,4564.80241,ESP,724,66.66,29841614.0,1957,Spain_1957
+Europe,Spain,Feed_B_Other_Regions,5693.843879,ESP,724,69.69,31158061.0,1962,Spain_1962
+Europe,Spain,Feed_B_Other_Regions,7993.512294,ESP,724,71.44,32850275.0,1967,Spain_1967
+Europe,Spain,Feed_B_Other_Regions,10638.75131,ESP,724,73.06,34513161.0,1972,Spain_1972
+Europe,Spain,Feed_B_Other_Regions,13236.92117,ESP,724,74.39,36439000.0,1977,Spain_1977
+Europe,Spain,Feed_B_Other_Regions,13926.16997,ESP,724,76.3,37983310.0,1982,Spain_1982
+Europe,Spain,Feed_B_Other_Regions,15764.98313,ESP,724,76.9,38880702.0,1987,Spain_1987
+Europe,Spain,Feed_B_Other_Regions,18603.06452,ESP,724,77.57,39549438.0,1992,Spain_1992
+Europe,Spain,Feed_B_Other_Regions,20445.29896,ESP,724,78.77,39855442.0,1997,Spain_1997
+Europe,Spain,Feed_B_Other_Regions,24835.47166,ESP,724,79.78,40152517.0,2002,Spain_2002
+Europe,Spain,Feed_B_Other_Regions,28821.0637,ESP,724,80.941,40448191.0,2007,Spain_2007
+Europe,Sweden,Feed_B_Other_Regions,8527.844662000001,SWE,752,71.86,7124673.0,1952,Sweden_1952
+Europe,Sweden,Feed_B_Other_Regions,9911.878226,SWE,752,72.49,7363802.0,1957,Sweden_1957
+Europe,Sweden,Feed_B_Other_Regions,12329.44192,SWE,752,73.37,7561588.0,1962,Sweden_1962
+Europe,Sweden,Feed_B_Other_Regions,15258.29697,SWE,752,74.16,7867931.0,1967,Sweden_1967
+Europe,Sweden,Feed_B_Other_Regions,17832.02464,SWE,752,74.72,8122293.0,1972,Sweden_1972
+Europe,Sweden,Feed_B_Other_Regions,18855.72521,SWE,752,75.44,8251648.0,1977,Sweden_1977
+Europe,Sweden,Feed_B_Other_Regions,20667.38125,SWE,752,76.42,8325260.0,1982,Sweden_1982
+Europe,Sweden,Feed_B_Other_Regions,23586.92927,SWE,752,77.19,8421403.0,1987,Sweden_1987
+Europe,Sweden,Feed_B_Other_Regions,23880.01683,SWE,752,78.16,8718867.0,1992,Sweden_1992
+Europe,Sweden,Feed_B_Other_Regions,25266.59499,SWE,752,79.39,8897619.0,1997,Sweden_1997
+Europe,Sweden,Feed_B_Other_Regions,29341.630930000007,SWE,752,80.04,8954175.0,2002,Sweden_2002
+Europe,Sweden,Feed_B_Other_Regions,33859.74835,SWE,752,80.884,9031088.0,2007,Sweden_2007
+Europe,Switzerland,Feed_B_Other_Regions,14734.23275,CHE,756,69.62,4815000.0,1952,Switzerland_1952
+Europe,Switzerland,Feed_B_Other_Regions,17909.48973,CHE,756,70.56,5126000.0,1957,Switzerland_1957
+Europe,Switzerland,Feed_B_Other_Regions,20431.0927,CHE,756,71.32,5666000.0,1962,Switzerland_1962
+Europe,Switzerland,Feed_B_Other_Regions,22966.14432,CHE,756,72.77,6063000.0,1967,Switzerland_1967
+Europe,Switzerland,Feed_B_Other_Regions,27195.11304,CHE,756,73.78,6401400.0,1972,Switzerland_1972
+Europe,Switzerland,Feed_B_Other_Regions,26982.29052,CHE,756,75.39,6316424.0,1977,Switzerland_1977
+Europe,Switzerland,Feed_B_Other_Regions,28397.71512,CHE,756,76.21,6468126.0,1982,Switzerland_1982
+Europe,Switzerland,Feed_B_Other_Regions,30281.70459,CHE,756,77.41,6649942.0,1987,Switzerland_1987
+Europe,Switzerland,Feed_B_Other_Regions,31871.5303,CHE,756,78.03,6995447.0,1992,Switzerland_1992
+Europe,Switzerland,Feed_B_Other_Regions,32135.323010000004,CHE,756,79.37,7193761.0,1997,Switzerland_1997
+Europe,Switzerland,Feed_B_Other_Regions,34480.95771,CHE,756,80.62,7361757.0,2002,Switzerland_2002
+Europe,Switzerland,Feed_B_Other_Regions,37506.41907,CHE,756,81.70100000000002,7554661.0,2007,Switzerland_2007
+Americas,Trinidad and Tobago,Feed_B_Other_Regions,3023.271928,TTO,780,59.1,662850.0,1952,Trinidad_and_Tobago_1952
+Americas,Trinidad and Tobago,Feed_B_Other_Regions,4100.3934,TTO,780,61.8,764900.0,1957,Trinidad_and_Tobago_1957
+Americas,Trinidad and Tobago,Feed_B_Other_Regions,4997.523971000001,TTO,780,64.9,887498.0,1962,Trinidad_and_Tobago_1962
+Americas,Trinidad and Tobago,Feed_B_Other_Regions,5621.368472,TTO,780,65.4,960155.0,1967,Trinidad_and_Tobago_1967
+Americas,Trinidad and Tobago,Feed_B_Other_Regions,6619.551418999999,TTO,780,65.9,975199.0,1972,Trinidad_and_Tobago_1972
+Americas,Trinidad and Tobago,Feed_B_Other_Regions,7899.554209000001,TTO,780,68.3,1039009.0,1977,Trinidad_and_Tobago_1977
+Americas,Trinidad and Tobago,Feed_B_Other_Regions,9119.528607,TTO,780,68.832,1116479.0,1982,Trinidad_and_Tobago_1982
+Americas,Trinidad and Tobago,Feed_B_Other_Regions,7388.597823,TTO,780,69.582,1191336.0,1987,Trinidad_and_Tobago_1987
+Americas,Trinidad and Tobago,Feed_B_Other_Regions,7370.990932,TTO,780,69.862,1183669.0,1992,Trinidad_and_Tobago_1992
+Americas,Trinidad and Tobago,Feed_B_Other_Regions,8792.573126000001,TTO,780,69.465,1138101.0,1997,Trinidad_and_Tobago_1997
+Americas,Trinidad and Tobago,Feed_B_Other_Regions,11460.60023,TTO,780,68.976,1101832.0,2002,Trinidad_and_Tobago_2002
+Americas,Trinidad and Tobago,Feed_B_Other_Regions,18008.50924,TTO,780,69.819,1056608.0,2007,Trinidad_and_Tobago_2007
+Europe,Turkey,Feed_B_Other_Regions,1969.10098,TUR,792,43.585,22235677.0,1952,Turkey_1952
+Europe,Turkey,Feed_B_Other_Regions,2218.754257,TUR,792,48.07899999999999,25670939.0,1957,Turkey_1957
+Europe,Turkey,Feed_B_Other_Regions,2322.869908,TUR,792,52.098,29788695.0,1962,Turkey_1962
+Europe,Turkey,Feed_B_Other_Regions,2826.3563870000007,TUR,792,54.33600000000001,33411317.0,1967,Turkey_1967
+Europe,Turkey,Feed_B_Other_Regions,3450.69638,TUR,792,57.005,37492953.0,1972,Turkey_1972
+Europe,Turkey,Feed_B_Other_Regions,4269.122326,TUR,792,59.507,42404033.0,1977,Turkey_1977
+Europe,Turkey,Feed_B_Other_Regions,4241.356344,TUR,792,61.036,47328791.0,1982,Turkey_1982
+Europe,Turkey,Feed_B_Other_Regions,5089.043686,TUR,792,63.108,52881328.0,1987,Turkey_1987
+Europe,Turkey,Feed_B_Other_Regions,5678.348271,TUR,792,66.146,58179144.0,1992,Turkey_1992
+Europe,Turkey,Feed_B_Other_Regions,6601.429915,TUR,792,68.835,63047647.0,1997,Turkey_1997
+Europe,Turkey,Feed_B_Other_Regions,6508.085718,TUR,792,70.845,67308928.0,2002,Turkey_2002
+Europe,Turkey,Feed_B_Other_Regions,8458.276384,TUR,792,71.777,71158647.0,2007,Turkey_2007
+Europe,United Kingdom,Feed_B_Other_Regions,9979.508487,GBR,826,69.18,50430000.0,1952,United_Kingdom_1952
+Europe,United Kingdom,Feed_B_Other_Regions,11283.17795,GBR,826,70.42,51430000.0,1957,United_Kingdom_1957
+Europe,United Kingdom,Feed_B_Other_Regions,12477.17707,GBR,826,70.76,53292000.0,1962,United_Kingdom_1962
+Europe,United Kingdom,Feed_B_Other_Regions,14142.85089,GBR,826,71.36,54959000.0,1967,United_Kingdom_1967
+Europe,United Kingdom,Feed_B_Other_Regions,15895.11641,GBR,826,72.01,56079000.0,1972,United_Kingdom_1972
+Europe,United Kingdom,Feed_B_Other_Regions,17428.74846,GBR,826,72.76,56179000.0,1977,United_Kingdom_1977
+Europe,United Kingdom,Feed_B_Other_Regions,18232.42452,GBR,826,74.04,56339704.0,1982,United_Kingdom_1982
+Europe,United Kingdom,Feed_B_Other_Regions,21664.78767,GBR,826,75.007,56981620.0,1987,United_Kingdom_1987
+Europe,United Kingdom,Feed_B_Other_Regions,22705.09254,GBR,826,76.42,57866349.0,1992,United_Kingdom_1992
+Europe,United Kingdom,Feed_B_Other_Regions,26074.53136,GBR,826,77.218,58808266.0,1997,United_Kingdom_1997
+Europe,United Kingdom,Feed_B_Other_Regions,29478.99919,GBR,826,78.471,59912431.0,2002,United_Kingdom_2002
+Europe,United Kingdom,Feed_B_Other_Regions,33203.26128,GBR,826,79.425,60776238.0,2007,United_Kingdom_2007
+Americas,United States,Feed_B_Other_Regions,13990.482080000002,USA,840,68.44,157553000.0,1952,United_States_1952
+Americas,United States,Feed_B_Other_Regions,14847.12712,USA,840,69.49,171984000.0,1957,United_States_1957
+Americas,United States,Feed_B_Other_Regions,16173.14586,USA,840,70.21,186538000.0,1962,United_States_1962
+Americas,United States,Feed_B_Other_Regions,19530.36557,USA,840,70.76,198712000.0,1967,United_States_1967
+Americas,United States,Feed_B_Other_Regions,21806.03594,USA,840,71.34,209896000.0,1972,United_States_1972
+Americas,United States,Feed_B_Other_Regions,24072.63213,USA,840,73.38,220239000.0,1977,United_States_1977
+Americas,United States,Feed_B_Other_Regions,25009.55914,USA,840,74.65,232187835.0,1982,United_States_1982
+Americas,United States,Feed_B_Other_Regions,29884.350410000006,USA,840,75.02,242803533.0,1987,United_States_1987
+Americas,United States,Feed_B_Other_Regions,32003.93224,USA,840,76.09,256894189.0,1992,United_States_1992
+Americas,United States,Feed_B_Other_Regions,35767.43303,USA,840,76.81,272911760.0,1997,United_States_1997
+Americas,United States,Feed_B_Other_Regions,39097.09955,USA,840,77.31,287675526.0,2002,United_States_2002
+Americas,United States,Feed_B_Other_Regions,42951.65309,USA,840,78.242,301139947.0,2007,United_States_2007
+Americas,Uruguay,Feed_B_Other_Regions,5716.766744,URY,858,66.071,2252965.0,1952,Uruguay_1952
+Americas,Uruguay,Feed_B_Other_Regions,6150.772969,URY,858,67.044,2424959.0,1957,Uruguay_1957
+Americas,Uruguay,Feed_B_Other_Regions,5603.357717,URY,858,68.253,2598466.0,1962,Uruguay_1962
+Americas,Uruguay,Feed_B_Other_Regions,5444.61962,URY,858,68.468,2748579.0,1967,Uruguay_1967
+Americas,Uruguay,Feed_B_Other_Regions,5703.408898,URY,858,68.673,2829526.0,1972,Uruguay_1972
+Americas,Uruguay,Feed_B_Other_Regions,6504.339663000002,URY,858,69.48100000000001,2873520.0,1977,Uruguay_1977
+Americas,Uruguay,Feed_B_Other_Regions,6920.223051000001,URY,858,70.805,2953997.0,1982,Uruguay_1982
+Americas,Uruguay,Feed_B_Other_Regions,7452.398969,URY,858,71.918,3045153.0,1987,Uruguay_1987
+Americas,Uruguay,Feed_B_Other_Regions,8137.004775,URY,858,72.752,3149262.0,1992,Uruguay_1992
+Americas,Uruguay,Feed_B_Other_Regions,9230.240708,URY,858,74.223,3262838.0,1997,Uruguay_1997
+Americas,Uruguay,Feed_B_Other_Regions,7727.002004000001,URY,858,75.307,3363085.0,2002,Uruguay_2002
+Americas,Uruguay,Feed_B_Other_Regions,10611.46299,URY,858,76.384,3447496.0,2007,Uruguay_2007
+Americas,Venezuela,Feed_B_Other_Regions,7689.799761,VEN,862,55.088,5439568.0,1952,Venezuela_1952
+Americas,Venezuela,Feed_B_Other_Regions,9802.466526,VEN,862,57.907,6702668.0,1957,Venezuela_1957
+Americas,Venezuela,Feed_B_Other_Regions,8422.974165000001,VEN,862,60.77,8143375.0,1962,Venezuela_1962
+Americas,Venezuela,Feed_B_Other_Regions,9541.474188,VEN,862,63.479,9709552.0,1967,Venezuela_1967
+Americas,Venezuela,Feed_B_Other_Regions,10505.25966,VEN,862,65.712,11515649.0,1972,Venezuela_1972
+Americas,Venezuela,Feed_B_Other_Regions,13143.95095,VEN,862,67.456,13503563.0,1977,Venezuela_1977
+Americas,Venezuela,Feed_B_Other_Regions,11152.41011,VEN,862,68.557,15620766.0,1982,Venezuela_1982
+Americas,Venezuela,Feed_B_Other_Regions,9883.584648,VEN,862,70.19,17910182.0,1987,Venezuela_1987
+Americas,Venezuela,Feed_B_Other_Regions,10733.92631,VEN,862,71.15,20265563.0,1992,Venezuela_1992
+Americas,Venezuela,Feed_B_Other_Regions,10165.49518,VEN,862,72.146,22374398.0,1997,Venezuela_1997
+Americas,Venezuela,Feed_B_Other_Regions,8605.047831,VEN,862,72.766,24287670.0,2002,Venezuela_2002
+Americas,Venezuela,Feed_B_Other_Regions,11415.80569,VEN,862,73.747,26084662.0,2007,Venezuela_2007

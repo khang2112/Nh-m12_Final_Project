@@ -1,0 +1,32 @@
+{
+  "pca_components": 7,
+  "explained_variance": 0.9125601865438817,
+  "chosen_k": 2,
+  "cluster_representation": "PCA features",
+  "winning_silhouette": 0.2881036921435017,
+  "original_same_k_silhouette": 0.2638598625167073,
+  "pca_same_k_silhouette": 0.2881036921435017,
+  "train_rows": 1356,
+  "test_rows": 348,
+  "train_countries": 113,
+  "test_countries": 29,
+  "class_train_distribution": {
+    "0": 0.7065,
+    "1": 0.2935
+  },
+  "class_weight": "balanced",
+  "winning_regression": "LinearRegression",
+  "winning_classification": "LogisticRegression",
+  "best_regression": {
+    "MSE": 38.05606,
+    "RMSE": 6.16896,
+    "R2": 0.77824
+  },
+  "best_classification": {
+    "Accuracy": 0.87069,
+    "Precision_macro": 0.83322,
+    "Recall_macro": 0.86235,
+    "F1_macro": 0.84529,
+    "F1_positive": 0.78261
+  }
+}

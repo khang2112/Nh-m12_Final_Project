@@ -1,0 +1,11 @@
+{
+  "n_records": 1704,
+  "countries": 142,
+  "year_min": 1952,
+  "year_max": 2007,
+  "raw_missing_count": 375,
+  "clean_missing_count": 0,
+  "mean_life_expectancy": 59.474,
+  "high_life_expectancy_pct": 28.99,
+  "gdp_lifeexp_spearman": 0.8265
+}
