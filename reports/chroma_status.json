@@ -1,4 +1,13 @@
 {
-  "ingested": false,
-  "reason": "ChromaDB CHƯA được nạp: môi trường hiện tại chưa cài chromadb. Chạy pip install -r requirements.txt sau đó python src/04_chromadb_vector.py."
+  "ingested": true,
+  "backend": "ChromaDB PersistentClient",
+  "collection": "country_year_embeddings",
+  "count": 1704,
+  "dimensions": 7,
+  "probe_record": "Afghanistan_1952",
+  "nearest_ids": [
+    "Afghanistan_1952",
+    "Thailand_1952",
+    "Nepal_1957"
+  ]
 }
