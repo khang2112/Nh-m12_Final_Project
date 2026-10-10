@@ -22,6 +22,13 @@ def get_public_source():
     cols=['country','continent','year','population','gdp_per_capita','life_expectancy','iso_alpha','iso_num']
     df=df[cols].copy()
     df.to_csv(RAW/'source_gapminder_original.csv',index=False)
+
+    # Correct ISO codes in the working data only.
+    # Keep the original downloaded dataset unchanged.
+    # North Korea: PRK (408), South Korea: KOR (410).
+    df.loc[df['country'] == 'Korea, Dem. Rep.', 'iso_alpha'] = 'PRK'
+    df.loc[df['country'] == 'Korea, Dem. Rep.', 'iso_num'] = 408
+
     return df
 
 def generate_dynamic(master):

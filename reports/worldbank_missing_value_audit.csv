@@ -1,0 +1,7 @@
+country,year,record_id,data_source,life_expectancy_original,life_expectancy,life_expectancy_value_source
+West Bank and Gaza,1962,West_Bank_and_Gaza_1962,World Bank,,48.127,Gapminder fallback
+West Bank and Gaza,1967,West_Bank_and_Gaza_1967,World Bank,,51.631,Gapminder fallback
+West Bank and Gaza,1972,West_Bank_and_Gaza_1972,World Bank,,56.532,Gapminder fallback
+West Bank and Gaza,1977,West_Bank_and_Gaza_1977,World Bank,,60.765,Gapminder fallback
+West Bank and Gaza,1982,West_Bank_and_Gaza_1982,World Bank,,64.406,Gapminder fallback
+West Bank and Gaza,1987,West_Bank_and_Gaza_1987,World Bank,,67.046,Gapminder fallback

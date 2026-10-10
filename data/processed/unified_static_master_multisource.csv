@@ -1,0 +1,3105 @@
+country,continent,iso_alpha,year,life_expectancy,data_source
+Afghanistan,Asia,AFG,1952,28.801,Gapminder
+Afghanistan,Asia,AFG,1957,30.332,Gapminder
+Afghanistan,Asia,AFG,1962,31.997,Gapminder
+Afghanistan,Asia,AFG,1962,33.757,World Bank
+Afghanistan,Asia,AFG,1967,34.02,Gapminder
+Afghanistan,Asia,AFG,1967,36.042,World Bank
+Afghanistan,Asia,AFG,1972,36.088,Gapminder
+Afghanistan,Asia,AFG,1972,38.423,World Bank
+Afghanistan,Asia,AFG,1977,38.438,Gapminder
+Afghanistan,Asia,AFG,1977,41.082,World Bank
+Afghanistan,Asia,AFG,1982,39.854,Gapminder
+Afghanistan,Asia,AFG,1982,36.058,World Bank
+Afghanistan,Asia,AFG,1987,40.822,Gapminder
+Afghanistan,Asia,AFG,1987,38.831,World Bank
+Afghanistan,Asia,AFG,1992,41.674,Gapminder
+Afghanistan,Asia,AFG,1992,46.569,World Bank
+Afghanistan,Asia,AFG,1997,41.76300000000001,Gapminder
+Afghanistan,Asia,AFG,1997,53.212,World Bank
+Afghanistan,Asia,AFG,2002,42.129,Gapminder
+Afghanistan,Asia,AFG,2002,56.225,World Bank
+Afghanistan,Asia,AFG,2007,43.828,Gapminder
+Afghanistan,Asia,AFG,2007,58.956,World Bank
+Angola,Africa,AGO,1952,30.015,Gapminder
+Angola,Africa,AGO,1957,31.999,Gapminder
+Angola,Africa,AGO,1962,34.0,Gapminder
+Angola,Africa,AGO,1962,37.168,World Bank
+Angola,Africa,AGO,1967,35.985,Gapminder
+Angola,Africa,AGO,1967,38.616,World Bank
+Angola,Africa,AGO,1972,37.928,Gapminder
+Angola,Africa,AGO,1972,40.469,World Bank
+Angola,Africa,AGO,1977,39.483,Gapminder
+Angola,Africa,AGO,1977,41.215,World Bank
+Angola,Africa,AGO,1982,39.942,Gapminder
+Angola,Africa,AGO,1982,42.857,World Bank
+Angola,Africa,AGO,1987,39.906,Gapminder
+Angola,Africa,AGO,1987,40.786,World Bank
+Angola,Africa,AGO,1992,40.647,Gapminder
+Angola,Africa,AGO,1992,42.267,World Bank
+Angola,Africa,AGO,1997,40.963,Gapminder
+Angola,Africa,AGO,1997,46.688,World Bank
+Angola,Africa,AGO,2002,41.003,Gapminder
+Angola,Africa,AGO,2002,47.874,World Bank
+Angola,Africa,AGO,2007,42.731,Gapminder
+Angola,Africa,AGO,2007,54.2,World Bank
+Albania,Europe,ALB,1952,55.23,Gapminder
+Albania,Europe,ALB,1957,59.28,Gapminder
+Albania,Europe,ALB,1962,64.82,Gapminder
+Albania,Europe,ALB,1962,58.494,World Bank
+Albania,Europe,ALB,1967,66.22,Gapminder
+Albania,Europe,ALB,1967,62.976,World Bank
+Albania,Europe,ALB,1972,67.69,Gapminder
+Albania,Europe,ALB,1972,66.526,World Bank
+Albania,Europe,ALB,1977,68.93,Gapminder
+Albania,Europe,ALB,1977,68.992,World Bank
+Albania,Europe,ALB,1982,70.42,Gapminder
+Albania,Europe,ALB,1982,70.425,World Bank
+Albania,Europe,ALB,1987,72.0,Gapminder
+Albania,Europe,ALB,1987,71.981,World Bank
+Albania,Europe,ALB,1992,71.581,Gapminder
+Albania,Europe,ALB,1992,73.303,World Bank
+Albania,Europe,ALB,1997,72.95,Gapminder
+Albania,Europe,ALB,1997,73.383,World Bank
+Albania,Europe,ALB,2002,75.65100000000002,Gapminder
+Albania,Europe,ALB,2002,75.299,World Bank
+Albania,Europe,ALB,2007,76.423,Gapminder
+Albania,Europe,ALB,2007,77.691,World Bank
+Argentina,Americas,ARG,1952,62.485,Gapminder
+Argentina,Americas,ARG,1957,64.399,Gapminder
+Argentina,Americas,ARG,1962,65.142,Gapminder
+Argentina,Americas,ARG,1962,64.618,World Bank
+Argentina,Americas,ARG,1967,65.634,Gapminder
+Argentina,Americas,ARG,1967,65.467,World Bank
+Argentina,Americas,ARG,1972,67.065,Gapminder
+Argentina,Americas,ARG,1972,65.953,World Bank
+Argentina,Americas,ARG,1977,68.48100000000001,Gapminder
+Argentina,Americas,ARG,1977,67.595,World Bank
+Argentina,Americas,ARG,1982,69.942,Gapminder
+Argentina,Americas,ARG,1982,68.973,World Bank
+Argentina,Americas,ARG,1987,70.774,Gapminder
+Argentina,Americas,ARG,1987,70.699,World Bank
+Argentina,Americas,ARG,1992,71.868,Gapminder
+Argentina,Americas,ARG,1992,72.096,World Bank
+Argentina,Americas,ARG,1997,73.275,Gapminder
+Argentina,Americas,ARG,1997,73.407,World Bank
+Argentina,Americas,ARG,2002,74.34,Gapminder
+Argentina,Americas,ARG,2002,74.312,World Bank
+Argentina,Americas,ARG,2007,75.32,Gapminder
+Argentina,Americas,ARG,2007,74.783,World Bank
+Australia,Oceania,AUS,1952,69.12,Gapminder
+Australia,Oceania,AUS,1957,70.33,Gapminder
+Australia,Oceania,AUS,1962,70.93,Gapminder
+Australia,Oceania,AUS,1962,70.9424390243903,World Bank
+Australia,Oceania,AUS,1967,71.1,Gapminder
+Australia,Oceania,AUS,1967,70.8692682926829,World Bank
+Australia,Oceania,AUS,1972,71.93,Gapminder
+Australia,Oceania,AUS,1972,71.4575609756098,World Bank
+Australia,Oceania,AUS,1977,73.49,Gapminder
+Australia,Oceania,AUS,1977,73.3443902439024,World Bank
+Australia,Oceania,AUS,1982,74.74,Gapminder
+Australia,Oceania,AUS,1982,74.9048780487805,World Bank
+Australia,Oceania,AUS,1987,76.32,Gapminder
+Australia,Oceania,AUS,1987,76.1517073170732,World Bank
+Australia,Oceania,AUS,1992,77.56,Gapminder
+Australia,Oceania,AUS,1992,77.3780487804878,World Bank
+Australia,Oceania,AUS,1997,78.83,Gapminder
+Australia,Oceania,AUS,1997,78.4804878048781,World Bank
+Australia,Oceania,AUS,2002,80.37,Gapminder
+Australia,Oceania,AUS,2002,79.9365853658537,World Bank
+Australia,Oceania,AUS,2007,81.235,Gapminder
+Australia,Oceania,AUS,2007,81.2926829268293,World Bank
+Austria,Europe,AUT,1952,66.8,Gapminder
+Austria,Europe,AUT,1957,67.48,Gapminder
+Austria,Europe,AUT,1962,69.54,Gapminder
+Austria,Europe,AUT,1962,69.309512195122,World Bank
+Austria,Europe,AUT,1967,70.14,Gapminder
+Austria,Europe,AUT,1967,69.9178048780488,World Bank
+Austria,Europe,AUT,1972,70.63,Gapminder
+Austria,Europe,AUT,1972,70.4634146341463,World Bank
+Austria,Europe,AUT,1977,72.17,Gapminder
+Austria,Europe,AUT,1977,71.9146341463415,World Bank
+Austria,Europe,AUT,1982,73.18,Gapminder
+Austria,Europe,AUT,1982,72.9609756097561,World Bank
+Austria,Europe,AUT,1987,74.94,Gapminder
+Austria,Europe,AUT,1987,74.7682926829268,World Bank
+Austria,Europe,AUT,1992,76.04,Gapminder
+Austria,Europe,AUT,1992,75.8170731707317,World Bank
+Austria,Europe,AUT,1997,77.51,Gapminder
+Austria,Europe,AUT,1997,77.319512195122,World Bank
+Austria,Europe,AUT,2002,78.98,Gapminder
+Austria,Europe,AUT,2002,78.6780487804878,World Bank
+Austria,Europe,AUT,2007,79.829,Gapminder
+Austria,Europe,AUT,2007,80.1804878048781,World Bank
+Burundi,Africa,BDI,1952,39.031,Gapminder
+Burundi,Africa,BDI,1957,40.533,Gapminder
+Burundi,Africa,BDI,1962,42.045,Gapminder
+Burundi,Africa,BDI,1962,43.492,World Bank
+Burundi,Africa,BDI,1967,43.548,Gapminder
+Burundi,Africa,BDI,1967,43.332,World Bank
+Burundi,Africa,BDI,1972,44.057,Gapminder
+Burundi,Africa,BDI,1972,25.777,World Bank
+Burundi,Africa,BDI,1977,45.91,Gapminder
+Burundi,Africa,BDI,1977,43.97,World Bank
+Burundi,Africa,BDI,1982,47.471,Gapminder
+Burundi,Africa,BDI,1982,47.012,World Bank
+Burundi,Africa,BDI,1987,48.21100000000001,Gapminder
+Burundi,Africa,BDI,1987,47.066,World Bank
+Burundi,Africa,BDI,1992,44.736,Gapminder
+Burundi,Africa,BDI,1992,44.469,World Bank
+Burundi,Africa,BDI,1997,45.326,Gapminder
+Burundi,Africa,BDI,1997,45.721,World Bank
+Burundi,Africa,BDI,2002,47.36,Gapminder
+Burundi,Africa,BDI,2002,49.924,World Bank
+Burundi,Africa,BDI,2007,49.58,Gapminder
+Burundi,Africa,BDI,2007,54.832,World Bank
+Belgium,Europe,BEL,1952,68.0,Gapminder
+Belgium,Europe,BEL,1957,69.24,Gapminder
+Belgium,Europe,BEL,1962,70.25,Gapminder
+Belgium,Europe,BEL,1962,70.219512195122,World Bank
+Belgium,Europe,BEL,1967,70.94,Gapminder
+Belgium,Europe,BEL,1967,71.0129268292683,World Bank
+Belgium,Europe,BEL,1972,71.44,Gapminder
+Belgium,Europe,BEL,1972,71.4051219512195,World Bank
+Belgium,Europe,BEL,1977,72.8,Gapminder
+Belgium,Europe,BEL,1977,72.7739024390244,World Bank
+Belgium,Europe,BEL,1982,73.93,Gapminder
+Belgium,Europe,BEL,1982,73.8880487804878,World Bank
+Belgium,Europe,BEL,1987,75.35,Gapminder
+Belgium,Europe,BEL,1987,75.3658536585366,World Bank
+Belgium,Europe,BEL,1992,76.46,Gapminder
+Belgium,Europe,BEL,1992,76.3512195121951,World Bank
+Belgium,Europe,BEL,1997,77.53,Gapminder
+Belgium,Europe,BEL,1997,77.3707317073171,World Bank
+Belgium,Europe,BEL,2002,78.32,Gapminder
+Belgium,Europe,BEL,2002,78.0756097560976,World Bank
+Belgium,Europe,BEL,2007,79.441,Gapminder
+Belgium,Europe,BEL,2007,79.7829268292683,World Bank
+Benin,Africa,BEN,1952,38.223,Gapminder
+Benin,Africa,BEN,1957,40.358,Gapminder
+Benin,Africa,BEN,1962,42.618,Gapminder
+Benin,Africa,BEN,1962,39.643,World Bank
+Benin,Africa,BEN,1967,44.885,Gapminder
+Benin,Africa,BEN,1967,41.759,World Bank
+Benin,Africa,BEN,1972,47.014,Gapminder
+Benin,Africa,BEN,1972,43.928,World Bank
+Benin,Africa,BEN,1977,49.19,Gapminder
+Benin,Africa,BEN,1977,46.504,World Bank
+Benin,Africa,BEN,1982,50.904,Gapminder
+Benin,Africa,BEN,1982,48.493,World Bank
+Benin,Africa,BEN,1987,52.337,Gapminder
+Benin,Africa,BEN,1987,51.258,World Bank
+Benin,Africa,BEN,1992,53.919,Gapminder
+Benin,Africa,BEN,1992,54.137,World Bank
+Benin,Africa,BEN,1997,54.777,Gapminder
+Benin,Africa,BEN,1997,55.986,World Bank
+Benin,Africa,BEN,2002,54.40600000000001,Gapminder
+Benin,Africa,BEN,2002,56.851,World Bank
+Benin,Africa,BEN,2007,56.728,Gapminder
+Benin,Africa,BEN,2007,58.249,World Bank
+Burkina Faso,Africa,BFA,1952,31.975,Gapminder
+Burkina Faso,Africa,BFA,1957,34.906,Gapminder
+Burkina Faso,Africa,BFA,1962,37.814,Gapminder
+Burkina Faso,Africa,BFA,1962,36.753,World Bank
+Burkina Faso,Africa,BFA,1967,40.697,Gapminder
+Burkina Faso,Africa,BFA,1967,38.432,World Bank
+Burkina Faso,Africa,BFA,1972,43.591,Gapminder
+Burkina Faso,Africa,BFA,1972,40.399,World Bank
+Burkina Faso,Africa,BFA,1977,46.137,Gapminder
+Burkina Faso,Africa,BFA,1977,44.167,World Bank
+Burkina Faso,Africa,BFA,1982,48.122,Gapminder
+Burkina Faso,Africa,BFA,1982,47.633,World Bank
+Burkina Faso,Africa,BFA,1987,49.557,Gapminder
+Burkina Faso,Africa,BFA,1987,49.097,World Bank
+Burkina Faso,Africa,BFA,1992,50.26,Gapminder
+Burkina Faso,Africa,BFA,1992,49.378,World Bank
+Burkina Faso,Africa,BFA,1997,50.324,Gapminder
+Burkina Faso,Africa,BFA,1997,49.56,World Bank
+Burkina Faso,Africa,BFA,2002,50.65,Gapminder
+Burkina Faso,Africa,BFA,2002,51.447,World Bank
+Burkina Faso,Africa,BFA,2007,52.295,Gapminder
+Burkina Faso,Africa,BFA,2007,54.377,World Bank
+Bangladesh,Asia,BGD,1952,37.484,Gapminder
+Bangladesh,Asia,BGD,1957,39.348,Gapminder
+Bangladesh,Asia,BGD,1962,41.216,Gapminder
+Bangladesh,Asia,BGD,1962,45.765,World Bank
+Bangladesh,Asia,BGD,1967,43.453,Gapminder
+Bangladesh,Asia,BGD,1967,48.066,World Bank
+Bangladesh,Asia,BGD,1972,45.252,Gapminder
+Bangladesh,Asia,BGD,1972,49.647,World Bank
+Bangladesh,Asia,BGD,1977,46.923,Gapminder
+Bangladesh,Asia,BGD,1977,51.265,World Bank
+Bangladesh,Asia,BGD,1982,50.00899999999999,Gapminder
+Bangladesh,Asia,BGD,1982,53.012,World Bank
+Bangladesh,Asia,BGD,1987,52.819,Gapminder
+Bangladesh,Asia,BGD,1987,54.899,World Bank
+Bangladesh,Asia,BGD,1992,56.018,Gapminder
+Bangladesh,Asia,BGD,1992,56.592,World Bank
+Bangladesh,Asia,BGD,1997,59.412,Gapminder
+Bangladesh,Asia,BGD,1997,59.671,World Bank
+Bangladesh,Asia,BGD,2002,62.01300000000001,Gapminder
+Bangladesh,Asia,BGD,2002,63.591,World Bank
+Bangladesh,Asia,BGD,2007,64.062,Gapminder
+Bangladesh,Asia,BGD,2007,66.458,World Bank
+Bulgaria,Europe,BGR,1952,59.6,Gapminder
+Bulgaria,Europe,BGR,1957,66.61,Gapminder
+Bulgaria,Europe,BGR,1962,69.51,Gapminder
+Bulgaria,Europe,BGR,1962,69.4919512195122,World Bank
+Bulgaria,Europe,BGR,1967,70.42,Gapminder
+Bulgaria,Europe,BGR,1967,70.4139024390244,World Bank
+Bulgaria,Europe,BGR,1972,70.9,Gapminder
+Bulgaria,Europe,BGR,1972,70.899512195122,World Bank
+Bulgaria,Europe,BGR,1977,70.81,Gapminder
+Bulgaria,Europe,BGR,1977,70.8160975609756,World Bank
+Bulgaria,Europe,BGR,1982,71.08,Gapminder
+Bulgaria,Europe,BGR,1982,71.1860975609756,World Bank
+Bulgaria,Europe,BGR,1987,71.34,Gapminder
+Bulgaria,Europe,BGR,1987,71.5268292682927,World Bank
+Bulgaria,Europe,BGR,1992,71.19,Gapminder
+Bulgaria,Europe,BGR,1992,71.4943902439024,World Bank
+Bulgaria,Europe,BGR,1997,70.32,Gapminder
+Bulgaria,Europe,BGR,1997,70.3512195121951,World Bank
+Bulgaria,Europe,BGR,2002,72.14,Gapminder
+Bulgaria,Europe,BGR,2002,71.8658536585366,World Bank
+Bulgaria,Europe,BGR,2007,73.005,Gapminder
+Bulgaria,Europe,BGR,2007,72.6634146341463,World Bank
+Bahrain,Asia,BHR,1952,50.93899999999999,Gapminder
+Bahrain,Asia,BHR,1957,53.832,Gapminder
+Bahrain,Asia,BHR,1962,56.923,Gapminder
+Bahrain,Asia,BHR,1962,53.893,World Bank
+Bahrain,Asia,BHR,1967,59.923,Gapminder
+Bahrain,Asia,BHR,1967,61.036,World Bank
+Bahrain,Asia,BHR,1972,63.3,Gapminder
+Bahrain,Asia,BHR,1972,66.095,World Bank
+Bahrain,Asia,BHR,1977,65.593,Gapminder
+Bahrain,Asia,BHR,1977,69.383,World Bank
+Bahrain,Asia,BHR,1982,69.05199999999999,Gapminder
+Bahrain,Asia,BHR,1982,71.354,World Bank
+Bahrain,Asia,BHR,1987,70.75,Gapminder
+Bahrain,Asia,BHR,1987,72.377,World Bank
+Bahrain,Asia,BHR,1992,72.601,Gapminder
+Bahrain,Asia,BHR,1992,72.785,World Bank
+Bahrain,Asia,BHR,1997,73.925,Gapminder
+Bahrain,Asia,BHR,1997,73.872,World Bank
+Bahrain,Asia,BHR,2002,74.795,Gapminder
+Bahrain,Asia,BHR,2002,75.209,World Bank
+Bahrain,Asia,BHR,2007,75.635,Gapminder
+Bahrain,Asia,BHR,2007,76.952,World Bank
+Bosnia and Herzegovina,Europe,BIH,1952,53.82,Gapminder
+Bosnia and Herzegovina,Europe,BIH,1957,58.45,Gapminder
+Bosnia and Herzegovina,Europe,BIH,1962,61.93,Gapminder
+Bosnia and Herzegovina,Europe,BIH,1962,60.122,World Bank
+Bosnia and Herzegovina,Europe,BIH,1967,64.79,Gapminder
+Bosnia and Herzegovina,Europe,BIH,1967,63.734,World Bank
+Bosnia and Herzegovina,Europe,BIH,1972,67.45,Gapminder
+Bosnia and Herzegovina,Europe,BIH,1972,65.682,World Bank
+Bosnia and Herzegovina,Europe,BIH,1977,69.86,Gapminder
+Bosnia and Herzegovina,Europe,BIH,1977,68.779,World Bank
+Bosnia and Herzegovina,Europe,BIH,1982,70.69,Gapminder
+Bosnia and Herzegovina,Europe,BIH,1982,70.076,World Bank
+Bosnia and Herzegovina,Europe,BIH,1987,71.14,Gapminder
+Bosnia and Herzegovina,Europe,BIH,1987,70.876,World Bank
+Bosnia and Herzegovina,Europe,BIH,1992,72.178,Gapminder
+Bosnia and Herzegovina,Europe,BIH,1992,51.967,World Bank
+Bosnia and Herzegovina,Europe,BIH,1997,73.244,Gapminder
+Bosnia and Herzegovina,Europe,BIH,1997,73.895,World Bank
+Bosnia and Herzegovina,Europe,BIH,2002,74.09,Gapminder
+Bosnia and Herzegovina,Europe,BIH,2002,75.994,World Bank
+Bosnia and Herzegovina,Europe,BIH,2007,74.852,Gapminder
+Bosnia and Herzegovina,Europe,BIH,2007,76.162,World Bank
+Bolivia,Americas,BOL,1952,40.414,Gapminder
+Bolivia,Americas,BOL,1957,41.89,Gapminder
+Bolivia,Americas,BOL,1962,43.428,Gapminder
+Bolivia,Americas,BOL,1962,44.002,World Bank
+Bolivia,Americas,BOL,1967,45.032,Gapminder
+Bolivia,Americas,BOL,1967,45.904,World Bank
+Bolivia,Americas,BOL,1972,46.714,Gapminder
+Bolivia,Americas,BOL,1972,47.829,World Bank
+Bolivia,Americas,BOL,1977,50.023,Gapminder
+Bolivia,Americas,BOL,1977,50.387,World Bank
+Bolivia,Americas,BOL,1982,53.859,Gapminder
+Bolivia,Americas,BOL,1982,52.511,World Bank
+Bolivia,Americas,BOL,1987,57.25100000000001,Gapminder
+Bolivia,Americas,BOL,1987,54.901,World Bank
+Bolivia,Americas,BOL,1992,59.957,Gapminder
+Bolivia,Americas,BOL,1992,57.923,World Bank
+Bolivia,Americas,BOL,1997,62.05,Gapminder
+Bolivia,Americas,BOL,1997,60.745,World Bank
+Bolivia,Americas,BOL,2002,63.883,Gapminder
+Bolivia,Americas,BOL,2002,63.068,World Bank
+Bolivia,Americas,BOL,2007,65.554,Gapminder
+Bolivia,Americas,BOL,2007,64.939,World Bank
+Brazil,Americas,BRA,1952,50.917,Gapminder
+Brazil,Americas,BRA,1957,53.285,Gapminder
+Brazil,Americas,BRA,1962,55.665,Gapminder
+Brazil,Americas,BRA,1962,54.017,World Bank
+Brazil,Americas,BRA,1967,57.632,Gapminder
+Brazil,Americas,BRA,1967,56.016,World Bank
+Brazil,Americas,BRA,1972,59.504,Gapminder
+Brazil,Americas,BRA,1972,58.255,World Bank
+Brazil,Americas,BRA,1977,61.489,Gapminder
+Brazil,Americas,BRA,1977,60.461,World Bank
+Brazil,Americas,BRA,1982,63.33600000000001,Gapminder
+Brazil,Americas,BRA,1982,62.708,World Bank
+Brazil,Americas,BRA,1987,65.205,Gapminder
+Brazil,Americas,BRA,1987,64.785,World Bank
+Brazil,Americas,BRA,1992,67.057,Gapminder
+Brazil,Americas,BRA,1992,66.539,World Bank
+Brazil,Americas,BRA,1997,69.388,Gapminder
+Brazil,Americas,BRA,1997,68.505,World Bank
+Brazil,Americas,BRA,2002,71.006,Gapminder
+Brazil,Americas,BRA,2002,70.396,World Bank
+Brazil,Americas,BRA,2007,72.39,Gapminder
+Brazil,Americas,BRA,2007,72.73,World Bank
+Botswana,Africa,BWA,1952,47.622,Gapminder
+Botswana,Africa,BWA,1957,49.618,Gapminder
+Botswana,Africa,BWA,1962,51.52,Gapminder
+Botswana,Africa,BWA,1962,52.313,World Bank
+Botswana,Africa,BWA,1967,53.298,Gapminder
+Botswana,Africa,BWA,1967,54.859,World Bank
+Botswana,Africa,BWA,1972,56.024,Gapminder
+Botswana,Africa,BWA,1972,57.669,World Bank
+Botswana,Africa,BWA,1977,59.319,Gapminder
+Botswana,Africa,BWA,1977,60.867,World Bank
+Botswana,Africa,BWA,1982,61.484,Gapminder
+Botswana,Africa,BWA,1982,63.382,World Bank
+Botswana,Africa,BWA,1987,63.622,Gapminder
+Botswana,Africa,BWA,1987,62.837,World Bank
+Botswana,Africa,BWA,1992,62.745,Gapminder
+Botswana,Africa,BWA,1992,58.19,World Bank
+Botswana,Africa,BWA,1997,52.556,Gapminder
+Botswana,Africa,BWA,1997,53.594,World Bank
+Botswana,Africa,BWA,2002,46.63399999999999,Gapminder
+Botswana,Africa,BWA,2002,52.373,World Bank
+Botswana,Africa,BWA,2007,50.728,Gapminder
+Botswana,Africa,BWA,2007,56.735,World Bank
+Central African Republic,Africa,CAF,1952,35.463,Gapminder
+Central African Republic,Africa,CAF,1957,37.464,Gapminder
+Central African Republic,Africa,CAF,1962,39.475,Gapminder
+Central African Republic,Africa,CAF,1962,40.562,World Bank
+Central African Republic,Africa,CAF,1967,41.478,Gapminder
+Central African Republic,Africa,CAF,1967,43.379,World Bank
+Central African Republic,Africa,CAF,1972,43.457,Gapminder
+Central African Republic,Africa,CAF,1972,46.332,World Bank
+Central African Republic,Africa,CAF,1977,46.775,Gapminder
+Central African Republic,Africa,CAF,1977,48.778,World Bank
+Central African Republic,Africa,CAF,1982,48.295,Gapminder
+Central African Republic,Africa,CAF,1982,50.213,World Bank
+Central African Republic,Africa,CAF,1987,50.485,Gapminder
+Central African Republic,Africa,CAF,1987,50.371,World Bank
+Central African Republic,Africa,CAF,1992,49.396,Gapminder
+Central African Republic,Africa,CAF,1992,49.213,World Bank
+Central African Republic,Africa,CAF,1997,46.066,Gapminder
+Central African Republic,Africa,CAF,1997,47.284,World Bank
+Central African Republic,Africa,CAF,2002,43.308,Gapminder
+Central African Republic,Africa,CAF,2002,46.84,World Bank
+Central African Republic,Africa,CAF,2007,44.74100000000001,Gapminder
+Central African Republic,Africa,CAF,2007,49.327,World Bank
+Canada,Americas,CAN,1952,68.75,Gapminder
+Canada,Americas,CAN,1957,69.96,Gapminder
+Canada,Americas,CAN,1962,71.3,Gapminder
+Canada,Americas,CAN,1962,71.3670731707317,World Bank
+Canada,Americas,CAN,1967,72.13,Gapminder
+Canada,Americas,CAN,1967,72.2078048780488,World Bank
+Canada,Americas,CAN,1972,72.88,Gapminder
+Canada,Americas,CAN,1972,72.9339024390244,World Bank
+Canada,Americas,CAN,1977,74.21,Gapminder
+Canada,Americas,CAN,1977,74.2156097560976,World Bank
+Canada,Americas,CAN,1982,75.76,Gapminder
+Canada,Americas,CAN,1982,75.7251219512195,World Bank
+Canada,Americas,CAN,1987,76.86,Gapminder
+Canada,Americas,CAN,1987,76.7787804878049,World Bank
+Canada,Americas,CAN,1992,77.95,Gapminder
+Canada,Americas,CAN,1992,77.8380487804878,World Bank
+Canada,Americas,CAN,1997,78.61,Gapminder
+Canada,Americas,CAN,1997,78.4124390243903,World Bank
+Canada,Americas,CAN,2002,79.77,Gapminder
+Canada,Americas,CAN,2002,79.5307317073171,World Bank
+Canada,Americas,CAN,2007,80.653,Gapminder
+Canada,Americas,CAN,2007,80.5436585365854,World Bank
+Switzerland,Europe,CHE,1952,69.62,Gapminder
+Switzerland,Europe,CHE,1957,70.56,Gapminder
+Switzerland,Europe,CHE,1962,71.32,Gapminder
+Switzerland,Europe,CHE,1962,71.1960975609756,World Bank
+Switzerland,Europe,CHE,1967,72.77,Gapminder
+Switzerland,Europe,CHE,1967,72.6365853658537,World Bank
+Switzerland,Europe,CHE,1972,73.78,Gapminder
+Switzerland,Europe,CHE,1972,73.6443902439024,World Bank
+Switzerland,Europe,CHE,1977,75.39,Gapminder
+Switzerland,Europe,CHE,1977,75.2380487804878,World Bank
+Switzerland,Europe,CHE,1982,76.21,Gapminder
+Switzerland,Europe,CHE,1982,76.0339024390244,World Bank
+Switzerland,Europe,CHE,1987,77.41,Gapminder
+Switzerland,Europe,CHE,1987,77.1975609756098,World Bank
+Switzerland,Europe,CHE,1992,78.03,Gapminder
+Switzerland,Europe,CHE,1992,77.8060975609756,World Bank
+Switzerland,Europe,CHE,1997,79.37,Gapminder
+Switzerland,Europe,CHE,1997,79.079512195122,World Bank
+Switzerland,Europe,CHE,2002,80.62,Gapminder
+Switzerland,Europe,CHE,2002,80.3853658536585,World Bank
+Switzerland,Europe,CHE,2007,81.70100000000002,Gapminder
+Switzerland,Europe,CHE,2007,81.7414634146342,World Bank
+Chile,Americas,CHL,1952,54.745,Gapminder
+Chile,Americas,CHL,1957,56.074,Gapminder
+Chile,Americas,CHL,1962,57.924,Gapminder
+Chile,Americas,CHL,1962,57.811,World Bank
+Chile,Americas,CHL,1967,60.523,Gapminder
+Chile,Americas,CHL,1967,61.054,World Bank
+Chile,Americas,CHL,1972,63.441,Gapminder
+Chile,Americas,CHL,1972,63.717,World Bank
+Chile,Americas,CHL,1977,67.05199999999999,Gapminder
+Chile,Americas,CHL,1977,67.529,World Bank
+Chile,Americas,CHL,1982,70.565,Gapminder
+Chile,Americas,CHL,1982,70.291,World Bank
+Chile,Americas,CHL,1987,72.492,Gapminder
+Chile,Americas,CHL,1987,72.466,World Bank
+Chile,Americas,CHL,1992,74.126,Gapminder
+Chile,Americas,CHL,1992,74.367,World Bank
+Chile,Americas,CHL,1997,75.816,Gapminder
+Chile,Americas,CHL,1997,75.826,World Bank
+Chile,Americas,CHL,2002,77.86,Gapminder
+Chile,Americas,CHL,2002,77.84,World Bank
+Chile,Americas,CHL,2007,78.553,Gapminder
+Chile,Americas,CHL,2007,78.652,World Bank
+China,Asia,CHN,1952,44.0,Gapminder
+China,Asia,CHN,1957,50.54896,Gapminder
+China,Asia,CHN,1962,44.50136,Gapminder
+China,Asia,CHN,1962,50.959,World Bank
+China,Asia,CHN,1967,58.38112,Gapminder
+China,Asia,CHN,1967,54.401,World Bank
+China,Asia,CHN,1972,63.11888,Gapminder
+China,Asia,CHN,1972,58.579,World Bank
+China,Asia,CHN,1977,63.96736,Gapminder
+China,Asia,CHN,1977,62.458,World Bank
+China,Asia,CHN,1982,65.525,Gapminder
+China,Asia,CHN,1982,65.249,World Bank
+China,Asia,CHN,1987,67.274,Gapminder
+China,Asia,CHN,1987,67.263,World Bank
+China,Asia,CHN,1992,68.69,Gapminder
+China,Asia,CHN,1992,69.059,World Bank
+China,Asia,CHN,1997,70.426,Gapminder
+China,Asia,CHN,1997,71.227,World Bank
+China,Asia,CHN,2002,72.028,Gapminder
+China,Asia,CHN,2002,73.034,World Bank
+China,Asia,CHN,2007,72.961,Gapminder
+China,Asia,CHN,2007,74.789,World Bank
+Cote d'Ivoire,Africa,CIV,1952,40.477,Gapminder
+Cote d'Ivoire,Africa,CIV,1957,42.469,Gapminder
+Cote d'Ivoire,Africa,CIV,1962,44.93,Gapminder
+Cote d'Ivoire,Africa,CIV,1962,38.62,World Bank
+Cote d'Ivoire,Africa,CIV,1967,47.35,Gapminder
+Cote d'Ivoire,Africa,CIV,1967,41.959,World Bank
+Cote d'Ivoire,Africa,CIV,1972,49.801,Gapminder
+Cote d'Ivoire,Africa,CIV,1972,45.575,World Bank
+Cote d'Ivoire,Africa,CIV,1977,52.374,Gapminder
+Cote d'Ivoire,Africa,CIV,1977,49.624,World Bank
+Cote d'Ivoire,Africa,CIV,1982,53.983,Gapminder
+Cote d'Ivoire,Africa,CIV,1982,52.09,World Bank
+Cote d'Ivoire,Africa,CIV,1987,54.655,Gapminder
+Cote d'Ivoire,Africa,CIV,1987,53.118,World Bank
+Cote d'Ivoire,Africa,CIV,1992,52.044,Gapminder
+Cote d'Ivoire,Africa,CIV,1992,52.429,World Bank
+Cote d'Ivoire,Africa,CIV,1997,47.99100000000001,Gapminder
+Cote d'Ivoire,Africa,CIV,1997,51.498,World Bank
+Cote d'Ivoire,Africa,CIV,2002,46.832,Gapminder
+Cote d'Ivoire,Africa,CIV,2002,51.544,World Bank
+Cote d'Ivoire,Africa,CIV,2007,48.328,Gapminder
+Cote d'Ivoire,Africa,CIV,2007,53.452,World Bank
+Cameroon,Africa,CMR,1952,38.523,Gapminder
+Cameroon,Africa,CMR,1957,40.428,Gapminder
+Cameroon,Africa,CMR,1962,42.643,Gapminder
+Cameroon,Africa,CMR,1962,42.599,World Bank
+Cameroon,Africa,CMR,1967,44.799,Gapminder
+Cameroon,Africa,CMR,1967,45.602,World Bank
+Cameroon,Africa,CMR,1972,47.049,Gapminder
+Cameroon,Africa,CMR,1972,49.12,World Bank
+Cameroon,Africa,CMR,1977,49.355,Gapminder
+Cameroon,Africa,CMR,1977,50.13,World Bank
+Cameroon,Africa,CMR,1982,52.96100000000001,Gapminder
+Cameroon,Africa,CMR,1982,51.801,World Bank
+Cameroon,Africa,CMR,1987,54.985,Gapminder
+Cameroon,Africa,CMR,1987,54.188,World Bank
+Cameroon,Africa,CMR,1992,54.31399999999999,Gapminder
+Cameroon,Africa,CMR,1992,54.053,World Bank
+Cameroon,Africa,CMR,1997,52.199,Gapminder
+Cameroon,Africa,CMR,1997,53.105,World Bank
+Cameroon,Africa,CMR,2002,49.856,Gapminder
+Cameroon,Africa,CMR,2002,53.922,World Bank
+Cameroon,Africa,CMR,2007,50.43,Gapminder
+Cameroon,Africa,CMR,2007,55.71,World Bank
+"Congo, Dem. Rep.",Africa,COD,1952,39.143,Gapminder
+"Congo, Dem. Rep.",Africa,COD,1957,40.652,Gapminder
+"Congo, Dem. Rep.",Africa,COD,1962,42.122,Gapminder
+"Congo, Dem. Rep.",Africa,COD,1962,40.382,World Bank
+"Congo, Dem. Rep.",Africa,COD,1967,44.056,Gapminder
+"Congo, Dem. Rep.",Africa,COD,1967,42.339,World Bank
+"Congo, Dem. Rep.",Africa,COD,1972,45.989,Gapminder
+"Congo, Dem. Rep.",Africa,COD,1972,43.869,World Bank
+"Congo, Dem. Rep.",Africa,COD,1977,47.804,Gapminder
+"Congo, Dem. Rep.",Africa,COD,1977,44.866,World Bank
+"Congo, Dem. Rep.",Africa,COD,1982,47.784,Gapminder
+"Congo, Dem. Rep.",Africa,COD,1982,45.946,World Bank
+"Congo, Dem. Rep.",Africa,COD,1987,47.412,Gapminder
+"Congo, Dem. Rep.",Africa,COD,1987,47.362,World Bank
+"Congo, Dem. Rep.",Africa,COD,1992,45.548,Gapminder
+"Congo, Dem. Rep.",Africa,COD,1992,49.323,World Bank
+"Congo, Dem. Rep.",Africa,COD,1997,42.587,Gapminder
+"Congo, Dem. Rep.",Africa,COD,1997,50.461,World Bank
+"Congo, Dem. Rep.",Africa,COD,2002,44.966,Gapminder
+"Congo, Dem. Rep.",Africa,COD,2002,52.371,World Bank
+"Congo, Dem. Rep.",Africa,COD,2007,46.462,Gapminder
+"Congo, Dem. Rep.",Africa,COD,2007,54.954,World Bank
+"Congo, Rep.",Africa,COG,1952,42.111,Gapminder
+"Congo, Rep.",Africa,COG,1957,45.053,Gapminder
+"Congo, Rep.",Africa,COG,1962,48.435,Gapminder
+"Congo, Rep.",Africa,COG,1962,49.038,World Bank
+"Congo, Rep.",Africa,COG,1967,52.04,Gapminder
+"Congo, Rep.",Africa,COG,1967,51.91,World Bank
+"Congo, Rep.",Africa,COG,1972,54.907,Gapminder
+"Congo, Rep.",Africa,COG,1972,54.361,World Bank
+"Congo, Rep.",Africa,COG,1977,55.625,Gapminder
+"Congo, Rep.",Africa,COG,1977,56.027,World Bank
+"Congo, Rep.",Africa,COG,1982,56.695,Gapminder
+"Congo, Rep.",Africa,COG,1982,57.236,World Bank
+"Congo, Rep.",Africa,COG,1987,57.47,Gapminder
+"Congo, Rep.",Africa,COG,1987,57.59,World Bank
+"Congo, Rep.",Africa,COG,1992,56.433,Gapminder
+"Congo, Rep.",Africa,COG,1992,56.483,World Bank
+"Congo, Rep.",Africa,COG,1997,52.962,Gapminder
+"Congo, Rep.",Africa,COG,1997,48.575,World Bank
+"Congo, Rep.",Africa,COG,2002,52.97,Gapminder
+"Congo, Rep.",Africa,COG,2002,56.414,World Bank
+"Congo, Rep.",Africa,COG,2007,55.322,Gapminder
+"Congo, Rep.",Africa,COG,2007,60.05,World Bank
+Colombia,Americas,COL,1952,50.643,Gapminder
+Colombia,Americas,COL,1957,55.118,Gapminder
+Colombia,Americas,COL,1962,57.863,Gapminder
+Colombia,Americas,COL,1962,57.737,World Bank
+Colombia,Americas,COL,1967,59.963,Gapminder
+Colombia,Americas,COL,1967,60.15,World Bank
+Colombia,Americas,COL,1972,61.62300000000001,Gapminder
+Colombia,Americas,COL,1972,62.53,World Bank
+Colombia,Americas,COL,1977,63.837,Gapminder
+Colombia,Americas,COL,1977,65.237,World Bank
+Colombia,Americas,COL,1982,66.653,Gapminder
+Colombia,Americas,COL,1982,67.861,World Bank
+Colombia,Americas,COL,1987,67.768,Gapminder
+Colombia,Americas,COL,1987,68.166,World Bank
+Colombia,Americas,COL,1992,68.421,Gapminder
+Colombia,Americas,COL,1992,68.764,World Bank
+Colombia,Americas,COL,1997,70.313,Gapminder
+Colombia,Americas,COL,1997,70.632,World Bank
+Colombia,Americas,COL,2002,71.682,Gapminder
+Colombia,Americas,COL,2002,71.537,World Bank
+Colombia,Americas,COL,2007,72.889,Gapminder
+Colombia,Americas,COL,2007,73.751,World Bank
+Comoros,Africa,COM,1952,40.715,Gapminder
+Comoros,Africa,COM,1957,42.46,Gapminder
+Comoros,Africa,COM,1962,44.467,Gapminder
+Comoros,Africa,COM,1962,41.534,World Bank
+Comoros,Africa,COM,1967,46.472,Gapminder
+Comoros,Africa,COM,1967,43.593,World Bank
+Comoros,Africa,COM,1972,48.944,Gapminder
+Comoros,Africa,COM,1972,46.463,World Bank
+Comoros,Africa,COM,1977,50.93899999999999,Gapminder
+Comoros,Africa,COM,1977,49.17,World Bank
+Comoros,Africa,COM,1982,52.933,Gapminder
+Comoros,Africa,COM,1982,51.75,World Bank
+Comoros,Africa,COM,1987,54.926,Gapminder
+Comoros,Africa,COM,1987,54.134,World Bank
+Comoros,Africa,COM,1992,57.93899999999999,Gapminder
+Comoros,Africa,COM,1992,56.576,World Bank
+Comoros,Africa,COM,1997,60.66,Gapminder
+Comoros,Africa,COM,1997,58.228,World Bank
+Comoros,Africa,COM,2002,62.974,Gapminder
+Comoros,Africa,COM,2002,59.723,World Bank
+Comoros,Africa,COM,2007,65.152,Gapminder
+Comoros,Africa,COM,2007,61.475,World Bank
+Costa Rica,Americas,CRI,1952,57.206,Gapminder
+Costa Rica,Americas,CRI,1957,60.026,Gapminder
+Costa Rica,Americas,CRI,1962,62.842,Gapminder
+Costa Rica,Americas,CRI,1962,64.232,World Bank
+Costa Rica,Americas,CRI,1967,65.42399999999999,Gapminder
+Costa Rica,Americas,CRI,1967,65.552,World Bank
+Costa Rica,Americas,CRI,1972,67.84899999999999,Gapminder
+Costa Rica,Americas,CRI,1972,68.014,World Bank
+Costa Rica,Americas,CRI,1977,70.75,Gapminder
+Costa Rica,Americas,CRI,1977,71.519,World Bank
+Costa Rica,Americas,CRI,1982,73.45,Gapminder
+Costa Rica,Americas,CRI,1982,73.865,World Bank
+Costa Rica,Americas,CRI,1987,74.752,Gapminder
+Costa Rica,Americas,CRI,1987,75.224,World Bank
+Costa Rica,Americas,CRI,1992,75.71300000000002,Gapminder
+Costa Rica,Americas,CRI,1992,76.385,World Bank
+Costa Rica,Americas,CRI,1997,77.26,Gapminder
+Costa Rica,Americas,CRI,1997,76.603,World Bank
+Costa Rica,Americas,CRI,2002,78.123,Gapminder
+Costa Rica,Americas,CRI,2002,77.939,World Bank
+Costa Rica,Americas,CRI,2007,78.782,Gapminder
+Costa Rica,Americas,CRI,2007,79.098,World Bank
+Cuba,Americas,CUB,1952,59.42100000000001,Gapminder
+Cuba,Americas,CUB,1957,62.325,Gapminder
+Cuba,Americas,CUB,1962,65.24600000000001,Gapminder
+Cuba,Americas,CUB,1962,64.374,World Bank
+Cuba,Americas,CUB,1967,68.29,Gapminder
+Cuba,Americas,CUB,1967,66.514,World Bank
+Cuba,Americas,CUB,1972,70.723,Gapminder
+Cuba,Americas,CUB,1972,68.949,World Bank
+Cuba,Americas,CUB,1977,72.649,Gapminder
+Cuba,Americas,CUB,1977,71.411,World Bank
+Cuba,Americas,CUB,1982,73.717,Gapminder
+Cuba,Americas,CUB,1982,73.439,World Bank
+Cuba,Americas,CUB,1987,74.17399999999998,Gapminder
+Cuba,Americas,CUB,1987,73.596,World Bank
+Cuba,Americas,CUB,1992,74.414,Gapminder
+Cuba,Americas,CUB,1992,73.846,World Bank
+Cuba,Americas,CUB,1997,76.15100000000002,Gapminder
+Cuba,Americas,CUB,1997,75.064,World Bank
+Cuba,Americas,CUB,2002,77.158,Gapminder
+Cuba,Americas,CUB,2002,76.766,World Bank
+Cuba,Americas,CUB,2007,78.273,Gapminder
+Cuba,Americas,CUB,2007,77.55,World Bank
+Czech Republic,Europe,CZE,1952,66.87,Gapminder
+Czech Republic,Europe,CZE,1957,69.03,Gapminder
+Czech Republic,Europe,CZE,1962,69.9,Gapminder
+Czech Republic,Europe,CZE,1962,69.7868292682927,World Bank
+Czech Republic,Europe,CZE,1967,70.38,Gapminder
+Czech Republic,Europe,CZE,1967,70.2641463414634,World Bank
+Czech Republic,Europe,CZE,1972,70.29,Gapminder
+Czech Republic,Europe,CZE,1972,70.1765853658537,World Bank
+Czech Republic,Europe,CZE,1977,70.71,Gapminder
+Czech Republic,Europe,CZE,1977,70.5734146341463,World Bank
+Czech Republic,Europe,CZE,1982,70.96,Gapminder
+Czech Republic,Europe,CZE,1982,70.8078048780488,World Bank
+Czech Republic,Europe,CZE,1987,71.58,Gapminder
+Czech Republic,Europe,CZE,1987,71.4456097560976,World Bank
+Czech Republic,Europe,CZE,1992,72.4,Gapminder
+Czech Republic,Europe,CZE,1992,72.2717073170732,World Bank
+Czech Republic,Europe,CZE,1997,74.01,Gapminder
+Czech Republic,Europe,CZE,1997,73.8248780487805,World Bank
+Czech Republic,Europe,CZE,2002,75.51,Gapminder
+Czech Republic,Europe,CZE,2002,75.2219512195122,World Bank
+Czech Republic,Europe,CZE,2007,76.486,Gapminder
+Czech Republic,Europe,CZE,2007,76.7243902439025,World Bank
+Germany,Europe,DEU,1952,67.5,Gapminder
+Germany,Europe,DEU,1957,69.1,Gapminder
+Germany,Europe,DEU,1962,70.3,Gapminder
+Germany,Europe,DEU,1962,69.7992195121951,World Bank
+Germany,Europe,DEU,1967,70.8,Gapminder
+Germany,Europe,DEU,1967,70.7317317073171,World Bank
+Germany,Europe,DEU,1972,71.0,Gapminder
+Germany,Europe,DEU,1972,70.9067073170732,World Bank
+Germany,Europe,DEU,1977,72.5,Gapminder
+Germany,Europe,DEU,1977,72.3073170731707,World Bank
+Germany,Europe,DEU,1982,73.8,Gapminder
+Germany,Europe,DEU,1982,73.3331463414634,World Bank
+Germany,Europe,DEU,1987,74.847,Gapminder
+Germany,Europe,DEU,1987,74.8070243902439,World Bank
+Germany,Europe,DEU,1992,76.07,Gapminder
+Germany,Europe,DEU,1992,75.819512195122,World Bank
+Germany,Europe,DEU,1997,77.34,Gapminder
+Germany,Europe,DEU,1997,77.0731707317073,World Bank
+Germany,Europe,DEU,2002,78.67,Gapminder
+Germany,Europe,DEU,2002,78.2292682926829,World Bank
+Germany,Europe,DEU,2007,79.406,Gapminder
+Germany,Europe,DEU,2007,79.5341463414634,World Bank
+Djibouti,Africa,DJI,1952,34.812,Gapminder
+Djibouti,Africa,DJI,1957,37.328,Gapminder
+Djibouti,Africa,DJI,1962,39.69300000000001,Gapminder
+Djibouti,Africa,DJI,1962,44.092,World Bank
+Djibouti,Africa,DJI,1967,42.074,Gapminder
+Djibouti,Africa,DJI,1967,46.103,World Bank
+Djibouti,Africa,DJI,1972,44.36600000000001,Gapminder
+Djibouti,Africa,DJI,1972,48.532,World Bank
+Djibouti,Africa,DJI,1977,46.519,Gapminder
+Djibouti,Africa,DJI,1977,50.755,World Bank
+Djibouti,Africa,DJI,1982,48.812,Gapminder
+Djibouti,Africa,DJI,1982,52.893,World Bank
+Djibouti,Africa,DJI,1987,50.04,Gapminder
+Djibouti,Africa,DJI,1987,54.832,World Bank
+Djibouti,Africa,DJI,1992,51.604,Gapminder
+Djibouti,Africa,DJI,1992,54.375,World Bank
+Djibouti,Africa,DJI,1997,53.157,Gapminder
+Djibouti,Africa,DJI,1997,56.207,World Bank
+Djibouti,Africa,DJI,2002,53.37300000000001,Gapminder
+Djibouti,Africa,DJI,2002,57.824,World Bank
+Djibouti,Africa,DJI,2007,54.791,Gapminder
+Djibouti,Africa,DJI,2007,59.362,World Bank
+Denmark,Europe,DNK,1952,70.78,Gapminder
+Denmark,Europe,DNK,1957,71.81,Gapminder
+Denmark,Europe,DNK,1962,72.35,Gapminder
+Denmark,Europe,DNK,1962,72.319756097561,World Bank
+Denmark,Europe,DNK,1967,72.96,Gapminder
+Denmark,Europe,DNK,1967,72.9221951219512,World Bank
+Denmark,Europe,DNK,1972,73.47,Gapminder
+Denmark,Europe,DNK,1972,73.4390243902439,World Bank
+Denmark,Europe,DNK,1977,74.69,Gapminder
+Denmark,Europe,DNK,1977,74.6324390243903,World Bank
+Denmark,Europe,DNK,1982,74.63,Gapminder
+Denmark,Europe,DNK,1982,74.5512195121951,World Bank
+Denmark,Europe,DNK,1987,74.8,Gapminder
+Denmark,Europe,DNK,1987,74.6912195121951,World Bank
+Denmark,Europe,DNK,1992,75.33,Gapminder
+Denmark,Europe,DNK,1992,75.1941463414634,World Bank
+Denmark,Europe,DNK,1997,76.11,Gapminder
+Denmark,Europe,DNK,1997,75.9451219512195,World Bank
+Denmark,Europe,DNK,2002,77.18,Gapminder
+Denmark,Europe,DNK,2002,76.8951219512195,World Bank
+Denmark,Europe,DNK,2007,78.332,Gapminder
+Denmark,Europe,DNK,2007,78.1951219512195,World Bank
+Dominican Republic,Americas,DOM,1952,45.928,Gapminder
+Dominican Republic,Americas,DOM,1957,49.828,Gapminder
+Dominican Republic,Americas,DOM,1962,53.459,Gapminder
+Dominican Republic,Americas,DOM,1962,53.199,World Bank
+Dominican Republic,Americas,DOM,1967,56.75100000000001,Gapminder
+Dominican Republic,Americas,DOM,1967,56.646,World Bank
+Dominican Republic,Americas,DOM,1972,59.631,Gapminder
+Dominican Republic,Americas,DOM,1972,59.661,World Bank
+Dominican Republic,Americas,DOM,1977,61.788,Gapminder
+Dominican Republic,Americas,DOM,1977,62.2,World Bank
+Dominican Republic,Americas,DOM,1982,63.727,Gapminder
+Dominican Republic,Americas,DOM,1982,64.198,World Bank
+Dominican Republic,Americas,DOM,1987,66.046,Gapminder
+Dominican Republic,Americas,DOM,1987,66.49,World Bank
+Dominican Republic,Americas,DOM,1992,68.457,Gapminder
+Dominican Republic,Americas,DOM,1992,68.525,World Bank
+Dominican Republic,Americas,DOM,1997,69.957,Gapminder
+Dominican Republic,Americas,DOM,1997,69.809,World Bank
+Dominican Republic,Americas,DOM,2002,70.847,Gapminder
+Dominican Republic,Americas,DOM,2002,70.719,World Bank
+Dominican Republic,Americas,DOM,2007,72.235,Gapminder
+Dominican Republic,Americas,DOM,2007,71.097,World Bank
+Algeria,Africa,DZA,1952,43.077,Gapminder
+Algeria,Africa,DZA,1957,45.685,Gapminder
+Algeria,Africa,DZA,1962,48.303,Gapminder
+Algeria,Africa,DZA,1962,39.527,World Bank
+Algeria,Africa,DZA,1967,51.407,Gapminder
+Algeria,Africa,DZA,1967,42.731,World Bank
+Algeria,Africa,DZA,1972,54.518,Gapminder
+Algeria,Africa,DZA,1972,44.384,World Bank
+Algeria,Africa,DZA,1977,58.014,Gapminder
+Algeria,Africa,DZA,1977,49.249,World Bank
+Algeria,Africa,DZA,1982,61.368,Gapminder
+Algeria,Africa,DZA,1982,59.594,World Bank
+Algeria,Africa,DZA,1987,65.79899999999999,Gapminder
+Algeria,Africa,DZA,1987,66.13,World Bank
+Algeria,Africa,DZA,1992,67.744,Gapminder
+Algeria,Africa,DZA,1992,67.725,World Bank
+Algeria,Africa,DZA,1997,69.152,Gapminder
+Algeria,Africa,DZA,1997,68.859,World Bank
+Algeria,Africa,DZA,2002,70.994,Gapminder
+Algeria,Africa,DZA,2002,71.644,World Bank
+Algeria,Africa,DZA,2007,72.301,Gapminder
+Algeria,Africa,DZA,2007,73.346,World Bank
+Ecuador,Americas,ECU,1952,48.357,Gapminder
+Ecuador,Americas,ECU,1957,51.356,Gapminder
+Ecuador,Americas,ECU,1962,54.64,Gapminder
+Ecuador,Americas,ECU,1962,54.681,World Bank
+Ecuador,Americas,ECU,1967,56.678,Gapminder
+Ecuador,Americas,ECU,1967,57.482,World Bank
+Ecuador,Americas,ECU,1972,58.79600000000001,Gapminder
+Ecuador,Americas,ECU,1972,59.816,World Bank
+Ecuador,Americas,ECU,1977,61.31,Gapminder
+Ecuador,Americas,ECU,1977,61.935,World Bank
+Ecuador,Americas,ECU,1982,64.342,Gapminder
+Ecuador,Americas,ECU,1982,64.271,World Bank
+Ecuador,Americas,ECU,1987,67.23100000000001,Gapminder
+Ecuador,Americas,ECU,1987,66.587,World Bank
+Ecuador,Americas,ECU,1992,69.613,Gapminder
+Ecuador,Americas,ECU,1992,69.468,World Bank
+Ecuador,Americas,ECU,1997,72.312,Gapminder
+Ecuador,Americas,ECU,1997,72.007,World Bank
+Ecuador,Americas,ECU,2002,74.173,Gapminder
+Ecuador,Americas,ECU,2002,73.164,World Bank
+Ecuador,Americas,ECU,2007,74.994,Gapminder
+Ecuador,Americas,ECU,2007,74.226,World Bank
+Egypt,Africa,EGY,1952,41.893,Gapminder
+Egypt,Africa,EGY,1957,44.444,Gapminder
+Egypt,Africa,EGY,1962,46.992,Gapminder
+Egypt,Africa,EGY,1962,45.844,World Bank
+Egypt,Africa,EGY,1967,49.293,Gapminder
+Egypt,Africa,EGY,1967,48.13,World Bank
+Egypt,Africa,EGY,1972,51.137,Gapminder
+Egypt,Africa,EGY,1972,49.908,World Bank
+Egypt,Africa,EGY,1977,53.319,Gapminder
+Egypt,Africa,EGY,1977,53.272,World Bank
+Egypt,Africa,EGY,1982,56.006,Gapminder
+Egypt,Africa,EGY,1982,57.219,World Bank
+Egypt,Africa,EGY,1987,59.797,Gapminder
+Egypt,Africa,EGY,1987,60.736,World Bank
+Egypt,Africa,EGY,1992,63.674,Gapminder
+Egypt,Africa,EGY,1992,63.585,World Bank
+Egypt,Africa,EGY,1997,67.217,Gapminder
+Egypt,Africa,EGY,1997,66.207,World Bank
+Egypt,Africa,EGY,2002,69.806,Gapminder
+Egypt,Africa,EGY,2002,67.846,World Bank
+Egypt,Africa,EGY,2007,71.33800000000002,Gapminder
+Egypt,Africa,EGY,2007,68.627,World Bank
+Eritrea,Africa,ERI,1952,35.92800000000001,Gapminder
+Eritrea,Africa,ERI,1957,38.047,Gapminder
+Eritrea,Africa,ERI,1962,40.158,Gapminder
+Eritrea,Africa,ERI,1962,38.346,World Bank
+Eritrea,Africa,ERI,1967,42.18899999999999,Gapminder
+Eritrea,Africa,ERI,1967,40.151,World Bank
+Eritrea,Africa,ERI,1972,44.142,Gapminder
+Eritrea,Africa,ERI,1972,40.723,World Bank
+Eritrea,Africa,ERI,1977,44.535,Gapminder
+Eritrea,Africa,ERI,1977,42.984,World Bank
+Eritrea,Africa,ERI,1982,43.89,Gapminder
+Eritrea,Africa,ERI,1982,44.891,World Bank
+Eritrea,Africa,ERI,1987,46.453,Gapminder
+Eritrea,Africa,ERI,1987,47.363,World Bank
+Eritrea,Africa,ERI,1992,49.99100000000001,Gapminder
+Eritrea,Africa,ERI,1992,52.436,World Bank
+Eritrea,Africa,ERI,1997,53.378,Gapminder
+Eritrea,Africa,ERI,1997,56.155,World Bank
+Eritrea,Africa,ERI,2002,55.24,Gapminder
+Eritrea,Africa,ERI,2002,58.941,World Bank
+Eritrea,Africa,ERI,2007,58.04,Gapminder
+Eritrea,Africa,ERI,2007,61.998,World Bank
+Spain,Europe,ESP,1952,64.94,Gapminder
+Spain,Europe,ESP,1957,66.66,Gapminder
+Spain,Europe,ESP,1962,69.69,Gapminder
+Spain,Europe,ESP,1962,69.5190243902439,World Bank
+Spain,Europe,ESP,1967,71.44,Gapminder
+Spain,Europe,ESP,1967,71.2529268292683,World Bank
+Spain,Europe,ESP,1972,73.06,Gapminder
+Spain,Europe,ESP,1972,72.8180487804878,World Bank
+Spain,Europe,ESP,1977,74.39,Gapminder
+Spain,Europe,ESP,1977,74.1319512195122,World Bank
+Spain,Europe,ESP,1982,76.3,Gapminder
+Spain,Europe,ESP,1982,76.1341463414634,World Bank
+Spain,Europe,ESP,1987,76.9,Gapminder
+Spain,Europe,ESP,1987,76.7280487804878,World Bank
+Spain,Europe,ESP,1992,77.57,Gapminder
+Spain,Europe,ESP,1992,77.41,World Bank
+Spain,Europe,ESP,1997,78.77,Gapminder
+Spain,Europe,ESP,1997,78.6041463414634,World Bank
+Spain,Europe,ESP,2002,79.78,Gapminder
+Spain,Europe,ESP,2002,79.5682926829268,World Bank
+Spain,Europe,ESP,2007,80.941,Gapminder
+Spain,Europe,ESP,2007,80.8731707317073,World Bank
+Ethiopia,Africa,ETH,1952,34.078,Gapminder
+Ethiopia,Africa,ETH,1957,36.667,Gapminder
+Ethiopia,Africa,ETH,1962,40.059,Gapminder
+Ethiopia,Africa,ETH,1962,40.531,World Bank
+Ethiopia,Africa,ETH,1967,42.115,Gapminder
+Ethiopia,Africa,ETH,1967,41.941,World Bank
+Ethiopia,Africa,ETH,1972,43.515,Gapminder
+Ethiopia,Africa,ETH,1972,41.035,World Bank
+Ethiopia,Africa,ETH,1977,44.51,Gapminder
+Ethiopia,Africa,ETH,1977,41.397,World Bank
+Ethiopia,Africa,ETH,1982,44.916,Gapminder
+Ethiopia,Africa,ETH,1982,43.434,World Bank
+Ethiopia,Africa,ETH,1987,46.684,Gapminder
+Ethiopia,Africa,ETH,1987,45.892,World Bank
+Ethiopia,Africa,ETH,1992,48.091,Gapminder
+Ethiopia,Africa,ETH,1992,47.279,World Bank
+Ethiopia,Africa,ETH,1997,49.402,Gapminder
+Ethiopia,Africa,ETH,1997,49.21,World Bank
+Ethiopia,Africa,ETH,2002,50.725,Gapminder
+Ethiopia,Africa,ETH,2002,52.085,World Bank
+Ethiopia,Africa,ETH,2007,52.947,Gapminder
+Ethiopia,Africa,ETH,2007,56.566,World Bank
+Finland,Europe,FIN,1952,66.55,Gapminder
+Finland,Europe,FIN,1957,67.49,Gapminder
+Finland,Europe,FIN,1962,68.75,Gapminder
+Finland,Europe,FIN,1962,68.5778048780488,World Bank
+Finland,Europe,FIN,1967,69.83,Gapminder
+Finland,Europe,FIN,1967,69.6665853658537,World Bank
+Finland,Europe,FIN,1972,70.87,Gapminder
+Finland,Europe,FIN,1972,70.7073170731707,World Bank
+Finland,Europe,FIN,1977,72.52,Gapminder
+Finland,Europe,FIN,1977,72.350243902439,World Bank
+Finland,Europe,FIN,1982,74.55,Gapminder
+Finland,Europe,FIN,1982,74.2980487804878,World Bank
+Finland,Europe,FIN,1987,74.83,Gapminder
+Finland,Europe,FIN,1987,74.5919512195122,World Bank
+Finland,Europe,FIN,1992,75.7,Gapminder
+Finland,Europe,FIN,1992,75.4553658536585,World Bank
+Finland,Europe,FIN,1997,77.13,Gapminder
+Finland,Europe,FIN,1997,76.8785365853659,World Bank
+Finland,Europe,FIN,2002,78.37,Gapminder
+Finland,Europe,FIN,2002,78.119512195122,World Bank
+Finland,Europe,FIN,2007,79.313,Gapminder
+Finland,Europe,FIN,2007,79.2634146341464,World Bank
+France,Europe,FRA,1952,67.41,Gapminder
+France,Europe,FRA,1957,68.93,Gapminder
+France,Europe,FRA,1962,70.51,Gapminder
+France,Europe,FRA,1962,70.3146341463415,World Bank
+France,Europe,FRA,1967,71.55,Gapminder
+France,Europe,FRA,1967,71.1609756097561,World Bank
+France,Europe,FRA,1972,72.38,Gapminder
+France,Europe,FRA,1972,72.1073170731707,World Bank
+France,Europe,FRA,1977,73.83,Gapminder
+France,Europe,FRA,1977,73.3512195121951,World Bank
+France,Europe,FRA,1982,74.89,Gapminder
+France,Europe,FRA,1982,74.5,World Bank
+France,Europe,FRA,1987,76.34,Gapminder
+France,Europe,FRA,1987,75.8,World Bank
+France,Europe,FRA,1992,77.46,Gapminder
+France,Europe,FRA,1992,77.1,World Bank
+France,Europe,FRA,1997,78.64,Gapminder
+France,Europe,FRA,1997,78.3048780487805,World Bank
+France,Europe,FRA,2002,79.59,Gapminder
+France,Europe,FRA,2002,79.2609756097561,World Bank
+France,Europe,FRA,2007,80.657,Gapminder
+France,Europe,FRA,2007,81.1121951219512,World Bank
+Gabon,Africa,GAB,1952,37.003,Gapminder
+Gabon,Africa,GAB,1957,38.999,Gapminder
+Gabon,Africa,GAB,1962,40.489,Gapminder
+Gabon,Africa,GAB,1962,47.777,World Bank
+Gabon,Africa,GAB,1967,44.598,Gapminder
+Gabon,Africa,GAB,1967,50.928,World Bank
+Gabon,Africa,GAB,1972,48.69,Gapminder
+Gabon,Africa,GAB,1972,53.811,World Bank
+Gabon,Africa,GAB,1977,52.79,Gapminder
+Gabon,Africa,GAB,1977,56.467,World Bank
+Gabon,Africa,GAB,1982,56.56399999999999,Gapminder
+Gabon,Africa,GAB,1982,58.644,World Bank
+Gabon,Africa,GAB,1987,60.19,Gapminder
+Gabon,Africa,GAB,1987,60.2,World Bank
+Gabon,Africa,GAB,1992,61.36600000000001,Gapminder
+Gabon,Africa,GAB,1992,61.013,World Bank
+Gabon,Africa,GAB,1997,60.46100000000001,Gapminder
+Gabon,Africa,GAB,1997,61.395,World Bank
+Gabon,Africa,GAB,2002,56.761,Gapminder
+Gabon,Africa,GAB,2002,62.175,World Bank
+Gabon,Africa,GAB,2007,56.735,Gapminder
+Gabon,Africa,GAB,2007,63.619,World Bank
+United Kingdom,Europe,GBR,1952,69.18,Gapminder
+United Kingdom,Europe,GBR,1957,70.42,Gapminder
+United Kingdom,Europe,GBR,1962,70.76,Gapminder
+United Kingdom,Europe,GBR,1962,70.9268292682927,World Bank
+United Kingdom,Europe,GBR,1967,71.36,Gapminder
+United Kingdom,Europe,GBR,1967,72.1243902439024,World Bank
+United Kingdom,Europe,GBR,1972,72.01,Gapminder
+United Kingdom,Europe,GBR,1972,72.1243902439024,World Bank
+United Kingdom,Europe,GBR,1977,72.76,Gapminder
+United Kingdom,Europe,GBR,1977,73.2243902439024,World Bank
+United Kingdom,Europe,GBR,1982,74.04,Gapminder
+United Kingdom,Europe,GBR,1982,74.1780487804878,World Bank
+United Kingdom,Europe,GBR,1987,75.007,Gapminder
+United Kingdom,Europe,GBR,1987,75.280487804878,World Bank
+United Kingdom,Europe,GBR,1992,76.42,Gapminder
+United Kingdom,Europe,GBR,1992,76.4341463414634,World Bank
+United Kingdom,Europe,GBR,1997,77.218,Gapminder
+United Kingdom,Europe,GBR,1997,77.2109756097561,World Bank
+United Kingdom,Europe,GBR,2002,78.471,Gapminder
+United Kingdom,Europe,GBR,2002,78.1439024390244,World Bank
+United Kingdom,Europe,GBR,2007,79.425,Gapminder
+United Kingdom,Europe,GBR,2007,79.4487804878049,World Bank
+Ghana,Africa,GHA,1952,43.149,Gapminder
+Ghana,Africa,GHA,1957,44.779,Gapminder
+Ghana,Africa,GHA,1962,46.452,Gapminder
+Ghana,Africa,GHA,1962,47.335,World Bank
+Ghana,Africa,GHA,1967,48.072,Gapminder
+Ghana,Africa,GHA,1967,47.734,World Bank
+Ghana,Africa,GHA,1972,49.875,Gapminder
+Ghana,Africa,GHA,1972,48.274,World Bank
+Ghana,Africa,GHA,1977,51.756,Gapminder
+Ghana,Africa,GHA,1977,50.079,World Bank
+Ghana,Africa,GHA,1982,53.744,Gapminder
+Ghana,Africa,GHA,1982,51.425,World Bank
+Ghana,Africa,GHA,1987,55.729,Gapminder
+Ghana,Africa,GHA,1987,53.818,World Bank
+Ghana,Africa,GHA,1992,57.50100000000001,Gapminder
+Ghana,Africa,GHA,1992,56.055,World Bank
+Ghana,Africa,GHA,1997,58.556,Gapminder
+Ghana,Africa,GHA,1997,57.241,World Bank
+Ghana,Africa,GHA,2002,58.453,Gapminder
+Ghana,Africa,GHA,2002,58.709,World Bank
+Ghana,Africa,GHA,2007,60.022,Gapminder
+Ghana,Africa,GHA,2007,60.282,World Bank
+Guinea,Africa,GIN,1952,33.609,Gapminder
+Guinea,Africa,GIN,1957,34.558,Gapminder
+Guinea,Africa,GIN,1962,35.753,Gapminder
+Guinea,Africa,GIN,1962,36.997,World Bank
+Guinea,Africa,GIN,1967,37.197,Gapminder
+Guinea,Africa,GIN,1967,38.224,World Bank
+Guinea,Africa,GIN,1972,38.842,Gapminder
+Guinea,Africa,GIN,1972,39.683,World Bank
+Guinea,Africa,GIN,1977,40.762,Gapminder
+Guinea,Africa,GIN,1977,41.409,World Bank
+Guinea,Africa,GIN,1982,42.89100000000001,Gapminder
+Guinea,Africa,GIN,1982,43.863,World Bank
+Guinea,Africa,GIN,1987,45.552,Gapminder
+Guinea,Africa,GIN,1987,46.107,World Bank
+Guinea,Africa,GIN,1992,48.576,Gapminder
+Guinea,Africa,GIN,1992,48.266,World Bank
+Guinea,Africa,GIN,1997,51.455,Gapminder
+Guinea,Africa,GIN,1997,51.113,World Bank
+Guinea,Africa,GIN,2002,53.676,Gapminder
+Guinea,Africa,GIN,2002,53.2,World Bank
+Guinea,Africa,GIN,2007,56.007,Gapminder
+Guinea,Africa,GIN,2007,55.233,World Bank
+Gambia,Africa,GMB,1952,30.0,Gapminder
+Gambia,Africa,GMB,1957,32.065,Gapminder
+Gambia,Africa,GMB,1962,33.896,Gapminder
+Gambia,Africa,GMB,1962,35.599,World Bank
+Gambia,Africa,GMB,1967,35.857,Gapminder
+Gambia,Africa,GMB,1967,38.063,World Bank
+Gambia,Africa,GMB,1972,38.308,Gapminder
+Gambia,Africa,GMB,1972,40.549,World Bank
+Gambia,Africa,GMB,1977,41.842,Gapminder
+Gambia,Africa,GMB,1977,43.366,World Bank
+Gambia,Africa,GMB,1982,45.58,Gapminder
+Gambia,Africa,GMB,1982,46.25,World Bank
+Gambia,Africa,GMB,1987,49.265,Gapminder
+Gambia,Africa,GMB,1987,49.392,World Bank
+Gambia,Africa,GMB,1992,52.644,Gapminder
+Gambia,Africa,GMB,1992,52.477,World Bank
+Gambia,Africa,GMB,1997,55.861,Gapminder
+Gambia,Africa,GMB,1997,55.225,World Bank
+Gambia,Africa,GMB,2002,58.041,Gapminder
+Gambia,Africa,GMB,2002,57.736,World Bank
+Gambia,Africa,GMB,2007,59.448,Gapminder
+Gambia,Africa,GMB,2007,60.001,World Bank
+Guinea-Bissau,Africa,GNB,1952,32.5,Gapminder
+Guinea-Bissau,Africa,GNB,1957,33.489000000000004,Gapminder
+Guinea-Bissau,Africa,GNB,1962,34.488,Gapminder
+Guinea-Bissau,Africa,GNB,1962,38.032,World Bank
+Guinea-Bissau,Africa,GNB,1967,35.492,Gapminder
+Guinea-Bissau,Africa,GNB,1967,36.344,World Bank
+Guinea-Bissau,Africa,GNB,1972,36.486,Gapminder
+Guinea-Bissau,Africa,GNB,1972,37.82,World Bank
+Guinea-Bissau,Africa,GNB,1977,37.465,Gapminder
+Guinea-Bissau,Africa,GNB,1977,42.578,World Bank
+Guinea-Bissau,Africa,GNB,1982,39.327,Gapminder
+Guinea-Bissau,Africa,GNB,1982,44.293,World Bank
+Guinea-Bissau,Africa,GNB,1987,41.245,Gapminder
+Guinea-Bissau,Africa,GNB,1987,45.844,World Bank
+Guinea-Bissau,Africa,GNB,1992,43.26600000000001,Gapminder
+Guinea-Bissau,Africa,GNB,1992,47.518,World Bank
+Guinea-Bissau,Africa,GNB,1997,44.87300000000001,Gapminder
+Guinea-Bissau,Africa,GNB,1997,48.033,World Bank
+Guinea-Bissau,Africa,GNB,2002,45.504,Gapminder
+Guinea-Bissau,Africa,GNB,2002,51.608,World Bank
+Guinea-Bissau,Africa,GNB,2007,46.38800000000001,Gapminder
+Guinea-Bissau,Africa,GNB,2007,54.87,World Bank
+Equatorial Guinea,Africa,GNQ,1952,34.482,Gapminder
+Equatorial Guinea,Africa,GNQ,1957,35.98300000000001,Gapminder
+Equatorial Guinea,Africa,GNQ,1962,37.485,Gapminder
+Equatorial Guinea,Africa,GNQ,1962,43.275,World Bank
+Equatorial Guinea,Africa,GNQ,1967,38.987,Gapminder
+Equatorial Guinea,Africa,GNQ,1967,44.595,World Bank
+Equatorial Guinea,Africa,GNQ,1972,40.516,Gapminder
+Equatorial Guinea,Africa,GNQ,1972,44.441,World Bank
+Equatorial Guinea,Africa,GNQ,1977,42.024,Gapminder
+Equatorial Guinea,Africa,GNQ,1977,42.008,World Bank
+Equatorial Guinea,Africa,GNQ,1982,43.662,Gapminder
+Equatorial Guinea,Africa,GNQ,1982,49.666,World Bank
+Equatorial Guinea,Africa,GNQ,1987,45.664,Gapminder
+Equatorial Guinea,Africa,GNQ,1987,50.99,World Bank
+Equatorial Guinea,Africa,GNQ,1992,47.545,Gapminder
+Equatorial Guinea,Africa,GNQ,1992,51.579,World Bank
+Equatorial Guinea,Africa,GNQ,1997,48.245,Gapminder
+Equatorial Guinea,Africa,GNQ,1997,52.365,World Bank
+Equatorial Guinea,Africa,GNQ,2002,49.348,Gapminder
+Equatorial Guinea,Africa,GNQ,2002,54.324,World Bank
+Equatorial Guinea,Africa,GNQ,2007,51.57899999999999,Gapminder
+Equatorial Guinea,Africa,GNQ,2007,56.857,World Bank
+Greece,Europe,GRC,1952,65.86,Gapminder
+Greece,Europe,GRC,1957,67.86,Gapminder
+Greece,Europe,GRC,1962,69.51,Gapminder
+Greece,Europe,GRC,1962,70.2246097560976,World Bank
+Greece,Europe,GRC,1967,71.0,Gapminder
+Greece,Europe,GRC,1967,71.307,World Bank
+Greece,Europe,GRC,1972,72.34,Gapminder
+Greece,Europe,GRC,1972,72.656243902439,World Bank
+Greece,Europe,GRC,1977,73.68,Gapminder
+Greece,Europe,GRC,1977,73.6803414634146,World Bank
+Greece,Europe,GRC,1982,75.24,Gapminder
+Greece,Europe,GRC,1982,75.2026829268293,World Bank
+Greece,Europe,GRC,1987,76.67,Gapminder
+Greece,Europe,GRC,1987,76.0558536585366,World Bank
+Greece,Europe,GRC,1992,77.03,Gapminder
+Greece,Europe,GRC,1992,77.3829268292683,World Bank
+Greece,Europe,GRC,1997,77.869,Gapminder
+Greece,Europe,GRC,1997,78.1365853658537,World Bank
+Greece,Europe,GRC,2002,78.256,Gapminder
+Greece,Europe,GRC,2002,78.6414634146341,World Bank
+Greece,Europe,GRC,2007,79.483,Gapminder
+Greece,Europe,GRC,2007,79.4390243902439,World Bank
+Guatemala,Americas,GTM,1952,42.023,Gapminder
+Guatemala,Americas,GTM,1957,44.142,Gapminder
+Guatemala,Americas,GTM,1962,46.95399999999999,Gapminder
+Guatemala,Americas,GTM,1962,46.492,World Bank
+Guatemala,Americas,GTM,1967,50.01600000000001,Gapminder
+Guatemala,Americas,GTM,1967,47.727,World Bank
+Guatemala,Americas,GTM,1972,53.738,Gapminder
+Guatemala,Americas,GTM,1972,51.817,World Bank
+Guatemala,Americas,GTM,1977,56.029,Gapminder
+Guatemala,Americas,GTM,1977,55.184,World Bank
+Guatemala,Americas,GTM,1982,58.137,Gapminder
+Guatemala,Americas,GTM,1982,48.863,World Bank
+Guatemala,Americas,GTM,1987,60.782,Gapminder
+Guatemala,Americas,GTM,1987,60.991,World Bank
+Guatemala,Americas,GTM,1992,63.37300000000001,Gapminder
+Guatemala,Americas,GTM,1992,61.992,World Bank
+Guatemala,Americas,GTM,1997,66.322,Gapminder
+Guatemala,Americas,GTM,1997,65.249,World Bank
+Guatemala,Americas,GTM,2002,68.97800000000001,Gapminder
+Guatemala,Americas,GTM,2002,67.835,World Bank
+Guatemala,Americas,GTM,2007,70.259,Gapminder
+Guatemala,Americas,GTM,2007,69.299,World Bank
+"Hong Kong, China",Asia,HKG,1952,60.96,Gapminder
+"Hong Kong, China",Asia,HKG,1957,64.75,Gapminder
+"Hong Kong, China",Asia,HKG,1962,67.65,Gapminder
+"Hong Kong, China",Asia,HKG,1962,66.9104634146342,World Bank
+"Hong Kong, China",Asia,HKG,1967,70.0,Gapminder
+"Hong Kong, China",Asia,HKG,1967,69.8278536585366,World Bank
+"Hong Kong, China",Asia,HKG,1972,72.0,Gapminder
+"Hong Kong, China",Asia,HKG,1972,71.4509756097561,World Bank
+"Hong Kong, China",Asia,HKG,1977,73.6,Gapminder
+"Hong Kong, China",Asia,HKG,1977,73.3492682926829,World Bank
+"Hong Kong, China",Asia,HKG,1982,75.45,Gapminder
+"Hong Kong, China",Asia,HKG,1982,75.4385365853659,World Bank
+"Hong Kong, China",Asia,HKG,1987,76.2,Gapminder
+"Hong Kong, China",Asia,HKG,1987,76.8978048780488,World Bank
+"Hong Kong, China",Asia,HKG,1992,77.601,Gapminder
+"Hong Kong, China",Asia,HKG,1992,77.6734146341464,World Bank
+"Hong Kong, China",Asia,HKG,1997,80.0,Gapminder
+"Hong Kong, China",Asia,HKG,1997,80.1121951219512,World Bank
+"Hong Kong, China",Asia,HKG,2002,81.495,Gapminder
+"Hong Kong, China",Asia,HKG,2002,81.4521951219512,World Bank
+"Hong Kong, China",Asia,HKG,2007,82.208,Gapminder
+"Hong Kong, China",Asia,HKG,2007,82.3668292682927,World Bank
+Honduras,Americas,HND,1952,41.912,Gapminder
+Honduras,Americas,HND,1957,44.665,Gapminder
+Honduras,Americas,HND,1962,48.041,Gapminder
+Honduras,Americas,HND,1962,48.647,World Bank
+Honduras,Americas,HND,1967,50.924,Gapminder
+Honduras,Americas,HND,1967,52.331,World Bank
+Honduras,Americas,HND,1972,53.88399999999999,Gapminder
+Honduras,Americas,HND,1972,55.689,World Bank
+Honduras,Americas,HND,1977,57.402,Gapminder
+Honduras,Americas,HND,1977,58.704,World Bank
+Honduras,Americas,HND,1982,60.909,Gapminder
+Honduras,Americas,HND,1982,61.688,World Bank
+Honduras,Americas,HND,1987,64.492,Gapminder
+Honduras,Americas,HND,1987,64.066,World Bank
+Honduras,Americas,HND,1992,66.399,Gapminder
+Honduras,Americas,HND,1992,65.908,World Bank
+Honduras,Americas,HND,1997,67.65899999999999,Gapminder
+Honduras,Americas,HND,1997,67.542,World Bank
+Honduras,Americas,HND,2002,68.565,Gapminder
+Honduras,Americas,HND,2002,68.714,World Bank
+Honduras,Americas,HND,2007,70.19800000000001,Gapminder
+Honduras,Americas,HND,2007,69.539,World Bank
+Croatia,Europe,HRV,1952,61.21,Gapminder
+Croatia,Europe,HRV,1957,64.77,Gapminder
+Croatia,Europe,HRV,1962,67.13,Gapminder
+Croatia,Europe,HRV,1962,67.0652682926829,World Bank
+Croatia,Europe,HRV,1967,68.5,Gapminder
+Croatia,Europe,HRV,1967,68.8450243902439,World Bank
+Croatia,Europe,HRV,1972,69.61,Gapminder
+Croatia,Europe,HRV,1972,69.5739268292683,World Bank
+Croatia,Europe,HRV,1977,70.64,Gapminder
+Croatia,Europe,HRV,1977,70.7443902439024,World Bank
+Croatia,Europe,HRV,1982,70.46,Gapminder
+Croatia,Europe,HRV,1982,70.4826829268293,World Bank
+Croatia,Europe,HRV,1987,71.52,Gapminder
+Croatia,Europe,HRV,1987,71.470243902439,World Bank
+Croatia,Europe,HRV,1992,72.527,Gapminder
+Croatia,Europe,HRV,1992,71.2414634146342,World Bank
+Croatia,Europe,HRV,1997,73.68,Gapminder
+Croatia,Europe,HRV,1997,72.4951219512195,World Bank
+Croatia,Europe,HRV,2002,74.876,Gapminder
+Croatia,Europe,HRV,2002,74.7173170731707,World Bank
+Croatia,Europe,HRV,2007,75.748,Gapminder
+Croatia,Europe,HRV,2007,75.7056097560976,World Bank
+Haiti,Americas,HTI,1952,37.579,Gapminder
+Haiti,Americas,HTI,1957,40.696,Gapminder
+Haiti,Americas,HTI,1962,43.59,Gapminder
+Haiti,Americas,HTI,1962,44.196,World Bank
+Haiti,Americas,HTI,1967,46.243,Gapminder
+Haiti,Americas,HTI,1967,46.135,World Bank
+Haiti,Americas,HTI,1972,48.042,Gapminder
+Haiti,Americas,HTI,1972,47.884,World Bank
+Haiti,Americas,HTI,1977,49.923,Gapminder
+Haiti,Americas,HTI,1977,49.226,World Bank
+Haiti,Americas,HTI,1982,51.46100000000001,Gapminder
+Haiti,Americas,HTI,1982,50.626,World Bank
+Haiti,Americas,HTI,1987,53.636,Gapminder
+Haiti,Americas,HTI,1987,52.245,World Bank
+Haiti,Americas,HTI,1992,55.089,Gapminder
+Haiti,Americas,HTI,1992,54.041,World Bank
+Haiti,Americas,HTI,1997,56.67100000000001,Gapminder
+Haiti,Americas,HTI,1997,56.675,World Bank
+Haiti,Americas,HTI,2002,58.137,Gapminder
+Haiti,Americas,HTI,2002,59.041,World Bank
+Haiti,Americas,HTI,2007,60.916,Gapminder
+Haiti,Americas,HTI,2007,61.09,World Bank
+Hungary,Europe,HUN,1952,64.03,Gapminder
+Hungary,Europe,HUN,1957,66.41,Gapminder
+Hungary,Europe,HUN,1962,67.96,Gapminder
+Hungary,Europe,HUN,1962,67.8658536585366,World Bank
+Hungary,Europe,HUN,1967,69.5,Gapminder
+Hungary,Europe,HUN,1967,69.4070731707317,World Bank
+Hungary,Europe,HUN,1972,69.76,Gapminder
+Hungary,Europe,HUN,1972,69.6646341463415,World Bank
+Hungary,Europe,HUN,1977,69.95,Gapminder
+Hungary,Europe,HUN,1977,69.8480487804878,World Bank
+Hungary,Europe,HUN,1982,69.39,Gapminder
+Hungary,Europe,HUN,1982,69.3578048780488,World Bank
+Hungary,Europe,HUN,1987,69.58,Gapminder
+Hungary,Europe,HUN,1987,69.6512195121951,World Bank
+Hungary,Europe,HUN,1992,69.17,Gapminder
+Hungary,Europe,HUN,1992,69.1170731707317,World Bank
+Hungary,Europe,HUN,1997,71.04,Gapminder
+Hungary,Europe,HUN,1997,70.7024390243902,World Bank
+Hungary,Europe,HUN,2002,72.59,Gapminder
+Hungary,Europe,HUN,2002,72.3487804878049,World Bank
+Hungary,Europe,HUN,2007,73.33800000000002,Gapminder
+Hungary,Europe,HUN,2007,73.1512195121951,World Bank
+Indonesia,Asia,IDN,1952,37.468,Gapminder
+Indonesia,Asia,IDN,1957,39.918,Gapminder
+Indonesia,Asia,IDN,1962,42.518,Gapminder
+Indonesia,Asia,IDN,1962,48.141,World Bank
+Indonesia,Asia,IDN,1967,45.964,Gapminder
+Indonesia,Asia,IDN,1967,51.309,World Bank
+Indonesia,Asia,IDN,1972,49.203,Gapminder
+Indonesia,Asia,IDN,1972,54.364,World Bank
+Indonesia,Asia,IDN,1977,52.702,Gapminder
+Indonesia,Asia,IDN,1977,57.09,World Bank
+Indonesia,Asia,IDN,1982,56.159,Gapminder
+Indonesia,Asia,IDN,1982,59.7,World Bank
+Indonesia,Asia,IDN,1987,60.137,Gapminder
+Indonesia,Asia,IDN,1987,62.087,World Bank
+Indonesia,Asia,IDN,1992,62.681,Gapminder
+Indonesia,Asia,IDN,1992,64.182,World Bank
+Indonesia,Asia,IDN,1997,66.041,Gapminder
+Indonesia,Asia,IDN,1997,65.774,World Bank
+Indonesia,Asia,IDN,2002,68.58800000000001,Gapminder
+Indonesia,Asia,IDN,2002,66.954,World Bank
+Indonesia,Asia,IDN,2007,70.65,Gapminder
+Indonesia,Asia,IDN,2007,67.914,World Bank
+India,Asia,IND,1952,37.37300000000001,Gapminder
+India,Asia,IND,1957,40.249,Gapminder
+India,Asia,IND,1962,43.605,Gapminder
+India,Asia,IND,1962,46.133,World Bank
+India,Asia,IND,1967,47.19300000000001,Gapminder
+India,Asia,IND,1967,46.184,World Bank
+India,Asia,IND,1972,50.651,Gapminder
+India,Asia,IND,1972,49.213,World Bank
+India,Asia,IND,1977,54.208,Gapminder
+India,Asia,IND,1977,51.822,World Bank
+India,Asia,IND,1982,56.596,Gapminder
+India,Asia,IND,1982,54.735,World Bank
+India,Asia,IND,1987,58.553,Gapminder
+India,Asia,IND,1987,57.291,World Bank
+India,Asia,IND,1992,60.223,Gapminder
+India,Asia,IND,1992,59.445,World Bank
+India,Asia,IND,1997,61.765,Gapminder
+India,Asia,IND,1997,61.439,World Bank
+India,Asia,IND,2002,62.879,Gapminder
+India,Asia,IND,2002,63.649,World Bank
+India,Asia,IND,2007,64.69800000000001,Gapminder
+India,Asia,IND,2007,65.803,World Bank
+Ireland,Europe,IRL,1952,66.91,Gapminder
+Ireland,Europe,IRL,1957,68.9,Gapminder
+Ireland,Europe,IRL,1962,70.29,Gapminder
+Ireland,Europe,IRL,1962,69.9910487804878,World Bank
+Ireland,Europe,IRL,1967,71.08,Gapminder
+Ireland,Europe,IRL,1967,71.2453658536585,World Bank
+Ireland,Europe,IRL,1972,71.28,Gapminder
+Ireland,Europe,IRL,1972,71.021756097561,World Bank
+Ireland,Europe,IRL,1977,72.03,Gapminder
+Ireland,Europe,IRL,1977,71.9973902439024,World Bank
+Ireland,Europe,IRL,1982,73.1,Gapminder
+Ireland,Europe,IRL,1982,73.2090487804878,World Bank
+Ireland,Europe,IRL,1987,74.36,Gapminder
+Ireland,Europe,IRL,1987,74.4319024390244,World Bank
+Ireland,Europe,IRL,1992,75.467,Gapminder
+Ireland,Europe,IRL,1992,75.4150975609756,World Bank
+Ireland,Europe,IRL,1997,76.122,Gapminder
+Ireland,Europe,IRL,1997,75.9853658536585,World Bank
+Ireland,Europe,IRL,2002,77.783,Gapminder
+Ireland,Europe,IRL,2002,77.6341463414634,World Bank
+Ireland,Europe,IRL,2007,78.885,Gapminder
+Ireland,Europe,IRL,2007,79.6414634146341,World Bank
+Iran,Asia,IRN,1952,44.869,Gapminder
+Iran,Asia,IRN,1957,47.181,Gapminder
+Iran,Asia,IRN,1962,49.325,Gapminder
+Iran,Asia,IRN,1962,43.769,World Bank
+Iran,Asia,IRN,1967,52.469,Gapminder
+Iran,Asia,IRN,1967,47.803,World Bank
+Iran,Asia,IRN,1972,55.234,Gapminder
+Iran,Asia,IRN,1972,51.729,World Bank
+Iran,Asia,IRN,1977,57.702,Gapminder
+Iran,Asia,IRN,1977,56.66,World Bank
+Iran,Asia,IRN,1982,59.62,Gapminder
+Iran,Asia,IRN,1982,57.633,World Bank
+Iran,Asia,IRN,1987,63.04,Gapminder
+Iran,Asia,IRN,1987,62.685,World Bank
+Iran,Asia,IRN,1992,65.742,Gapminder
+Iran,Asia,IRN,1992,66.653,World Bank
+Iran,Asia,IRN,1997,68.042,Gapminder
+Iran,Asia,IRN,1997,68.649,World Bank
+Iran,Asia,IRN,2002,69.45100000000001,Gapminder
+Iran,Asia,IRN,2002,71.112,World Bank
+Iran,Asia,IRN,2007,70.964,Gapminder
+Iran,Asia,IRN,2007,73.299,World Bank
+Iraq,Asia,IRQ,1952,45.32,Gapminder
+Iraq,Asia,IRQ,1957,48.437,Gapminder
+Iraq,Asia,IRQ,1962,51.457,Gapminder
+Iraq,Asia,IRQ,1962,53.482,World Bank
+Iraq,Asia,IRQ,1967,54.459,Gapminder
+Iraq,Asia,IRQ,1967,58.422,World Bank
+Iraq,Asia,IRQ,1972,56.95,Gapminder
+Iraq,Asia,IRQ,1972,61.816,World Bank
+Iraq,Asia,IRQ,1977,60.413,Gapminder
+Iraq,Asia,IRQ,1977,63.896,World Bank
+Iraq,Asia,IRQ,1982,62.038,Gapminder
+Iraq,Asia,IRQ,1982,58.977,World Bank
+Iraq,Asia,IRQ,1987,65.044,Gapminder
+Iraq,Asia,IRQ,1987,60.259,World Bank
+Iraq,Asia,IRQ,1992,59.46100000000001,Gapminder
+Iraq,Asia,IRQ,1992,65.344,World Bank
+Iraq,Asia,IRQ,1997,58.81100000000001,Gapminder
+Iraq,Asia,IRQ,1997,64.241,World Bank
+Iraq,Asia,IRQ,2002,57.04600000000001,Gapminder
+Iraq,Asia,IRQ,2002,65.724,World Bank
+Iraq,Asia,IRQ,2007,59.545,Gapminder
+Iraq,Asia,IRQ,2007,64.428,World Bank
+Iceland,Europe,ISL,1952,72.49,Gapminder
+Iceland,Europe,ISL,1957,73.47,Gapminder
+Iceland,Europe,ISL,1962,73.68,Gapminder
+Iceland,Europe,ISL,1962,73.7219512195122,World Bank
+Iceland,Europe,ISL,1967,73.73,Gapminder
+Iceland,Europe,ISL,1967,73.7831707317073,World Bank
+Iceland,Europe,ISL,1972,74.46,Gapminder
+Iceland,Europe,ISL,1972,74.4558536585366,World Bank
+Iceland,Europe,ISL,1977,76.11,Gapminder
+Iceland,Europe,ISL,1977,76.3736585365854,World Bank
+Iceland,Europe,ISL,1982,76.99,Gapminder
+Iceland,Europe,ISL,1982,77.0378048780488,World Bank
+Iceland,Europe,ISL,1987,77.23,Gapminder
+Iceland,Europe,ISL,1987,77.3390243902439,World Bank
+Iceland,Europe,ISL,1992,78.77,Gapminder
+Iceland,Europe,ISL,1992,78.760243902439,World Bank
+Iceland,Europe,ISL,1997,78.95,Gapminder
+Iceland,Europe,ISL,1997,78.8853658536585,World Bank
+Iceland,Europe,ISL,2002,80.5,Gapminder
+Iceland,Europe,ISL,2002,80.5024390243903,World Bank
+Iceland,Europe,ISL,2007,81.757,Gapminder
+Iceland,Europe,ISL,2007,81.4536585365854,World Bank
+Israel,Asia,ISR,1952,65.39,Gapminder
+Israel,Asia,ISR,1957,67.84,Gapminder
+Israel,Asia,ISR,1962,69.39,Gapminder
+Israel,Asia,ISR,1962,72.1121951219512,World Bank
+Israel,Asia,ISR,1967,70.75,Gapminder
+Israel,Asia,ISR,1967,71.509756097561,World Bank
+Israel,Asia,ISR,1972,71.63,Gapminder
+Israel,Asia,ISR,1972,71.0780487804878,World Bank
+Israel,Asia,ISR,1977,73.06,Gapminder
+Israel,Asia,ISR,1977,72.9585365853659,World Bank
+Israel,Asia,ISR,1982,74.45,Gapminder
+Israel,Asia,ISR,1982,74.109756097561,World Bank
+Israel,Asia,ISR,1987,75.6,Gapminder
+Israel,Asia,ISR,1987,75.2585365853659,World Bank
+Israel,Asia,ISR,1992,76.93,Gapminder
+Israel,Asia,ISR,1992,76.5048780487805,World Bank
+Israel,Asia,ISR,1997,78.26899999999998,Gapminder
+Israel,Asia,ISR,1997,78.0,World Bank
+Israel,Asia,ISR,2002,79.696,Gapminder
+Israel,Asia,ISR,2002,79.4512195121951,World Bank
+Israel,Asia,ISR,2007,80.745,Gapminder
+Israel,Asia,ISR,2007,80.5048780487805,World Bank
+Italy,Europe,ITA,1952,65.94,Gapminder
+Italy,Europe,ITA,1957,67.81,Gapminder
+Italy,Europe,ITA,1962,69.24,Gapminder
+Italy,Europe,ITA,1962,69.149756097561,World Bank
+Italy,Europe,ITA,1967,71.06,Gapminder
+Italy,Europe,ITA,1967,70.9565853658537,World Bank
+Italy,Europe,ITA,1972,72.19,Gapminder
+Italy,Europe,ITA,1972,72.0753658536586,World Bank
+Italy,Europe,ITA,1977,73.48,Gapminder
+Italy,Europe,ITA,1977,73.3646341463415,World Bank
+Italy,Europe,ITA,1982,74.98,Gapminder
+Italy,Europe,ITA,1982,74.8146341463415,World Bank
+Italy,Europe,ITA,1987,76.42,Gapminder
+Italy,Europe,ITA,1987,76.219512195122,World Bank
+Italy,Europe,ITA,1992,77.44,Gapminder
+Italy,Europe,ITA,1992,77.419512195122,World Bank
+Italy,Europe,ITA,1997,78.82,Gapminder
+Italy,Europe,ITA,1997,78.8243902439024,World Bank
+Italy,Europe,ITA,2002,80.24,Gapminder
+Italy,Europe,ITA,2002,80.2292682926829,World Bank
+Italy,Europe,ITA,2007,80.546,Gapminder
+Italy,Europe,ITA,2007,81.4341463414634,World Bank
+Jamaica,Americas,JAM,1952,58.53,Gapminder
+Jamaica,Americas,JAM,1957,62.61,Gapminder
+Jamaica,Americas,JAM,1962,65.61,Gapminder
+Jamaica,Americas,JAM,1962,64.619,World Bank
+Jamaica,Americas,JAM,1967,67.51,Gapminder
+Jamaica,Americas,JAM,1967,66.086,World Bank
+Jamaica,Americas,JAM,1972,69.0,Gapminder
+Jamaica,Americas,JAM,1972,67.304,World Bank
+Jamaica,Americas,JAM,1977,70.11,Gapminder
+Jamaica,Americas,JAM,1977,68.586,World Bank
+Jamaica,Americas,JAM,1982,71.21,Gapminder
+Jamaica,Americas,JAM,1982,69.253,World Bank
+Jamaica,Americas,JAM,1987,71.77,Gapminder
+Jamaica,Americas,JAM,1987,70.87,World Bank
+Jamaica,Americas,JAM,1992,71.766,Gapminder
+Jamaica,Americas,JAM,1992,71.816,World Bank
+Jamaica,Americas,JAM,1997,72.262,Gapminder
+Jamaica,Americas,JAM,1997,71.216,World Bank
+Jamaica,Americas,JAM,2002,72.047,Gapminder
+Jamaica,Americas,JAM,2002,71.478,World Bank
+Jamaica,Americas,JAM,2007,72.567,Gapminder
+Jamaica,Americas,JAM,2007,71.405,World Bank
+Jordan,Asia,JOR,1952,43.158,Gapminder
+Jordan,Asia,JOR,1957,45.669,Gapminder
+Jordan,Asia,JOR,1962,48.12600000000001,Gapminder
+Jordan,Asia,JOR,1962,54.633,World Bank
+Jordan,Asia,JOR,1967,51.629,Gapminder
+Jordan,Asia,JOR,1967,58.97,World Bank
+Jordan,Asia,JOR,1972,56.528,Gapminder
+Jordan,Asia,JOR,1972,62.477,World Bank
+Jordan,Asia,JOR,1977,61.13399999999999,Gapminder
+Jordan,Asia,JOR,1977,65.127,World Bank
+Jordan,Asia,JOR,1982,63.739,Gapminder
+Jordan,Asia,JOR,1982,67.36,World Bank
+Jordan,Asia,JOR,1987,65.869,Gapminder
+Jordan,Asia,JOR,1987,69.297,World Bank
+Jordan,Asia,JOR,1992,68.015,Gapminder
+Jordan,Asia,JOR,1992,70.4,World Bank
+Jordan,Asia,JOR,1997,69.77199999999999,Gapminder
+Jordan,Asia,JOR,1997,71.324,World Bank
+Jordan,Asia,JOR,2002,71.263,Gapminder
+Jordan,Asia,JOR,2002,72.359,World Bank
+Jordan,Asia,JOR,2007,72.535,Gapminder
+Jordan,Asia,JOR,2007,73.407,World Bank
+Japan,Asia,JPN,1952,63.03,Gapminder
+Japan,Asia,JPN,1957,65.5,Gapminder
+Japan,Asia,JPN,1962,68.73,Gapminder
+Japan,Asia,JPN,1962,68.6348780487805,World Bank
+Japan,Asia,JPN,1967,71.43,Gapminder
+Japan,Asia,JPN,1967,71.4660975609756,World Bank
+Japan,Asia,JPN,1972,73.42,Gapminder
+Japan,Asia,JPN,1972,73.1536585365854,World Bank
+Japan,Asia,JPN,1977,75.38,Gapminder
+Japan,Asia,JPN,1977,75.2558536585366,World Bank
+Japan,Asia,JPN,1982,77.11,Gapminder
+Japan,Asia,JPN,1982,76.8736585365854,World Bank
+Japan,Asia,JPN,1987,78.67,Gapminder
+Japan,Asia,JPN,1987,78.429512195122,World Bank
+Japan,Asia,JPN,1992,79.36,Gapminder
+Japan,Asia,JPN,1992,79.080243902439,World Bank
+Japan,Asia,JPN,1997,80.69,Gapminder
+Japan,Asia,JPN,1997,80.4241463414634,World Bank
+Japan,Asia,JPN,2002,82.0,Gapminder
+Japan,Asia,JPN,2002,81.6907317073171,World Bank
+Japan,Asia,JPN,2007,82.603,Gapminder
+Japan,Asia,JPN,2007,82.5070731707317,World Bank
+Kenya,Africa,KEN,1952,42.27,Gapminder
+Kenya,Africa,KEN,1957,44.68600000000001,Gapminder
+Kenya,Africa,KEN,1962,47.949,Gapminder
+Kenya,Africa,KEN,1962,50.104,World Bank
+Kenya,Africa,KEN,1967,50.654,Gapminder
+Kenya,Africa,KEN,1967,52.796,World Bank
+Kenya,Africa,KEN,1972,53.559,Gapminder
+Kenya,Africa,KEN,1972,55.013,World Bank
+Kenya,Africa,KEN,1977,56.155,Gapminder
+Kenya,Africa,KEN,1977,57.684,World Bank
+Kenya,Africa,KEN,1982,58.76600000000001,Gapminder
+Kenya,Africa,KEN,1982,59.904,World Bank
+Kenya,Africa,KEN,1987,59.339,Gapminder
+Kenya,Africa,KEN,1987,60.721,World Bank
+Kenya,Africa,KEN,1992,59.285,Gapminder
+Kenya,Africa,KEN,1992,57.095,World Bank
+Kenya,Africa,KEN,1997,54.407,Gapminder
+Kenya,Africa,KEN,1997,55.478,World Bank
+Kenya,Africa,KEN,2002,50.992,Gapminder
+Kenya,Africa,KEN,2002,56.759,World Bank
+Kenya,Africa,KEN,2007,54.11,Gapminder
+Kenya,Africa,KEN,2007,59.407,World Bank
+Cambodia,Asia,KHM,1952,39.417,Gapminder
+Cambodia,Asia,KHM,1957,41.36600000000001,Gapminder
+Cambodia,Asia,KHM,1962,43.415,Gapminder
+Cambodia,Asia,KHM,1962,43.079,World Bank
+Cambodia,Asia,KHM,1967,45.415,Gapminder
+Cambodia,Asia,KHM,1967,45.193,World Bank
+Cambodia,Asia,KHM,1972,40.317,Gapminder
+Cambodia,Asia,KHM,1972,38.909,World Bank
+Cambodia,Asia,KHM,1977,31.22,Gapminder
+Cambodia,Asia,KHM,1977,11.295,World Bank
+Cambodia,Asia,KHM,1982,50.957,Gapminder
+Cambodia,Asia,KHM,1982,48.755,World Bank
+Cambodia,Asia,KHM,1987,53.914,Gapminder
+Cambodia,Asia,KHM,1987,53.674,World Bank
+Cambodia,Asia,KHM,1992,55.803,Gapminder
+Cambodia,Asia,KHM,1992,55.747,World Bank
+Cambodia,Asia,KHM,1997,56.534,Gapminder
+Cambodia,Asia,KHM,1997,57.266,World Bank
+Cambodia,Asia,KHM,2002,56.752,Gapminder
+Cambodia,Asia,KHM,2002,61.395,World Bank
+Cambodia,Asia,KHM,2007,59.723,Gapminder
+Cambodia,Asia,KHM,2007,65.549,World Bank
+"Korea, Rep.",Asia,KOR,1952,47.453,Gapminder
+"Korea, Rep.",Asia,KOR,1957,52.681,Gapminder
+"Korea, Rep.",Asia,KOR,1962,55.292,Gapminder
+"Korea, Rep.",Asia,KOR,1962,55.0549512195122,World Bank
+"Korea, Rep.",Asia,KOR,1967,57.716,Gapminder
+"Korea, Rep.",Asia,KOR,1967,60.9287317073171,World Bank
+"Korea, Rep.",Asia,KOR,1972,62.612,Gapminder
+"Korea, Rep.",Asia,KOR,1972,63.009756097561,World Bank
+"Korea, Rep.",Asia,KOR,1977,64.766,Gapminder
+"Korea, Rep.",Asia,KOR,1977,64.9,World Bank
+"Korea, Rep.",Asia,KOR,1982,67.123,Gapminder
+"Korea, Rep.",Asia,KOR,1982,67.0951219512195,World Bank
+"Korea, Rep.",Asia,KOR,1987,69.81,Gapminder
+"Korea, Rep.",Asia,KOR,1987,69.9975609756098,World Bank
+"Korea, Rep.",Asia,KOR,1992,72.244,Gapminder
+"Korea, Rep.",Asia,KOR,1992,72.4975609756098,World Bank
+"Korea, Rep.",Asia,KOR,1997,74.64699999999998,Gapminder
+"Korea, Rep.",Asia,KOR,1997,74.6024390243903,World Bank
+"Korea, Rep.",Asia,KOR,2002,77.045,Gapminder
+"Korea, Rep.",Asia,KOR,2002,76.7658536585366,World Bank
+"Korea, Rep.",Asia,KOR,2007,78.623,Gapminder
+"Korea, Rep.",Asia,KOR,2007,79.119512195122,World Bank
+Kuwait,Asia,KWT,1952,55.565,Gapminder
+Kuwait,Asia,KWT,1957,58.033,Gapminder
+Kuwait,Asia,KWT,1962,60.47,Gapminder
+Kuwait,Asia,KWT,1962,61.259512195122,World Bank
+Kuwait,Asia,KWT,1967,64.624,Gapminder
+Kuwait,Asia,KWT,1967,66.031,World Bank
+Kuwait,Asia,KWT,1972,67.712,Gapminder
+Kuwait,Asia,KWT,1972,69.1198048780488,World Bank
+Kuwait,Asia,KWT,1977,69.343,Gapminder
+Kuwait,Asia,KWT,1977,70.4684146341463,World Bank
+Kuwait,Asia,KWT,1982,71.309,Gapminder
+Kuwait,Asia,KWT,1982,72.2716829268293,World Bank
+Kuwait,Asia,KWT,1987,74.17399999999998,Gapminder
+Kuwait,Asia,KWT,1987,74.5105365853659,World Bank
+Kuwait,Asia,KWT,1992,75.19,Gapminder
+Kuwait,Asia,KWT,1992,76.0023902439025,World Bank
+Kuwait,Asia,KWT,1997,76.156,Gapminder
+Kuwait,Asia,KWT,1997,75.9071463414634,World Bank
+Kuwait,Asia,KWT,2002,76.904,Gapminder
+Kuwait,Asia,KWT,2002,76.5316341463415,World Bank
+Kuwait,Asia,KWT,2007,77.58800000000002,Gapminder
+Kuwait,Asia,KWT,2007,77.0101707317073,World Bank
+Lebanon,Asia,LBN,1952,55.928,Gapminder
+Lebanon,Asia,LBN,1957,59.489,Gapminder
+Lebanon,Asia,LBN,1962,62.094,Gapminder
+Lebanon,Asia,LBN,1962,64.595,World Bank
+Lebanon,Asia,LBN,1967,63.87,Gapminder
+Lebanon,Asia,LBN,1967,65.677,World Bank
+Lebanon,Asia,LBN,1972,65.421,Gapminder
+Lebanon,Asia,LBN,1972,66.201,World Bank
+Lebanon,Asia,LBN,1977,66.09899999999999,Gapminder
+Lebanon,Asia,LBN,1977,60.331,World Bank
+Lebanon,Asia,LBN,1982,66.983,Gapminder
+Lebanon,Asia,LBN,1982,47.19,World Bank
+Lebanon,Asia,LBN,1987,67.926,Gapminder
+Lebanon,Asia,LBN,1987,62.539,World Bank
+Lebanon,Asia,LBN,1992,69.292,Gapminder
+Lebanon,Asia,LBN,1992,71.169,World Bank
+Lebanon,Asia,LBN,1997,70.265,Gapminder
+Lebanon,Asia,LBN,1997,72.94,World Bank
+Lebanon,Asia,LBN,2002,71.028,Gapminder
+Lebanon,Asia,LBN,2002,74.836,World Bank
+Lebanon,Asia,LBN,2007,71.993,Gapminder
+Lebanon,Asia,LBN,2007,76.732,World Bank
+Liberia,Africa,LBR,1952,38.48,Gapminder
+Liberia,Africa,LBR,1957,39.486,Gapminder
+Liberia,Africa,LBR,1962,40.502,Gapminder
+Liberia,Africa,LBR,1962,38.167,World Bank
+Liberia,Africa,LBR,1967,41.536,Gapminder
+Liberia,Africa,LBR,1967,39.262,World Bank
+Liberia,Africa,LBR,1972,42.614,Gapminder
+Liberia,Africa,LBR,1972,41.199,World Bank
+Liberia,Africa,LBR,1977,43.764,Gapminder
+Liberia,Africa,LBR,1977,43.22,World Bank
+Liberia,Africa,LBR,1982,44.852,Gapminder
+Liberia,Africa,LBR,1982,44.447,World Bank
+Liberia,Africa,LBR,1987,46.027,Gapminder
+Liberia,Africa,LBR,1987,44.267,World Bank
+Liberia,Africa,LBR,1992,40.802,Gapminder
+Liberia,Africa,LBR,1992,43.566,World Bank
+Liberia,Africa,LBR,1997,42.221,Gapminder
+Liberia,Africa,LBR,1997,48.302,World Bank
+Liberia,Africa,LBR,2002,43.753,Gapminder
+Liberia,Africa,LBR,2002,54.061,World Bank
+Liberia,Africa,LBR,2007,45.678,Gapminder
+Liberia,Africa,LBR,2007,58.147,World Bank
+Libya,Africa,LBY,1952,42.723,Gapminder
+Libya,Africa,LBY,1957,45.289,Gapminder
+Libya,Africa,LBY,1962,47.808,Gapminder
+Libya,Africa,LBY,1962,44.075,World Bank
+Libya,Africa,LBY,1967,50.227,Gapminder
+Libya,Africa,LBY,1967,52.462,World Bank
+Libya,Africa,LBY,1972,52.773,Gapminder
+Libya,Africa,LBY,1972,58.685,World Bank
+Libya,Africa,LBY,1977,57.442,Gapminder
+Libya,Africa,LBY,1977,63.129,World Bank
+Libya,Africa,LBY,1982,62.155,Gapminder
+Libya,Africa,LBY,1982,65.768,World Bank
+Libya,Africa,LBY,1987,66.234,Gapminder
+Libya,Africa,LBY,1987,68.258,World Bank
+Libya,Africa,LBY,1992,68.755,Gapminder
+Libya,Africa,LBY,1992,69.974,World Bank
+Libya,Africa,LBY,1997,71.555,Gapminder
+Libya,Africa,LBY,1997,70.72,World Bank
+Libya,Africa,LBY,2002,72.737,Gapminder
+Libya,Africa,LBY,2002,70.788,World Bank
+Libya,Africa,LBY,2007,73.952,Gapminder
+Libya,Africa,LBY,2007,71.788,World Bank
+Sri Lanka,Asia,LKA,1952,57.593,Gapminder
+Sri Lanka,Asia,LKA,1957,61.456,Gapminder
+Sri Lanka,Asia,LKA,1962,62.192,Gapminder
+Sri Lanka,Asia,LKA,1962,61.627,World Bank
+Sri Lanka,Asia,LKA,1967,64.266,Gapminder
+Sri Lanka,Asia,LKA,1967,63.556,World Bank
+Sri Lanka,Asia,LKA,1972,65.042,Gapminder
+Sri Lanka,Asia,LKA,1972,64.625,World Bank
+Sri Lanka,Asia,LKA,1977,65.949,Gapminder
+Sri Lanka,Asia,LKA,1977,66.391,World Bank
+Sri Lanka,Asia,LKA,1982,68.757,Gapminder
+Sri Lanka,Asia,LKA,1982,68.665,World Bank
+Sri Lanka,Asia,LKA,1987,69.01100000000001,Gapminder
+Sri Lanka,Asia,LKA,1987,69.009,World Bank
+Sri Lanka,Asia,LKA,1992,70.37899999999998,Gapminder
+Sri Lanka,Asia,LKA,1992,69.619,World Bank
+Sri Lanka,Asia,LKA,1997,70.457,Gapminder
+Sri Lanka,Asia,LKA,1997,69.934,World Bank
+Sri Lanka,Asia,LKA,2002,70.815,Gapminder
+Sri Lanka,Asia,LKA,2002,72.271,World Bank
+Sri Lanka,Asia,LKA,2007,72.396,Gapminder
+Sri Lanka,Asia,LKA,2007,72.983,World Bank
+Lesotho,Africa,LSO,1952,42.13800000000001,Gapminder
+Lesotho,Africa,LSO,1957,45.047,Gapminder
+Lesotho,Africa,LSO,1962,47.747,Gapminder
+Lesotho,Africa,LSO,1962,50.307,World Bank
+Lesotho,Africa,LSO,1967,48.492,Gapminder
+Lesotho,Africa,LSO,1967,50.513,World Bank
+Lesotho,Africa,LSO,1972,49.767,Gapminder
+Lesotho,Africa,LSO,1972,52.256,World Bank
+Lesotho,Africa,LSO,1977,52.208,Gapminder
+Lesotho,Africa,LSO,1977,54.526,World Bank
+Lesotho,Africa,LSO,1982,55.078,Gapminder
+Lesotho,Africa,LSO,1982,57.976,World Bank
+Lesotho,Africa,LSO,1987,57.18,Gapminder
+Lesotho,Africa,LSO,1987,59.557,World Bank
+Lesotho,Africa,LSO,1992,59.685,Gapminder
+Lesotho,Africa,LSO,1992,58.638,World Bank
+Lesotho,Africa,LSO,1997,55.558,Gapminder
+Lesotho,Africa,LSO,1997,53.733,World Bank
+Lesotho,Africa,LSO,2002,44.593,Gapminder
+Lesotho,Africa,LSO,2002,45.95,World Bank
+Lesotho,Africa,LSO,2007,42.592,Gapminder
+Lesotho,Africa,LSO,2007,43.66,World Bank
+Morocco,Africa,MAR,1952,42.87300000000001,Gapminder
+Morocco,Africa,MAR,1957,45.423,Gapminder
+Morocco,Africa,MAR,1962,47.924,Gapminder
+Morocco,Africa,MAR,1962,44.226,World Bank
+Morocco,Africa,MAR,1967,50.335,Gapminder
+Morocco,Africa,MAR,1967,47.099,World Bank
+Morocco,Africa,MAR,1972,52.862,Gapminder
+Morocco,Africa,MAR,1972,49.706,World Bank
+Morocco,Africa,MAR,1977,55.73,Gapminder
+Morocco,Africa,MAR,1977,52.791,World Bank
+Morocco,Africa,MAR,1982,59.65,Gapminder
+Morocco,Africa,MAR,1982,56.869,World Bank
+Morocco,Africa,MAR,1987,62.677,Gapminder
+Morocco,Africa,MAR,1987,60.62,World Bank
+Morocco,Africa,MAR,1992,65.393,Gapminder
+Morocco,Africa,MAR,1992,63.388,World Bank
+Morocco,Africa,MAR,1997,67.66,Gapminder
+Morocco,Africa,MAR,1997,65.616,World Bank
+Morocco,Africa,MAR,2002,69.615,Gapminder
+Morocco,Africa,MAR,2002,67.582,World Bank
+Morocco,Africa,MAR,2007,71.164,Gapminder
+Morocco,Africa,MAR,2007,69.62,World Bank
+Madagascar,Africa,MDG,1952,36.681,Gapminder
+Madagascar,Africa,MDG,1957,38.865,Gapminder
+Madagascar,Africa,MDG,1962,40.848,Gapminder
+Madagascar,Africa,MDG,1962,44.185,World Bank
+Madagascar,Africa,MDG,1967,42.881,Gapminder
+Madagascar,Africa,MDG,1967,46.457,World Bank
+Madagascar,Africa,MDG,1972,44.851000000000006,Gapminder
+Madagascar,Africa,MDG,1972,48.507,World Bank
+Madagascar,Africa,MDG,1977,46.881,Gapminder
+Madagascar,Africa,MDG,1977,49.945,World Bank
+Madagascar,Africa,MDG,1982,48.969,Gapminder
+Madagascar,Africa,MDG,1982,50.009,World Bank
+Madagascar,Africa,MDG,1987,49.35,Gapminder
+Madagascar,Africa,MDG,1987,51.098,World Bank
+Madagascar,Africa,MDG,1992,52.214,Gapminder
+Madagascar,Africa,MDG,1992,52.946,World Bank
+Madagascar,Africa,MDG,1997,54.978,Gapminder
+Madagascar,Africa,MDG,1997,56.127,World Bank
+Madagascar,Africa,MDG,2002,57.286,Gapminder
+Madagascar,Africa,MDG,2002,59.17,World Bank
+Madagascar,Africa,MDG,2007,59.44300000000001,Gapminder
+Madagascar,Africa,MDG,2007,61.533,World Bank
+Mexico,Americas,MEX,1952,50.789,Gapminder
+Mexico,Americas,MEX,1957,55.19,Gapminder
+Mexico,Americas,MEX,1962,58.299,Gapminder
+Mexico,Americas,MEX,1962,55.057,World Bank
+Mexico,Americas,MEX,1967,60.11,Gapminder
+Mexico,Americas,MEX,1967,57.959,World Bank
+Mexico,Americas,MEX,1972,62.361,Gapminder
+Mexico,Americas,MEX,1972,60.051,World Bank
+Mexico,Americas,MEX,1977,65.032,Gapminder
+Mexico,Americas,MEX,1977,62.988,World Bank
+Mexico,Americas,MEX,1982,67.405,Gapminder
+Mexico,Americas,MEX,1982,65.256,World Bank
+Mexico,Americas,MEX,1987,69.498,Gapminder
+Mexico,Americas,MEX,1987,67.904,World Bank
+Mexico,Americas,MEX,1992,71.455,Gapminder
+Mexico,Americas,MEX,1992,69.663,World Bank
+Mexico,Americas,MEX,1997,73.67,Gapminder
+Mexico,Americas,MEX,1997,71.472,World Bank
+Mexico,Americas,MEX,2002,74.902,Gapminder
+Mexico,Americas,MEX,2002,73.106,World Bank
+Mexico,Americas,MEX,2007,76.195,Gapminder
+Mexico,Americas,MEX,2007,73.796,World Bank
+Mali,Africa,MLI,1952,33.685,Gapminder
+Mali,Africa,MLI,1957,35.30699999999999,Gapminder
+Mali,Africa,MLI,1962,36.936,Gapminder
+Mali,Africa,MLI,1962,30.833,World Bank
+Mali,Africa,MLI,1967,38.487,Gapminder
+Mali,Africa,MLI,1967,32.197,World Bank
+Mali,Africa,MLI,1972,39.977,Gapminder
+Mali,Africa,MLI,1972,34.507,World Bank
+Mali,Africa,MLI,1977,41.714,Gapminder
+Mali,Africa,MLI,1977,37.986,World Bank
+Mali,Africa,MLI,1982,43.916,Gapminder
+Mali,Africa,MLI,1982,41.804,World Bank
+Mali,Africa,MLI,1987,46.364,Gapminder
+Mali,Africa,MLI,1987,45.228,World Bank
+Mali,Africa,MLI,1992,48.38800000000001,Gapminder
+Mali,Africa,MLI,1992,47.238,World Bank
+Mali,Africa,MLI,1997,49.903,Gapminder
+Mali,Africa,MLI,1997,49.086,World Bank
+Mali,Africa,MLI,2002,51.81800000000001,Gapminder
+Mali,Africa,MLI,2002,51.995,World Bank
+Mali,Africa,MLI,2007,54.467,Gapminder
+Mali,Africa,MLI,2007,54.756,World Bank
+Myanmar,Asia,MMR,1952,36.319,Gapminder
+Myanmar,Asia,MMR,1957,41.905,Gapminder
+Myanmar,Asia,MMR,1962,45.108,Gapminder
+Myanmar,Asia,MMR,1962,45.264,World Bank
+Myanmar,Asia,MMR,1967,49.379,Gapminder
+Myanmar,Asia,MMR,1967,48.86,World Bank
+Myanmar,Asia,MMR,1972,53.07,Gapminder
+Myanmar,Asia,MMR,1972,51.397,World Bank
+Myanmar,Asia,MMR,1977,56.059,Gapminder
+Myanmar,Asia,MMR,1977,53.266,World Bank
+Myanmar,Asia,MMR,1982,58.056,Gapminder
+Myanmar,Asia,MMR,1982,55.033,World Bank
+Myanmar,Asia,MMR,1987,58.339,Gapminder
+Myanmar,Asia,MMR,1987,56.353,World Bank
+Myanmar,Asia,MMR,1992,59.32,Gapminder
+Myanmar,Asia,MMR,1992,57.681,World Bank
+Myanmar,Asia,MMR,1997,60.328,Gapminder
+Myanmar,Asia,MMR,1997,59.523,World Bank
+Myanmar,Asia,MMR,2002,59.908,Gapminder
+Myanmar,Asia,MMR,2002,60.925,World Bank
+Myanmar,Asia,MMR,2007,62.069,Gapminder
+Myanmar,Asia,MMR,2007,62.367,World Bank
+Montenegro,Europe,MNE,1952,59.164,Gapminder
+Montenegro,Europe,MNE,1957,61.448,Gapminder
+Montenegro,Europe,MNE,1962,63.728,Gapminder
+Montenegro,Europe,MNE,1962,66.2178780487805,World Bank
+Montenegro,Europe,MNE,1967,67.178,Gapminder
+Montenegro,Europe,MNE,1967,69.0755609756098,World Bank
+Montenegro,Europe,MNE,1972,70.63600000000002,Gapminder
+Montenegro,Europe,MNE,1972,71.0364634146342,World Bank
+Montenegro,Europe,MNE,1977,73.066,Gapminder
+Montenegro,Europe,MNE,1977,71.6151219512195,World Bank
+Montenegro,Europe,MNE,1982,74.101,Gapminder
+Montenegro,Europe,MNE,1982,72.1014878048781,World Bank
+Montenegro,Europe,MNE,1987,74.865,Gapminder
+Montenegro,Europe,MNE,1987,72.9833414634146,World Bank
+Montenegro,Europe,MNE,1992,75.435,Gapminder
+Montenegro,Europe,MNE,1992,73.6216585365854,World Bank
+Montenegro,Europe,MNE,1997,75.445,Gapminder
+Montenegro,Europe,MNE,1997,73.3429756097561,World Bank
+Montenegro,Europe,MNE,2002,73.98100000000002,Gapminder
+Montenegro,Europe,MNE,2002,73.9652195121951,World Bank
+Montenegro,Europe,MNE,2007,74.543,Gapminder
+Montenegro,Europe,MNE,2007,74.3390243902439,World Bank
+Mongolia,Asia,MNG,1952,42.244,Gapminder
+Mongolia,Asia,MNG,1957,45.24800000000001,Gapminder
+Mongolia,Asia,MNG,1962,48.25100000000001,Gapminder
+Mongolia,Asia,MNG,1962,46.2474146341463,World Bank
+Mongolia,Asia,MNG,1967,51.253,Gapminder
+Mongolia,Asia,MNG,1967,50.09,World Bank
+Mongolia,Asia,MNG,1972,53.754,Gapminder
+Mongolia,Asia,MNG,1972,53.0728292682927,World Bank
+Mongolia,Asia,MNG,1977,55.49100000000001,Gapminder
+Mongolia,Asia,MNG,1977,54.7357804878049,World Bank
+Mongolia,Asia,MNG,1982,57.489,Gapminder
+Mongolia,Asia,MNG,1982,55.5940243902439,World Bank
+Mongolia,Asia,MNG,1987,60.222,Gapminder
+Mongolia,Asia,MNG,1987,57.0928536585366,World Bank
+Mongolia,Asia,MNG,1992,61.271,Gapminder
+Mongolia,Asia,MNG,1992,60.4307073170732,World Bank
+Mongolia,Asia,MNG,1997,63.625,Gapminder
+Mongolia,Asia,MNG,1997,61.414512195122,World Bank
+Mongolia,Asia,MNG,2002,65.033,Gapminder
+Mongolia,Asia,MNG,2002,63.540243902439,World Bank
+Mongolia,Asia,MNG,2007,66.803,Gapminder
+Mongolia,Asia,MNG,2007,66.5934146341464,World Bank
+Mozambique,Africa,MOZ,1952,31.286,Gapminder
+Mozambique,Africa,MOZ,1957,33.779,Gapminder
+Mozambique,Africa,MOZ,1962,36.161,Gapminder
+Mozambique,Africa,MOZ,1962,41.761,World Bank
+Mozambique,Africa,MOZ,1967,38.113,Gapminder
+Mozambique,Africa,MOZ,1967,41.953,World Bank
+Mozambique,Africa,MOZ,1972,40.328,Gapminder
+Mozambique,Africa,MOZ,1972,42.523,World Bank
+Mozambique,Africa,MOZ,1977,42.495,Gapminder
+Mozambique,Africa,MOZ,1977,43.924,World Bank
+Mozambique,Africa,MOZ,1982,42.795,Gapminder
+Mozambique,Africa,MOZ,1982,41.677,World Bank
+Mozambique,Africa,MOZ,1987,42.861,Gapminder
+Mozambique,Africa,MOZ,1987,41.002,World Bank
+Mozambique,Africa,MOZ,1992,44.284,Gapminder
+Mozambique,Africa,MOZ,1992,45.095,World Bank
+Mozambique,Africa,MOZ,1997,46.344,Gapminder
+Mozambique,Africa,MOZ,1997,47.8,World Bank
+Mozambique,Africa,MOZ,2002,44.026,Gapminder
+Mozambique,Africa,MOZ,2002,50.879,World Bank
+Mozambique,Africa,MOZ,2007,42.082,Gapminder
+Mozambique,Africa,MOZ,2007,53.255,World Bank
+Mauritania,Africa,MRT,1952,40.543,Gapminder
+Mauritania,Africa,MRT,1957,42.338,Gapminder
+Mauritania,Africa,MRT,1962,44.24800000000001,Gapminder
+Mauritania,Africa,MRT,1962,45.047,World Bank
+Mauritania,Africa,MRT,1967,46.289,Gapminder
+Mauritania,Africa,MRT,1967,48.893,World Bank
+Mauritania,Africa,MRT,1972,48.437,Gapminder
+Mauritania,Africa,MRT,1972,51.037,World Bank
+Mauritania,Africa,MRT,1977,50.852,Gapminder
+Mauritania,Africa,MRT,1977,51.998,World Bank
+Mauritania,Africa,MRT,1982,53.599,Gapminder
+Mauritania,Africa,MRT,1982,54.229,World Bank
+Mauritania,Africa,MRT,1987,56.145,Gapminder
+Mauritania,Africa,MRT,1987,56.964,World Bank
+Mauritania,Africa,MRT,1992,58.333,Gapminder
+Mauritania,Africa,MRT,1992,58.568,World Bank
+Mauritania,Africa,MRT,1997,60.43,Gapminder
+Mauritania,Africa,MRT,1997,59.417,World Bank
+Mauritania,Africa,MRT,2002,62.247,Gapminder
+Mauritania,Africa,MRT,2002,62.249,World Bank
+Mauritania,Africa,MRT,2007,64.164,Gapminder
+Mauritania,Africa,MRT,2007,64.885,World Bank
+Mauritius,Africa,MUS,1952,50.986,Gapminder
+Mauritius,Africa,MUS,1957,58.089,Gapminder
+Mauritius,Africa,MUS,1962,60.246,Gapminder
+Mauritius,Africa,MUS,1962,60.4433902439024,World Bank
+Mauritius,Africa,MUS,1967,61.557,Gapminder
+Mauritius,Africa,MUS,1967,61.7451707317073,World Bank
+Mauritius,Africa,MUS,1972,62.944,Gapminder
+Mauritius,Africa,MUS,1972,63.8733902439024,World Bank
+Mauritius,Africa,MUS,1977,64.93,Gapminder
+Mauritius,Africa,MUS,1977,65.1307317073171,World Bank
+Mauritius,Africa,MUS,1982,66.711,Gapminder
+Mauritius,Africa,MUS,1982,68.0819756097561,World Bank
+Mauritius,Africa,MUS,1987,68.74,Gapminder
+Mauritius,Africa,MUS,1987,69.2877073170732,World Bank
+Mauritius,Africa,MUS,1992,69.745,Gapminder
+Mauritius,Africa,MUS,1992,70.0585365853659,World Bank
+Mauritius,Africa,MUS,1997,70.736,Gapminder
+Mauritius,Africa,MUS,1997,70.4048780487805,World Bank
+Mauritius,Africa,MUS,2002,71.954,Gapminder
+Mauritius,Africa,MUS,2002,71.9658536585366,World Bank
+Mauritius,Africa,MUS,2007,72.801,Gapminder
+Mauritius,Africa,MUS,2007,72.5707317073171,World Bank
+Malawi,Africa,MWI,1952,36.256,Gapminder
+Malawi,Africa,MWI,1957,37.207,Gapminder
+Malawi,Africa,MWI,1962,38.41,Gapminder
+Malawi,Africa,MWI,1962,35.449,World Bank
+Malawi,Africa,MWI,1967,39.487,Gapminder
+Malawi,Africa,MWI,1967,35.941,World Bank
+Malawi,Africa,MWI,1972,41.76600000000001,Gapminder
+Malawi,Africa,MWI,1972,37.608,World Bank
+Malawi,Africa,MWI,1977,43.767,Gapminder
+Malawi,Africa,MWI,1977,41.979,World Bank
+Malawi,Africa,MWI,1982,45.642,Gapminder
+Malawi,Africa,MWI,1982,44.84,World Bank
+Malawi,Africa,MWI,1987,47.457,Gapminder
+Malawi,Africa,MWI,1987,43.902,World Bank
+Malawi,Africa,MWI,1992,49.42,Gapminder
+Malawi,Africa,MWI,1992,43.636,World Bank
+Malawi,Africa,MWI,1997,47.495,Gapminder
+Malawi,Africa,MWI,1997,44.2,World Bank
+Malawi,Africa,MWI,2002,45.00899999999999,Gapminder
+Malawi,Africa,MWI,2002,48.176,World Bank
+Malawi,Africa,MWI,2007,48.303,Gapminder
+Malawi,Africa,MWI,2007,54.687,World Bank
+Malaysia,Asia,MYS,1952,48.463,Gapminder
+Malaysia,Asia,MYS,1957,52.102,Gapminder
+Malaysia,Asia,MYS,1962,55.737,Gapminder
+Malaysia,Asia,MYS,1962,58.855,World Bank
+Malaysia,Asia,MYS,1967,59.371,Gapminder
+Malaysia,Asia,MYS,1967,62.044,World Bank
+Malaysia,Asia,MYS,1972,63.01,Gapminder
+Malaysia,Asia,MYS,1972,64.232,World Bank
+Malaysia,Asia,MYS,1977,65.256,Gapminder
+Malaysia,Asia,MYS,1977,66.72,World Bank
+Malaysia,Asia,MYS,1982,68.0,Gapminder
+Malaysia,Asia,MYS,1982,68.876,World Bank
+Malaysia,Asia,MYS,1987,69.5,Gapminder
+Malaysia,Asia,MYS,1987,70.351,World Bank
+Malaysia,Asia,MYS,1992,70.693,Gapminder
+Malaysia,Asia,MYS,1992,71.483,World Bank
+Malaysia,Asia,MYS,1997,71.938,Gapminder
+Malaysia,Asia,MYS,1997,72.296,World Bank
+Malaysia,Asia,MYS,2002,73.044,Gapminder
+Malaysia,Asia,MYS,2002,73.469,World Bank
+Malaysia,Asia,MYS,2007,74.241,Gapminder
+Malaysia,Asia,MYS,2007,74.961,World Bank
+Namibia,Africa,NAM,1952,41.725,Gapminder
+Namibia,Africa,NAM,1957,45.226000000000006,Gapminder
+Namibia,Africa,NAM,1962,48.386,Gapminder
+Namibia,Africa,NAM,1962,49.972,World Bank
+Namibia,Africa,NAM,1967,51.159,Gapminder
+Namibia,Africa,NAM,1967,52.933,World Bank
+Namibia,Africa,NAM,1972,53.867,Gapminder
+Namibia,Africa,NAM,1972,55.845,World Bank
+Namibia,Africa,NAM,1977,56.437,Gapminder
+Namibia,Africa,NAM,1977,58.586,World Bank
+Namibia,Africa,NAM,1982,58.968,Gapminder
+Namibia,Africa,NAM,1982,57.335,World Bank
+Namibia,Africa,NAM,1987,60.835,Gapminder
+Namibia,Africa,NAM,1987,59.123,World Bank
+Namibia,Africa,NAM,1992,61.999,Gapminder
+Namibia,Africa,NAM,1992,60.16,World Bank
+Namibia,Africa,NAM,1997,58.909,Gapminder
+Namibia,Africa,NAM,1997,55.844,World Bank
+Namibia,Africa,NAM,2002,51.479,Gapminder
+Namibia,Africa,NAM,2002,51.988,World Bank
+Namibia,Africa,NAM,2007,52.90600000000001,Gapminder
+Namibia,Africa,NAM,2007,54.026,World Bank
+Niger,Africa,NER,1952,37.444,Gapminder
+Niger,Africa,NER,1957,38.598,Gapminder
+Niger,Africa,NER,1962,39.487,Gapminder
+Niger,Africa,NER,1962,36.319,World Bank
+Niger,Africa,NER,1967,40.118,Gapminder
+Niger,Africa,NER,1967,36.243,World Bank
+Niger,Africa,NER,1972,40.546,Gapminder
+Niger,Africa,NER,1972,35.813,World Bank
+Niger,Africa,NER,1977,41.291,Gapminder
+Niger,Africa,NER,1977,37.689,World Bank
+Niger,Africa,NER,1982,42.598,Gapminder
+Niger,Africa,NER,1982,39.844,World Bank
+Niger,Africa,NER,1987,44.555,Gapminder
+Niger,Africa,NER,1987,40.468,World Bank
+Niger,Africa,NER,1992,47.39100000000001,Gapminder
+Niger,Africa,NER,1992,43.064,World Bank
+Niger,Africa,NER,1997,51.313,Gapminder
+Niger,Africa,NER,1997,47.097,World Bank
+Niger,Africa,NER,2002,54.496,Gapminder
+Niger,Africa,NER,2002,50.645,World Bank
+Niger,Africa,NER,2007,56.867,Gapminder
+Niger,Africa,NER,2007,55.063,World Bank
+Nigeria,Africa,NGA,1952,36.324,Gapminder
+Nigeria,Africa,NGA,1957,37.802,Gapminder
+Nigeria,Africa,NGA,1962,39.36,Gapminder
+Nigeria,Africa,NGA,1962,37.606,World Bank
+Nigeria,Africa,NGA,1967,41.04,Gapminder
+Nigeria,Africa,NGA,1967,37.497,World Bank
+Nigeria,Africa,NGA,1972,42.82100000000001,Gapminder
+Nigeria,Africa,NGA,1972,41.273,World Bank
+Nigeria,Africa,NGA,1977,44.514,Gapminder
+Nigeria,Africa,NGA,1977,44.847,World Bank
+Nigeria,Africa,NGA,1982,45.826,Gapminder
+Nigeria,Africa,NGA,1982,46.437,World Bank
+Nigeria,Africa,NGA,1987,46.886,Gapminder
+Nigeria,Africa,NGA,1987,45.89,World Bank
+Nigeria,Africa,NGA,1992,47.472,Gapminder
+Nigeria,Africa,NGA,1992,45.587,World Bank
+Nigeria,Africa,NGA,1997,47.464,Gapminder
+Nigeria,Africa,NGA,1997,45.96,World Bank
+Nigeria,Africa,NGA,2002,46.608,Gapminder
+Nigeria,Africa,NGA,2002,48.02,World Bank
+Nigeria,Africa,NGA,2007,46.859,Gapminder
+Nigeria,Africa,NGA,2007,50.381,World Bank
+Nicaragua,Americas,NIC,1952,42.31399999999999,Gapminder
+Nicaragua,Americas,NIC,1957,45.432,Gapminder
+Nicaragua,Americas,NIC,1962,48.632,Gapminder
+Nicaragua,Americas,NIC,1962,47.981,World Bank
+Nicaragua,Americas,NIC,1967,51.88399999999999,Gapminder
+Nicaragua,Americas,NIC,1967,52.348,World Bank
+Nicaragua,Americas,NIC,1972,55.151,Gapminder
+Nicaragua,Americas,NIC,1972,47.957,World Bank
+Nicaragua,Americas,NIC,1977,57.47,Gapminder
+Nicaragua,Americas,NIC,1977,56.126,World Bank
+Nicaragua,Americas,NIC,1982,59.298,Gapminder
+Nicaragua,Americas,NIC,1982,58.685,World Bank
+Nicaragua,Americas,NIC,1987,62.008,Gapminder
+Nicaragua,Americas,NIC,1987,57.329,World Bank
+Nicaragua,Americas,NIC,1992,65.843,Gapminder
+Nicaragua,Americas,NIC,1992,63.672,World Bank
+Nicaragua,Americas,NIC,1997,68.426,Gapminder
+Nicaragua,Americas,NIC,1997,65.523,World Bank
+Nicaragua,Americas,NIC,2002,70.836,Gapminder
+Nicaragua,Americas,NIC,2002,67.95,World Bank
+Nicaragua,Americas,NIC,2007,72.899,Gapminder
+Nicaragua,Americas,NIC,2007,71.197,World Bank
+Netherlands,Europe,NLD,1952,72.13,Gapminder
+Netherlands,Europe,NLD,1957,72.99,Gapminder
+Netherlands,Europe,NLD,1962,73.23,Gapminder
+Netherlands,Europe,NLD,1962,73.3239024390244,World Bank
+Netherlands,Europe,NLD,1967,73.82,Gapminder
+Netherlands,Europe,NLD,1967,73.8041463414634,World Bank
+Netherlands,Europe,NLD,1972,73.75,Gapminder
+Netherlands,Europe,NLD,1972,73.7270731707317,World Bank
+Netherlands,Europe,NLD,1977,75.24,Gapminder
+Netherlands,Europe,NLD,1977,75.2214634146342,World Bank
+Netherlands,Europe,NLD,1982,76.05,Gapminder
+Netherlands,Europe,NLD,1982,75.9885365853659,World Bank
+Netherlands,Europe,NLD,1987,76.83,Gapminder
+Netherlands,Europe,NLD,1987,76.7051219512195,World Bank
+Netherlands,Europe,NLD,1992,77.42,Gapminder
+Netherlands,Europe,NLD,1992,77.2170731707317,World Bank
+Netherlands,Europe,NLD,1997,78.03,Gapminder
+Netherlands,Europe,NLD,1997,77.7943902439024,World Bank
+Netherlands,Europe,NLD,2002,78.53,Gapminder
+Netherlands,Europe,NLD,2002,78.2926829268293,World Bank
+Netherlands,Europe,NLD,2007,79.762,Gapminder
+Netherlands,Europe,NLD,2007,80.0975609756098,World Bank
+Norway,Europe,NOR,1952,72.67,Gapminder
+Norway,Europe,NOR,1957,73.44,Gapminder
+Norway,Europe,NOR,1962,73.47,Gapminder
+Norway,Europe,NOR,1962,73.4480487804878,World Bank
+Norway,Europe,NOR,1967,74.08,Gapminder
+Norway,Europe,NOR,1967,74.0665853658537,World Bank
+Norway,Europe,NOR,1972,74.34,Gapminder
+Norway,Europe,NOR,1972,74.3446341463415,World Bank
+Norway,Europe,NOR,1977,75.37,Gapminder
+Norway,Europe,NOR,1977,75.3868292682927,World Bank
+Norway,Europe,NOR,1982,75.97,Gapminder
+Norway,Europe,NOR,1982,76.0109756097561,World Bank
+Norway,Europe,NOR,1987,75.89,Gapminder
+Norway,Europe,NOR,1987,76.0817073170732,World Bank
+Norway,Europe,NOR,1992,77.32,Gapminder
+Norway,Europe,NOR,1992,77.1843902439025,World Bank
+Norway,Europe,NOR,1997,78.32,Gapminder
+Norway,Europe,NOR,1997,78.1426829268293,World Bank
+Norway,Europe,NOR,2002,79.05,Gapminder
+Norway,Europe,NOR,2002,78.9878048780488,World Bank
+Norway,Europe,NOR,2007,80.196,Gapminder
+Norway,Europe,NOR,2007,80.3951219512195,World Bank
+Nepal,Asia,NPL,1952,36.157,Gapminder
+Nepal,Asia,NPL,1957,37.686,Gapminder
+Nepal,Asia,NPL,1962,39.393,Gapminder
+Nepal,Asia,NPL,1962,39.333,World Bank
+Nepal,Asia,NPL,1967,41.472,Gapminder
+Nepal,Asia,NPL,1967,41.71,World Bank
+Nepal,Asia,NPL,1972,43.971,Gapminder
+Nepal,Asia,NPL,1972,44.068,World Bank
+Nepal,Asia,NPL,1977,46.74800000000001,Gapminder
+Nepal,Asia,NPL,1977,46.628,World Bank
+Nepal,Asia,NPL,1982,49.594,Gapminder
+Nepal,Asia,NPL,1982,49.181,World Bank
+Nepal,Asia,NPL,1987,52.537,Gapminder
+Nepal,Asia,NPL,1987,52.382,World Bank
+Nepal,Asia,NPL,1992,55.727,Gapminder
+Nepal,Asia,NPL,1992,56.686,World Bank
+Nepal,Asia,NPL,1997,59.426,Gapminder
+Nepal,Asia,NPL,1997,60.823,World Bank
+Nepal,Asia,NPL,2002,61.34,Gapminder
+Nepal,Asia,NPL,2002,63.507,World Bank
+Nepal,Asia,NPL,2007,63.785,Gapminder
+Nepal,Asia,NPL,2007,66.169,World Bank
+New Zealand,Oceania,NZL,1952,69.39,Gapminder
+New Zealand,Oceania,NZL,1957,70.26,Gapminder
+New Zealand,Oceania,NZL,1962,71.24,Gapminder
+New Zealand,Oceania,NZL,1962,71.2317073170732,World Bank
+New Zealand,Oceania,NZL,1967,71.52,Gapminder
+New Zealand,Oceania,NZL,1967,71.4731707317073,World Bank
+New Zealand,Oceania,NZL,1972,71.89,Gapminder
+New Zealand,Oceania,NZL,1972,71.8292682926829,World Bank
+New Zealand,Oceania,NZL,1977,72.22,Gapminder
+New Zealand,Oceania,NZL,1977,72.1682926829268,World Bank
+New Zealand,Oceania,NZL,1982,73.84,Gapminder
+New Zealand,Oceania,NZL,1982,73.7243902439024,World Bank
+New Zealand,Oceania,NZL,1987,74.32,Gapminder
+New Zealand,Oceania,NZL,1987,74.1780487804878,World Bank
+New Zealand,Oceania,NZL,1992,76.33,Gapminder
+New Zealand,Oceania,NZL,1992,76.1243902439025,World Bank
+New Zealand,Oceania,NZL,1997,77.55,Gapminder
+New Zealand,Oceania,NZL,1997,77.3341463414634,World Bank
+New Zealand,Oceania,NZL,2002,79.11,Gapminder
+New Zealand,Oceania,NZL,2002,78.8463414634146,World Bank
+New Zealand,Oceania,NZL,2007,80.204,Gapminder
+New Zealand,Oceania,NZL,2007,80.1512195121951,World Bank
+Oman,Asia,OMN,1952,37.578,Gapminder
+Oman,Asia,OMN,1957,40.08,Gapminder
+Oman,Asia,OMN,1962,43.165,Gapminder
+Oman,Asia,OMN,1962,37.413,World Bank
+Oman,Asia,OMN,1967,46.988,Gapminder
+Oman,Asia,OMN,1967,43.177,World Bank
+Oman,Asia,OMN,1972,52.143,Gapminder
+Oman,Asia,OMN,1972,48.717,World Bank
+Oman,Asia,OMN,1977,57.367,Gapminder
+Oman,Asia,OMN,1977,55.524,World Bank
+Oman,Asia,OMN,1982,62.728,Gapminder
+Oman,Asia,OMN,1982,62.049,World Bank
+Oman,Asia,OMN,1987,67.734,Gapminder
+Oman,Asia,OMN,1987,66.979,World Bank
+Oman,Asia,OMN,1992,71.197,Gapminder
+Oman,Asia,OMN,1992,70.114,World Bank
+Oman,Asia,OMN,1997,72.499,Gapminder
+Oman,Asia,OMN,1997,72.463,World Bank
+Oman,Asia,OMN,2002,74.193,Gapminder
+Oman,Asia,OMN,2002,74.276,World Bank
+Oman,Asia,OMN,2007,75.64,Gapminder
+Oman,Asia,OMN,2007,75.596,World Bank
+Pakistan,Asia,PAK,1952,43.43600000000001,Gapminder
+Pakistan,Asia,PAK,1957,45.557,Gapminder
+Pakistan,Asia,PAK,1962,47.67,Gapminder
+Pakistan,Asia,PAK,1962,45.85,World Bank
+Pakistan,Asia,PAK,1967,49.8,Gapminder
+Pakistan,Asia,PAK,1967,50.763,World Bank
+Pakistan,Asia,PAK,1972,51.929,Gapminder
+Pakistan,Asia,PAK,1972,53.824,World Bank
+Pakistan,Asia,PAK,1977,54.043,Gapminder
+Pakistan,Asia,PAK,1977,55.482,World Bank
+Pakistan,Asia,PAK,1982,56.158,Gapminder
+Pakistan,Asia,PAK,1982,58.291,World Bank
+Pakistan,Asia,PAK,1987,58.245,Gapminder
+Pakistan,Asia,PAK,1987,59.222,World Bank
+Pakistan,Asia,PAK,1992,60.838,Gapminder
+Pakistan,Asia,PAK,1992,59.983,World Bank
+Pakistan,Asia,PAK,1997,61.81800000000001,Gapminder
+Pakistan,Asia,PAK,1997,60.623,World Bank
+Pakistan,Asia,PAK,2002,63.61,Gapminder
+Pakistan,Asia,PAK,2002,62.556,World Bank
+Pakistan,Asia,PAK,2007,65.483,Gapminder
+Pakistan,Asia,PAK,2007,63.807,World Bank
+Panama,Americas,PAN,1952,55.191,Gapminder
+Panama,Americas,PAN,1957,59.201,Gapminder
+Panama,Americas,PAN,1962,61.817,Gapminder
+Panama,Americas,PAN,1962,61.428,World Bank
+Panama,Americas,PAN,1967,64.071,Gapminder
+Panama,Americas,PAN,1967,62.887,World Bank
+Panama,Americas,PAN,1972,66.21600000000001,Gapminder
+Panama,Americas,PAN,1972,65.183,World Bank
+Panama,Americas,PAN,1977,68.681,Gapminder
+Panama,Americas,PAN,1977,68.252,World Bank
+Panama,Americas,PAN,1982,70.472,Gapminder
+Panama,Americas,PAN,1982,69.9,World Bank
+Panama,Americas,PAN,1987,71.523,Gapminder
+Panama,Americas,PAN,1987,70.811,World Bank
+Panama,Americas,PAN,1992,72.462,Gapminder
+Panama,Americas,PAN,1992,71.461,World Bank
+Panama,Americas,PAN,1997,73.738,Gapminder
+Panama,Americas,PAN,1997,72.541,World Bank
+Panama,Americas,PAN,2002,74.712,Gapminder
+Panama,Americas,PAN,2002,74.195,World Bank
+Panama,Americas,PAN,2007,75.53699999999998,Gapminder
+Panama,Americas,PAN,2007,75.675,World Bank
+Peru,Americas,PER,1952,43.902,Gapminder
+Peru,Americas,PER,1957,46.26300000000001,Gapminder
+Peru,Americas,PER,1962,49.096,Gapminder
+Peru,Americas,PER,1962,51.532,World Bank
+Peru,Americas,PER,1967,51.445,Gapminder
+Peru,Americas,PER,1967,54.893,World Bank
+Peru,Americas,PER,1972,55.448,Gapminder
+Peru,Americas,PER,1972,56.989,World Bank
+Peru,Americas,PER,1977,58.447,Gapminder
+Peru,Americas,PER,1977,58.895,World Bank
+Peru,Americas,PER,1982,61.40600000000001,Gapminder
+Peru,Americas,PER,1982,60.559,World Bank
+Peru,Americas,PER,1987,64.134,Gapminder
+Peru,Americas,PER,1987,62.544,World Bank
+Peru,Americas,PER,1992,66.458,Gapminder
+Peru,Americas,PER,1992,65.031,World Bank
+Peru,Americas,PER,1997,68.38600000000001,Gapminder
+Peru,Americas,PER,1997,68.324,World Bank
+Peru,Americas,PER,2002,69.906,Gapminder
+Peru,Americas,PER,2002,70.815,World Bank
+Peru,Americas,PER,2007,71.421,Gapminder
+Peru,Americas,PER,2007,72.746,World Bank
+Philippines,Asia,PHL,1952,47.752,Gapminder
+Philippines,Asia,PHL,1957,51.334,Gapminder
+Philippines,Asia,PHL,1962,54.757,Gapminder
+Philippines,Asia,PHL,1962,59.755,World Bank
+Philippines,Asia,PHL,1967,56.393,Gapminder
+Philippines,Asia,PHL,1967,60.804,World Bank
+Philippines,Asia,PHL,1972,58.065,Gapminder
+Philippines,Asia,PHL,1972,60.911,World Bank
+Philippines,Asia,PHL,1977,60.06,Gapminder
+Philippines,Asia,PHL,1977,61.431,World Bank
+Philippines,Asia,PHL,1982,62.082,Gapminder
+Philippines,Asia,PHL,1982,62.175,World Bank
+Philippines,Asia,PHL,1987,64.15100000000001,Gapminder
+Philippines,Asia,PHL,1987,63.299,World Bank
+Philippines,Asia,PHL,1992,66.458,Gapminder
+Philippines,Asia,PHL,1992,65.353,World Bank
+Philippines,Asia,PHL,1997,68.564,Gapminder
+Philippines,Asia,PHL,1997,66.994,World Bank
+Philippines,Asia,PHL,2002,70.303,Gapminder
+Philippines,Asia,PHL,2002,67.886,World Bank
+Philippines,Asia,PHL,2007,71.688,Gapminder
+Philippines,Asia,PHL,2007,68.549,World Bank
+Poland,Europe,POL,1952,61.31,Gapminder
+Poland,Europe,POL,1957,65.77,Gapminder
+Poland,Europe,POL,1962,67.64,Gapminder
+Poland,Europe,POL,1962,67.4268292682927,World Bank
+Poland,Europe,POL,1967,69.61,Gapminder
+Poland,Europe,POL,1967,69.4243902439024,World Bank
+Poland,Europe,POL,1972,70.85,Gapminder
+Poland,Europe,POL,1972,70.6658536585366,World Bank
+Poland,Europe,POL,1977,70.67,Gapminder
+Poland,Europe,POL,1977,70.4024390243902,World Bank
+Poland,Europe,POL,1982,71.32,Gapminder
+Poland,Europe,POL,1982,71.1024390243903,World Bank
+Poland,Europe,POL,1987,70.98,Gapminder
+Poland,Europe,POL,1987,70.8975609756098,World Bank
+Poland,Europe,POL,1992,70.99,Gapminder
+Poland,Europe,POL,1992,71.090243902439,World Bank
+Poland,Europe,POL,1997,72.75,Gapminder
+Poland,Europe,POL,1997,72.6463414634146,World Bank
+Poland,Europe,POL,2002,74.67,Gapminder
+Poland,Europe,POL,2002,74.4975609756098,World Bank
+Poland,Europe,POL,2007,75.563,Gapminder
+Poland,Europe,POL,2007,75.2439024390244,World Bank
+Puerto Rico,Americas,PRI,1952,64.28,Gapminder
+Puerto Rico,Americas,PRI,1957,68.54,Gapminder
+Puerto Rico,Americas,PRI,1962,69.62,Gapminder
+Puerto Rico,Americas,PRI,1962,68.863,World Bank
+Puerto Rico,Americas,PRI,1967,71.1,Gapminder
+Puerto Rico,Americas,PRI,1967,70.699,World Bank
+Puerto Rico,Americas,PRI,1972,72.16,Gapminder
+Puerto Rico,Americas,PRI,1972,70.813,World Bank
+Puerto Rico,Americas,PRI,1977,73.44,Gapminder
+Puerto Rico,Americas,PRI,1977,72.401,World Bank
+Puerto Rico,Americas,PRI,1982,73.75,Gapminder
+Puerto Rico,Americas,PRI,1982,72.949,World Bank
+Puerto Rico,Americas,PRI,1987,74.63,Gapminder
+Puerto Rico,Americas,PRI,1987,73.402,World Bank
+Puerto Rico,Americas,PRI,1992,73.911,Gapminder
+Puerto Rico,Americas,PRI,1992,73.387,World Bank
+Puerto Rico,Americas,PRI,1997,74.917,Gapminder
+Puerto Rico,Americas,PRI,1997,74.674,World Bank
+Puerto Rico,Americas,PRI,2002,77.778,Gapminder
+Puerto Rico,Americas,PRI,2002,76.819,World Bank
+Puerto Rico,Americas,PRI,2007,78.74600000000002,Gapminder
+Puerto Rico,Americas,PRI,2007,77.659,World Bank
+"Korea, Dem. Rep.",Asia,PRK,1952,50.056,Gapminder
+"Korea, Dem. Rep.",Asia,PRK,1957,54.081,Gapminder
+"Korea, Dem. Rep.",Asia,PRK,1962,56.65600000000001,Gapminder
+"Korea, Dem. Rep.",Asia,PRK,1962,56.998,World Bank
+"Korea, Dem. Rep.",Asia,PRK,1967,59.942,Gapminder
+"Korea, Dem. Rep.",Asia,PRK,1967,60.087,World Bank
+"Korea, Dem. Rep.",Asia,PRK,1972,63.983,Gapminder
+"Korea, Dem. Rep.",Asia,PRK,1972,63.254,World Bank
+"Korea, Dem. Rep.",Asia,PRK,1977,67.15899999999999,Gapminder
+"Korea, Dem. Rep.",Asia,PRK,1977,65.811,World Bank
+"Korea, Dem. Rep.",Asia,PRK,1982,69.1,Gapminder
+"Korea, Dem. Rep.",Asia,PRK,1982,68.09,World Bank
+"Korea, Dem. Rep.",Asia,PRK,1987,70.64699999999998,Gapminder
+"Korea, Dem. Rep.",Asia,PRK,1987,69.767,World Bank
+"Korea, Dem. Rep.",Asia,PRK,1992,69.97800000000001,Gapminder
+"Korea, Dem. Rep.",Asia,PRK,1992,71.009,World Bank
+"Korea, Dem. Rep.",Asia,PRK,1997,67.727,Gapminder
+"Korea, Dem. Rep.",Asia,PRK,1997,60.869,World Bank
+"Korea, Dem. Rep.",Asia,PRK,2002,66.66199999999999,Gapminder
+"Korea, Dem. Rep.",Asia,PRK,2002,60.877,World Bank
+"Korea, Dem. Rep.",Asia,PRK,2007,67.297,Gapminder
+"Korea, Dem. Rep.",Asia,PRK,2007,69.021,World Bank
+Portugal,Europe,PRT,1952,59.82,Gapminder
+Portugal,Europe,PRT,1957,61.51,Gapminder
+Portugal,Europe,PRT,1962,64.39,Gapminder
+Portugal,Europe,PRT,1962,64.1810243902439,World Bank
+Portugal,Europe,PRT,1967,66.6,Gapminder
+Portugal,Europe,PRT,1967,66.3340731707317,World Bank
+Portugal,Europe,PRT,1972,69.26,Gapminder
+Portugal,Europe,PRT,1972,68.3243902439024,World Bank
+Portugal,Europe,PRT,1977,70.41,Gapminder
+Portugal,Europe,PRT,1977,70.0121951219512,World Bank
+Portugal,Europe,PRT,1982,72.77,Gapminder
+Portugal,Europe,PRT,1982,72.4146341463415,World Bank
+Portugal,Europe,PRT,1987,74.06,Gapminder
+Portugal,Europe,PRT,1987,73.6658536585366,World Bank
+Portugal,Europe,PRT,1992,74.86,Gapminder
+Portugal,Europe,PRT,1992,74.3121951219512,World Bank
+Portugal,Europe,PRT,1997,75.97,Gapminder
+Portugal,Europe,PRT,1997,75.4121951219512,World Bank
+Portugal,Europe,PRT,2002,77.29,Gapminder
+Portugal,Europe,PRT,2002,77.0658536585366,World Bank
+Portugal,Europe,PRT,2007,78.098,Gapminder
+Portugal,Europe,PRT,2007,78.3219512195122,World Bank
+Paraguay,Americas,PRY,1952,62.649,Gapminder
+Paraguay,Americas,PRY,1957,63.19600000000001,Gapminder
+Paraguay,Americas,PRY,1962,64.361,Gapminder
+Paraguay,Americas,PRY,1962,60.816,World Bank
+Paraguay,Americas,PRY,1967,64.95100000000001,Gapminder
+Paraguay,Americas,PRY,1967,62.025,World Bank
+Paraguay,Americas,PRY,1972,65.815,Gapminder
+Paraguay,Americas,PRY,1972,62.89,World Bank
+Paraguay,Americas,PRY,1977,66.35300000000001,Gapminder
+Paraguay,Americas,PRY,1977,63.86,World Bank
+Paraguay,Americas,PRY,1982,66.874,Gapminder
+Paraguay,Americas,PRY,1982,65.076,World Bank
+Paraguay,Americas,PRY,1987,67.378,Gapminder
+Paraguay,Americas,PRY,1987,66.454,World Bank
+Paraguay,Americas,PRY,1992,68.225,Gapminder
+Paraguay,Americas,PRY,1992,67.961,World Bank
+Paraguay,Americas,PRY,1997,69.4,Gapminder
+Paraguay,Americas,PRY,1997,69.284,World Bank
+Paraguay,Americas,PRY,2002,70.755,Gapminder
+Paraguay,Americas,PRY,2002,70.539,World Bank
+Paraguay,Americas,PRY,2007,71.752,Gapminder
+Paraguay,Americas,PRY,2007,71.817,World Bank
+West Bank and Gaza,Asia,PSE,1952,43.16,Gapminder
+West Bank and Gaza,Asia,PSE,1957,45.67100000000001,Gapminder
+West Bank and Gaza,Asia,PSE,1962,48.127,Gapminder
+West Bank and Gaza,Asia,PSE,1962,,World Bank
+West Bank and Gaza,Asia,PSE,1967,51.631,Gapminder
+West Bank and Gaza,Asia,PSE,1967,,World Bank
+West Bank and Gaza,Asia,PSE,1972,56.532,Gapminder
+West Bank and Gaza,Asia,PSE,1972,,World Bank
+West Bank and Gaza,Asia,PSE,1977,60.765,Gapminder
+West Bank and Gaza,Asia,PSE,1977,,World Bank
+West Bank and Gaza,Asia,PSE,1982,64.406,Gapminder
+West Bank and Gaza,Asia,PSE,1982,,World Bank
+West Bank and Gaza,Asia,PSE,1987,67.046,Gapminder
+West Bank and Gaza,Asia,PSE,1987,,World Bank
+West Bank and Gaza,Asia,PSE,1992,69.718,Gapminder
+West Bank and Gaza,Asia,PSE,1992,68.478,World Bank
+West Bank and Gaza,Asia,PSE,1997,71.096,Gapminder
+West Bank and Gaza,Asia,PSE,1997,70.328,World Bank
+West Bank and Gaza,Asia,PSE,2002,72.37,Gapminder
+West Bank and Gaza,Asia,PSE,2002,70.88,World Bank
+West Bank and Gaza,Asia,PSE,2007,73.422,Gapminder
+West Bank and Gaza,Asia,PSE,2007,72.064,World Bank
+Reunion,Africa,REU,1952,52.724,Gapminder
+Reunion,Africa,REU,1957,55.09,Gapminder
+Reunion,Africa,REU,1962,57.666,Gapminder
+Reunion,Africa,REU,1967,60.542,Gapminder
+Reunion,Africa,REU,1972,64.274,Gapminder
+Reunion,Africa,REU,1977,67.064,Gapminder
+Reunion,Africa,REU,1982,69.885,Gapminder
+Reunion,Africa,REU,1987,71.913,Gapminder
+Reunion,Africa,REU,1992,73.615,Gapminder
+Reunion,Africa,REU,1997,74.77199999999998,Gapminder
+Reunion,Africa,REU,2002,75.744,Gapminder
+Reunion,Africa,REU,2007,76.442,Gapminder
+Romania,Europe,ROU,1952,61.05,Gapminder
+Romania,Europe,ROU,1957,64.1,Gapminder
+Romania,Europe,ROU,1962,66.8,Gapminder
+Romania,Europe,ROU,1962,65.2556585365854,World Bank
+Romania,Europe,ROU,1967,66.8,Gapminder
+Romania,Europe,ROU,1967,67.5159512195122,World Bank
+Romania,Europe,ROU,1972,69.21,Gapminder
+Romania,Europe,ROU,1972,68.470243902439,World Bank
+Romania,Europe,ROU,1977,69.46,Gapminder
+Romania,Europe,ROU,1977,69.7419512195122,World Bank
+Romania,Europe,ROU,1982,69.66,Gapminder
+Romania,Europe,ROU,1982,69.5317073170732,World Bank
+Romania,Europe,ROU,1987,69.53,Gapminder
+Romania,Europe,ROU,1987,69.2268292682927,World Bank
+Romania,Europe,ROU,1992,69.36,Gapminder
+Romania,Europe,ROU,1992,69.7843902439024,World Bank
+Romania,Europe,ROU,1997,69.72,Gapminder
+Romania,Europe,ROU,1997,69.0048780487805,World Bank
+Romania,Europe,ROU,2002,71.322,Gapminder
+Romania,Europe,ROU,2002,71.009756097561,World Bank
+Romania,Europe,ROU,2007,72.476,Gapminder
+Romania,Europe,ROU,2007,72.5658536585366,World Bank
+Rwanda,Africa,RWA,1952,40.0,Gapminder
+Rwanda,Africa,RWA,1957,41.5,Gapminder
+Rwanda,Africa,RWA,1962,43.0,Gapminder
+Rwanda,Africa,RWA,1962,47.802,World Bank
+Rwanda,Africa,RWA,1967,44.1,Gapminder
+Rwanda,Africa,RWA,1967,47.987,World Bank
+Rwanda,Africa,RWA,1972,44.6,Gapminder
+Rwanda,Africa,RWA,1972,46.343,World Bank
+Rwanda,Africa,RWA,1977,45.0,Gapminder
+Rwanda,Africa,RWA,1977,45.579,World Bank
+Rwanda,Africa,RWA,1982,46.218,Gapminder
+Rwanda,Africa,RWA,1982,50.188,World Bank
+Rwanda,Africa,RWA,1987,44.02,Gapminder
+Rwanda,Africa,RWA,1987,51.465,World Bank
+Rwanda,Africa,RWA,1992,23.599,Gapminder
+Rwanda,Africa,RWA,1992,44.397,World Bank
+Rwanda,Africa,RWA,1997,36.087,Gapminder
+Rwanda,Africa,RWA,1997,41.978,World Bank
+Rwanda,Africa,RWA,2002,43.413,Gapminder
+Rwanda,Africa,RWA,2002,51.262,World Bank
+Rwanda,Africa,RWA,2007,46.242,Gapminder
+Rwanda,Africa,RWA,2007,59.504,World Bank
+Saudi Arabia,Asia,SAU,1952,39.875,Gapminder
+Saudi Arabia,Asia,SAU,1957,42.868,Gapminder
+Saudi Arabia,Asia,SAU,1962,45.914,Gapminder
+Saudi Arabia,Asia,SAU,1962,46.469,World Bank
+Saudi Arabia,Asia,SAU,1967,49.901,Gapminder
+Saudi Arabia,Asia,SAU,1967,49.994,World Bank
+Saudi Arabia,Asia,SAU,1972,53.886,Gapminder
+Saudi Arabia,Asia,SAU,1972,54.742,World Bank
+Saudi Arabia,Asia,SAU,1977,58.69,Gapminder
+Saudi Arabia,Asia,SAU,1977,59.749,World Bank
+Saudi Arabia,Asia,SAU,1982,63.012,Gapminder
+Saudi Arabia,Asia,SAU,1982,64.008,World Bank
+Saudi Arabia,Asia,SAU,1987,66.295,Gapminder
+Saudi Arabia,Asia,SAU,1987,67.242,World Bank
+Saudi Arabia,Asia,SAU,1992,68.768,Gapminder
+Saudi Arabia,Asia,SAU,1992,69.799,World Bank
+Saudi Arabia,Asia,SAU,1997,70.533,Gapminder
+Saudi Arabia,Asia,SAU,1997,71.624,World Bank
+Saudi Arabia,Asia,SAU,2002,71.626,Gapminder
+Saudi Arabia,Asia,SAU,2002,73.296,World Bank
+Saudi Arabia,Asia,SAU,2007,72.777,Gapminder
+Saudi Arabia,Asia,SAU,2007,75.066,World Bank
+Sudan,Africa,SDN,1952,38.635,Gapminder
+Sudan,Africa,SDN,1957,39.624,Gapminder
+Sudan,Africa,SDN,1962,40.87,Gapminder
+Sudan,Africa,SDN,1962,50.419,World Bank
+Sudan,Africa,SDN,1967,42.858,Gapminder
+Sudan,Africa,SDN,1967,51.495,World Bank
+Sudan,Africa,SDN,1972,45.083,Gapminder
+Sudan,Africa,SDN,1972,52.803,World Bank
+Sudan,Africa,SDN,1977,47.8,Gapminder
+Sudan,Africa,SDN,1977,53.522,World Bank
+Sudan,Africa,SDN,1982,50.338,Gapminder
+Sudan,Africa,SDN,1982,54.375,World Bank
+Sudan,Africa,SDN,1987,51.744,Gapminder
+Sudan,Africa,SDN,1987,54.747,World Bank
+Sudan,Africa,SDN,1992,53.556,Gapminder
+Sudan,Africa,SDN,1992,55.952,World Bank
+Sudan,Africa,SDN,1997,55.37300000000001,Gapminder
+Sudan,Africa,SDN,1997,58.058,World Bank
+Sudan,Africa,SDN,2002,56.369,Gapminder
+Sudan,Africa,SDN,2002,59.308,World Bank
+Sudan,Africa,SDN,2007,58.556,Gapminder
+Sudan,Africa,SDN,2007,61.442,World Bank
+Senegal,Africa,SEN,1952,37.278,Gapminder
+Senegal,Africa,SEN,1957,39.329,Gapminder
+Senegal,Africa,SEN,1962,41.45399999999999,Gapminder
+Senegal,Africa,SEN,1962,39.738,World Bank
+Senegal,Africa,SEN,1967,43.563,Gapminder
+Senegal,Africa,SEN,1967,39.992,World Bank
+Senegal,Africa,SEN,1972,45.815,Gapminder
+Senegal,Africa,SEN,1972,41.77,World Bank
+Senegal,Africa,SEN,1977,48.879,Gapminder
+Senegal,Africa,SEN,1977,45.714,World Bank
+Senegal,Africa,SEN,1982,52.379,Gapminder
+Senegal,Africa,SEN,1982,49.863,World Bank
+Senegal,Africa,SEN,1987,55.769,Gapminder
+Senegal,Africa,SEN,1987,54.632,World Bank
+Senegal,Africa,SEN,1992,58.19600000000001,Gapminder
+Senegal,Africa,SEN,1992,57.287,World Bank
+Senegal,Africa,SEN,1997,60.187,Gapminder
+Senegal,Africa,SEN,1997,57.107,World Bank
+Senegal,Africa,SEN,2002,61.6,Gapminder
+Senegal,Africa,SEN,2002,58.912,World Bank
+Senegal,Africa,SEN,2007,63.062,Gapminder
+Senegal,Africa,SEN,2007,62.653,World Bank
+Singapore,Asia,SGP,1952,60.396,Gapminder
+Singapore,Asia,SGP,1957,63.179,Gapminder
+Singapore,Asia,SGP,1962,65.798,Gapminder
+Singapore,Asia,SGP,1962,66.3726341463415,World Bank
+Singapore,Asia,SGP,1967,67.946,Gapminder
+Singapore,Asia,SGP,1967,67.6523902439025,World Bank
+Singapore,Asia,SGP,1972,69.521,Gapminder
+Singapore,Asia,SGP,1972,69.1635609756098,World Bank
+Singapore,Asia,SGP,1977,70.795,Gapminder
+Singapore,Asia,SGP,1977,71.0261219512195,World Bank
+Singapore,Asia,SGP,1982,71.76,Gapminder
+Singapore,Asia,SGP,1982,72.6878048780488,World Bank
+Singapore,Asia,SGP,1987,73.56,Gapminder
+Singapore,Asia,SGP,1987,74.5487804878049,World Bank
+Singapore,Asia,SGP,1992,75.788,Gapminder
+Singapore,Asia,SGP,1992,75.9463414634146,World Bank
+Singapore,Asia,SGP,1997,77.158,Gapminder
+Singapore,Asia,SGP,1997,76.8975609756097,World Bank
+Singapore,Asia,SGP,2002,78.77,Gapminder
+Singapore,Asia,SGP,2002,78.5512195121951,World Bank
+Singapore,Asia,SGP,2007,79.972,Gapminder
+Singapore,Asia,SGP,2007,80.4414634146342,World Bank
+Sierra Leone,Africa,SLE,1952,30.331,Gapminder
+Sierra Leone,Africa,SLE,1957,31.57,Gapminder
+Sierra Leone,Africa,SLE,1962,32.767,Gapminder
+Sierra Leone,Africa,SLE,1962,34.155,World Bank
+Sierra Leone,Africa,SLE,1967,34.113,Gapminder
+Sierra Leone,Africa,SLE,1967,37.281,World Bank
+Sierra Leone,Africa,SLE,1972,35.4,Gapminder
+Sierra Leone,Africa,SLE,1972,39.505,World Bank
+Sierra Leone,Africa,SLE,1977,36.788,Gapminder
+Sierra Leone,Africa,SLE,1977,41.826,World Bank
+Sierra Leone,Africa,SLE,1982,38.445,Gapminder
+Sierra Leone,Africa,SLE,1982,43.302,World Bank
+Sierra Leone,Africa,SLE,1987,40.006,Gapminder
+Sierra Leone,Africa,SLE,1987,43.748,World Bank
+Sierra Leone,Africa,SLE,1992,38.333,Gapminder
+Sierra Leone,Africa,SLE,1992,43.451,World Bank
+Sierra Leone,Africa,SLE,1997,39.897,Gapminder
+Sierra Leone,Africa,SLE,1997,43.649,World Bank
+Sierra Leone,Africa,SLE,2002,41.012,Gapminder
+Sierra Leone,Africa,SLE,2002,46.174,World Bank
+Sierra Leone,Africa,SLE,2007,42.56800000000001,Gapminder
+Sierra Leone,Africa,SLE,2007,50.024,World Bank
+El Salvador,Americas,SLV,1952,45.262,Gapminder
+El Salvador,Americas,SLV,1957,48.57,Gapminder
+El Salvador,Americas,SLV,1962,52.307,Gapminder
+El Salvador,Americas,SLV,1962,49.001,World Bank
+El Salvador,Americas,SLV,1967,55.855,Gapminder
+El Salvador,Americas,SLV,1967,50.844,World Bank
+El Salvador,Americas,SLV,1972,58.207,Gapminder
+El Salvador,Americas,SLV,1972,51.956,World Bank
+El Salvador,Americas,SLV,1977,56.69600000000001,Gapminder
+El Salvador,Americas,SLV,1977,54.047,World Bank
+El Salvador,Americas,SLV,1982,56.604,Gapminder
+El Salvador,Americas,SLV,1982,53.342,World Bank
+El Salvador,Americas,SLV,1987,63.154,Gapminder
+El Salvador,Americas,SLV,1987,59.402,World Bank
+El Salvador,Americas,SLV,1992,66.798,Gapminder
+El Salvador,Americas,SLV,1992,62.944,World Bank
+El Salvador,Americas,SLV,1997,69.535,Gapminder
+El Salvador,Americas,SLV,1997,66.248,World Bank
+El Salvador,Americas,SLV,2002,70.734,Gapminder
+El Salvador,Americas,SLV,2002,68.526,World Bank
+El Salvador,Americas,SLV,2007,71.878,Gapminder
+El Salvador,Americas,SLV,2007,69.82,World Bank
+Somalia,Africa,SOM,1952,32.978,Gapminder
+Somalia,Africa,SOM,1957,34.977,Gapminder
+Somalia,Africa,SOM,1962,36.981,Gapminder
+Somalia,Africa,SOM,1962,43.972,World Bank
+Somalia,Africa,SOM,1967,38.977,Gapminder
+Somalia,Africa,SOM,1967,45.051,World Bank
+Somalia,Africa,SOM,1972,40.973,Gapminder
+Somalia,Africa,SOM,1972,46.032,World Bank
+Somalia,Africa,SOM,1977,41.974,Gapminder
+Somalia,Africa,SOM,1977,47.004,World Bank
+Somalia,Africa,SOM,1982,42.955,Gapminder
+Somalia,Africa,SOM,1982,48.02,World Bank
+Somalia,Africa,SOM,1987,44.50100000000001,Gapminder
+Somalia,Africa,SOM,1987,49.002,World Bank
+Somalia,Africa,SOM,1992,39.658,Gapminder
+Somalia,Africa,SOM,1992,25.034,World Bank
+Somalia,Africa,SOM,1997,43.795,Gapminder
+Somalia,Africa,SOM,1997,50.278,World Bank
+Somalia,Africa,SOM,2002,45.93600000000001,Gapminder
+Somalia,Africa,SOM,2002,50.82,World Bank
+Somalia,Africa,SOM,2007,48.159,Gapminder
+Somalia,Africa,SOM,2007,50.885,World Bank
+Serbia,Europe,SRB,1952,57.996,Gapminder
+Serbia,Europe,SRB,1957,61.685,Gapminder
+Serbia,Europe,SRB,1962,64.531,Gapminder
+Serbia,Europe,SRB,1962,66.9230487804878,World Bank
+Serbia,Europe,SRB,1967,66.914,Gapminder
+Serbia,Europe,SRB,1967,69.9707317073171,World Bank
+Serbia,Europe,SRB,1972,68.7,Gapminder
+Serbia,Europe,SRB,1972,69.8716341463415,World Bank
+Serbia,Europe,SRB,1977,70.3,Gapminder
+Serbia,Europe,SRB,1977,71.6648780487805,World Bank
+Serbia,Europe,SRB,1982,70.16199999999999,Gapminder
+Serbia,Europe,SRB,1982,70.9744634146341,World Bank
+Serbia,Europe,SRB,1987,71.218,Gapminder
+Serbia,Europe,SRB,1987,71.7754878048781,World Bank
+Serbia,Europe,SRB,1992,71.65899999999998,Gapminder
+Serbia,Europe,SRB,1992,71.5688292682927,World Bank
+Serbia,Europe,SRB,1997,72.232,Gapminder
+Serbia,Europe,SRB,1997,72.8280975609756,World Bank
+Serbia,Europe,SRB,2002,73.21300000000002,Gapminder
+Serbia,Europe,SRB,2002,72.2853658536585,World Bank
+Serbia,Europe,SRB,2007,74.002,Gapminder
+Serbia,Europe,SRB,2007,73.6317073170732,World Bank
+Sao Tome and Principe,Africa,STP,1952,46.471,Gapminder
+Sao Tome and Principe,Africa,STP,1957,48.945,Gapminder
+Sao Tome and Principe,Africa,STP,1962,51.893,Gapminder
+Sao Tome and Principe,Africa,STP,1962,46.843,World Bank
+Sao Tome and Principe,Africa,STP,1967,54.425,Gapminder
+Sao Tome and Principe,Africa,STP,1967,53.449,World Bank
+Sao Tome and Principe,Africa,STP,1972,56.48,Gapminder
+Sao Tome and Principe,Africa,STP,1972,57.448,World Bank
+Sao Tome and Principe,Africa,STP,1977,58.55,Gapminder
+Sao Tome and Principe,Africa,STP,1977,58.979,World Bank
+Sao Tome and Principe,Africa,STP,1982,60.351000000000006,Gapminder
+Sao Tome and Principe,Africa,STP,1982,59.533,World Bank
+Sao Tome and Principe,Africa,STP,1987,61.728,Gapminder
+Sao Tome and Principe,Africa,STP,1987,60.663,World Bank
+Sao Tome and Principe,Africa,STP,1992,62.742,Gapminder
+Sao Tome and Principe,Africa,STP,1992,60.706,World Bank
+Sao Tome and Principe,Africa,STP,1997,63.306,Gapminder
+Sao Tome and Principe,Africa,STP,1997,60.648,World Bank
+Sao Tome and Principe,Africa,STP,2002,64.337,Gapminder
+Sao Tome and Principe,Africa,STP,2002,61.826,World Bank
+Sao Tome and Principe,Africa,STP,2007,65.528,Gapminder
+Sao Tome and Principe,Africa,STP,2007,63.336,World Bank
+Slovak Republic,Europe,SVK,1952,64.36,Gapminder
+Slovak Republic,Europe,SVK,1957,67.45,Gapminder
+Slovak Republic,Europe,SVK,1962,70.33,Gapminder
+Slovak Republic,Europe,SVK,1962,70.2702926829268,World Bank
+Slovak Republic,Europe,SVK,1967,70.98,Gapminder
+Slovak Republic,Europe,SVK,1967,70.9255853658537,World Bank
+Slovak Republic,Europe,SVK,1972,70.35,Gapminder
+Slovak Republic,Europe,SVK,1972,70.2982195121951,World Bank
+Slovak Republic,Europe,SVK,1977,70.45,Gapminder
+Slovak Republic,Europe,SVK,1977,70.4231219512195,World Bank
+Slovak Republic,Europe,SVK,1982,70.8,Gapminder
+Slovak Republic,Europe,SVK,1982,70.6890243902439,World Bank
+Slovak Republic,Europe,SVK,1987,71.08,Gapminder
+Slovak Republic,Europe,SVK,1987,71.0887804878049,World Bank
+Slovak Republic,Europe,SVK,1992,71.38,Gapminder
+Slovak Republic,Europe,SVK,1992,71.7951219512195,World Bank
+Slovak Republic,Europe,SVK,1997,72.71,Gapminder
+Slovak Republic,Europe,SVK,1997,72.7048780487805,World Bank
+Slovak Republic,Europe,SVK,2002,73.8,Gapminder
+Slovak Republic,Europe,SVK,2002,73.6048780487805,World Bank
+Slovak Republic,Europe,SVK,2007,74.663,Gapminder
+Slovak Republic,Europe,SVK,2007,74.2073170731707,World Bank
+Slovenia,Europe,SVN,1952,65.57,Gapminder
+Slovenia,Europe,SVN,1957,67.85,Gapminder
+Slovenia,Europe,SVN,1962,69.15,Gapminder
+Slovenia,Europe,SVN,1962,68.9780487804878,World Bank
+Slovenia,Europe,SVN,1967,69.18,Gapminder
+Slovenia,Europe,SVN,1967,69.3658536585366,World Bank
+Slovenia,Europe,SVN,1972,69.82,Gapminder
+Slovenia,Europe,SVN,1972,69.0585365853659,World Bank
+Slovenia,Europe,SVN,1977,70.97,Gapminder
+Slovenia,Europe,SVN,1977,70.5560975609756,World Bank
+Slovenia,Europe,SVN,1982,71.063,Gapminder
+Slovenia,Europe,SVN,1982,71.0536585365854,World Bank
+Slovenia,Europe,SVN,1987,72.25,Gapminder
+Slovenia,Europe,SVN,1987,72.0024390243902,World Bank
+Slovenia,Europe,SVN,1992,73.64,Gapminder
+Slovenia,Europe,SVN,1992,73.3048780487805,World Bank
+Slovenia,Europe,SVN,1997,75.13,Gapminder
+Slovenia,Europe,SVN,1997,74.7073170731707,World Bank
+Slovenia,Europe,SVN,2002,76.66,Gapminder
+Slovenia,Europe,SVN,2002,76.0073170731707,World Bank
+Slovenia,Europe,SVN,2007,77.926,Gapminder
+Slovenia,Europe,SVN,2007,78.5609756097561,World Bank
+Sweden,Europe,SWE,1952,71.86,Gapminder
+Sweden,Europe,SWE,1957,72.49,Gapminder
+Sweden,Europe,SWE,1962,73.37,Gapminder
+Sweden,Europe,SWE,1962,73.3504878048781,World Bank
+Sweden,Europe,SWE,1967,74.16,Gapminder
+Sweden,Europe,SWE,1967,74.1224390243903,World Bank
+Sweden,Europe,SWE,1972,74.72,Gapminder
+Sweden,Europe,SWE,1972,74.7180487804878,World Bank
+Sweden,Europe,SWE,1977,75.44,Gapminder
+Sweden,Europe,SWE,1977,75.379756097561,World Bank
+Sweden,Europe,SWE,1982,76.42,Gapminder
+Sweden,Europe,SWE,1982,76.3273170731707,World Bank
+Sweden,Europe,SWE,1987,77.19,Gapminder
+Sweden,Europe,SWE,1987,77.0921951219512,World Bank
+Sweden,Europe,SWE,1992,78.16,Gapminder
+Sweden,Europe,SWE,1992,77.9987804878049,World Bank
+Sweden,Europe,SWE,1997,79.39,Gapminder
+Sweden,Europe,SWE,1997,79.1975609756098,World Bank
+Sweden,Europe,SWE,2002,80.04,Gapminder
+Sweden,Europe,SWE,2002,79.8463414634146,World Bank
+Sweden,Europe,SWE,2007,80.884,Gapminder
+Sweden,Europe,SWE,2007,80.9,World Bank
+Swaziland,Africa,SWZ,1952,41.407,Gapminder
+Swaziland,Africa,SWZ,1957,43.424,Gapminder
+Swaziland,Africa,SWZ,1962,44.992,Gapminder
+Swaziland,Africa,SWZ,1962,47.145,World Bank
+Swaziland,Africa,SWZ,1967,46.633,Gapminder
+Swaziland,Africa,SWZ,1967,49.526,World Bank
+Swaziland,Africa,SWZ,1972,49.552,Gapminder
+Swaziland,Africa,SWZ,1972,52.352,World Bank
+Swaziland,Africa,SWZ,1977,52.537,Gapminder
+Swaziland,Africa,SWZ,1977,55.973,World Bank
+Swaziland,Africa,SWZ,1982,55.56100000000001,Gapminder
+Swaziland,Africa,SWZ,1982,59.467,World Bank
+Swaziland,Africa,SWZ,1987,57.678,Gapminder
+Swaziland,Africa,SWZ,1987,61.899,World Bank
+Swaziland,Africa,SWZ,1992,58.474,Gapminder
+Swaziland,Africa,SWZ,1992,59.284,World Bank
+Swaziland,Africa,SWZ,1997,54.289,Gapminder
+Swaziland,Africa,SWZ,1997,51.699,World Bank
+Swaziland,Africa,SWZ,2002,43.869,Gapminder
+Swaziland,Africa,SWZ,2002,45.38,World Bank
+Swaziland,Africa,SWZ,2007,39.613,Gapminder
+Swaziland,Africa,SWZ,2007,45.16,World Bank
+Syria,Asia,SYR,1952,45.883,Gapminder
+Syria,Asia,SYR,1957,48.284,Gapminder
+Syria,Asia,SYR,1962,50.305,Gapminder
+Syria,Asia,SYR,1962,54.569,World Bank
+Syria,Asia,SYR,1967,53.655,Gapminder
+Syria,Asia,SYR,1967,58.045,World Bank
+Syria,Asia,SYR,1972,57.29600000000001,Gapminder
+Syria,Asia,SYR,1972,61.969,World Bank
+Syria,Asia,SYR,1977,61.195,Gapminder
+Syria,Asia,SYR,1977,65.398,World Bank
+Syria,Asia,SYR,1982,64.59,Gapminder
+Syria,Asia,SYR,1982,60.839,World Bank
+Syria,Asia,SYR,1987,66.97399999999999,Gapminder
+Syria,Asia,SYR,1987,68.797,World Bank
+Syria,Asia,SYR,1992,69.249,Gapminder
+Syria,Asia,SYR,1992,70.243,World Bank
+Syria,Asia,SYR,1997,71.527,Gapminder
+Syria,Asia,SYR,1997,70.158,World Bank
+Syria,Asia,SYR,2002,73.053,Gapminder
+Syria,Asia,SYR,2002,71.742,World Bank
+Syria,Asia,SYR,2007,74.143,Gapminder
+Syria,Asia,SYR,2007,73.256,World Bank
+Chad,Africa,TCD,1952,38.092,Gapminder
+Chad,Africa,TCD,1957,39.881,Gapminder
+Chad,Africa,TCD,1962,41.716,Gapminder
+Chad,Africa,TCD,1962,39.608,World Bank
+Chad,Africa,TCD,1967,43.601000000000006,Gapminder
+Chad,Africa,TCD,1967,40.393,World Bank
+Chad,Africa,TCD,1972,45.569,Gapminder
+Chad,Africa,TCD,1972,41.922,World Bank
+Chad,Africa,TCD,1977,47.383,Gapminder
+Chad,Africa,TCD,1977,42.884,World Bank
+Chad,Africa,TCD,1982,49.517,Gapminder
+Chad,Africa,TCD,1982,43.91,World Bank
+Chad,Africa,TCD,1987,51.051,Gapminder
+Chad,Africa,TCD,1987,43.071,World Bank
+Chad,Africa,TCD,1992,51.724,Gapminder
+Chad,Africa,TCD,1992,46.777,World Bank
+Chad,Africa,TCD,1997,51.573,Gapminder
+Chad,Africa,TCD,1997,47.762,World Bank
+Chad,Africa,TCD,2002,50.525,Gapminder
+Chad,Africa,TCD,2002,48.36,World Bank
+Chad,Africa,TCD,2007,50.651,Gapminder
+Chad,Africa,TCD,2007,49.21,World Bank
+Togo,Africa,TGO,1952,38.596,Gapminder
+Togo,Africa,TGO,1957,41.208,Gapminder
+Togo,Africa,TGO,1962,43.922,Gapminder
+Togo,Africa,TGO,1962,44.001,World Bank
+Togo,Africa,TGO,1967,46.769,Gapminder
+Togo,Africa,TGO,1967,45.615,World Bank
+Togo,Africa,TGO,1972,49.75899999999999,Gapminder
+Togo,Africa,TGO,1972,47.692,World Bank
+Togo,Africa,TGO,1977,52.887,Gapminder
+Togo,Africa,TGO,1977,50.163,World Bank
+Togo,Africa,TGO,1982,55.471,Gapminder
+Togo,Africa,TGO,1982,53.273,World Bank
+Togo,Africa,TGO,1987,56.941,Gapminder
+Togo,Africa,TGO,1987,54.831,World Bank
+Togo,Africa,TGO,1992,58.06100000000001,Gapminder
+Togo,Africa,TGO,1992,54.084,World Bank
+Togo,Africa,TGO,1997,58.39,Gapminder
+Togo,Africa,TGO,1997,53.855,World Bank
+Togo,Africa,TGO,2002,57.56100000000001,Gapminder
+Togo,Africa,TGO,2002,55.044,World Bank
+Togo,Africa,TGO,2007,58.42,Gapminder
+Togo,Africa,TGO,2007,56.395,World Bank
+Thailand,Asia,THA,1952,50.848,Gapminder
+Thailand,Asia,THA,1957,53.63,Gapminder
+Thailand,Asia,THA,1962,56.06100000000001,Gapminder
+Thailand,Asia,THA,1962,51.444,World Bank
+Thailand,Asia,THA,1967,58.285,Gapminder
+Thailand,Asia,THA,1967,54.316,World Bank
+Thailand,Asia,THA,1972,60.405,Gapminder
+Thailand,Asia,THA,1972,57.746,World Bank
+Thailand,Asia,THA,1977,62.494,Gapminder
+Thailand,Asia,THA,1977,60.906,World Bank
+Thailand,Asia,THA,1982,64.597,Gapminder
+Thailand,Asia,THA,1982,63.603,World Bank
+Thailand,Asia,THA,1987,66.084,Gapminder
+Thailand,Asia,THA,1987,67.833,World Bank
+Thailand,Asia,THA,1992,67.298,Gapminder
+Thailand,Asia,THA,1992,69.353,World Bank
+Thailand,Asia,THA,1997,67.521,Gapminder
+Thailand,Asia,THA,1997,70.362,World Bank
+Thailand,Asia,THA,2002,68.564,Gapminder
+Thailand,Asia,THA,2002,71.775,World Bank
+Thailand,Asia,THA,2007,70.616,Gapminder
+Thailand,Asia,THA,2007,73.779,World Bank
+Trinidad and Tobago,Americas,TTO,1952,59.1,Gapminder
+Trinidad and Tobago,Americas,TTO,1957,61.8,Gapminder
+Trinidad and Tobago,Americas,TTO,1962,64.9,Gapminder
+Trinidad and Tobago,Americas,TTO,1962,63.429,World Bank
+Trinidad and Tobago,Americas,TTO,1967,65.4,Gapminder
+Trinidad and Tobago,Americas,TTO,1967,64.471,World Bank
+Trinidad and Tobago,Americas,TTO,1972,65.9,Gapminder
+Trinidad and Tobago,Americas,TTO,1972,65.183,World Bank
+Trinidad and Tobago,Americas,TTO,1977,68.3,Gapminder
+Trinidad and Tobago,Americas,TTO,1977,66.17,World Bank
+Trinidad and Tobago,Americas,TTO,1982,68.832,Gapminder
+Trinidad and Tobago,Americas,TTO,1982,66.382,World Bank
+Trinidad and Tobago,Americas,TTO,1987,69.582,Gapminder
+Trinidad and Tobago,Americas,TTO,1987,67.135,World Bank
+Trinidad and Tobago,Americas,TTO,1992,69.862,Gapminder
+Trinidad and Tobago,Americas,TTO,1992,67.78,World Bank
+Trinidad and Tobago,Americas,TTO,1997,69.465,Gapminder
+Trinidad and Tobago,Americas,TTO,1997,68.143,World Bank
+Trinidad and Tobago,Americas,TTO,2002,68.976,Gapminder
+Trinidad and Tobago,Americas,TTO,2002,69.232,World Bank
+Trinidad and Tobago,Americas,TTO,2007,69.819,Gapminder
+Trinidad and Tobago,Americas,TTO,2007,70.797,World Bank
+Tunisia,Africa,TUN,1952,44.6,Gapminder
+Tunisia,Africa,TUN,1957,47.1,Gapminder
+Tunisia,Africa,TUN,1962,49.57899999999999,Gapminder
+Tunisia,Africa,TUN,1962,45.562,World Bank
+Tunisia,Africa,TUN,1967,52.053,Gapminder
+Tunisia,Africa,TUN,1967,50.157,World Bank
+Tunisia,Africa,TUN,1972,55.602,Gapminder
+Tunisia,Africa,TUN,1972,56.095,World Bank
+Tunisia,Africa,TUN,1977,59.837,Gapminder
+Tunisia,Africa,TUN,1977,61.256,World Bank
+Tunisia,Africa,TUN,1982,64.048,Gapminder
+Tunisia,Africa,TUN,1982,65.01,World Bank
+Tunisia,Africa,TUN,1987,66.89399999999999,Gapminder
+Tunisia,Africa,TUN,1987,68.011,World Bank
+Tunisia,Africa,TUN,1992,70.001,Gapminder
+Tunisia,Africa,TUN,1992,69.684,World Bank
+Tunisia,Africa,TUN,1997,71.973,Gapminder
+Tunisia,Africa,TUN,1997,71.67,World Bank
+Tunisia,Africa,TUN,2002,73.042,Gapminder
+Tunisia,Africa,TUN,2002,73.07,World Bank
+Tunisia,Africa,TUN,2007,73.923,Gapminder
+Tunisia,Africa,TUN,2007,74.039,World Bank
+Turkey,Europe,TUR,1952,43.585,Gapminder
+Turkey,Europe,TUR,1957,48.07899999999999,Gapminder
+Turkey,Europe,TUR,1962,52.098,Gapminder
+Turkey,Europe,TUR,1962,52.347,World Bank
+Turkey,Europe,TUR,1967,54.33600000000001,Gapminder
+Turkey,Europe,TUR,1967,55.183,World Bank
+Turkey,Europe,TUR,1972,57.005,Gapminder
+Turkey,Europe,TUR,1972,57.971,World Bank
+Turkey,Europe,TUR,1977,59.507,Gapminder
+Turkey,Europe,TUR,1977,60.846,World Bank
+Turkey,Europe,TUR,1982,61.036,Gapminder
+Turkey,Europe,TUR,1982,63.74,World Bank
+Turkey,Europe,TUR,1987,63.108,Gapminder
+Turkey,Europe,TUR,1987,66.379,World Bank
+Turkey,Europe,TUR,1992,66.146,Gapminder
+Turkey,Europe,TUR,1992,68.603,World Bank
+Turkey,Europe,TUR,1997,68.835,Gapminder
+Turkey,Europe,TUR,1997,70.668,World Bank
+Turkey,Europe,TUR,2002,70.845,Gapminder
+Turkey,Europe,TUR,2002,72.605,World Bank
+Turkey,Europe,TUR,2007,71.777,Gapminder
+Turkey,Europe,TUR,2007,74.129,World Bank
+Taiwan,Asia,TWN,1952,58.5,Gapminder
+Taiwan,Asia,TWN,1957,62.4,Gapminder
+Taiwan,Asia,TWN,1962,65.2,Gapminder
+Taiwan,Asia,TWN,1967,67.5,Gapminder
+Taiwan,Asia,TWN,1972,69.39,Gapminder
+Taiwan,Asia,TWN,1977,70.59,Gapminder
+Taiwan,Asia,TWN,1982,72.16,Gapminder
+Taiwan,Asia,TWN,1987,73.4,Gapminder
+Taiwan,Asia,TWN,1992,74.26,Gapminder
+Taiwan,Asia,TWN,1997,75.25,Gapminder
+Taiwan,Asia,TWN,2002,76.99,Gapminder
+Taiwan,Asia,TWN,2007,78.4,Gapminder
+Tanzania,Africa,TZA,1952,41.215,Gapminder
+Tanzania,Africa,TZA,1957,42.974,Gapminder
+Tanzania,Africa,TZA,1962,44.246,Gapminder
+Tanzania,Africa,TZA,1962,43.215,World Bank
+Tanzania,Africa,TZA,1967,45.757,Gapminder
+Tanzania,Africa,TZA,1967,45.163,World Bank
+Tanzania,Africa,TZA,1972,47.62,Gapminder
+Tanzania,Africa,TZA,1972,47.436,World Bank
+Tanzania,Africa,TZA,1977,49.919,Gapminder
+Tanzania,Africa,TZA,1977,49.969,World Bank
+Tanzania,Africa,TZA,1982,50.608,Gapminder
+Tanzania,Africa,TZA,1982,51.99,World Bank
+Tanzania,Africa,TZA,1987,51.535,Gapminder
+Tanzania,Africa,TZA,1987,52.182,World Bank
+Tanzania,Africa,TZA,1992,50.44,Gapminder
+Tanzania,Africa,TZA,1992,51.432,World Bank
+Tanzania,Africa,TZA,1997,48.466,Gapminder
+Tanzania,Africa,TZA,1997,51.246,World Bank
+Tanzania,Africa,TZA,2002,49.651,Gapminder
+Tanzania,Africa,TZA,2002,54.94,World Bank
+Tanzania,Africa,TZA,2007,52.517,Gapminder
+Tanzania,Africa,TZA,2007,59.26,World Bank
+Uganda,Africa,UGA,1952,39.978,Gapminder
+Uganda,Africa,UGA,1957,42.57100000000001,Gapminder
+Uganda,Africa,UGA,1962,45.344,Gapminder
+Uganda,Africa,UGA,1962,46.821,World Bank
+Uganda,Africa,UGA,1967,48.051,Gapminder
+Uganda,Africa,UGA,1967,49.006,World Bank
+Uganda,Africa,UGA,1972,51.01600000000001,Gapminder
+Uganda,Africa,UGA,1972,47.162,World Bank
+Uganda,Africa,UGA,1977,50.35,Gapminder
+Uganda,Africa,UGA,1977,45.84,World Bank
+Uganda,Africa,UGA,1982,49.849,Gapminder
+Uganda,Africa,UGA,1982,43.309,World Bank
+Uganda,Africa,UGA,1987,51.50899999999999,Gapminder
+Uganda,Africa,UGA,1987,47.36,World Bank
+Uganda,Africa,UGA,1992,48.825,Gapminder
+Uganda,Africa,UGA,1992,47.671,World Bank
+Uganda,Africa,UGA,1997,44.578,Gapminder
+Uganda,Africa,UGA,1997,48.026,World Bank
+Uganda,Africa,UGA,2002,47.813,Gapminder
+Uganda,Africa,UGA,2002,51.443,World Bank
+Uganda,Africa,UGA,2007,51.542,Gapminder
+Uganda,Africa,UGA,2007,57.248,World Bank
+Uruguay,Americas,URY,1952,66.071,Gapminder
+Uruguay,Americas,URY,1957,67.044,Gapminder
+Uruguay,Americas,URY,1962,68.253,Gapminder
+Uruguay,Americas,URY,1962,67.911,World Bank
+Uruguay,Americas,URY,1967,68.468,Gapminder
+Uruguay,Americas,URY,1967,68.407,World Bank
+Uruguay,Americas,URY,1972,68.673,Gapminder
+Uruguay,Americas,URY,1972,69.169,World Bank
+Uruguay,Americas,URY,1977,69.48100000000001,Gapminder
+Uruguay,Americas,URY,1977,70.081,World Bank
+Uruguay,Americas,URY,1982,70.805,Gapminder
+Uruguay,Americas,URY,1982,71.528,World Bank
+Uruguay,Americas,URY,1987,71.918,Gapminder
+Uruguay,Americas,URY,1987,72.196,World Bank
+Uruguay,Americas,URY,1992,72.752,Gapminder
+Uruguay,Americas,URY,1992,73.185,World Bank
+Uruguay,Americas,URY,1997,74.223,Gapminder
+Uruguay,Americas,URY,1997,73.92,World Bank
+Uruguay,Americas,URY,2002,75.307,Gapminder
+Uruguay,Americas,URY,2002,74.979,World Bank
+Uruguay,Americas,URY,2007,76.384,Gapminder
+Uruguay,Americas,URY,2007,76.15,World Bank
+United States,Americas,USA,1952,68.44,Gapminder
+United States,Americas,USA,1957,69.49,Gapminder
+United States,Americas,USA,1962,70.21,Gapminder
+United States,Americas,USA,1962,70.119512195122,World Bank
+United States,Americas,USA,1967,70.76,Gapminder
+United States,Americas,USA,1967,70.5609756097561,World Bank
+United States,Americas,USA,1972,71.34,Gapminder
+United States,Americas,USA,1972,71.1560975609756,World Bank
+United States,Americas,USA,1977,73.38,Gapminder
+United States,Americas,USA,1977,73.2560975609756,World Bank
+United States,Americas,USA,1982,74.65,Gapminder
+United States,Americas,USA,1982,74.3609756097561,World Bank
+United States,Americas,USA,1987,75.02,Gapminder
+United States,Americas,USA,1987,74.7658536585366,World Bank
+United States,Americas,USA,1992,76.09,Gapminder
+United States,Americas,USA,1992,75.6170731707317,World Bank
+United States,Americas,USA,1997,76.81,Gapminder
+United States,Americas,USA,1997,76.4292682926829,World Bank
+United States,Americas,USA,2002,77.31,Gapminder
+United States,Americas,USA,2002,76.9365853658537,World Bank
+United States,Americas,USA,2007,78.242,Gapminder
+United States,Americas,USA,2007,77.9878048780488,World Bank
+Venezuela,Americas,VEN,1952,55.088,Gapminder
+Venezuela,Americas,VEN,1957,57.907,Gapminder
+Venezuela,Americas,VEN,1962,60.77,Gapminder
+Venezuela,Americas,VEN,1962,59.667,World Bank
+Venezuela,Americas,VEN,1967,63.479,Gapminder
+Venezuela,Americas,VEN,1967,63.55,World Bank
+Venezuela,Americas,VEN,1972,65.712,Gapminder
+Venezuela,Americas,VEN,1972,65.555,World Bank
+Venezuela,Americas,VEN,1977,67.456,Gapminder
+Venezuela,Americas,VEN,1977,67.726,World Bank
+Venezuela,Americas,VEN,1982,68.557,Gapminder
+Venezuela,Americas,VEN,1982,68.985,World Bank
+Venezuela,Americas,VEN,1987,70.19,Gapminder
+Venezuela,Americas,VEN,1987,70.673,World Bank
+Venezuela,Americas,VEN,1992,71.15,Gapminder
+Venezuela,Americas,VEN,1992,71.177,World Bank
+Venezuela,Americas,VEN,1997,72.146,Gapminder
+Venezuela,Americas,VEN,1997,72.56,World Bank
+Venezuela,Americas,VEN,2002,72.766,Gapminder
+Venezuela,Americas,VEN,2002,72.823,World Bank
+Venezuela,Americas,VEN,2007,73.747,Gapminder
+Venezuela,Americas,VEN,2007,73.348,World Bank
+Vietnam,Asia,VNM,1952,40.412,Gapminder
+Vietnam,Asia,VNM,1957,42.887,Gapminder
+Vietnam,Asia,VNM,1962,45.363,Gapminder
+Vietnam,Asia,VNM,1962,58.204,World Bank
+Vietnam,Asia,VNM,1967,47.838,Gapminder
+Vietnam,Asia,VNM,1967,56.745,World Bank
+Vietnam,Asia,VNM,1972,50.254,Gapminder
+Vietnam,Asia,VNM,1972,51.913,World Bank
+Vietnam,Asia,VNM,1977,55.764,Gapminder
+Vietnam,Asia,VNM,1977,64.07,World Bank
+Vietnam,Asia,VNM,1982,58.816,Gapminder
+Vietnam,Asia,VNM,1982,66.212,World Bank
+Vietnam,Asia,VNM,1987,62.82,Gapminder
+Vietnam,Asia,VNM,1987,68.005,World Bank
+Vietnam,Asia,VNM,1992,67.66199999999999,Gapminder
+Vietnam,Asia,VNM,1992,69.62,World Bank
+Vietnam,Asia,VNM,1997,70.672,Gapminder
+Vietnam,Asia,VNM,1997,71.67,World Bank
+Vietnam,Asia,VNM,2002,73.017,Gapminder
+Vietnam,Asia,VNM,2002,73.138,World Bank
+Vietnam,Asia,VNM,2007,74.249,Gapminder
+Vietnam,Asia,VNM,2007,73.385,World Bank
+"Yemen, Rep.",Asia,YEM,1952,32.548,Gapminder
+"Yemen, Rep.",Asia,YEM,1957,33.97,Gapminder
+"Yemen, Rep.",Asia,YEM,1962,35.18,Gapminder
+"Yemen, Rep.",Asia,YEM,1962,33.669,World Bank
+"Yemen, Rep.",Asia,YEM,1967,36.984,Gapminder
+"Yemen, Rep.",Asia,YEM,1967,37.079,World Bank
+"Yemen, Rep.",Asia,YEM,1972,39.848,Gapminder
+"Yemen, Rep.",Asia,YEM,1972,42.688,World Bank
+"Yemen, Rep.",Asia,YEM,1977,44.175,Gapminder
+"Yemen, Rep.",Asia,YEM,1977,47.442,World Bank
+"Yemen, Rep.",Asia,YEM,1982,49.113,Gapminder
+"Yemen, Rep.",Asia,YEM,1982,52.367,World Bank
+"Yemen, Rep.",Asia,YEM,1987,52.922,Gapminder
+"Yemen, Rep.",Asia,YEM,1987,56.828,World Bank
+"Yemen, Rep.",Asia,YEM,1992,55.599,Gapminder
+"Yemen, Rep.",Asia,YEM,1992,59.26,World Bank
+"Yemen, Rep.",Asia,YEM,1997,58.02,Gapminder
+"Yemen, Rep.",Asia,YEM,1997,61.34,World Bank
+"Yemen, Rep.",Asia,YEM,2002,60.308,Gapminder
+"Yemen, Rep.",Asia,YEM,2002,63.807,World Bank
+"Yemen, Rep.",Asia,YEM,2007,62.698,Gapminder
+"Yemen, Rep.",Asia,YEM,2007,66.23,World Bank
+South Africa,Africa,ZAF,1952,45.00899999999999,Gapminder
+South Africa,Africa,ZAF,1957,47.985,Gapminder
+South Africa,Africa,ZAF,1962,49.951,Gapminder
+South Africa,Africa,ZAF,1962,53.566,World Bank
+South Africa,Africa,ZAF,1967,51.927,Gapminder
+South Africa,Africa,ZAF,1967,54.955,World Bank
+South Africa,Africa,ZAF,1972,53.69600000000001,Gapminder
+South Africa,Africa,ZAF,1972,56.377,World Bank
+South Africa,Africa,ZAF,1977,55.527,Gapminder
+South Africa,Africa,ZAF,1977,58.48,World Bank
+South Africa,Africa,ZAF,1982,58.161,Gapminder
+South Africa,Africa,ZAF,1982,60.936,World Bank
+South Africa,Africa,ZAF,1987,60.834,Gapminder
+South Africa,Africa,ZAF,1987,62.694,World Bank
+South Africa,Africa,ZAF,1992,61.88800000000001,Gapminder
+South Africa,Africa,ZAF,1992,62.839,World Bank
+South Africa,Africa,ZAF,1997,60.236,Gapminder
+South Africa,Africa,ZAF,1997,60.538,World Bank
+South Africa,Africa,ZAF,2002,53.365,Gapminder
+South Africa,Africa,ZAF,2002,55.58,World Bank
+South Africa,Africa,ZAF,2007,49.339,Gapminder
+South Africa,Africa,ZAF,2007,54.948,World Bank
+Zambia,Africa,ZMB,1952,42.038,Gapminder
+Zambia,Africa,ZMB,1957,44.077,Gapminder
+Zambia,Africa,ZMB,1962,46.023,Gapminder
+Zambia,Africa,ZMB,1962,51.331,World Bank
+Zambia,Africa,ZMB,1967,47.768,Gapminder
+Zambia,Africa,ZMB,1967,52.512,World Bank
+Zambia,Africa,ZMB,1972,50.107,Gapminder
+Zambia,Africa,ZMB,1972,54.375,World Bank
+Zambia,Africa,ZMB,1977,51.386,Gapminder
+Zambia,Africa,ZMB,1977,56.281,World Bank
+Zambia,Africa,ZMB,1982,51.82100000000001,Gapminder
+Zambia,Africa,ZMB,1982,54.361,World Bank
+Zambia,Africa,ZMB,1987,50.82100000000001,Gapminder
+Zambia,Africa,ZMB,1987,50.421,World Bank
+Zambia,Africa,ZMB,1992,46.1,Gapminder
+Zambia,Africa,ZMB,1992,46.968,World Bank
+Zambia,Africa,ZMB,1997,40.238,Gapminder
+Zambia,Africa,ZMB,1997,45.743,World Bank
+Zambia,Africa,ZMB,2002,39.19300000000001,Gapminder
+Zambia,Africa,ZMB,2002,48.461,World Bank
+Zambia,Africa,ZMB,2007,42.38399999999999,Gapminder
+Zambia,Africa,ZMB,2007,53.73,World Bank
+Zimbabwe,Africa,ZWE,1952,48.451,Gapminder
+Zimbabwe,Africa,ZWE,1957,50.469,Gapminder
+Zimbabwe,Africa,ZWE,1962,52.358,Gapminder
+Zimbabwe,Africa,ZWE,1962,54.453,World Bank
+Zimbabwe,Africa,ZWE,1967,53.995,Gapminder
+Zimbabwe,Africa,ZWE,1967,56.766,World Bank
+Zimbabwe,Africa,ZWE,1972,55.635,Gapminder
+Zimbabwe,Africa,ZWE,1972,58.175,World Bank
+Zimbabwe,Africa,ZWE,1977,57.674,Gapminder
+Zimbabwe,Africa,ZWE,1977,56.996,World Bank
+Zimbabwe,Africa,ZWE,1982,60.363,Gapminder
+Zimbabwe,Africa,ZWE,1982,59.859,World Bank
+Zimbabwe,Africa,ZWE,1987,62.351000000000006,Gapminder
+Zimbabwe,Africa,ZWE,1987,60.724,World Bank
+Zimbabwe,Africa,ZWE,1992,60.377,Gapminder
+Zimbabwe,Africa,ZWE,1992,55.602,World Bank
+Zimbabwe,Africa,ZWE,1997,46.809,Gapminder
+Zimbabwe,Africa,ZWE,1997,48.536,World Bank
+Zimbabwe,Africa,ZWE,2002,39.989,Gapminder
+Zimbabwe,Africa,ZWE,2002,45.938,World Bank
+Zimbabwe,Africa,ZWE,2007,43.487,Gapminder
+Zimbabwe,Africa,ZWE,2007,47.576,World Bank

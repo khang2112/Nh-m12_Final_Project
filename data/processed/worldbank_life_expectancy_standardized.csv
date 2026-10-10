@@ -1,0 +1,1401 @@
+iso_alpha,year,country_worldbank,life_expectancy,data_source
+AFG,1962,Afghanistan,33.757,World Bank
+AFG,1967,Afghanistan,36.042,World Bank
+AFG,1972,Afghanistan,38.423,World Bank
+AFG,1977,Afghanistan,41.082,World Bank
+AFG,1982,Afghanistan,36.058,World Bank
+AFG,1987,Afghanistan,38.831,World Bank
+AFG,1992,Afghanistan,46.569,World Bank
+AFG,1997,Afghanistan,53.212,World Bank
+AFG,2002,Afghanistan,56.225,World Bank
+AFG,2007,Afghanistan,58.956,World Bank
+AGO,1962,Angola,37.168,World Bank
+AGO,1967,Angola,38.616,World Bank
+AGO,1972,Angola,40.469,World Bank
+AGO,1977,Angola,41.215,World Bank
+AGO,1982,Angola,42.857,World Bank
+AGO,1987,Angola,40.786,World Bank
+AGO,1992,Angola,42.267,World Bank
+AGO,1997,Angola,46.688,World Bank
+AGO,2002,Angola,47.874,World Bank
+AGO,2007,Angola,54.2,World Bank
+ALB,1962,Albania,58.494,World Bank
+ALB,1967,Albania,62.976,World Bank
+ALB,1972,Albania,66.526,World Bank
+ALB,1977,Albania,68.992,World Bank
+ALB,1982,Albania,70.425,World Bank
+ALB,1987,Albania,71.981,World Bank
+ALB,1992,Albania,73.303,World Bank
+ALB,1997,Albania,73.383,World Bank
+ALB,2002,Albania,75.299,World Bank
+ALB,2007,Albania,77.691,World Bank
+ARG,1962,Argentina,64.618,World Bank
+ARG,1967,Argentina,65.467,World Bank
+ARG,1972,Argentina,65.953,World Bank
+ARG,1977,Argentina,67.595,World Bank
+ARG,1982,Argentina,68.973,World Bank
+ARG,1987,Argentina,70.699,World Bank
+ARG,1992,Argentina,72.096,World Bank
+ARG,1997,Argentina,73.407,World Bank
+ARG,2002,Argentina,74.312,World Bank
+ARG,2007,Argentina,74.783,World Bank
+AUS,1962,Australia,70.9424390243903,World Bank
+AUS,1967,Australia,70.8692682926829,World Bank
+AUS,1972,Australia,71.4575609756098,World Bank
+AUS,1977,Australia,73.3443902439024,World Bank
+AUS,1982,Australia,74.9048780487805,World Bank
+AUS,1987,Australia,76.1517073170732,World Bank
+AUS,1992,Australia,77.3780487804878,World Bank
+AUS,1997,Australia,78.4804878048781,World Bank
+AUS,2002,Australia,79.9365853658537,World Bank
+AUS,2007,Australia,81.2926829268293,World Bank
+AUT,1962,Austria,69.309512195122,World Bank
+AUT,1967,Austria,69.9178048780488,World Bank
+AUT,1972,Austria,70.4634146341463,World Bank
+AUT,1977,Austria,71.9146341463415,World Bank
+AUT,1982,Austria,72.9609756097561,World Bank
+AUT,1987,Austria,74.7682926829268,World Bank
+AUT,1992,Austria,75.8170731707317,World Bank
+AUT,1997,Austria,77.319512195122,World Bank
+AUT,2002,Austria,78.6780487804878,World Bank
+AUT,2007,Austria,80.1804878048781,World Bank
+BDI,1962,Burundi,43.492,World Bank
+BDI,1967,Burundi,43.332,World Bank
+BDI,1972,Burundi,25.777,World Bank
+BDI,1977,Burundi,43.97,World Bank
+BDI,1982,Burundi,47.012,World Bank
+BDI,1987,Burundi,47.066,World Bank
+BDI,1992,Burundi,44.469,World Bank
+BDI,1997,Burundi,45.721,World Bank
+BDI,2002,Burundi,49.924,World Bank
+BDI,2007,Burundi,54.832,World Bank
+BEL,1962,Belgium,70.219512195122,World Bank
+BEL,1967,Belgium,71.0129268292683,World Bank
+BEL,1972,Belgium,71.4051219512195,World Bank
+BEL,1977,Belgium,72.7739024390244,World Bank
+BEL,1982,Belgium,73.8880487804878,World Bank
+BEL,1987,Belgium,75.3658536585366,World Bank
+BEL,1992,Belgium,76.3512195121951,World Bank
+BEL,1997,Belgium,77.3707317073171,World Bank
+BEL,2002,Belgium,78.0756097560976,World Bank
+BEL,2007,Belgium,79.7829268292683,World Bank
+BEN,1962,Benin,39.643,World Bank
+BEN,1967,Benin,41.759,World Bank
+BEN,1972,Benin,43.928,World Bank
+BEN,1977,Benin,46.504,World Bank
+BEN,1982,Benin,48.493,World Bank
+BEN,1987,Benin,51.258,World Bank
+BEN,1992,Benin,54.137,World Bank
+BEN,1997,Benin,55.986,World Bank
+BEN,2002,Benin,56.851,World Bank
+BEN,2007,Benin,58.249,World Bank
+BFA,1962,Burkina Faso,36.753,World Bank
+BFA,1967,Burkina Faso,38.432,World Bank
+BFA,1972,Burkina Faso,40.399,World Bank
+BFA,1977,Burkina Faso,44.167,World Bank
+BFA,1982,Burkina Faso,47.633,World Bank
+BFA,1987,Burkina Faso,49.097,World Bank
+BFA,1992,Burkina Faso,49.378,World Bank
+BFA,1997,Burkina Faso,49.56,World Bank
+BFA,2002,Burkina Faso,51.447,World Bank
+BFA,2007,Burkina Faso,54.377,World Bank
+BGD,1962,Bangladesh,45.765,World Bank
+BGD,1967,Bangladesh,48.066,World Bank
+BGD,1972,Bangladesh,49.647,World Bank
+BGD,1977,Bangladesh,51.265,World Bank
+BGD,1982,Bangladesh,53.012,World Bank
+BGD,1987,Bangladesh,54.899,World Bank
+BGD,1992,Bangladesh,56.592,World Bank
+BGD,1997,Bangladesh,59.671,World Bank
+BGD,2002,Bangladesh,63.591,World Bank
+BGD,2007,Bangladesh,66.458,World Bank
+BGR,1962,Bulgaria,69.4919512195122,World Bank
+BGR,1967,Bulgaria,70.4139024390244,World Bank
+BGR,1972,Bulgaria,70.899512195122,World Bank
+BGR,1977,Bulgaria,70.8160975609756,World Bank
+BGR,1982,Bulgaria,71.1860975609756,World Bank
+BGR,1987,Bulgaria,71.5268292682927,World Bank
+BGR,1992,Bulgaria,71.4943902439024,World Bank
+BGR,1997,Bulgaria,70.3512195121951,World Bank
+BGR,2002,Bulgaria,71.8658536585366,World Bank
+BGR,2007,Bulgaria,72.6634146341463,World Bank
+BHR,1962,Bahrain,53.893,World Bank
+BHR,1967,Bahrain,61.036,World Bank
+BHR,1972,Bahrain,66.095,World Bank
+BHR,1977,Bahrain,69.383,World Bank
+BHR,1982,Bahrain,71.354,World Bank
+BHR,1987,Bahrain,72.377,World Bank
+BHR,1992,Bahrain,72.785,World Bank
+BHR,1997,Bahrain,73.872,World Bank
+BHR,2002,Bahrain,75.209,World Bank
+BHR,2007,Bahrain,76.952,World Bank
+BIH,1962,Bosnia and Herzegovina,60.122,World Bank
+BIH,1967,Bosnia and Herzegovina,63.734,World Bank
+BIH,1972,Bosnia and Herzegovina,65.682,World Bank
+BIH,1977,Bosnia and Herzegovina,68.779,World Bank
+BIH,1982,Bosnia and Herzegovina,70.076,World Bank
+BIH,1987,Bosnia and Herzegovina,70.876,World Bank
+BIH,1992,Bosnia and Herzegovina,51.967,World Bank
+BIH,1997,Bosnia and Herzegovina,73.895,World Bank
+BIH,2002,Bosnia and Herzegovina,75.994,World Bank
+BIH,2007,Bosnia and Herzegovina,76.162,World Bank
+BOL,1962,Bolivia,44.002,World Bank
+BOL,1967,Bolivia,45.904,World Bank
+BOL,1972,Bolivia,47.829,World Bank
+BOL,1977,Bolivia,50.387,World Bank
+BOL,1982,Bolivia,52.511,World Bank
+BOL,1987,Bolivia,54.901,World Bank
+BOL,1992,Bolivia,57.923,World Bank
+BOL,1997,Bolivia,60.745,World Bank
+BOL,2002,Bolivia,63.068,World Bank
+BOL,2007,Bolivia,64.939,World Bank
+BRA,1962,Brazil,54.017,World Bank
+BRA,1967,Brazil,56.016,World Bank
+BRA,1972,Brazil,58.255,World Bank
+BRA,1977,Brazil,60.461,World Bank
+BRA,1982,Brazil,62.708,World Bank
+BRA,1987,Brazil,64.785,World Bank
+BRA,1992,Brazil,66.539,World Bank
+BRA,1997,Brazil,68.505,World Bank
+BRA,2002,Brazil,70.396,World Bank
+BRA,2007,Brazil,72.73,World Bank
+BWA,1962,Botswana,52.313,World Bank
+BWA,1967,Botswana,54.859,World Bank
+BWA,1972,Botswana,57.669,World Bank
+BWA,1977,Botswana,60.867,World Bank
+BWA,1982,Botswana,63.382,World Bank
+BWA,1987,Botswana,62.837,World Bank
+BWA,1992,Botswana,58.19,World Bank
+BWA,1997,Botswana,53.594,World Bank
+BWA,2002,Botswana,52.373,World Bank
+BWA,2007,Botswana,56.735,World Bank
+CAF,1962,Central African Republic,40.562,World Bank
+CAF,1967,Central African Republic,43.379,World Bank
+CAF,1972,Central African Republic,46.332,World Bank
+CAF,1977,Central African Republic,48.778,World Bank
+CAF,1982,Central African Republic,50.213,World Bank
+CAF,1987,Central African Republic,50.371,World Bank
+CAF,1992,Central African Republic,49.213,World Bank
+CAF,1997,Central African Republic,47.284,World Bank
+CAF,2002,Central African Republic,46.84,World Bank
+CAF,2007,Central African Republic,49.327,World Bank
+CAN,1962,Canada,71.3670731707317,World Bank
+CAN,1967,Canada,72.2078048780488,World Bank
+CAN,1972,Canada,72.9339024390244,World Bank
+CAN,1977,Canada,74.2156097560976,World Bank
+CAN,1982,Canada,75.7251219512195,World Bank
+CAN,1987,Canada,76.7787804878049,World Bank
+CAN,1992,Canada,77.8380487804878,World Bank
+CAN,1997,Canada,78.4124390243903,World Bank
+CAN,2002,Canada,79.5307317073171,World Bank
+CAN,2007,Canada,80.5436585365854,World Bank
+CHE,1962,Switzerland,71.1960975609756,World Bank
+CHE,1967,Switzerland,72.6365853658537,World Bank
+CHE,1972,Switzerland,73.6443902439024,World Bank
+CHE,1977,Switzerland,75.2380487804878,World Bank
+CHE,1982,Switzerland,76.0339024390244,World Bank
+CHE,1987,Switzerland,77.1975609756098,World Bank
+CHE,1992,Switzerland,77.8060975609756,World Bank
+CHE,1997,Switzerland,79.079512195122,World Bank
+CHE,2002,Switzerland,80.3853658536585,World Bank
+CHE,2007,Switzerland,81.7414634146342,World Bank
+CHL,1962,Chile,57.811,World Bank
+CHL,1967,Chile,61.054,World Bank
+CHL,1972,Chile,63.717,World Bank
+CHL,1977,Chile,67.529,World Bank
+CHL,1982,Chile,70.291,World Bank
+CHL,1987,Chile,72.466,World Bank
+CHL,1992,Chile,74.367,World Bank
+CHL,1997,Chile,75.826,World Bank
+CHL,2002,Chile,77.84,World Bank
+CHL,2007,Chile,78.652,World Bank
+CHN,1962,China,50.959,World Bank
+CHN,1967,China,54.401,World Bank
+CHN,1972,China,58.579,World Bank
+CHN,1977,China,62.458,World Bank
+CHN,1982,China,65.249,World Bank
+CHN,1987,China,67.263,World Bank
+CHN,1992,China,69.059,World Bank
+CHN,1997,China,71.227,World Bank
+CHN,2002,China,73.034,World Bank
+CHN,2007,China,74.789,World Bank
+CIV,1962,Cote d'Ivoire,38.62,World Bank
+CIV,1967,Cote d'Ivoire,41.959,World Bank
+CIV,1972,Cote d'Ivoire,45.575,World Bank
+CIV,1977,Cote d'Ivoire,49.624,World Bank
+CIV,1982,Cote d'Ivoire,52.09,World Bank
+CIV,1987,Cote d'Ivoire,53.118,World Bank
+CIV,1992,Cote d'Ivoire,52.429,World Bank
+CIV,1997,Cote d'Ivoire,51.498,World Bank
+CIV,2002,Cote d'Ivoire,51.544,World Bank
+CIV,2007,Cote d'Ivoire,53.452,World Bank
+CMR,1962,Cameroon,42.599,World Bank
+CMR,1967,Cameroon,45.602,World Bank
+CMR,1972,Cameroon,49.12,World Bank
+CMR,1977,Cameroon,50.13,World Bank
+CMR,1982,Cameroon,51.801,World Bank
+CMR,1987,Cameroon,54.188,World Bank
+CMR,1992,Cameroon,54.053,World Bank
+CMR,1997,Cameroon,53.105,World Bank
+CMR,2002,Cameroon,53.922,World Bank
+CMR,2007,Cameroon,55.71,World Bank
+COD,1962,"Congo, Dem. Rep.",40.382,World Bank
+COD,1967,"Congo, Dem. Rep.",42.339,World Bank
+COD,1972,"Congo, Dem. Rep.",43.869,World Bank
+COD,1977,"Congo, Dem. Rep.",44.866,World Bank
+COD,1982,"Congo, Dem. Rep.",45.946,World Bank
+COD,1987,"Congo, Dem. Rep.",47.362,World Bank
+COD,1992,"Congo, Dem. Rep.",49.323,World Bank
+COD,1997,"Congo, Dem. Rep.",50.461,World Bank
+COD,2002,"Congo, Dem. Rep.",52.371,World Bank
+COD,2007,"Congo, Dem. Rep.",54.954,World Bank
+COG,1962,"Congo, Rep.",49.038,World Bank
+COG,1967,"Congo, Rep.",51.91,World Bank
+COG,1972,"Congo, Rep.",54.361,World Bank
+COG,1977,"Congo, Rep.",56.027,World Bank
+COG,1982,"Congo, Rep.",57.236,World Bank
+COG,1987,"Congo, Rep.",57.59,World Bank
+COG,1992,"Congo, Rep.",56.483,World Bank
+COG,1997,"Congo, Rep.",48.575,World Bank
+COG,2002,"Congo, Rep.",56.414,World Bank
+COG,2007,"Congo, Rep.",60.05,World Bank
+COL,1962,Colombia,57.737,World Bank
+COL,1967,Colombia,60.15,World Bank
+COL,1972,Colombia,62.53,World Bank
+COL,1977,Colombia,65.237,World Bank
+COL,1982,Colombia,67.861,World Bank
+COL,1987,Colombia,68.166,World Bank
+COL,1992,Colombia,68.764,World Bank
+COL,1997,Colombia,70.632,World Bank
+COL,2002,Colombia,71.537,World Bank
+COL,2007,Colombia,73.751,World Bank
+COM,1962,Comoros,41.534,World Bank
+COM,1967,Comoros,43.593,World Bank
+COM,1972,Comoros,46.463,World Bank
+COM,1977,Comoros,49.17,World Bank
+COM,1982,Comoros,51.75,World Bank
+COM,1987,Comoros,54.134,World Bank
+COM,1992,Comoros,56.576,World Bank
+COM,1997,Comoros,58.228,World Bank
+COM,2002,Comoros,59.723,World Bank
+COM,2007,Comoros,61.475,World Bank
+CRI,1962,Costa Rica,64.232,World Bank
+CRI,1967,Costa Rica,65.552,World Bank
+CRI,1972,Costa Rica,68.014,World Bank
+CRI,1977,Costa Rica,71.519,World Bank
+CRI,1982,Costa Rica,73.865,World Bank
+CRI,1987,Costa Rica,75.224,World Bank
+CRI,1992,Costa Rica,76.385,World Bank
+CRI,1997,Costa Rica,76.603,World Bank
+CRI,2002,Costa Rica,77.939,World Bank
+CRI,2007,Costa Rica,79.098,World Bank
+CUB,1962,Cuba,64.374,World Bank
+CUB,1967,Cuba,66.514,World Bank
+CUB,1972,Cuba,68.949,World Bank
+CUB,1977,Cuba,71.411,World Bank
+CUB,1982,Cuba,73.439,World Bank
+CUB,1987,Cuba,73.596,World Bank
+CUB,1992,Cuba,73.846,World Bank
+CUB,1997,Cuba,75.064,World Bank
+CUB,2002,Cuba,76.766,World Bank
+CUB,2007,Cuba,77.55,World Bank
+CZE,1962,Czechia,69.7868292682927,World Bank
+CZE,1967,Czechia,70.2641463414634,World Bank
+CZE,1972,Czechia,70.1765853658537,World Bank
+CZE,1977,Czechia,70.5734146341463,World Bank
+CZE,1982,Czechia,70.8078048780488,World Bank
+CZE,1987,Czechia,71.4456097560976,World Bank
+CZE,1992,Czechia,72.2717073170732,World Bank
+CZE,1997,Czechia,73.8248780487805,World Bank
+CZE,2002,Czechia,75.2219512195122,World Bank
+CZE,2007,Czechia,76.7243902439025,World Bank
+DEU,1962,Germany,69.7992195121951,World Bank
+DEU,1967,Germany,70.7317317073171,World Bank
+DEU,1972,Germany,70.9067073170732,World Bank
+DEU,1977,Germany,72.3073170731707,World Bank
+DEU,1982,Germany,73.3331463414634,World Bank
+DEU,1987,Germany,74.8070243902439,World Bank
+DEU,1992,Germany,75.819512195122,World Bank
+DEU,1997,Germany,77.0731707317073,World Bank
+DEU,2002,Germany,78.2292682926829,World Bank
+DEU,2007,Germany,79.5341463414634,World Bank
+DJI,1962,Djibouti,44.092,World Bank
+DJI,1967,Djibouti,46.103,World Bank
+DJI,1972,Djibouti,48.532,World Bank
+DJI,1977,Djibouti,50.755,World Bank
+DJI,1982,Djibouti,52.893,World Bank
+DJI,1987,Djibouti,54.832,World Bank
+DJI,1992,Djibouti,54.375,World Bank
+DJI,1997,Djibouti,56.207,World Bank
+DJI,2002,Djibouti,57.824,World Bank
+DJI,2007,Djibouti,59.362,World Bank
+DNK,1962,Denmark,72.319756097561,World Bank
+DNK,1967,Denmark,72.9221951219512,World Bank
+DNK,1972,Denmark,73.4390243902439,World Bank
+DNK,1977,Denmark,74.6324390243903,World Bank
+DNK,1982,Denmark,74.5512195121951,World Bank
+DNK,1987,Denmark,74.6912195121951,World Bank
+DNK,1992,Denmark,75.1941463414634,World Bank
+DNK,1997,Denmark,75.9451219512195,World Bank
+DNK,2002,Denmark,76.8951219512195,World Bank
+DNK,2007,Denmark,78.1951219512195,World Bank
+DOM,1962,Dominican Republic,53.199,World Bank
+DOM,1967,Dominican Republic,56.646,World Bank
+DOM,1972,Dominican Republic,59.661,World Bank
+DOM,1977,Dominican Republic,62.2,World Bank
+DOM,1982,Dominican Republic,64.198,World Bank
+DOM,1987,Dominican Republic,66.49,World Bank
+DOM,1992,Dominican Republic,68.525,World Bank
+DOM,1997,Dominican Republic,69.809,World Bank
+DOM,2002,Dominican Republic,70.719,World Bank
+DOM,2007,Dominican Republic,71.097,World Bank
+DZA,1962,Algeria,39.527,World Bank
+DZA,1967,Algeria,42.731,World Bank
+DZA,1972,Algeria,44.384,World Bank
+DZA,1977,Algeria,49.249,World Bank
+DZA,1982,Algeria,59.594,World Bank
+DZA,1987,Algeria,66.13,World Bank
+DZA,1992,Algeria,67.725,World Bank
+DZA,1997,Algeria,68.859,World Bank
+DZA,2002,Algeria,71.644,World Bank
+DZA,2007,Algeria,73.346,World Bank
+ECU,1962,Ecuador,54.681,World Bank
+ECU,1967,Ecuador,57.482,World Bank
+ECU,1972,Ecuador,59.816,World Bank
+ECU,1977,Ecuador,61.935,World Bank
+ECU,1982,Ecuador,64.271,World Bank
+ECU,1987,Ecuador,66.587,World Bank
+ECU,1992,Ecuador,69.468,World Bank
+ECU,1997,Ecuador,72.007,World Bank
+ECU,2002,Ecuador,73.164,World Bank
+ECU,2007,Ecuador,74.226,World Bank
+EGY,1962,"Egypt, Arab Rep.",45.844,World Bank
+EGY,1967,"Egypt, Arab Rep.",48.13,World Bank
+EGY,1972,"Egypt, Arab Rep.",49.908,World Bank
+EGY,1977,"Egypt, Arab Rep.",53.272,World Bank
+EGY,1982,"Egypt, Arab Rep.",57.219,World Bank
+EGY,1987,"Egypt, Arab Rep.",60.736,World Bank
+EGY,1992,"Egypt, Arab Rep.",63.585,World Bank
+EGY,1997,"Egypt, Arab Rep.",66.207,World Bank
+EGY,2002,"Egypt, Arab Rep.",67.846,World Bank
+EGY,2007,"Egypt, Arab Rep.",68.627,World Bank
+ERI,1962,Eritrea,38.346,World Bank
+ERI,1967,Eritrea,40.151,World Bank
+ERI,1972,Eritrea,40.723,World Bank
+ERI,1977,Eritrea,42.984,World Bank
+ERI,1982,Eritrea,44.891,World Bank
+ERI,1987,Eritrea,47.363,World Bank
+ERI,1992,Eritrea,52.436,World Bank
+ERI,1997,Eritrea,56.155,World Bank
+ERI,2002,Eritrea,58.941,World Bank
+ERI,2007,Eritrea,61.998,World Bank
+ESP,1962,Spain,69.5190243902439,World Bank
+ESP,1967,Spain,71.2529268292683,World Bank
+ESP,1972,Spain,72.8180487804878,World Bank
+ESP,1977,Spain,74.1319512195122,World Bank
+ESP,1982,Spain,76.1341463414634,World Bank
+ESP,1987,Spain,76.7280487804878,World Bank
+ESP,1992,Spain,77.41,World Bank
+ESP,1997,Spain,78.6041463414634,World Bank
+ESP,2002,Spain,79.5682926829268,World Bank
+ESP,2007,Spain,80.8731707317073,World Bank
+ETH,1962,Ethiopia,40.531,World Bank
+ETH,1967,Ethiopia,41.941,World Bank
+ETH,1972,Ethiopia,41.035,World Bank
+ETH,1977,Ethiopia,41.397,World Bank
+ETH,1982,Ethiopia,43.434,World Bank
+ETH,1987,Ethiopia,45.892,World Bank
+ETH,1992,Ethiopia,47.279,World Bank
+ETH,1997,Ethiopia,49.21,World Bank
+ETH,2002,Ethiopia,52.085,World Bank
+ETH,2007,Ethiopia,56.566,World Bank
+FIN,1962,Finland,68.5778048780488,World Bank
+FIN,1967,Finland,69.6665853658537,World Bank
+FIN,1972,Finland,70.7073170731707,World Bank
+FIN,1977,Finland,72.350243902439,World Bank
+FIN,1982,Finland,74.2980487804878,World Bank
+FIN,1987,Finland,74.5919512195122,World Bank
+FIN,1992,Finland,75.4553658536585,World Bank
+FIN,1997,Finland,76.8785365853659,World Bank
+FIN,2002,Finland,78.119512195122,World Bank
+FIN,2007,Finland,79.2634146341464,World Bank
+FRA,1962,France,70.3146341463415,World Bank
+FRA,1967,France,71.1609756097561,World Bank
+FRA,1972,France,72.1073170731707,World Bank
+FRA,1977,France,73.3512195121951,World Bank
+FRA,1982,France,74.5,World Bank
+FRA,1987,France,75.8,World Bank
+FRA,1992,France,77.1,World Bank
+FRA,1997,France,78.3048780487805,World Bank
+FRA,2002,France,79.2609756097561,World Bank
+FRA,2007,France,81.1121951219512,World Bank
+GAB,1962,Gabon,47.777,World Bank
+GAB,1967,Gabon,50.928,World Bank
+GAB,1972,Gabon,53.811,World Bank
+GAB,1977,Gabon,56.467,World Bank
+GAB,1982,Gabon,58.644,World Bank
+GAB,1987,Gabon,60.2,World Bank
+GAB,1992,Gabon,61.013,World Bank
+GAB,1997,Gabon,61.395,World Bank
+GAB,2002,Gabon,62.175,World Bank
+GAB,2007,Gabon,63.619,World Bank
+GBR,1962,United Kingdom,70.9268292682927,World Bank
+GBR,1967,United Kingdom,72.1243902439024,World Bank
+GBR,1972,United Kingdom,72.1243902439024,World Bank
+GBR,1977,United Kingdom,73.2243902439024,World Bank
+GBR,1982,United Kingdom,74.1780487804878,World Bank
+GBR,1987,United Kingdom,75.280487804878,World Bank
+GBR,1992,United Kingdom,76.4341463414634,World Bank
+GBR,1997,United Kingdom,77.2109756097561,World Bank
+GBR,2002,United Kingdom,78.1439024390244,World Bank
+GBR,2007,United Kingdom,79.4487804878049,World Bank
+GHA,1962,Ghana,47.335,World Bank
+GHA,1967,Ghana,47.734,World Bank
+GHA,1972,Ghana,48.274,World Bank
+GHA,1977,Ghana,50.079,World Bank
+GHA,1982,Ghana,51.425,World Bank
+GHA,1987,Ghana,53.818,World Bank
+GHA,1992,Ghana,56.055,World Bank
+GHA,1997,Ghana,57.241,World Bank
+GHA,2002,Ghana,58.709,World Bank
+GHA,2007,Ghana,60.282,World Bank
+GIN,1962,Guinea,36.997,World Bank
+GIN,1967,Guinea,38.224,World Bank
+GIN,1972,Guinea,39.683,World Bank
+GIN,1977,Guinea,41.409,World Bank
+GIN,1982,Guinea,43.863,World Bank
+GIN,1987,Guinea,46.107,World Bank
+GIN,1992,Guinea,48.266,World Bank
+GIN,1997,Guinea,51.113,World Bank
+GIN,2002,Guinea,53.2,World Bank
+GIN,2007,Guinea,55.233,World Bank
+GMB,1962,"Gambia, The",35.599,World Bank
+GMB,1967,"Gambia, The",38.063,World Bank
+GMB,1972,"Gambia, The",40.549,World Bank
+GMB,1977,"Gambia, The",43.366,World Bank
+GMB,1982,"Gambia, The",46.25,World Bank
+GMB,1987,"Gambia, The",49.392,World Bank
+GMB,1992,"Gambia, The",52.477,World Bank
+GMB,1997,"Gambia, The",55.225,World Bank
+GMB,2002,"Gambia, The",57.736,World Bank
+GMB,2007,"Gambia, The",60.001,World Bank
+GNB,1962,Guinea-Bissau,38.032,World Bank
+GNB,1967,Guinea-Bissau,36.344,World Bank
+GNB,1972,Guinea-Bissau,37.82,World Bank
+GNB,1977,Guinea-Bissau,42.578,World Bank
+GNB,1982,Guinea-Bissau,44.293,World Bank
+GNB,1987,Guinea-Bissau,45.844,World Bank
+GNB,1992,Guinea-Bissau,47.518,World Bank
+GNB,1997,Guinea-Bissau,48.033,World Bank
+GNB,2002,Guinea-Bissau,51.608,World Bank
+GNB,2007,Guinea-Bissau,54.87,World Bank
+GNQ,1962,Equatorial Guinea,43.275,World Bank
+GNQ,1967,Equatorial Guinea,44.595,World Bank
+GNQ,1972,Equatorial Guinea,44.441,World Bank
+GNQ,1977,Equatorial Guinea,42.008,World Bank
+GNQ,1982,Equatorial Guinea,49.666,World Bank
+GNQ,1987,Equatorial Guinea,50.99,World Bank
+GNQ,1992,Equatorial Guinea,51.579,World Bank
+GNQ,1997,Equatorial Guinea,52.365,World Bank
+GNQ,2002,Equatorial Guinea,54.324,World Bank
+GNQ,2007,Equatorial Guinea,56.857,World Bank
+GRC,1962,Greece,70.2246097560976,World Bank
+GRC,1967,Greece,71.307,World Bank
+GRC,1972,Greece,72.656243902439,World Bank
+GRC,1977,Greece,73.6803414634146,World Bank
+GRC,1982,Greece,75.2026829268293,World Bank
+GRC,1987,Greece,76.0558536585366,World Bank
+GRC,1992,Greece,77.3829268292683,World Bank
+GRC,1997,Greece,78.1365853658537,World Bank
+GRC,2002,Greece,78.6414634146341,World Bank
+GRC,2007,Greece,79.4390243902439,World Bank
+GTM,1962,Guatemala,46.492,World Bank
+GTM,1967,Guatemala,47.727,World Bank
+GTM,1972,Guatemala,51.817,World Bank
+GTM,1977,Guatemala,55.184,World Bank
+GTM,1982,Guatemala,48.863,World Bank
+GTM,1987,Guatemala,60.991,World Bank
+GTM,1992,Guatemala,61.992,World Bank
+GTM,1997,Guatemala,65.249,World Bank
+GTM,2002,Guatemala,67.835,World Bank
+GTM,2007,Guatemala,69.299,World Bank
+HKG,1962,"Hong Kong SAR, China",66.9104634146342,World Bank
+HKG,1967,"Hong Kong SAR, China",69.8278536585366,World Bank
+HKG,1972,"Hong Kong SAR, China",71.4509756097561,World Bank
+HKG,1977,"Hong Kong SAR, China",73.3492682926829,World Bank
+HKG,1982,"Hong Kong SAR, China",75.4385365853659,World Bank
+HKG,1987,"Hong Kong SAR, China",76.8978048780488,World Bank
+HKG,1992,"Hong Kong SAR, China",77.6734146341464,World Bank
+HKG,1997,"Hong Kong SAR, China",80.1121951219512,World Bank
+HKG,2002,"Hong Kong SAR, China",81.4521951219512,World Bank
+HKG,2007,"Hong Kong SAR, China",82.3668292682927,World Bank
+HND,1962,Honduras,48.647,World Bank
+HND,1967,Honduras,52.331,World Bank
+HND,1972,Honduras,55.689,World Bank
+HND,1977,Honduras,58.704,World Bank
+HND,1982,Honduras,61.688,World Bank
+HND,1987,Honduras,64.066,World Bank
+HND,1992,Honduras,65.908,World Bank
+HND,1997,Honduras,67.542,World Bank
+HND,2002,Honduras,68.714,World Bank
+HND,2007,Honduras,69.539,World Bank
+HRV,1962,Croatia,67.0652682926829,World Bank
+HRV,1967,Croatia,68.8450243902439,World Bank
+HRV,1972,Croatia,69.5739268292683,World Bank
+HRV,1977,Croatia,70.7443902439024,World Bank
+HRV,1982,Croatia,70.4826829268293,World Bank
+HRV,1987,Croatia,71.470243902439,World Bank
+HRV,1992,Croatia,71.2414634146342,World Bank
+HRV,1997,Croatia,72.4951219512195,World Bank
+HRV,2002,Croatia,74.7173170731707,World Bank
+HRV,2007,Croatia,75.7056097560976,World Bank
+HTI,1962,Haiti,44.196,World Bank
+HTI,1967,Haiti,46.135,World Bank
+HTI,1972,Haiti,47.884,World Bank
+HTI,1977,Haiti,49.226,World Bank
+HTI,1982,Haiti,50.626,World Bank
+HTI,1987,Haiti,52.245,World Bank
+HTI,1992,Haiti,54.041,World Bank
+HTI,1997,Haiti,56.675,World Bank
+HTI,2002,Haiti,59.041,World Bank
+HTI,2007,Haiti,61.09,World Bank
+HUN,1962,Hungary,67.8658536585366,World Bank
+HUN,1967,Hungary,69.4070731707317,World Bank
+HUN,1972,Hungary,69.6646341463415,World Bank
+HUN,1977,Hungary,69.8480487804878,World Bank
+HUN,1982,Hungary,69.3578048780488,World Bank
+HUN,1987,Hungary,69.6512195121951,World Bank
+HUN,1992,Hungary,69.1170731707317,World Bank
+HUN,1997,Hungary,70.7024390243902,World Bank
+HUN,2002,Hungary,72.3487804878049,World Bank
+HUN,2007,Hungary,73.1512195121951,World Bank
+IDN,1962,Indonesia,48.141,World Bank
+IDN,1967,Indonesia,51.309,World Bank
+IDN,1972,Indonesia,54.364,World Bank
+IDN,1977,Indonesia,57.09,World Bank
+IDN,1982,Indonesia,59.7,World Bank
+IDN,1987,Indonesia,62.087,World Bank
+IDN,1992,Indonesia,64.182,World Bank
+IDN,1997,Indonesia,65.774,World Bank
+IDN,2002,Indonesia,66.954,World Bank
+IDN,2007,Indonesia,67.914,World Bank
+IND,1962,India,46.133,World Bank
+IND,1967,India,46.184,World Bank
+IND,1972,India,49.213,World Bank
+IND,1977,India,51.822,World Bank
+IND,1982,India,54.735,World Bank
+IND,1987,India,57.291,World Bank
+IND,1992,India,59.445,World Bank
+IND,1997,India,61.439,World Bank
+IND,2002,India,63.649,World Bank
+IND,2007,India,65.803,World Bank
+IRL,1962,Ireland,69.9910487804878,World Bank
+IRL,1967,Ireland,71.2453658536585,World Bank
+IRL,1972,Ireland,71.021756097561,World Bank
+IRL,1977,Ireland,71.9973902439024,World Bank
+IRL,1982,Ireland,73.2090487804878,World Bank
+IRL,1987,Ireland,74.4319024390244,World Bank
+IRL,1992,Ireland,75.4150975609756,World Bank
+IRL,1997,Ireland,75.9853658536585,World Bank
+IRL,2002,Ireland,77.6341463414634,World Bank
+IRL,2007,Ireland,79.6414634146341,World Bank
+IRN,1962,"Iran, Islamic Rep.",43.769,World Bank
+IRN,1967,"Iran, Islamic Rep.",47.803,World Bank
+IRN,1972,"Iran, Islamic Rep.",51.729,World Bank
+IRN,1977,"Iran, Islamic Rep.",56.66,World Bank
+IRN,1982,"Iran, Islamic Rep.",57.633,World Bank
+IRN,1987,"Iran, Islamic Rep.",62.685,World Bank
+IRN,1992,"Iran, Islamic Rep.",66.653,World Bank
+IRN,1997,"Iran, Islamic Rep.",68.649,World Bank
+IRN,2002,"Iran, Islamic Rep.",71.112,World Bank
+IRN,2007,"Iran, Islamic Rep.",73.299,World Bank
+IRQ,1962,Iraq,53.482,World Bank
+IRQ,1967,Iraq,58.422,World Bank
+IRQ,1972,Iraq,61.816,World Bank
+IRQ,1977,Iraq,63.896,World Bank
+IRQ,1982,Iraq,58.977,World Bank
+IRQ,1987,Iraq,60.259,World Bank
+IRQ,1992,Iraq,65.344,World Bank
+IRQ,1997,Iraq,64.241,World Bank
+IRQ,2002,Iraq,65.724,World Bank
+IRQ,2007,Iraq,64.428,World Bank
+ISL,1962,Iceland,73.7219512195122,World Bank
+ISL,1967,Iceland,73.7831707317073,World Bank
+ISL,1972,Iceland,74.4558536585366,World Bank
+ISL,1977,Iceland,76.3736585365854,World Bank
+ISL,1982,Iceland,77.0378048780488,World Bank
+ISL,1987,Iceland,77.3390243902439,World Bank
+ISL,1992,Iceland,78.760243902439,World Bank
+ISL,1997,Iceland,78.8853658536585,World Bank
+ISL,2002,Iceland,80.5024390243903,World Bank
+ISL,2007,Iceland,81.4536585365854,World Bank
+ISR,1962,Israel,72.1121951219512,World Bank
+ISR,1967,Israel,71.509756097561,World Bank
+ISR,1972,Israel,71.0780487804878,World Bank
+ISR,1977,Israel,72.9585365853659,World Bank
+ISR,1982,Israel,74.109756097561,World Bank
+ISR,1987,Israel,75.2585365853659,World Bank
+ISR,1992,Israel,76.5048780487805,World Bank
+ISR,1997,Israel,78.0,World Bank
+ISR,2002,Israel,79.4512195121951,World Bank
+ISR,2007,Israel,80.5048780487805,World Bank
+ITA,1962,Italy,69.149756097561,World Bank
+ITA,1967,Italy,70.9565853658537,World Bank
+ITA,1972,Italy,72.0753658536586,World Bank
+ITA,1977,Italy,73.3646341463415,World Bank
+ITA,1982,Italy,74.8146341463415,World Bank
+ITA,1987,Italy,76.219512195122,World Bank
+ITA,1992,Italy,77.419512195122,World Bank
+ITA,1997,Italy,78.8243902439024,World Bank
+ITA,2002,Italy,80.2292682926829,World Bank
+ITA,2007,Italy,81.4341463414634,World Bank
+JAM,1962,Jamaica,64.619,World Bank
+JAM,1967,Jamaica,66.086,World Bank
+JAM,1972,Jamaica,67.304,World Bank
+JAM,1977,Jamaica,68.586,World Bank
+JAM,1982,Jamaica,69.253,World Bank
+JAM,1987,Jamaica,70.87,World Bank
+JAM,1992,Jamaica,71.816,World Bank
+JAM,1997,Jamaica,71.216,World Bank
+JAM,2002,Jamaica,71.478,World Bank
+JAM,2007,Jamaica,71.405,World Bank
+JOR,1962,Jordan,54.633,World Bank
+JOR,1967,Jordan,58.97,World Bank
+JOR,1972,Jordan,62.477,World Bank
+JOR,1977,Jordan,65.127,World Bank
+JOR,1982,Jordan,67.36,World Bank
+JOR,1987,Jordan,69.297,World Bank
+JOR,1992,Jordan,70.4,World Bank
+JOR,1997,Jordan,71.324,World Bank
+JOR,2002,Jordan,72.359,World Bank
+JOR,2007,Jordan,73.407,World Bank
+JPN,1962,Japan,68.6348780487805,World Bank
+JPN,1967,Japan,71.4660975609756,World Bank
+JPN,1972,Japan,73.1536585365854,World Bank
+JPN,1977,Japan,75.2558536585366,World Bank
+JPN,1982,Japan,76.8736585365854,World Bank
+JPN,1987,Japan,78.429512195122,World Bank
+JPN,1992,Japan,79.080243902439,World Bank
+JPN,1997,Japan,80.4241463414634,World Bank
+JPN,2002,Japan,81.6907317073171,World Bank
+JPN,2007,Japan,82.5070731707317,World Bank
+KEN,1962,Kenya,50.104,World Bank
+KEN,1967,Kenya,52.796,World Bank
+KEN,1972,Kenya,55.013,World Bank
+KEN,1977,Kenya,57.684,World Bank
+KEN,1982,Kenya,59.904,World Bank
+KEN,1987,Kenya,60.721,World Bank
+KEN,1992,Kenya,57.095,World Bank
+KEN,1997,Kenya,55.478,World Bank
+KEN,2002,Kenya,56.759,World Bank
+KEN,2007,Kenya,59.407,World Bank
+KHM,1962,Cambodia,43.079,World Bank
+KHM,1967,Cambodia,45.193,World Bank
+KHM,1972,Cambodia,38.909,World Bank
+KHM,1977,Cambodia,11.295,World Bank
+KHM,1982,Cambodia,48.755,World Bank
+KHM,1987,Cambodia,53.674,World Bank
+KHM,1992,Cambodia,55.747,World Bank
+KHM,1997,Cambodia,57.266,World Bank
+KHM,2002,Cambodia,61.395,World Bank
+KHM,2007,Cambodia,65.549,World Bank
+KOR,1962,"Korea, Rep.",55.0549512195122,World Bank
+KOR,1967,"Korea, Rep.",60.9287317073171,World Bank
+KOR,1972,"Korea, Rep.",63.009756097561,World Bank
+KOR,1977,"Korea, Rep.",64.9,World Bank
+KOR,1982,"Korea, Rep.",67.0951219512195,World Bank
+KOR,1987,"Korea, Rep.",69.9975609756098,World Bank
+KOR,1992,"Korea, Rep.",72.4975609756098,World Bank
+KOR,1997,"Korea, Rep.",74.6024390243903,World Bank
+KOR,2002,"Korea, Rep.",76.7658536585366,World Bank
+KOR,2007,"Korea, Rep.",79.119512195122,World Bank
+KWT,1962,Kuwait,61.259512195122,World Bank
+KWT,1967,Kuwait,66.031,World Bank
+KWT,1972,Kuwait,69.1198048780488,World Bank
+KWT,1977,Kuwait,70.4684146341463,World Bank
+KWT,1982,Kuwait,72.2716829268293,World Bank
+KWT,1987,Kuwait,74.5105365853659,World Bank
+KWT,1992,Kuwait,76.0023902439025,World Bank
+KWT,1997,Kuwait,75.9071463414634,World Bank
+KWT,2002,Kuwait,76.5316341463415,World Bank
+KWT,2007,Kuwait,77.0101707317073,World Bank
+LBN,1962,Lebanon,64.595,World Bank
+LBN,1967,Lebanon,65.677,World Bank
+LBN,1972,Lebanon,66.201,World Bank
+LBN,1977,Lebanon,60.331,World Bank
+LBN,1982,Lebanon,47.19,World Bank
+LBN,1987,Lebanon,62.539,World Bank
+LBN,1992,Lebanon,71.169,World Bank
+LBN,1997,Lebanon,72.94,World Bank
+LBN,2002,Lebanon,74.836,World Bank
+LBN,2007,Lebanon,76.732,World Bank
+LBR,1962,Liberia,38.167,World Bank
+LBR,1967,Liberia,39.262,World Bank
+LBR,1972,Liberia,41.199,World Bank
+LBR,1977,Liberia,43.22,World Bank
+LBR,1982,Liberia,44.447,World Bank
+LBR,1987,Liberia,44.267,World Bank
+LBR,1992,Liberia,43.566,World Bank
+LBR,1997,Liberia,48.302,World Bank
+LBR,2002,Liberia,54.061,World Bank
+LBR,2007,Liberia,58.147,World Bank
+LBY,1962,Libya,44.075,World Bank
+LBY,1967,Libya,52.462,World Bank
+LBY,1972,Libya,58.685,World Bank
+LBY,1977,Libya,63.129,World Bank
+LBY,1982,Libya,65.768,World Bank
+LBY,1987,Libya,68.258,World Bank
+LBY,1992,Libya,69.974,World Bank
+LBY,1997,Libya,70.72,World Bank
+LBY,2002,Libya,70.788,World Bank
+LBY,2007,Libya,71.788,World Bank
+LKA,1962,Sri Lanka,61.627,World Bank
+LKA,1967,Sri Lanka,63.556,World Bank
+LKA,1972,Sri Lanka,64.625,World Bank
+LKA,1977,Sri Lanka,66.391,World Bank
+LKA,1982,Sri Lanka,68.665,World Bank
+LKA,1987,Sri Lanka,69.009,World Bank
+LKA,1992,Sri Lanka,69.619,World Bank
+LKA,1997,Sri Lanka,69.934,World Bank
+LKA,2002,Sri Lanka,72.271,World Bank
+LKA,2007,Sri Lanka,72.983,World Bank
+LSO,1962,Lesotho,50.307,World Bank
+LSO,1967,Lesotho,50.513,World Bank
+LSO,1972,Lesotho,52.256,World Bank
+LSO,1977,Lesotho,54.526,World Bank
+LSO,1982,Lesotho,57.976,World Bank
+LSO,1987,Lesotho,59.557,World Bank
+LSO,1992,Lesotho,58.638,World Bank
+LSO,1997,Lesotho,53.733,World Bank
+LSO,2002,Lesotho,45.95,World Bank
+LSO,2007,Lesotho,43.66,World Bank
+MAR,1962,Morocco,44.226,World Bank
+MAR,1967,Morocco,47.099,World Bank
+MAR,1972,Morocco,49.706,World Bank
+MAR,1977,Morocco,52.791,World Bank
+MAR,1982,Morocco,56.869,World Bank
+MAR,1987,Morocco,60.62,World Bank
+MAR,1992,Morocco,63.388,World Bank
+MAR,1997,Morocco,65.616,World Bank
+MAR,2002,Morocco,67.582,World Bank
+MAR,2007,Morocco,69.62,World Bank
+MDG,1962,Madagascar,44.185,World Bank
+MDG,1967,Madagascar,46.457,World Bank
+MDG,1972,Madagascar,48.507,World Bank
+MDG,1977,Madagascar,49.945,World Bank
+MDG,1982,Madagascar,50.009,World Bank
+MDG,1987,Madagascar,51.098,World Bank
+MDG,1992,Madagascar,52.946,World Bank
+MDG,1997,Madagascar,56.127,World Bank
+MDG,2002,Madagascar,59.17,World Bank
+MDG,2007,Madagascar,61.533,World Bank
+MEX,1962,Mexico,55.057,World Bank
+MEX,1967,Mexico,57.959,World Bank
+MEX,1972,Mexico,60.051,World Bank
+MEX,1977,Mexico,62.988,World Bank
+MEX,1982,Mexico,65.256,World Bank
+MEX,1987,Mexico,67.904,World Bank
+MEX,1992,Mexico,69.663,World Bank
+MEX,1997,Mexico,71.472,World Bank
+MEX,2002,Mexico,73.106,World Bank
+MEX,2007,Mexico,73.796,World Bank
+MLI,1962,Mali,30.833,World Bank
+MLI,1967,Mali,32.197,World Bank
+MLI,1972,Mali,34.507,World Bank
+MLI,1977,Mali,37.986,World Bank
+MLI,1982,Mali,41.804,World Bank
+MLI,1987,Mali,45.228,World Bank
+MLI,1992,Mali,47.238,World Bank
+MLI,1997,Mali,49.086,World Bank
+MLI,2002,Mali,51.995,World Bank
+MLI,2007,Mali,54.756,World Bank
+MMR,1962,Myanmar,45.264,World Bank
+MMR,1967,Myanmar,48.86,World Bank
+MMR,1972,Myanmar,51.397,World Bank
+MMR,1977,Myanmar,53.266,World Bank
+MMR,1982,Myanmar,55.033,World Bank
+MMR,1987,Myanmar,56.353,World Bank
+MMR,1992,Myanmar,57.681,World Bank
+MMR,1997,Myanmar,59.523,World Bank
+MMR,2002,Myanmar,60.925,World Bank
+MMR,2007,Myanmar,62.367,World Bank
+MNE,1962,Montenegro,66.2178780487805,World Bank
+MNE,1967,Montenegro,69.0755609756098,World Bank
+MNE,1972,Montenegro,71.0364634146342,World Bank
+MNE,1977,Montenegro,71.6151219512195,World Bank
+MNE,1982,Montenegro,72.1014878048781,World Bank
+MNE,1987,Montenegro,72.9833414634146,World Bank
+MNE,1992,Montenegro,73.6216585365854,World Bank
+MNE,1997,Montenegro,73.3429756097561,World Bank
+MNE,2002,Montenegro,73.9652195121951,World Bank
+MNE,2007,Montenegro,74.3390243902439,World Bank
+MNG,1962,Mongolia,46.2474146341463,World Bank
+MNG,1967,Mongolia,50.09,World Bank
+MNG,1972,Mongolia,53.0728292682927,World Bank
+MNG,1977,Mongolia,54.7357804878049,World Bank
+MNG,1982,Mongolia,55.5940243902439,World Bank
+MNG,1987,Mongolia,57.0928536585366,World Bank
+MNG,1992,Mongolia,60.4307073170732,World Bank
+MNG,1997,Mongolia,61.414512195122,World Bank
+MNG,2002,Mongolia,63.540243902439,World Bank
+MNG,2007,Mongolia,66.5934146341464,World Bank
+MOZ,1962,Mozambique,41.761,World Bank
+MOZ,1967,Mozambique,41.953,World Bank
+MOZ,1972,Mozambique,42.523,World Bank
+MOZ,1977,Mozambique,43.924,World Bank
+MOZ,1982,Mozambique,41.677,World Bank
+MOZ,1987,Mozambique,41.002,World Bank
+MOZ,1992,Mozambique,45.095,World Bank
+MOZ,1997,Mozambique,47.8,World Bank
+MOZ,2002,Mozambique,50.879,World Bank
+MOZ,2007,Mozambique,53.255,World Bank
+MRT,1962,Mauritania,45.047,World Bank
+MRT,1967,Mauritania,48.893,World Bank
+MRT,1972,Mauritania,51.037,World Bank
+MRT,1977,Mauritania,51.998,World Bank
+MRT,1982,Mauritania,54.229,World Bank
+MRT,1987,Mauritania,56.964,World Bank
+MRT,1992,Mauritania,58.568,World Bank
+MRT,1997,Mauritania,59.417,World Bank
+MRT,2002,Mauritania,62.249,World Bank
+MRT,2007,Mauritania,64.885,World Bank
+MUS,1962,Mauritius,60.4433902439024,World Bank
+MUS,1967,Mauritius,61.7451707317073,World Bank
+MUS,1972,Mauritius,63.8733902439024,World Bank
+MUS,1977,Mauritius,65.1307317073171,World Bank
+MUS,1982,Mauritius,68.0819756097561,World Bank
+MUS,1987,Mauritius,69.2877073170732,World Bank
+MUS,1992,Mauritius,70.0585365853659,World Bank
+MUS,1997,Mauritius,70.4048780487805,World Bank
+MUS,2002,Mauritius,71.9658536585366,World Bank
+MUS,2007,Mauritius,72.5707317073171,World Bank
+MWI,1962,Malawi,35.449,World Bank
+MWI,1967,Malawi,35.941,World Bank
+MWI,1972,Malawi,37.608,World Bank
+MWI,1977,Malawi,41.979,World Bank
+MWI,1982,Malawi,44.84,World Bank
+MWI,1987,Malawi,43.902,World Bank
+MWI,1992,Malawi,43.636,World Bank
+MWI,1997,Malawi,44.2,World Bank
+MWI,2002,Malawi,48.176,World Bank
+MWI,2007,Malawi,54.687,World Bank
+MYS,1962,Malaysia,58.855,World Bank
+MYS,1967,Malaysia,62.044,World Bank
+MYS,1972,Malaysia,64.232,World Bank
+MYS,1977,Malaysia,66.72,World Bank
+MYS,1982,Malaysia,68.876,World Bank
+MYS,1987,Malaysia,70.351,World Bank
+MYS,1992,Malaysia,71.483,World Bank
+MYS,1997,Malaysia,72.296,World Bank
+MYS,2002,Malaysia,73.469,World Bank
+MYS,2007,Malaysia,74.961,World Bank
+NAM,1962,Namibia,49.972,World Bank
+NAM,1967,Namibia,52.933,World Bank
+NAM,1972,Namibia,55.845,World Bank
+NAM,1977,Namibia,58.586,World Bank
+NAM,1982,Namibia,57.335,World Bank
+NAM,1987,Namibia,59.123,World Bank
+NAM,1992,Namibia,60.16,World Bank
+NAM,1997,Namibia,55.844,World Bank
+NAM,2002,Namibia,51.988,World Bank
+NAM,2007,Namibia,54.026,World Bank
+NER,1962,Niger,36.319,World Bank
+NER,1967,Niger,36.243,World Bank
+NER,1972,Niger,35.813,World Bank
+NER,1977,Niger,37.689,World Bank
+NER,1982,Niger,39.844,World Bank
+NER,1987,Niger,40.468,World Bank
+NER,1992,Niger,43.064,World Bank
+NER,1997,Niger,47.097,World Bank
+NER,2002,Niger,50.645,World Bank
+NER,2007,Niger,55.063,World Bank
+NGA,1962,Nigeria,37.606,World Bank
+NGA,1967,Nigeria,37.497,World Bank
+NGA,1972,Nigeria,41.273,World Bank
+NGA,1977,Nigeria,44.847,World Bank
+NGA,1982,Nigeria,46.437,World Bank
+NGA,1987,Nigeria,45.89,World Bank
+NGA,1992,Nigeria,45.587,World Bank
+NGA,1997,Nigeria,45.96,World Bank
+NGA,2002,Nigeria,48.02,World Bank
+NGA,2007,Nigeria,50.381,World Bank
+NIC,1962,Nicaragua,47.981,World Bank
+NIC,1967,Nicaragua,52.348,World Bank
+NIC,1972,Nicaragua,47.957,World Bank
+NIC,1977,Nicaragua,56.126,World Bank
+NIC,1982,Nicaragua,58.685,World Bank
+NIC,1987,Nicaragua,57.329,World Bank
+NIC,1992,Nicaragua,63.672,World Bank
+NIC,1997,Nicaragua,65.523,World Bank
+NIC,2002,Nicaragua,67.95,World Bank
+NIC,2007,Nicaragua,71.197,World Bank
+NLD,1962,Netherlands,73.3239024390244,World Bank
+NLD,1967,Netherlands,73.8041463414634,World Bank
+NLD,1972,Netherlands,73.7270731707317,World Bank
+NLD,1977,Netherlands,75.2214634146342,World Bank
+NLD,1982,Netherlands,75.9885365853659,World Bank
+NLD,1987,Netherlands,76.7051219512195,World Bank
+NLD,1992,Netherlands,77.2170731707317,World Bank
+NLD,1997,Netherlands,77.7943902439024,World Bank
+NLD,2002,Netherlands,78.2926829268293,World Bank
+NLD,2007,Netherlands,80.0975609756098,World Bank
+NOR,1962,Norway,73.4480487804878,World Bank
+NOR,1967,Norway,74.0665853658537,World Bank
+NOR,1972,Norway,74.3446341463415,World Bank
+NOR,1977,Norway,75.3868292682927,World Bank
+NOR,1982,Norway,76.0109756097561,World Bank
+NOR,1987,Norway,76.0817073170732,World Bank
+NOR,1992,Norway,77.1843902439025,World Bank
+NOR,1997,Norway,78.1426829268293,World Bank
+NOR,2002,Norway,78.9878048780488,World Bank
+NOR,2007,Norway,80.3951219512195,World Bank
+NPL,1962,Nepal,39.333,World Bank
+NPL,1967,Nepal,41.71,World Bank
+NPL,1972,Nepal,44.068,World Bank
+NPL,1977,Nepal,46.628,World Bank
+NPL,1982,Nepal,49.181,World Bank
+NPL,1987,Nepal,52.382,World Bank
+NPL,1992,Nepal,56.686,World Bank
+NPL,1997,Nepal,60.823,World Bank
+NPL,2002,Nepal,63.507,World Bank
+NPL,2007,Nepal,66.169,World Bank
+NZL,1962,New Zealand,71.2317073170732,World Bank
+NZL,1967,New Zealand,71.4731707317073,World Bank
+NZL,1972,New Zealand,71.8292682926829,World Bank
+NZL,1977,New Zealand,72.1682926829268,World Bank
+NZL,1982,New Zealand,73.7243902439024,World Bank
+NZL,1987,New Zealand,74.1780487804878,World Bank
+NZL,1992,New Zealand,76.1243902439025,World Bank
+NZL,1997,New Zealand,77.3341463414634,World Bank
+NZL,2002,New Zealand,78.8463414634146,World Bank
+NZL,2007,New Zealand,80.1512195121951,World Bank
+OMN,1962,Oman,37.413,World Bank
+OMN,1967,Oman,43.177,World Bank
+OMN,1972,Oman,48.717,World Bank
+OMN,1977,Oman,55.524,World Bank
+OMN,1982,Oman,62.049,World Bank
+OMN,1987,Oman,66.979,World Bank
+OMN,1992,Oman,70.114,World Bank
+OMN,1997,Oman,72.463,World Bank
+OMN,2002,Oman,74.276,World Bank
+OMN,2007,Oman,75.596,World Bank
+PAK,1962,Pakistan,45.85,World Bank
+PAK,1967,Pakistan,50.763,World Bank
+PAK,1972,Pakistan,53.824,World Bank
+PAK,1977,Pakistan,55.482,World Bank
+PAK,1982,Pakistan,58.291,World Bank
+PAK,1987,Pakistan,59.222,World Bank
+PAK,1992,Pakistan,59.983,World Bank
+PAK,1997,Pakistan,60.623,World Bank
+PAK,2002,Pakistan,62.556,World Bank
+PAK,2007,Pakistan,63.807,World Bank
+PAN,1962,Panama,61.428,World Bank
+PAN,1967,Panama,62.887,World Bank
+PAN,1972,Panama,65.183,World Bank
+PAN,1977,Panama,68.252,World Bank
+PAN,1982,Panama,69.9,World Bank
+PAN,1987,Panama,70.811,World Bank
+PAN,1992,Panama,71.461,World Bank
+PAN,1997,Panama,72.541,World Bank
+PAN,2002,Panama,74.195,World Bank
+PAN,2007,Panama,75.675,World Bank
+PER,1962,Peru,51.532,World Bank
+PER,1967,Peru,54.893,World Bank
+PER,1972,Peru,56.989,World Bank
+PER,1977,Peru,58.895,World Bank
+PER,1982,Peru,60.559,World Bank
+PER,1987,Peru,62.544,World Bank
+PER,1992,Peru,65.031,World Bank
+PER,1997,Peru,68.324,World Bank
+PER,2002,Peru,70.815,World Bank
+PER,2007,Peru,72.746,World Bank
+PHL,1962,Philippines,59.755,World Bank
+PHL,1967,Philippines,60.804,World Bank
+PHL,1972,Philippines,60.911,World Bank
+PHL,1977,Philippines,61.431,World Bank
+PHL,1982,Philippines,62.175,World Bank
+PHL,1987,Philippines,63.299,World Bank
+PHL,1992,Philippines,65.353,World Bank
+PHL,1997,Philippines,66.994,World Bank
+PHL,2002,Philippines,67.886,World Bank
+PHL,2007,Philippines,68.549,World Bank
+POL,1962,Poland,67.4268292682927,World Bank
+POL,1967,Poland,69.4243902439024,World Bank
+POL,1972,Poland,70.6658536585366,World Bank
+POL,1977,Poland,70.4024390243902,World Bank
+POL,1982,Poland,71.1024390243903,World Bank
+POL,1987,Poland,70.8975609756098,World Bank
+POL,1992,Poland,71.090243902439,World Bank
+POL,1997,Poland,72.6463414634146,World Bank
+POL,2002,Poland,74.4975609756098,World Bank
+POL,2007,Poland,75.2439024390244,World Bank
+PRI,1962,Puerto Rico (US),68.863,World Bank
+PRI,1967,Puerto Rico (US),70.699,World Bank
+PRI,1972,Puerto Rico (US),70.813,World Bank
+PRI,1977,Puerto Rico (US),72.401,World Bank
+PRI,1982,Puerto Rico (US),72.949,World Bank
+PRI,1987,Puerto Rico (US),73.402,World Bank
+PRI,1992,Puerto Rico (US),73.387,World Bank
+PRI,1997,Puerto Rico (US),74.674,World Bank
+PRI,2002,Puerto Rico (US),76.819,World Bank
+PRI,2007,Puerto Rico (US),77.659,World Bank
+PRK,1962,"Korea, Dem. People's Rep.",56.998,World Bank
+PRK,1967,"Korea, Dem. People's Rep.",60.087,World Bank
+PRK,1972,"Korea, Dem. People's Rep.",63.254,World Bank
+PRK,1977,"Korea, Dem. People's Rep.",65.811,World Bank
+PRK,1982,"Korea, Dem. People's Rep.",68.09,World Bank
+PRK,1987,"Korea, Dem. People's Rep.",69.767,World Bank
+PRK,1992,"Korea, Dem. People's Rep.",71.009,World Bank
+PRK,1997,"Korea, Dem. People's Rep.",60.869,World Bank
+PRK,2002,"Korea, Dem. People's Rep.",60.877,World Bank
+PRK,2007,"Korea, Dem. People's Rep.",69.021,World Bank
+PRT,1962,Portugal,64.1810243902439,World Bank
+PRT,1967,Portugal,66.3340731707317,World Bank
+PRT,1972,Portugal,68.3243902439024,World Bank
+PRT,1977,Portugal,70.0121951219512,World Bank
+PRT,1982,Portugal,72.4146341463415,World Bank
+PRT,1987,Portugal,73.6658536585366,World Bank
+PRT,1992,Portugal,74.3121951219512,World Bank
+PRT,1997,Portugal,75.4121951219512,World Bank
+PRT,2002,Portugal,77.0658536585366,World Bank
+PRT,2007,Portugal,78.3219512195122,World Bank
+PRY,1962,Paraguay,60.816,World Bank
+PRY,1967,Paraguay,62.025,World Bank
+PRY,1972,Paraguay,62.89,World Bank
+PRY,1977,Paraguay,63.86,World Bank
+PRY,1982,Paraguay,65.076,World Bank
+PRY,1987,Paraguay,66.454,World Bank
+PRY,1992,Paraguay,67.961,World Bank
+PRY,1997,Paraguay,69.284,World Bank
+PRY,2002,Paraguay,70.539,World Bank
+PRY,2007,Paraguay,71.817,World Bank
+PSE,1962,West Bank and Gaza,,World Bank
+PSE,1967,West Bank and Gaza,,World Bank
+PSE,1972,West Bank and Gaza,,World Bank
+PSE,1977,West Bank and Gaza,,World Bank
+PSE,1982,West Bank and Gaza,,World Bank
+PSE,1987,West Bank and Gaza,,World Bank
+PSE,1992,West Bank and Gaza,68.478,World Bank
+PSE,1997,West Bank and Gaza,70.328,World Bank
+PSE,2002,West Bank and Gaza,70.88,World Bank
+PSE,2007,West Bank and Gaza,72.064,World Bank
+ROU,1962,Romania,65.2556585365854,World Bank
+ROU,1967,Romania,67.5159512195122,World Bank
+ROU,1972,Romania,68.470243902439,World Bank
+ROU,1977,Romania,69.7419512195122,World Bank
+ROU,1982,Romania,69.5317073170732,World Bank
+ROU,1987,Romania,69.2268292682927,World Bank
+ROU,1992,Romania,69.7843902439024,World Bank
+ROU,1997,Romania,69.0048780487805,World Bank
+ROU,2002,Romania,71.009756097561,World Bank
+ROU,2007,Romania,72.5658536585366,World Bank
+RWA,1962,Rwanda,47.802,World Bank
+RWA,1967,Rwanda,47.987,World Bank
+RWA,1972,Rwanda,46.343,World Bank
+RWA,1977,Rwanda,45.579,World Bank
+RWA,1982,Rwanda,50.188,World Bank
+RWA,1987,Rwanda,51.465,World Bank
+RWA,1992,Rwanda,44.397,World Bank
+RWA,1997,Rwanda,41.978,World Bank
+RWA,2002,Rwanda,51.262,World Bank
+RWA,2007,Rwanda,59.504,World Bank
+SAU,1962,Saudi Arabia,46.469,World Bank
+SAU,1967,Saudi Arabia,49.994,World Bank
+SAU,1972,Saudi Arabia,54.742,World Bank
+SAU,1977,Saudi Arabia,59.749,World Bank
+SAU,1982,Saudi Arabia,64.008,World Bank
+SAU,1987,Saudi Arabia,67.242,World Bank
+SAU,1992,Saudi Arabia,69.799,World Bank
+SAU,1997,Saudi Arabia,71.624,World Bank
+SAU,2002,Saudi Arabia,73.296,World Bank
+SAU,2007,Saudi Arabia,75.066,World Bank
+SDN,1962,Sudan,50.419,World Bank
+SDN,1967,Sudan,51.495,World Bank
+SDN,1972,Sudan,52.803,World Bank
+SDN,1977,Sudan,53.522,World Bank
+SDN,1982,Sudan,54.375,World Bank
+SDN,1987,Sudan,54.747,World Bank
+SDN,1992,Sudan,55.952,World Bank
+SDN,1997,Sudan,58.058,World Bank
+SDN,2002,Sudan,59.308,World Bank
+SDN,2007,Sudan,61.442,World Bank
+SEN,1962,Senegal,39.738,World Bank
+SEN,1967,Senegal,39.992,World Bank
+SEN,1972,Senegal,41.77,World Bank
+SEN,1977,Senegal,45.714,World Bank
+SEN,1982,Senegal,49.863,World Bank
+SEN,1987,Senegal,54.632,World Bank
+SEN,1992,Senegal,57.287,World Bank
+SEN,1997,Senegal,57.107,World Bank
+SEN,2002,Senegal,58.912,World Bank
+SEN,2007,Senegal,62.653,World Bank
+SGP,1962,Singapore,66.3726341463415,World Bank
+SGP,1967,Singapore,67.6523902439025,World Bank
+SGP,1972,Singapore,69.1635609756098,World Bank
+SGP,1977,Singapore,71.0261219512195,World Bank
+SGP,1982,Singapore,72.6878048780488,World Bank
+SGP,1987,Singapore,74.5487804878049,World Bank
+SGP,1992,Singapore,75.9463414634146,World Bank
+SGP,1997,Singapore,76.8975609756097,World Bank
+SGP,2002,Singapore,78.5512195121951,World Bank
+SGP,2007,Singapore,80.4414634146342,World Bank
+SLE,1962,Sierra Leone,34.155,World Bank
+SLE,1967,Sierra Leone,37.281,World Bank
+SLE,1972,Sierra Leone,39.505,World Bank
+SLE,1977,Sierra Leone,41.826,World Bank
+SLE,1982,Sierra Leone,43.302,World Bank
+SLE,1987,Sierra Leone,43.748,World Bank
+SLE,1992,Sierra Leone,43.451,World Bank
+SLE,1997,Sierra Leone,43.649,World Bank
+SLE,2002,Sierra Leone,46.174,World Bank
+SLE,2007,Sierra Leone,50.024,World Bank
+SLV,1962,El Salvador,49.001,World Bank
+SLV,1967,El Salvador,50.844,World Bank
+SLV,1972,El Salvador,51.956,World Bank
+SLV,1977,El Salvador,54.047,World Bank
+SLV,1982,El Salvador,53.342,World Bank
+SLV,1987,El Salvador,59.402,World Bank
+SLV,1992,El Salvador,62.944,World Bank
+SLV,1997,El Salvador,66.248,World Bank
+SLV,2002,El Salvador,68.526,World Bank
+SLV,2007,El Salvador,69.82,World Bank
+SOM,1962,"Somalia, Fed. Rep.",43.972,World Bank
+SOM,1967,"Somalia, Fed. Rep.",45.051,World Bank
+SOM,1972,"Somalia, Fed. Rep.",46.032,World Bank
+SOM,1977,"Somalia, Fed. Rep.",47.004,World Bank
+SOM,1982,"Somalia, Fed. Rep.",48.02,World Bank
+SOM,1987,"Somalia, Fed. Rep.",49.002,World Bank
+SOM,1992,"Somalia, Fed. Rep.",25.034,World Bank
+SOM,1997,"Somalia, Fed. Rep.",50.278,World Bank
+SOM,2002,"Somalia, Fed. Rep.",50.82,World Bank
+SOM,2007,"Somalia, Fed. Rep.",50.885,World Bank
+SRB,1962,Serbia,66.9230487804878,World Bank
+SRB,1967,Serbia,69.9707317073171,World Bank
+SRB,1972,Serbia,69.8716341463415,World Bank
+SRB,1977,Serbia,71.6648780487805,World Bank
+SRB,1982,Serbia,70.9744634146341,World Bank
+SRB,1987,Serbia,71.7754878048781,World Bank
+SRB,1992,Serbia,71.5688292682927,World Bank
+SRB,1997,Serbia,72.8280975609756,World Bank
+SRB,2002,Serbia,72.2853658536585,World Bank
+SRB,2007,Serbia,73.6317073170732,World Bank
+STP,1962,Sao Tome and Principe,46.843,World Bank
+STP,1967,Sao Tome and Principe,53.449,World Bank
+STP,1972,Sao Tome and Principe,57.448,World Bank
+STP,1977,Sao Tome and Principe,58.979,World Bank
+STP,1982,Sao Tome and Principe,59.533,World Bank
+STP,1987,Sao Tome and Principe,60.663,World Bank
+STP,1992,Sao Tome and Principe,60.706,World Bank
+STP,1997,Sao Tome and Principe,60.648,World Bank
+STP,2002,Sao Tome and Principe,61.826,World Bank
+STP,2007,Sao Tome and Principe,63.336,World Bank
+SVK,1962,Slovak Republic,70.2702926829268,World Bank
+SVK,1967,Slovak Republic,70.9255853658537,World Bank
+SVK,1972,Slovak Republic,70.2982195121951,World Bank
+SVK,1977,Slovak Republic,70.4231219512195,World Bank
+SVK,1982,Slovak Republic,70.6890243902439,World Bank
+SVK,1987,Slovak Republic,71.0887804878049,World Bank
+SVK,1992,Slovak Republic,71.7951219512195,World Bank
+SVK,1997,Slovak Republic,72.7048780487805,World Bank
+SVK,2002,Slovak Republic,73.6048780487805,World Bank
+SVK,2007,Slovak Republic,74.2073170731707,World Bank
+SVN,1962,Slovenia,68.9780487804878,World Bank
+SVN,1967,Slovenia,69.3658536585366,World Bank
+SVN,1972,Slovenia,69.0585365853659,World Bank
+SVN,1977,Slovenia,70.5560975609756,World Bank
+SVN,1982,Slovenia,71.0536585365854,World Bank
+SVN,1987,Slovenia,72.0024390243902,World Bank
+SVN,1992,Slovenia,73.3048780487805,World Bank
+SVN,1997,Slovenia,74.7073170731707,World Bank
+SVN,2002,Slovenia,76.0073170731707,World Bank
+SVN,2007,Slovenia,78.5609756097561,World Bank
+SWE,1962,Sweden,73.3504878048781,World Bank
+SWE,1967,Sweden,74.1224390243903,World Bank
+SWE,1972,Sweden,74.7180487804878,World Bank
+SWE,1977,Sweden,75.379756097561,World Bank
+SWE,1982,Sweden,76.3273170731707,World Bank
+SWE,1987,Sweden,77.0921951219512,World Bank
+SWE,1992,Sweden,77.9987804878049,World Bank
+SWE,1997,Sweden,79.1975609756098,World Bank
+SWE,2002,Sweden,79.8463414634146,World Bank
+SWE,2007,Sweden,80.9,World Bank
+SWZ,1962,Eswatini,47.145,World Bank
+SWZ,1967,Eswatini,49.526,World Bank
+SWZ,1972,Eswatini,52.352,World Bank
+SWZ,1977,Eswatini,55.973,World Bank
+SWZ,1982,Eswatini,59.467,World Bank
+SWZ,1987,Eswatini,61.899,World Bank
+SWZ,1992,Eswatini,59.284,World Bank
+SWZ,1997,Eswatini,51.699,World Bank
+SWZ,2002,Eswatini,45.38,World Bank
+SWZ,2007,Eswatini,45.16,World Bank
+SYR,1962,Syrian Arab Republic,54.569,World Bank
+SYR,1967,Syrian Arab Republic,58.045,World Bank
+SYR,1972,Syrian Arab Republic,61.969,World Bank
+SYR,1977,Syrian Arab Republic,65.398,World Bank
+SYR,1982,Syrian Arab Republic,60.839,World Bank
+SYR,1987,Syrian Arab Republic,68.797,World Bank
+SYR,1992,Syrian Arab Republic,70.243,World Bank
+SYR,1997,Syrian Arab Republic,70.158,World Bank
+SYR,2002,Syrian Arab Republic,71.742,World Bank
+SYR,2007,Syrian Arab Republic,73.256,World Bank
+TCD,1962,Chad,39.608,World Bank
+TCD,1967,Chad,40.393,World Bank
+TCD,1972,Chad,41.922,World Bank
+TCD,1977,Chad,42.884,World Bank
+TCD,1982,Chad,43.91,World Bank
+TCD,1987,Chad,43.071,World Bank
+TCD,1992,Chad,46.777,World Bank
+TCD,1997,Chad,47.762,World Bank
+TCD,2002,Chad,48.36,World Bank
+TCD,2007,Chad,49.21,World Bank
+TGO,1962,Togo,44.001,World Bank
+TGO,1967,Togo,45.615,World Bank
+TGO,1972,Togo,47.692,World Bank
+TGO,1977,Togo,50.163,World Bank
+TGO,1982,Togo,53.273,World Bank
+TGO,1987,Togo,54.831,World Bank
+TGO,1992,Togo,54.084,World Bank
+TGO,1997,Togo,53.855,World Bank
+TGO,2002,Togo,55.044,World Bank
+TGO,2007,Togo,56.395,World Bank
+THA,1962,Thailand,51.444,World Bank
+THA,1967,Thailand,54.316,World Bank
+THA,1972,Thailand,57.746,World Bank
+THA,1977,Thailand,60.906,World Bank
+THA,1982,Thailand,63.603,World Bank
+THA,1987,Thailand,67.833,World Bank
+THA,1992,Thailand,69.353,World Bank
+THA,1997,Thailand,70.362,World Bank
+THA,2002,Thailand,71.775,World Bank
+THA,2007,Thailand,73.779,World Bank
+TTO,1962,Trinidad and Tobago,63.429,World Bank
+TTO,1967,Trinidad and Tobago,64.471,World Bank
+TTO,1972,Trinidad and Tobago,65.183,World Bank
+TTO,1977,Trinidad and Tobago,66.17,World Bank
+TTO,1982,Trinidad and Tobago,66.382,World Bank
+TTO,1987,Trinidad and Tobago,67.135,World Bank
+TTO,1992,Trinidad and Tobago,67.78,World Bank
+TTO,1997,Trinidad and Tobago,68.143,World Bank
+TTO,2002,Trinidad and Tobago,69.232,World Bank
+TTO,2007,Trinidad and Tobago,70.797,World Bank
+TUN,1962,Tunisia,45.562,World Bank
+TUN,1967,Tunisia,50.157,World Bank
+TUN,1972,Tunisia,56.095,World Bank
+TUN,1977,Tunisia,61.256,World Bank
+TUN,1982,Tunisia,65.01,World Bank
+TUN,1987,Tunisia,68.011,World Bank
+TUN,1992,Tunisia,69.684,World Bank
+TUN,1997,Tunisia,71.67,World Bank
+TUN,2002,Tunisia,73.07,World Bank
+TUN,2007,Tunisia,74.039,World Bank
+TUR,1962,Turkiye,52.347,World Bank
+TUR,1967,Turkiye,55.183,World Bank
+TUR,1972,Turkiye,57.971,World Bank
+TUR,1977,Turkiye,60.846,World Bank
+TUR,1982,Turkiye,63.74,World Bank
+TUR,1987,Turkiye,66.379,World Bank
+TUR,1992,Turkiye,68.603,World Bank
+TUR,1997,Turkiye,70.668,World Bank
+TUR,2002,Turkiye,72.605,World Bank
+TUR,2007,Turkiye,74.129,World Bank
+TZA,1962,Tanzania,43.215,World Bank
+TZA,1967,Tanzania,45.163,World Bank
+TZA,1972,Tanzania,47.436,World Bank
+TZA,1977,Tanzania,49.969,World Bank
+TZA,1982,Tanzania,51.99,World Bank
+TZA,1987,Tanzania,52.182,World Bank
+TZA,1992,Tanzania,51.432,World Bank
+TZA,1997,Tanzania,51.246,World Bank
+TZA,2002,Tanzania,54.94,World Bank
+TZA,2007,Tanzania,59.26,World Bank
+UGA,1962,Uganda,46.821,World Bank
+UGA,1967,Uganda,49.006,World Bank
+UGA,1972,Uganda,47.162,World Bank
+UGA,1977,Uganda,45.84,World Bank
+UGA,1982,Uganda,43.309,World Bank
+UGA,1987,Uganda,47.36,World Bank
+UGA,1992,Uganda,47.671,World Bank
+UGA,1997,Uganda,48.026,World Bank
+UGA,2002,Uganda,51.443,World Bank
+UGA,2007,Uganda,57.248,World Bank
+URY,1962,Uruguay,67.911,World Bank
+URY,1967,Uruguay,68.407,World Bank
+URY,1972,Uruguay,69.169,World Bank
+URY,1977,Uruguay,70.081,World Bank
+URY,1982,Uruguay,71.528,World Bank
+URY,1987,Uruguay,72.196,World Bank
+URY,1992,Uruguay,73.185,World Bank
+URY,1997,Uruguay,73.92,World Bank
+URY,2002,Uruguay,74.979,World Bank
+URY,2007,Uruguay,76.15,World Bank
+USA,1962,United States,70.119512195122,World Bank
+USA,1967,United States,70.5609756097561,World Bank
+USA,1972,United States,71.1560975609756,World Bank
+USA,1977,United States,73.2560975609756,World Bank
+USA,1982,United States,74.3609756097561,World Bank
+USA,1987,United States,74.7658536585366,World Bank
+USA,1992,United States,75.6170731707317,World Bank
+USA,1997,United States,76.4292682926829,World Bank
+USA,2002,United States,76.9365853658537,World Bank
+USA,2007,United States,77.9878048780488,World Bank
+VEN,1962,"Venezuela, RB",59.667,World Bank
+VEN,1967,"Venezuela, RB",63.55,World Bank
+VEN,1972,"Venezuela, RB",65.555,World Bank
+VEN,1977,"Venezuela, RB",67.726,World Bank
+VEN,1982,"Venezuela, RB",68.985,World Bank
+VEN,1987,"Venezuela, RB",70.673,World Bank
+VEN,1992,"Venezuela, RB",71.177,World Bank
+VEN,1997,"Venezuela, RB",72.56,World Bank
+VEN,2002,"Venezuela, RB",72.823,World Bank
+VEN,2007,"Venezuela, RB",73.348,World Bank
+VNM,1962,Viet Nam,58.204,World Bank
+VNM,1967,Viet Nam,56.745,World Bank
+VNM,1972,Viet Nam,51.913,World Bank
+VNM,1977,Viet Nam,64.07,World Bank
+VNM,1982,Viet Nam,66.212,World Bank
+VNM,1987,Viet Nam,68.005,World Bank
+VNM,1992,Viet Nam,69.62,World Bank
+VNM,1997,Viet Nam,71.67,World Bank
+VNM,2002,Viet Nam,73.138,World Bank
+VNM,2007,Viet Nam,73.385,World Bank
+YEM,1962,"Yemen, Rep.",33.669,World Bank
+YEM,1967,"Yemen, Rep.",37.079,World Bank
+YEM,1972,"Yemen, Rep.",42.688,World Bank
+YEM,1977,"Yemen, Rep.",47.442,World Bank
+YEM,1982,"Yemen, Rep.",52.367,World Bank
+YEM,1987,"Yemen, Rep.",56.828,World Bank
+YEM,1992,"Yemen, Rep.",59.26,World Bank
+YEM,1997,"Yemen, Rep.",61.34,World Bank
+YEM,2002,"Yemen, Rep.",63.807,World Bank
+YEM,2007,"Yemen, Rep.",66.23,World Bank
+ZAF,1962,South Africa,53.566,World Bank
+ZAF,1967,South Africa,54.955,World Bank
+ZAF,1972,South Africa,56.377,World Bank
+ZAF,1977,South Africa,58.48,World Bank
+ZAF,1982,South Africa,60.936,World Bank
+ZAF,1987,South Africa,62.694,World Bank
+ZAF,1992,South Africa,62.839,World Bank
+ZAF,1997,South Africa,60.538,World Bank
+ZAF,2002,South Africa,55.58,World Bank
+ZAF,2007,South Africa,54.948,World Bank
+ZMB,1962,Zambia,51.331,World Bank
+ZMB,1967,Zambia,52.512,World Bank
+ZMB,1972,Zambia,54.375,World Bank
+ZMB,1977,Zambia,56.281,World Bank
+ZMB,1982,Zambia,54.361,World Bank
+ZMB,1987,Zambia,50.421,World Bank
+ZMB,1992,Zambia,46.968,World Bank
+ZMB,1997,Zambia,45.743,World Bank
+ZMB,2002,Zambia,48.461,World Bank
+ZMB,2007,Zambia,53.73,World Bank
+ZWE,1962,Zimbabwe,54.453,World Bank
+ZWE,1967,Zimbabwe,56.766,World Bank
+ZWE,1972,Zimbabwe,58.175,World Bank
+ZWE,1977,Zimbabwe,56.996,World Bank
+ZWE,1982,Zimbabwe,59.859,World Bank
+ZWE,1987,Zimbabwe,60.724,World Bank
+ZWE,1992,Zimbabwe,55.602,World Bank
+ZWE,1997,Zimbabwe,48.536,World Bank
+ZWE,2002,Zimbabwe,45.938,World Bank
+ZWE,2007,Zimbabwe,47.576,World Bank
