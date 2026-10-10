@@ -126,5 +126,4 @@ Do môi trường soạn bài không có truy cập internet/Ollama, hai bonus c
 - Học có giám sát dùng `train_test_split` trên **các quốc gia**, không tách từng hàng; `OneHotEncoder` & `StandardScaler` nằm trong `Pipeline` fit trên train.
 - Classification target là nhãn sinh từ tuổi thọ thật, nhưng `life_expectancy` bị **loại khỏi X**. Hai mô hình hồi quy/phân loại độc lập nên đầu ra có thể không hoàn toàn nhất quán quanh ngưỡng 70.
 - Source files `.py` có URL gốc ở comment đầu file; tất cả CSV gốc, model .joblib, SQLite và chart đã xuất.
-#   N h - m 1 2 _ F i n a l _ P r o j e c t  
- 
+#
