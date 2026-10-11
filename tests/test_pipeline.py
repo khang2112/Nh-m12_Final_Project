@@ -28,4 +28,37 @@ def test_outputs():
         assert len(pred)==1
     charts=list((ROOT/'charts').glob('*.png'));assert len(charts)>=16
     print('PASS: 1,704 rows; complete data; SQLite round-trip; model inference; 16 figures.')
-if __name__=='__main__':test_outputs()
+
+
+def test_multisource():
+    """Check the independent-source integration branch without double-counting country-years."""
+    dp=ROOT/'data/processed'
+    wb=pd.read_csv(dp/'worldbank_life_expectancy_standardized.csv')
+    merged=pd.read_csv(dp/'multisource_with_dynamic.csv')
+    clean=pd.read_csv(dp/'multisource_clean.csv')
+    assert len(wb)==1400, 'World Bank phải có 1400 dòng đã chuẩn hóa'
+    assert len(merged)==len(clean)==3104
+    assert clean.record_id.nunique()==1704
+    assert clean.data_source.value_counts().to_dict()=={'Gapminder':1704,'World Bank':1400}
+    assert clean.duplicated(['data_source','iso_alpha','year']).sum()==0
+    assert int(merged.life_expectancy.isna().sum())==6
+    assert int(clean.life_expectancy_imputed.sum())==6
+    assert clean.isna().sum().sum()==0
+    sim=['sim_health_index','sim_education_index','sim_trend_index','sim_policy_group']
+    assert not (clean.groupby('record_id')[sim].nunique(dropna=False)>1).any().any()
+    audit=pd.read_csv(ROOT/'reports/multisource_imputation_report.csv')
+    assert int(audit.missing_before.sum())==690 and int(audit.missing_after.sum())==0
+    assert (ROOT/'reports/worldbank_missing_value_audit.csv').exists()
+    status=json.loads((ROOT/'reports/chroma_status.json').read_text(encoding='utf-8'))
+    assert status.get('ingested') is True and status.get('count')==1704
+    assert status.get('dimensions')==7
+    assert (ROOT/'databases/chroma_db/chroma.sqlite3').exists()
+    ui=['01_UI_Du_doan_Asia.png','02_UI_Truc_quan_hoa.png',
+        '03_UI_Ket_qua_danh_gia.png','04_UI_Nguon_du_lieu.png',
+        '05_Stage1_ChromaDB_Success.png','06_Stage1_Multisource_Validation.png']
+    assert all((ROOT/'screenshots'/x).is_file() for x in ui), 'Thiếu ảnh minh chứng'
+    print('PASS MULTISOURCE: 3,104 source-rows; 1,704 unique country-years; 0 missing; ChromaDB and UI evidence.')
+
+if __name__=='__main__':
+    test_outputs()
+    test_multisource()

@@ -19,7 +19,11 @@ from pptx.enum.text import PP_ALIGN,MSO_AUTO_SIZE
 from pptx.enum.shapes import MSO_SHAPE
 
 ROOT=Path(__file__).resolve().parents[1]
-REP=ROOT/'reports';CH=ROOT/'charts';SL=ROOT/'slides'
+REP=ROOT/'reports';CH=ROOT/'charts';SL=ROOT/'slides';SL.mkdir(parents=True,exist_ok=True)
+STATUS=json.loads((REP/'chroma_status.json').read_text(encoding='utf-8'))
+assert STATUS.get('ingested') is True and STATUS.get('count') == 1704, 'Kiểm tra ChromaDB trước khi tạo tài liệu'
+MS=pd.read_csv(ROOT/'data/processed/multisource_clean.csv')
+assert len(MS)==3104 and MS.record_id.nunique()==1704
 R=json.loads((REP/'model_results.json').read_text());S=json.loads((REP/'eda_summary.json').read_text())
 REG=pd.read_csv(REP/'regression_benchmark.csv');CLF=pd.read_csv(REP/'classification_benchmark.csv')
 CLUSTER=pd.read_csv(REP/'cluster_summary.csv');OUT=pd.read_csv(REP/'iqr_outliers.csv')
@@ -90,9 +94,9 @@ def mk_doc():
         ('Môn học','Data Analyst AI'),('Tên nhóm','[BỔ SUNG TÊN NHÓM]'),
         ('Thành viên / MSSV','[BỔ SUNG HỌ TÊN – MSSV – PHÂN CÔNG]'),
         ('Hạn nộp','Thứ Hai, 12/10/2026 (theo thời điểm trao đổi)'),
-        ('Nguồn dữ liệu','Gapminder 1952–2007 (dữ liệu nghiên cứu lịch sử)'),
-        ('Ngôn ngữ / hệ công cụ','Python · pandas · scikit-learn · SQLite · Gradio · ChromaDB (mã tích hợp)')])
-    p(doc,'GHI CHÚ TRUNG THỰC: Tài liệu này phân biệt dữ liệu THỰC và MÔ PHỎNG. Hai feed dùng để concat là hai nhóm địa lý lấy từ một dataset gốc, chưa thỏa cách hiểu chặt chẽ “hai nguồn độc lập”. Trong môi trường biên soạn, SQLite và giao diện Gradio đã được thử; ChromaDB chưa thể cài/kiểm chứng, ảnh chụp browser thực chưa được thu vì trình duyệt bị chặn kết nối localhost. Xem mục hạn chế và hướng dẫn hoàn thiện.')
+        ('Nguồn dữ liệu','Gapminder 1952–2007; World Bank để đối chiếu hai nguồn'),
+        ('Ngôn ngữ / hệ công cụ','Python · pandas · scikit-learn · SQLite · Gradio · ChromaDB (đã kiểm chứng)')])
+    p(doc,'GHI CHÚ PHẠM VI: Gapminder cung cấp 1.704 quốc gia-năm để huấn luyện AI; dữ liệu World Bank bổ sung 1.400 dòng đối chiếu, tổng bảng theo nguồn là 3.104 dòng với 1.704 khóa quốc gia-năm duy nhất. Các trường sim_* là mô phỏng. SQLite, ChromaDB 1.704 vector và ảnh giao diện Gradio đã được kiểm chứng trên máy nhóm; bảng hai nguồn không dùng trực tiếp huấn luyện AI.')
     doc.add_page_break()
     heading(doc,'TÓM TẮT ĐIỀU HÀNH',1)
     p(doc,f'Dự án triển khai chuỗi xử lý từ nguồn dữ liệu Gapminder thực gồm {S["n_records"]:,} quan sát, {S["countries"]} quốc gia và 12 mốc thời gian từ {S["year_min"]} đến {S["year_max"]}. Nguồn có 8 thuộc tính nền. Nhóm trích dữ liệu thành hai feed địa lý ({1020} và {684} bản ghi), chuẩn hóa bằng pandas.concat, sinh dữ liệu động giả lập theo quốc gia–năm, sau đó nối ngang bằng left join để không mất dữ liệu thực.')
@@ -120,9 +124,13 @@ def mk_doc():
       ('Khóa record_id','slug(country) + year, đảm bảo duy nhất. Không chỉ dùng iso_alpha+year: dữ liệu Plotly có ISO KOR dùng cho hai nước Triều Tiên.'),
       ('pd.merge','Left join từ bảng THỰC sang bảng ĐỘNG trên record_id; validate=one_to_one, indicator=both.'),
       ('Giải thích LEFT JOIN','Bảng gốc là đối tượng chính: bảo toàn 100% quan sát thực ngay cả khi một số chỉ số mô phỏng bị thiếu; inner join có thể loại bỏ hồ sơ.')])
+    heading(doc,'1.3b. Đối chiếu dữ liệu đa nguồn World Bank + Gapminder',2)
+    p(doc,'World Bank SP.DYN.LE00.IN là nguồn thứ hai độc lập về nhà phát hành, cung cấp chỉ tiêu tuổi thọ. Nhóm đã chuẩn hóa mã ISO (bao gồm PRK/KOR), thời gian, tên cột và nguồn, nối dọc 1.704 bản ghi Gapminder với 1.400 bản ghi World Bank tạo 3.104 dòng theo nguồn, tương ứng 1.704 cặp quốc gia-năm duy nhất. Dùng left merge với thông tin GDP, dân số từ Gapminder và các biến động sim_*; giá trị giả lập được đánh dấu, không coi là phép đo World Bank.')
+    p(doc,'Bảng hai nguồn có 6 tuổi thọ thiếu ở West Bank and Gaza được điền bằng số Gapminder tương ứng và ghi nhãn Gapminder fallback; 690 ô mô phỏng thiếu được điền. Kết quả: 3.104 dòng, 0 giá trị thiếu, 0 trùng khóa (data_source,iso_alpha,year), 0 bất đồng biến sim_* trên cùng record_id. Bảng này dùng cho so sánh/kiểm toán dữ liệu, KHÔNG dùng trực tiếp huấn luyện Stage 2.')
+    table(doc,['Nguồn','Số dòng','Chú thích'],[['Gapminder',1704,'Dữ liệu GDP, dân số và tuổi thọ'],['World Bank',1400,'Tuổi thọ, cùng mốc lịch sử; có thể trùng quốc gia-năm'],['Bảng đối chiếu',3104,'1704 khóa quốc gia-năm duy nhất']])
     heading(doc,'1.4. Lưu trữ 2 loại cơ sở dữ liệu',2)
     p(doc,'Cơ sở dữ liệu 1 – SQLite: src/02_storage_clean_eda.py ghi bảng master_sparse và master_clean; src/03_model_stage2.py ghi master_with_clusters. Mỗi bước kiểm tra lại số dòng/khóa khi đọc từ SQLite. Tệp thật: databases/gapminder_project.sqlite.')
-    p(doc,'Cơ sở dữ liệu 2 – ChromaDB (Vector database): src/04_chromadb_vector.py tính vector PCA 7 chiều, upsert 1.704 bản ghi vào PersistentClient và kiểm chứng bằng query nearest-neighbor. Tuy nhiên phiên chạy hiện tại thiếu thư viện chromadb, nên CHƯA có cơ sở dữ liệu ChromaDB đã nạp và kiểm chứng. Lệnh cần chạy trên máy nhóm: pip install -r requirements.txt && python src/04_chromadb_vector.py; chỉ đánh dấu hoàn thành khi reports/chroma_status.json ghi ingested=true.')
+    p(doc,'Cơ sở dữ liệu 2 – ChromaDB: src/04_chromadb_vector.py đã tạo PersistentClient, nạp 1.704 vector PCA 7 chiều vào collection country_year_embeddings, chạy truy vấn tương đồng và ghi reports/chroma_status.json: ingested=true. Bằng chứng gồm databases/chroma_db và screenshots/05_Stage1_ChromaDB_Success.png.')
     heading(doc,'2. GIAI ĐOẠN 1 – CLEANING & EDA',1)
     heading(doc,'2.1. Missingness assessment và imputation',2)
     p(doc,'Mỗi trường được tính missing_count và missing_percent trước/sau. Không xóa hàng. sim_health_index và sim_education_index được gán median theo continent; sim_policy_group bằng Unknown; sim_trend_index theo thời gian trong từng country bằng ffill/bfill và median toàn cục dự phòng. Các trường thực và target được bảo toàn, không tự ý chỉnh.')
@@ -166,7 +174,15 @@ def mk_doc():
     picture(doc,'16_confusion_matrix.png','Hình 16. Confusion Matrix',f'{R["winning_classification"]} đạt Accuracy {R["best_classification"]["Accuracy"]:.3f}, F1 macro {R["best_classification"]["F1_macro"]:.3f}; ma trận: 222 TN, 30 FP, 15 FN, 81 TP. Cần xem cả lỗi FP/FN chứ không chỉ accuracy, vì các lớp không cân đối.')
     heading(doc,'3.6. Web UI (Gradio)',2)
     p(doc,'Giao diện trong ui/app.py có 4 tab: Dự đoán AI, Trực quan hóa, Kết quả đánh giá và Nguồn dữ liệu & Giới hạn. Nhập continent, year, population, gdp_per_capita cùng 4 biến sim_*, trả về dự đoán liên tục, lớp nhị phân, xác suất lớp và Cluster_Label; mô hình được đọc từ models/*.joblib. Ứng dụng Gradio đã được khởi chạy và kiểm tra HTTP 200 cùng hàm predict trong môi trường biên soạn.')
-    p(doc,'LƯU Ý ẢNH CHỤP: Không kèm screenshot trình duyệt thực trong phiên bản hiện tại do Chromium bị hạn chế truy cập localhost bởi môi trường chạy. Người nộp bắt buộc chạy python ui/app.py, mở http://127.0.0.1:7860, chụp tab Dự đoán (trước/sau bấm), Trực quan hóa và Benchmark, lưu vào screenshots/ và chèn vào bản báo cáo trước khi nộp. Không thay thế bằng hình giao diện giả.')
+    p(doc,'ẢNH GIAO DIỆN THỰC: Người dùng đã chạy Gradio trên máy Windows và lưu các ảnh thật trong screenshots/ gồm Dự đoán AI, Trực quan hóa, Kết quả đánh giá và Nguồn dữ liệu & Giới hạn. Các ảnh được chèn trực tiếp vào bản báo cáo này khi có sẵn.')
+
+    shots=ROOT/'screenshots'
+    for nm in ['01_UI_Du_doan_Asia.png','02_UI_Truc_quan_hoa.png','03_UI_Ket_qua_danh_gia.png','04_UI_Nguon_du_lieu.png']:
+        if (shots/nm).exists():
+            q=doc.add_paragraph();q.alignment=WD_ALIGN_PARAGRAPH.CENTER
+            q.add_run().add_picture(str(shots/nm),width=Inches(5.65))
+            cap=doc.add_paragraph('Minh chứng giao diện: '+nm,style='Caption');cap.alignment=WD_ALIGN_PARAGRAPH.CENTER
+
     heading(doc,'4. ĐỀ XUẤT DỰA TRÊN KẾT QUẢ',1)
     p(doc,'Khuyến nghị 1 – Hỗ trợ phân tích theo nhóm đặc trưng kinh tế: Cluster 0 có tuổi thọ trung bình khoảng 50,86 năm và GDP/người trung vị khoảng 1.368 USD (giá lịch sử); Cluster 1 tương ứng 69,85 năm và 9.867 USD. Nhóm chính sách giả định nên ưu tiên kiểm chứng dữ liệu thật của các hồ sơ có GDP/người thấp, thay vì gán nguyên nhân hay đề xuất can thiệp chính sách trực tiếp từ kết quả mô phỏng.')
     p(doc,'Khuyến nghị 2 – Dùng mô hình tuyến tính làm baseline có thể giải thích: LinearRegression thắng cây quyết định theo RMSE (6,17 so với 6,73 năm). Khi mở rộng, nên thử dữ liệu thực về học vấn, chăm sóc sức khỏe và hệ quy chiếu thời gian, đồng thời đánh giá sai số theo vùng trước khi công bố dự đoán.')
@@ -176,14 +192,14 @@ def mk_doc():
       ('Thu thập ≥300 bản ghi','Hoàn thành: 1.704 dữ liệu lịch sử','Nêu rõ nguồn và năm dữ liệu'),
       ('Hai nguồn độc lập','Mới có hai feed vùng từ một nguồn','Bổ sung dataset độc lập có thể chuẩn hóa chung hoặc xin chấp thuận cách chia danh mục'),
       ('SQLite','Đã ghi và truy vấn ngược','Chạy thử trong buổi demo'),
-      ('Cơ sở dữ liệu thứ hai ChromaDB','Có mã hoàn chỉnh, môi trường này chưa cài được','Cài chromadb và chạy script, kiểm tra ingested=true'),
-      ('Gradio UI','Đã chạy kiểm tra server và hàm dự đoán','Chụp screenshot browser thật để bổ sung vào báo cáo'),
+      ('Cơ sở dữ liệu thứ hai ChromaDB','Đã nạp thành công 1.704 vector PCA 7 chiều','Bằng chứng: chroma_status.json và ảnh Terminal'),
+      ('Gradio UI','Đã chạy và có ảnh browser thật','Ảnh trong screenshots/ đã được kiểm chứng'),
       ('Web crawl (+)','Có mã bonus, không có dữ liệu đã crawl','Chạy khi có internet; chỉ claim nếu có >=300 dòng thật'),
       ('Ollama text (+)','Có mã bonus, chưa chạy LLM','Cài Ollama + model, chạy, lưu CSV thực do model sinh'),
       ('Thông tin nhóm','Chưa có trong tin nhắn','Điền tên nhóm, thành viên, lớp, MSSV')])
     p(doc,'Phần mô hình chỉ áp dụng cho thống kê nghiên cứu lịch sử, không dự đoán 2026; quan hệ tương quan không được diễn giải là nhân quả; thêm mô phỏng làm hạn chế độ tin cậy của kết luận chính sách. Đánh giá theo quốc gia hạn chế leakage, song còn giới hạn bởi lựa chọn nhãn phân loại và tính đại diện vùng.')
     heading(doc,'6. CẤU TRÚC BÀI NỘP / TÁI LẬP',1)
-    p(doc,'Trình tự chạy: (1) python src/01_prepare_data.py; (2) python src/02_storage_clean_eda.py; (3) python src/03_model_stage2.py; (4) pip install -r requirements.txt rồi python src/04_chromadb_vector.py; (5) python ui/app.py. Kiểm thử: python tests/test_pipeline.py. Bộ ảnh charts/ gồm 16 đồ thị PNG; reports/ gồm bảng thống kê/metric/chẩn đoán. Cần điền thông tin nhóm và bổ sung screenshot thật.')
+    p(doc,'Trình tự chạy: (1) python src/01_prepare_data.py; (2) python src/02_storage_clean_eda.py; (3) python src/03_model_stage2.py; (4) pip install -r requirements.txt rồi python src/04_chromadb_vector.py; (5) python ui/app.py. Kiểm thử: python tests/test_pipeline.py. Bộ ảnh charts/ gồm 16 đồ thị PNG; reports/ gồm bảng thống kê/metric/chẩn đoán. Cần điền thông tin nhóm, kiểm tra bản nộp ngoài thư mục code.')
     heading(doc,'7. THAM KHẢO VÀ TRUY XUẤT',1)
     for x in [
       'Gapminder historical dataset, Plotly mirror: https://raw.githubusercontent.com/plotly/datasets/master/gapminderDataFiveYear.csv',
@@ -203,7 +219,7 @@ def mk_doc():
       ('Tại sao PCA dùng 7 components?','Đây là số lượng ít nhất giải thích ít nhất 90% phương sai và đạt 91,26%; phù hợp khoảng 85–95%.'),
       ('Tại sao chọn K=2?','So sánh K=2..8 bằng WCSS và Silhouette trong hai không gian; tổ hợp PCA K=2 có Silhouette tốt nhất 0,288.'),
       ('Tại sao chọn LinearRegression / LogisticRegression?','Đánh giá trên quốc gia giữ lại: LinearRegression RMSE nhỏ nhất; LogisticRegression F1 macro lớn nhất.'),
-      ('Nếu thầy/cô hỏi sao UI chưa có screenshot?','Mã Gradio đã chạy và hàm dự đoán kiểm tra xong. Thành viên cần chụp trực tiếp tại localhost và bổ sung trước nộp; không khẳng định có hình thực nếu chưa chụp.'),
+      ('Minh chứng UI và ChromaDB được lưu ở đâu?','Ảnh UI thật nằm trong screenshots/; ChromaDB có reports/chroma_status.json và ảnh Terminal. Các kết quả dự đoán chỉ mang tính minh họa.'),
     ]:
         q=doc.add_paragraph(); q.add_run('HỎI: '+question).bold=True
         p(doc,'TRẢ LỜI: '+answer)
@@ -273,10 +289,16 @@ def mk_slides():
     text(s,1.3,5.9,11,.6,'Data Analyst AI  •  [Tên nhóm / MSSV]  •  12.10.2026',14,PRGB(153,215,211))
     bulletslide(prs,'Rubric đã triển khai',[
       ('GĐ1 – Data','1.704 dòng THỰC; concat 2 feed địa lý; merge dữ liệu giả lập'),
-      ('GĐ1 – Storage','SQLite đã hoạt động; ChromaDB có script, cần chạy tại máy nhóm'),
+      ('GĐ1 – Storage','SQLite + ChromaDB đều có dữ liệu đã kiểm chứng'),
       ('GĐ1 – EDA','375 thiếu mô phỏng → 0; 10 biểu đồ + phân tích So What'),
       ('GĐ2 – ML','PCA + K-Means; 2 hồi quy; 2 phân loại; 16 đồ thị tổng'),
-      ('GĐ2 – UI','Gradio web app; cần chụp giao diện browser khi nộp')],sub='Bám sát 3 tài liệu yêu cầu được giao')
+      ('GĐ2 – UI','Gradio đã chạy; screenshots đã có trong thư mục project')],sub='Bám sát 3 tài liệu yêu cầu được giao')
+    bulletslide(prs,'Hai nguồn dữ liệu thực (Stage 1)',[
+      ('Gapminder','1.704 quan sát quốc gia-năm với dân số, GDP/người và tuổi thọ'),
+      ('World Bank','1.400 dòng tuổi thọ SP.DYN.LE00.IN được chuẩn hóa theo ISO/năm'),
+      ('pd.concat','3.104 dòng theo nguồn; 1.704 khóa quốc gia-năm duy nhất'),
+      ('pd.merge','Left join với dữ liệu động sim_*; xử lý 6 thiếu tuổi thọ + 690 ô mô phỏng'),
+      ('Giới hạn','Stage 2 vẫn học trên 1.704 dòng Gapminder, không nhân đôi các quan sát')])
     bulletslide(prs,'Bài toán & dữ liệu',[
       ('Regression','Dự đoán life_expectancy (năm) theo hồ sơ quốc gia-năm'),
       ('Classification','Nhãn ≥70 năm: target_high_life_expectancy (0/1)'),
@@ -304,15 +326,23 @@ def mk_slides():
       ('Dự đoán','Tuổi thọ (hồi quy), xác suất và nhãn (phân loại), Cluster_Label'),
       ('Trực quan','Scatter GDP/tuổi thọ, trend, PCA/K-Means charts'),
       ('Benchmark','RMSE/MSE/R²; F1/Precision/Recall; confusion matrix'),
-      ('Minh chứng','Code và HTTP 200 đã kiểm tra; screenshot browser cần chụp tại máy nhóm')])
+      ('Minh chứng','Đã có ảnh UI thật trong screenshots/ cho cả 4 tab')])
+    # UI screenshot from the real browser, not a mocked image.
+    shot=ROOT/'screenshots/01_UI_Du_doan_Asia.png'
+    if shot.exists():
+        s=headslide(prs,'Minh chứng chạy Gradio',sub='Dự đoán tuổi thọ, phân loại và K-Means – ảnh trình duyệt thật')
+        from PIL import Image
+        iw,ih=Image.open(shot).size
+        scale=min(11.6/iw,5.1/ih)
+        s.shapes.add_picture(str(shot),PInches((13.33-iw*scale)/2),PInches(1.80),width=PInches(iw*scale),height=PInches(ih*scale))
     bulletslide(prs,'3 khuyến nghị dựa trên dữ liệu',[
       ('Ưu tiên kiểm định dữ liệu','Cụm GDP thấp có tuổi thọ lịch sử thấp hơn; tìm nguồn độc lập trước quyết định thực tế'),
       ('Giữ baseline tuyến tính','RMSE 6,17 < 6,73; đánh giá sai số theo vùng, thời gian và bổ sung biến THỰC'),
       ('Trình bày xác suất','F1 macro 0,845; lớp mất cân bằng nên tránh chỉ báo cáo Accuracy')])
     bulletslide(prs,'Giới hạn & công việc cần hoàn tất',[
-      ('Nguồn','Hai feed không độc lập nhà phát hành; bổ sung nguồn thứ 2 nếu giảng viên yêu cầu chặt'),
-      ('Vector DB','Chạy ChromaDB trên máy có thể cài dependencies; kiểm chứng số bản ghi 1.704'),
-      ('Screenshots','Chạy Gradio trên trình duyệt máy nhóm; chụp ảnh màn hình thật và chèn báo cáo'),
+      ('Nguồn','Đã bổ sung World Bank để đối chiếu độc lập; nhánh AI vẫn dùng Gapminder'),
+      ('Vector DB','ChromaDB đã lưu 1.704 embedding; có status và ảnh Terminal'),
+      ('Screenshots','Ảnh giao diện thực có sẵn và đã chèn vào báo cáo sinh lại'),
       ('Extra credit','Web crawl/LLM code được cung cấp nhưng chưa chạy vì hạn chế mạng/mô hình'),
       ('Giới hạn khoa học','Dữ liệu 1952–2007; sim_* giả lập; không dùng làm dự báo năm 2026')])
     s=prs.slides.add_slide(prs.slide_layouts[6]);rect(s,0,0,13.33,7.5,DARK_P)

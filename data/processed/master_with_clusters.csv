@@ -827,18 +827,18 @@ Africa,Kenya,Feed_A_Africa_Asia,1341.9217210000004,KEN,404,59.285,25020539.0,199
 Africa,Kenya,Feed_A_Africa_Asia,1360.4850210000004,KEN,404,54.407,28263827.0,1997,Kenya_1997,71.18,60.58,56.64,Unknown,1,0,0
 Africa,Kenya,Feed_A_Africa_Asia,1287.514732,KEN,404,50.992,31386842.0,2002,Kenya_2002,59.79,77.84,67.59,Moderate simulated investment,1,0,0
 Africa,Kenya,Feed_A_Africa_Asia,1463.249282,KEN,404,54.11,35610177.0,2007,Kenya_2007,42.08,68.17,79.56,Lower simulated investment,1,0,0
-Asia,"Korea, Dem. Rep.",Feed_A_Africa_Asia,1088.277758,KOR,410,50.056,8865488.0,1952,Korea_Dem_Rep_1952,57.36,70.87,43.89,Moderate simulated investment,1,0,0
-Asia,"Korea, Dem. Rep.",Feed_A_Africa_Asia,1571.134655,KOR,410,54.081,9411381.0,1957,Korea_Dem_Rep_1957,48.37,53.92,70.57,Lower simulated investment,1,0,0
-Asia,"Korea, Dem. Rep.",Feed_A_Africa_Asia,1621.693598,KOR,410,56.65600000000001,10917494.0,1962,Korea_Dem_Rep_1962,50.77,90.35,55.93,Lower simulated investment,1,0,0
-Asia,"Korea, Dem. Rep.",Feed_A_Africa_Asia,2143.540609,KOR,410,59.942,12617009.0,1967,Korea_Dem_Rep_1967,71.67,65.48,72.79,Moderate simulated investment,1,0,0
-Asia,"Korea, Dem. Rep.",Feed_A_Africa_Asia,3701.621503,KOR,410,63.983,14781241.0,1972,Korea_Dem_Rep_1972,79.13,63.96,65.32,Higher simulated investment,1,0,0
-Asia,"Korea, Dem. Rep.",Feed_A_Africa_Asia,4106.301249,KOR,410,67.15899999999999,16325320.0,1977,Korea_Dem_Rep_1977,83.15,64.97,69.5,Higher simulated investment,1,0,1
-Asia,"Korea, Dem. Rep.",Feed_A_Africa_Asia,4106.525293,KOR,410,69.1,17647518.0,1982,Korea_Dem_Rep_1982,81.85,79.67,77.26,Higher simulated investment,1,0,1
-Asia,"Korea, Dem. Rep.",Feed_A_Africa_Asia,4106.492315,KOR,410,70.64699999999998,19067554.0,1987,Korea_Dem_Rep_1987,78.1,69.44,80.51,Higher simulated investment,1,1,1
-Asia,"Korea, Dem. Rep.",Feed_A_Africa_Asia,3726.063507,KOR,410,69.97800000000001,20711375.0,1992,Korea_Dem_Rep_1992,63.75,71.9,81.17,Moderate simulated investment,1,0,0
-Asia,"Korea, Dem. Rep.",Feed_A_Africa_Asia,1690.756814,KOR,410,67.727,21585105.0,1997,Korea_Dem_Rep_1997,54.62,61.49,60.81,Moderate simulated investment,1,0,0
-Asia,"Korea, Dem. Rep.",Feed_A_Africa_Asia,1646.758151,KOR,410,66.66199999999999,22215365.0,2002,Korea_Dem_Rep_2002,56.74,73.29,73.03,Moderate simulated investment,1,0,0
-Asia,"Korea, Dem. Rep.",Feed_A_Africa_Asia,1593.06548,KOR,410,67.297,23301725.0,2007,Korea_Dem_Rep_2007,71.67,66.33,72.09,Higher simulated investment,1,0,0
+Asia,"Korea, Dem. Rep.",Feed_A_Africa_Asia,1088.277758,PRK,408,50.056,8865488.0,1952,Korea_Dem_Rep_1952,57.36,70.87,43.89,Moderate simulated investment,1,0,0
+Asia,"Korea, Dem. Rep.",Feed_A_Africa_Asia,1571.134655,PRK,408,54.081,9411381.0,1957,Korea_Dem_Rep_1957,48.37,53.92,70.57,Lower simulated investment,1,0,0
+Asia,"Korea, Dem. Rep.",Feed_A_Africa_Asia,1621.693598,PRK,408,56.65600000000001,10917494.0,1962,Korea_Dem_Rep_1962,50.77,90.35,55.93,Lower simulated investment,1,0,0
+Asia,"Korea, Dem. Rep.",Feed_A_Africa_Asia,2143.540609,PRK,408,59.942,12617009.0,1967,Korea_Dem_Rep_1967,71.67,65.48,72.79,Moderate simulated investment,1,0,0
+Asia,"Korea, Dem. Rep.",Feed_A_Africa_Asia,3701.621503,PRK,408,63.983,14781241.0,1972,Korea_Dem_Rep_1972,79.13,63.96,65.32,Higher simulated investment,1,0,0
+Asia,"Korea, Dem. Rep.",Feed_A_Africa_Asia,4106.301249,PRK,408,67.15899999999999,16325320.0,1977,Korea_Dem_Rep_1977,83.15,64.97,69.5,Higher simulated investment,1,0,1
+Asia,"Korea, Dem. Rep.",Feed_A_Africa_Asia,4106.525293,PRK,408,69.1,17647518.0,1982,Korea_Dem_Rep_1982,81.85,79.67,77.26,Higher simulated investment,1,0,1
+Asia,"Korea, Dem. Rep.",Feed_A_Africa_Asia,4106.492315,PRK,408,70.64699999999998,19067554.0,1987,Korea_Dem_Rep_1987,78.1,69.44,80.51,Higher simulated investment,1,1,1
+Asia,"Korea, Dem. Rep.",Feed_A_Africa_Asia,3726.063507,PRK,408,69.97800000000001,20711375.0,1992,Korea_Dem_Rep_1992,63.75,71.9,81.17,Moderate simulated investment,1,0,0
+Asia,"Korea, Dem. Rep.",Feed_A_Africa_Asia,1690.756814,PRK,408,67.727,21585105.0,1997,Korea_Dem_Rep_1997,54.62,61.49,60.81,Moderate simulated investment,1,0,0
+Asia,"Korea, Dem. Rep.",Feed_A_Africa_Asia,1646.758151,PRK,408,66.66199999999999,22215365.0,2002,Korea_Dem_Rep_2002,56.74,73.29,73.03,Moderate simulated investment,1,0,0
+Asia,"Korea, Dem. Rep.",Feed_A_Africa_Asia,1593.06548,PRK,408,67.297,23301725.0,2007,Korea_Dem_Rep_2007,71.67,66.33,72.09,Higher simulated investment,1,0,0
 Asia,"Korea, Rep.",Feed_A_Africa_Asia,1030.592226,KOR,410,47.453,20947571.0,1952,Korea_Rep_1952,62.36,60.8,47.58,Moderate simulated investment,1,0,0
 Asia,"Korea, Rep.",Feed_A_Africa_Asia,1487.593537,KOR,410,52.681,22611552.0,1957,Korea_Rep_1957,49.46,56.9,46.27,Lower simulated investment,1,0,0
 Asia,"Korea, Rep.",Feed_A_Africa_Asia,1536.344387,KOR,410,55.292,26420307.0,1962,Korea_Rep_1962,56.99,69.03,64.62,Moderate simulated investment,1,0,0
